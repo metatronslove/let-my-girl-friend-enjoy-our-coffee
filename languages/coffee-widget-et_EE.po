@@ -1,0 +1,707 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Estonian <et_EE>\n"
+"Language: et-EE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Kohvi vidina armatuurlaud"
+
+msgid "Coffee Widget"
+msgstr "Kohvi vidin"
+
+msgid "Settings"
+msgstr "Seaded"
+
+msgid "Dashboard"
+msgstr "Kohvi armatuurlaud"
+
+msgid "Payment Methods"
+msgstr "Maksmisviisid"
+
+msgid "Help & Support"
+msgstr "Abi & Toetus"
+
+msgid "General"
+msgstr "Üldine"
+
+msgid "Button"
+msgstr "Nupp"
+
+msgid "Advanced"
+msgstr "Edasi"
+
+msgid "Proxy Scripts"
+msgstr "Proksi skriptid"
+
+msgid "Widget Settings"
+msgstr "Vidina seadistused"
+
+msgid "Widget Status"
+msgstr "Vidina olek"
+
+msgid "Widget active"
+msgstr "Vidin aktiivne"
+
+msgid "Button Color"
+msgstr "Nupu värv"
+
+msgid "Button Position"
+msgstr "Nupu positsioon"
+
+msgid "Left"
+msgstr "Vasak"
+
+msgid "Right"
+msgstr "Parem"
+
+msgid "Horizontal Margin (px)"
+msgstr "Horisontaalne marginaal (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Vertikaalne marginaal (px)"
+
+msgid "Button Message"
+msgstr "Nupu sõnum"
+
+msgid "Description"
+msgstr "Kirjeldus"
+
+msgid "Button Type"
+msgstr "Nupu tüüp"
+
+msgid "Emoji"
+msgstr "Emotikon"
+
+msgid "SVG Code"
+msgstr "SVG kood"
+
+msgid "PNG Image URL"
+msgstr "PNG pildi URL"
+
+msgid "Button Emoji"
+msgstr "Nupu emotikon"
+
+msgid "Custom CSS"
+msgstr "Kohandatud CSS"
+
+msgid "Custom JavaScript"
+msgstr "Kohandatud JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "Millist makseteenust peaksid valima?"
+
+msgid "Service"
+msgstr "Teenus"
+
+msgid "Fee"
+msgstr "Tasu"
+
+msgid "Where does crypto go?"
+msgstr "Kuhu krüptod lähevad?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress'i plugin"
+
+msgid "Best for"
+msgstr "Parim sobib"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 USA ettevõte?"
+
+msgid "Direct Crypto"
+msgstr "Otse krüpto"
+
+msgid "No fee"
+msgstr "Tasuta"
+
+msgid "Your wallet directly"
+msgstr "Oma rahakott otse"
+
+msgid "Built-in"
+msgstr "Sisseehitatud"
+
+msgid "Crypto-savvy users"
+msgstr "Krüptopõhised kasutajad"
+
+msgid "Anywhere"
+msgstr "Kusugul"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0,5% – 1%"
+
+msgid "API ready"
+msgstr "API valmis"
+
+msgid "Beginners, low fees"
+msgstr "Algajad, madalad tasud"
+
+msgid "Global (incl. Turkey)"
+msgstr "Globaalselt (sealhulgas Türgi)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Ametlik plugin"
+
+msgid "Good support"
+msgstr "Hea tugi"
+
+msgid "Global"
+msgstr "Globaalselt"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Ettevõtted, USA ettevõtted"
+
+msgid "US-friendly"
+msgstr "USA-sõbralik"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3,5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Kasutaja rahakott eespool"
+
+msgid "Widget ready"
+msgstr "Vidin valmis"
+
+msgid "Users with own wallets"
+msgstr "Kasutajad oma rahakottidega"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Ainult USA ettevõtted"
+
+msgid "❌ US ONLY"
+msgstr "❌ Ainult USA"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Muutuv"
+
+msgid "Asia markets"
+msgstr "Aasia turud"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Standardtasud"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal tasakaal"
+
+msgid "PayPal users"
+msgstr "PayPal kasutajad"
+
+msgid "Tip:"
+msgstr "Vihje:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Kui asute Ameerika Ühendriikide väljaspool, soovitame NOWPayments "
+"(madalaimad tasud, otse teie rahakotti). Kui asute Ameerika Ühendriikides, "
+"on ka Stripe Crypto valik. Saate aktiveerida mitu teenust ja lasta "
+"külastajatel valida!"
+
+msgid "Enabled Payment Methods"
+msgstr "Lubatud maksemeetodid"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Vali, millised maksevalikud teie vidinas kuvatakse. Külastajad saavad valida"
+" eelistatud meetodi."
+
+msgid "Show these methods"
+msgstr "Näita neid meetodeid"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Otsekrüpto (Rahakoti aadress)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Krediitkaart → Krüpto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Krediitkaart → Krüpto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Krediitkaart → Krüpto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Kasutaja ostab krüpto kõigepealt)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Krediitkaart)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Näita oma rahakoti aadressi, et kasutajad saaksid krüpto otse saata. Null "
+"tasu, kuid nõuab, et kasutajad oleksid juba krüpto omamas."
+
+msgid "Wallet Address"
+msgstr "Rahakoti aadress"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Sinu Quai, Ethereum, Bitcoin või muu rahakoti aadress."
+
+msgid "Network"
+msgstr "Võrk"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai võrk (Soovitatav - tasuta)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Parim algajatele & madalaimad tasud"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments võimaldab teil krediitkaardi makse otse oma krüptorahakotti "
+"vastu võtta. Pooled läheb otse teie rahakoti – mitte vahendaja."
+
+msgid "Fee:"
+msgstr "Tasu:"
+
+msgid "per transaction"
+msgstr "tehingu kohta"
+
+msgid "Payout:"
+msgstr "Maksmine:"
+
+msgid "Direct to your wallet"
+msgstr "Otse teie rahakotti"
+
+msgid "Setup:"
+msgstr "Seadistamine:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Loo tasuta konto → API võtmed → Kopeeri API võti"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API võti"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Kleebi oma API võti NOWPayments'i armatuurlalt."
+
+msgid "Great support, slightly higher fee"
+msgstr "Suurepärane tugi, natuke kõrgem tasu"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate on hästi tuntud krüptopõhine makseprotsessor koos ametliku "
+"WordPressi pluginaga."
+
+msgid "1% per transaction"
+msgstr "1% tehingu kohta"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Loo konto → API võtmed"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API võti"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Ettevõtte tase, US-sõbralik"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay on tuntud suurte ettevõtete poolt usaldatud. Sobib hästi USA-põhiste "
+"ettevõtete jaoks."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Ärikonto → API võtmed"
+
+msgid "BitPay API Key"
+msgstr "BitPay API võti"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Kasutajad ostavad esmalt krüptorahad, seejärel saadavad need teile"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay võimaldab kasutajatel osta krüptoraha krediitkaardiga otse NENDI "
+"rahakotti, seejärel saadavad need teile. Kõrgemad tasud, kuid kasutajatele "
+"väga lihtne."
+
+msgid "~3.5% per transaction"
+msgstr "~3,5% tehingu kohta"
+
+msgid "User's wallet first"
+msgstr "Kasutaja rahakott esimesena"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API võti"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Oluline:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe'i krüptimakse (USDC) on saadaval ainult Ameerika Ühendriikide "
+"ettevõtetele. Kui olete Ameerika Ühendriikides väljaspool, võtab Stripe "
+"ainult krediitkaardimakseid Stripe'i tasakaale (ei otse krüptoraha)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Kui asute Ameerika Ühendriikides, saate Stripe'i kasutada krüptoraha "
+"otsevastuvõtmiseks. Kui väljaspool, kaalage NOWPaymentsi või CoinGate'i "
+"otseseks krüptorahatõlgendamiseks."
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe'i avalik võti"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe'i salajane võti"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Klassikalised PayPal-maksed. Kasutajad maksavad PayPal'i tasakaaluga või "
+"krediitkaardiga. Fondid läheb teie PayPal'i kontole."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Rakenduvad standardsed PayPal'i tehingutasud."
+
+msgid "PayPal Client ID"
+msgstr "PayPal kliendi ID"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Hankige oma PayPal'i API mandaadid aadressilt <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "PayPal'i salajane võti"
+
+msgid "Donation Tiers"
+msgstr "Annetuste tasemed"
+
+msgid "Add Tier"
+msgstr "Lisa tase"
+
+msgid "Remove"
+msgstr "Eemalda"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Eeldefineeritud annetuse summad (USD). Jätke tühjaks ainult kohandatud summa"
+" jaoks."
+
+msgid "Membership"
+msgstr "Liikmelisus"
+
+msgid "Enable Membership"
+msgstr "Luba liikmelisus"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Luba korduvad tellimused (nõuab Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Toetus"
+
+msgid "Donate"
+msgstr "Annetage"
+
+msgid "Crypto"
+msgstr "Krüpto"
+
+msgid "Credit Card"
+msgstr "Krediitkaart"
+
+msgid "Choose amount"
+msgstr "Vali summa"
+
+msgid "Custom amount"
+msgstr "Kohandatud summa"
+
+msgid "Enter amount (USD)"
+msgstr "Sisestage summa (USD)"
+
+msgid "Donate Now"
+msgstr "Annetage kohe"
+
+msgid "Crypto Address"
+msgstr "Krüpto aadress"
+
+msgid "Copy Address"
+msgstr "Kopeeri aadress"
+
+msgid "Copied!"
+msgstr "Kopeeritud!"
+
+msgid "Pay with Credit Card"
+msgstr "Maksa krediitkaardiga"
+
+msgid "Pay with PayPal"
+msgstr "Maksa PayPaliga"
+
+msgid "Membership Plans"
+msgstr "Liikmelisuse plaanid"
+
+msgid "Monthly"
+msgstr "Kuudelis"
+
+msgid "Yearly"
+msgstr "Aastaliselt"
+
+msgid "Subscribe"
+msgstr "Telli"
+
+msgid "Credit Card → Crypto"
+msgstr "Krediitkaart → Krüpto"
+
+msgid "Buy Crypto"
+msgstr "Osta krüpto"
+
+msgid "Processing..."
+msgstr "Töötlemine..."
+
+msgid "Payment successful!"
+msgstr "Maksmine õnnestus!"
+
+msgid "Payment failed"
+msgstr "Maksmine ebaõnnestus"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments võimaldab sul krediitkaardi makseid otse oma krüptovalvestusse "
+"vastu võtta."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate on hästi tuntud krüptomakse töötlaja."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay võimaldab kasutajatel osta krüpto krediitkaardiga otse NENDESSE "
+"rahakotti, seejärel saadavad nad seda sulle."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+"Pärast krüpto ostmist, palun saada see allolevale rahakoti aadressile."
+
+msgid "Your crypto wallet address"
+msgstr "Sinu krüptovalve adres"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Laske minu tüdrukuõõpilasel meie kohvi nautida"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Tugev, tasuta annetuste ja maksete vidin, mis võimaldab külastajatel toetada"
+" sind krediitkaardi või krüptovaluuta (Quai) kaudu. Ei kuudellitasu, ei "
+"kolmandate osapoolte tellimust – ainult sinu rahakott ja tasuta teenused."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Mõned brauserid blokeerivad kolmandate osapoolte skripte privaatsuse "
+"tagamiseks. See proksi laadib skripte läbi oma serveri nende blokeeringute "
+"vältimiseks."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Saad allolevaid skripti URL-e uuendada, kui algsed URL-id muutuvad või kui "
+"soovid kasutada teist CDN-i."
+
+msgid "Script"
+msgstr "Skript"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Puhvri TTL"
+
+msgid "Action"
+msgstr "Tegevus"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Refresh"
+msgstr "Värskenda"
+
+msgid "Usage:"
+msgstr "Kasutamine:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js krediitkaardimakse jaoks"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK PayPal maksetele"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas ekraanipildi loomiseks"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF PDFi loomiseks"
+
+msgid "External Script Proxy"
+msgstr "Väline skripti proksi"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Klõpsake \"Test\", et kontrollida, kas skripti URL on ligipääsetav. Proksi "
+"salvestab skriptid lokaalselt parema jõudluse saavutamiseks."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal e-posti aadress (Tagasipöördumine)"
+
+msgid "Quick Stats"
+msgstr "Kiirstatistika"
+
+msgid "Widget Status:"
+msgstr "Vidindi olek:"
+
+msgid "Active"
+msgstr "Aktiivne"
+
+msgid "Inactive"
+msgstr "Inaktiivne"
+
+msgid "Enabled Payment Methods:"
+msgstr "Lubatud maksevõimalused:"
+
+msgid "None"
+msgstr "Puudub"
+
+msgid "Crypto Wallet:"
+msgstr "Krypto rahakott:"
+
+msgid "Not set"
+msgstr "Määramata"
+
+msgid "pay_with_card"
+msgstr "Maksa kaardiga"
+
+msgid "crypto_address_label"
+msgstr "Saada krüptovaluuta otse sellele aadressile:"
+
+msgid "crypto_note"
+msgstr "Rahastused lähevad otse teie rahakotti. Tasusid ei arvestata."
+
+msgid "your_crypto_address"
+msgstr "Teie rahakoti aadress:"
+
+msgid "nowpayments_desc"
+msgstr "Maksa krediitkaardiga – krüpto läheb otse teie rahakotti."
+
+msgid "coingate_desc"
+msgstr "Maksa krediitkaardiga – krüpto läheb teie rahakotti."
+
+msgid "bitpay_desc"
+msgstr "Ettevõtte taseme krüptomaksed. Parim USA ettevõtetele."
+
+msgid "moonpay_desc"
+msgstr ""
+"Osta krüpto krediitkaardiga – seejärel saada see allolevale aadressile."
+
+msgid "moonpay_note"
+msgstr "Pärast krüpto ostmist saatke see allpool toodud rahakoti aadressile."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Rahastused lähevad otse teie rahakotti. Tasusid ei arvestata."
+
+msgid "Pay with Card"
+msgstr "Maksa kaardiga"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Maksa krediitkaardiga – krüpto läheb otse teie rahakotti."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Saada krüptovaluuta otse sellele aadressile:"

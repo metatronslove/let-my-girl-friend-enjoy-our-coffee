@@ -1,0 +1,706 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tatar <tt_RU>\n"
+"Language: tt-RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Кофе Виджет Дэшборд"
+
+msgid "Coffee Widget"
+msgstr "Кофе Виджет"
+
+msgid "Settings"
+msgstr "Көйләүләр"
+
+msgid "Dashboard"
+msgstr "Кофе Дашборд"
+
+msgid "Payment Methods"
+msgstr "Түләү ысуллары"
+
+msgid "Help & Support"
+msgstr "Көмек & Ярдәм"
+
+msgid "General"
+msgstr "Гомуми"
+
+msgid "Button"
+msgstr "Төймә"
+
+msgid "Advanced"
+msgstr "Алга таба"
+
+msgid "Proxy Scripts"
+msgstr "Прокси Скриптлар"
+
+msgid "Widget Settings"
+msgstr "Виджет Көйләүләре"
+
+msgid "Widget Status"
+msgstr "Виджет Станусы"
+
+msgid "Widget active"
+msgstr "Виджет актив"
+
+msgid "Button Color"
+msgstr "Төймәнең төсе"
+
+msgid "Button Position"
+msgstr "Төймәнең урыны"
+
+msgid "Left"
+msgstr "Сул"
+
+msgid "Right"
+msgstr "Уң"
+
+msgid "Horizontal Margin (px)"
+msgstr "Горизонталь маргина (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Вертикаль маргина (px)"
+
+msgid "Button Message"
+msgstr "Төймәнең хәбәре"
+
+msgid "Description"
+msgstr "Тасвирлама"
+
+msgid "Button Type"
+msgstr "Төймәнең төре"
+
+msgid "Emoji"
+msgstr "Эмодзи"
+
+msgid "SVG Code"
+msgstr "SVG Код"
+
+msgid "PNG Image URL"
+msgstr "PNG Сурәт URL"
+
+msgid "Button Emoji"
+msgstr "Төймә Эмодзи"
+
+msgid "Custom CSS"
+msgstr "Шәхси CSS"
+
+msgid "Custom JavaScript"
+msgstr "Шәхси JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "Нинди түләү хезмәтен сайларга?"
+
+msgid "Service"
+msgstr "Хезмәт"
+
+msgid "Fee"
+msgstr "Комиссия"
+
+msgid "Where does crypto go?"
+msgstr "Криптовалюта кайда бара?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress плагин"
+
+msgid "Best for"
+msgstr "Никек өчен иң яхшы"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 АКШ бизнесе?"
+
+msgid "Direct Crypto"
+msgstr "Туры криптовалюта"
+
+msgid "No fee"
+msgstr "Комиссиясез"
+
+msgid "Your wallet directly"
+msgstr "Сезнең кошелка турыдан-туры"
+
+msgid "Built-in"
+msgstr "Еш кертелгән"
+
+msgid "Crypto-savvy users"
+msgstr "Крипто тәҗрибәле кулланучылар"
+
+msgid "Anywhere"
+msgstr "Нигездә"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API әзер"
+
+msgid "Beginners, low fees"
+msgstr "Башлаучылар, түбән комиссияләр"
+
+msgid "Global (incl. Turkey)"
+msgstr "Глобаль (Төркия дә кертелгән)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Рәсми плагин"
+
+msgid "Good support"
+msgstr "Яхшы ярдәм"
+
+msgid "Global"
+msgstr "Глобаль"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Киңәйтелгән, АКШ компанияләре"
+
+msgid "US-friendly"
+msgstr "АКШ дуслы"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Кулланучының кошелкасы беренче"
+
+msgid "Widget ready"
+msgstr "Виджет әзер"
+
+msgid "Users with own wallets"
+msgstr "Үз кошелкалары булган кулланучылар"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "АКШ бизнесләре гына"
+
+msgid "❌ US ONLY"
+msgstr "❌ АКШ гына"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Үзгәрешле"
+
+msgid "Asia markets"
+msgstr "Азия базарлары"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Стандарт түләүләр"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal баланс"
+
+msgid "PayPal users"
+msgstr "PayPal кулланучылары"
+
+msgid "Tip:"
+msgstr "Совет:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Сез АКШтан читтә булсагыз, NOWPayments-ны (иң түбән түләүләр, турыдан-туры "
+"кошелекка) тәкъдим итәбез. Сез АКШта булсагыз, Stripe Crypto да вариант "
+"булып тора. Күп хезмәтләрне активлаштыра аласыз һәм кунакларыгызга сайлау "
+"мөмкинлеге бирә аласыз!"
+
+msgid "Enabled Payment Methods"
+msgstr "Активланган Түләү ысуллары"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Виджетаңызда кайсы түләү ысуллары күрсәтелергә тиешле икәнлеген сайлагыз. "
+"Кунаклар үзләре теләгән ысулны сайлый ала."
+
+msgid "Show these methods"
+msgstr "Бу ысулларны күрсәт"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Туры Крипта (Кошелек адресы)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Кредит Карты → Крипта)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Кредит Карты → Крипта)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Кредит Карты → Крипта)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Кулланучы беренче крипта сатып ала)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Кредит Карты)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Кулланучыларга турыдан-туры крипта җибәрү өчен кошелек адресыгызны "
+"күрсәтегез. Түләүсез, ләкин кулланучыларның криптага ия булуы кирәк."
+
+msgid "Wallet Address"
+msgstr "Кошелек Адресы"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Сезнең Quai, Ethereum, Bitcoin, яки башка кошелек адресыгыз."
+
+msgid "Network"
+msgstr "Тор"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Торы (Тәкъдим ителгән - бушлай)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Башлангычлар өчен иң яхшы һәм иң түбән комиссия"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments кредит картасы түләүләрен турыдан-туры криптовалюта акчабызга "
+"кабул итәргә мөмкинлек бирә. Резервлар турыдан-туры акчабызга җибәрелә – "
+"аралашучы юк."
+
+msgid "Fee:"
+msgstr "Комиссия:"
+
+msgid "per transaction"
+msgstr "транзакциягә"
+
+msgid "Payout:"
+msgstr "Түләү:"
+
+msgid "Direct to your wallet"
+msgstr "Турыдан-туры акчабызга"
+
+msgid "Setup:"
+msgstr "Курылу:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Түләүсез аккаунт ясагыз → API ачкычлары → API ачкычын күчерегез"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API ачкычы"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "NOWPayments панеленнән API ачкычны җибәрегез."
+
+msgid "Great support, slightly higher fee"
+msgstr "Югары ярдәм, бераз югары комиссия"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate рәсми WordPress плагинлы, яхшы урнашкан крипто түләү процессоры."
+
+msgid "1% per transaction"
+msgstr "1% транзакциягә"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Аккаунт ясагыз → API ачкычлары"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API ачкычы"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Кооператив дәрәҗәсе, АКШ-га җайлы"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay зур ширкәтләр тарафыннан ышанычлы. АКШ нигезендә эшләгән бизнеслар "
+"өчен яхшы эшли."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Бизнес аккаунт → API ачкычлары"
+
+msgid "BitPay API Key"
+msgstr "BitPay API ачкычы"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Кулланучылар криптовалютаны беренче сатып алып, аннары сезгә җибәрә"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay кулланучыларга кредит картасын кулланып, турыдан-туры аларның акча "
+"битенә сатып алырга мөмкинлек бирә, аннары алар аны сезгә җибәрә. Югары "
+"комиссия, әмма кулланучылар өчен бик гади."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% транзакциягә"
+
+msgid "User's wallet first"
+msgstr "Кулланучының акча бите беренче"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API ачкычы"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Мөһим:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto түләүләре (USDC) бары тик АКШта нигезләнгән бизнеслар өчен "
+"генә кулланыла. Әгәр сез АКШтан тышсыз, Stripe кредит картасы түләүләрен "
+"гына Stripe балансыгызга кабул итә (турыдан-туры криптовалютка түгел)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Әгәр сез АКШта булсагыз, Stripe'ны кулланып турыдан-туры криптовалютны "
+"алырга мөмкин. АКШтан тыш булсаңыз, NOWPayments яки CoinGate'ны турыдан-туры"
+" криптовалют түләүләре өчен карагыз."
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe Публикацияләнә торган ачкыч"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe Сикрет ачкыч"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Классик PayPal түләүләре. Кулланучылар PayPal балансын яки кредит картасын "
+"куллана. Акча сезнең PayPal хисапыгызга күчерелә."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Стандарт PayPal транзакция түләүләре кулланыла."
+
+msgid "PayPal Client ID"
+msgstr "PayPal Клиент Идентификаторы"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"PayPal API гыйлемнәрегезне <a href=\"https://developer.paypal.com/\" "
+"target=\"_blank\">PayPal Developer Dashboard</a>тан алыгыз."
+
+msgid "PayPal Secret"
+msgstr "PayPal Сикрет"
+
+msgid "Donation Tiers"
+msgstr "Ахмак дәрәҗәләре"
+
+msgid "Add Tier"
+msgstr "Дәрәҗә өстә"
+
+msgid "Remove"
+msgstr "Эчкерегә"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Алдан билгеләнгән ахмак суммалары (USD). Эшләп чыгарылган суммасын кертү "
+"өчен буш калдырыгыз."
+
+msgid "Membership"
+msgstr "членлек"
+
+msgid "Enable Membership"
+msgstr "Членлекне активлаштырырга"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Калкып торучы абонементларны рөхсәт итү (Stripe Subscriptions кирәк)."
+
+msgid "Support"
+msgstr "Ярдәм"
+
+msgid "Donate"
+msgstr "Ахмак ит"
+
+msgid "Crypto"
+msgstr "Крипто"
+
+msgid "Credit Card"
+msgstr "Кредит Карты"
+
+msgid "Choose amount"
+msgstr "Сумманы сайлагыз"
+
+msgid "Custom amount"
+msgstr "Кулдан кертелгән сумма"
+
+msgid "Enter amount (USD)"
+msgstr "Сумманы кертегез (USD)"
+
+msgid "Donate Now"
+msgstr "Ахмак ит хәзер"
+
+msgid "Crypto Address"
+msgstr "Крипто Адресы"
+
+msgid "Copy Address"
+msgstr "Адресны Копиялә"
+
+msgid "Copied!"
+msgstr "Копияланды!"
+
+msgid "Pay with Credit Card"
+msgstr "Кредит Карты белән Түләү"
+
+msgid "Pay with PayPal"
+msgstr "PayPal белән Түләү"
+
+msgid "Membership Plans"
+msgstr "Тышелү планнары"
+
+msgid "Monthly"
+msgstr "Айлык"
+
+msgid "Yearly"
+msgstr "Еллек"
+
+msgid "Subscribe"
+msgstr "Тышелергә"
+
+msgid "Credit Card → Crypto"
+msgstr "Кредит карта → Крипта"
+
+msgid "Buy Crypto"
+msgstr "Крипта сатып алу"
+
+msgid "Processing..."
+msgstr "Процесслау…"
+
+msgid "Payment successful!"
+msgstr "Түләү уңышлы!"
+
+msgid "Payment failed"
+msgstr "Түләү уңышсыз булды"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments сезгә кредит карта ярдәмендә турыдан-туры крипта сумкаларына "
+"түләүләр кабул итәргә мөмкинлек бирә."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate – киң таралган крипта түләү процессоры."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay кулланучыларга кредит карта ярдәмендә турыдан-туры аларның "
+"сумкаларына крипта сатып алуны мөмкинлек бирә, аннары алар аны сезгә җибәрә."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Крипта сатып алганнан соң, аны түбәндәге сумка адресына җибәрегез."
+
+msgid "Your crypto wallet address"
+msgstr "Сезнең крипта сумка адресыгыз"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Кызымга безнең кофены рәхәтләндерегез"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Кулланучыларга кредит карта яки криптовалюта (Quai) ярдәмендә сезне ярдәм "
+"итәргә мөмкинлек бирә торган көчле, бушлай данә һәм түләү виджет. Айлык "
+"түләүләр юк, өченче-беренче субскрипцияләр юк – бары тик сезнең сумкагыз һәм"
+" бушлай хезмәтләр."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Кайбер браузерлар шәхси мәгълүмат саклау өчен өченче-беренче скриптларны "
+"блоклый. Бу прокси скриптларны үз серверыгыз аша йөкләп, бу блокларны ача."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Эчтәле URL-лар үзгәрсә яки башка CDN кулланырга теләсәгез, скрипт URL-ларын "
+"түбәндә яңартырга мөмкин."
+
+msgid "Script"
+msgstr "Скрипт"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Кэш TTL"
+
+msgid "Action"
+msgstr "Хәрәкәт"
+
+msgid "Test"
+msgstr "Тест"
+
+msgid "Refresh"
+msgstr "Яңарту"
+
+msgid "Usage:"
+msgstr "Кулланыш:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js кредит карта түләүләр өчен"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK PayPal түләүләр өчен"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas скриншот тудыру өчен"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF PDF тудыру өчен"
+
+msgid "External Script Proxy"
+msgstr "Сырткы Скрипт Прокси"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Скрипт URL-ыңга керү мөмкинлеген тикшерү өчен \"Тест\" төймәсенә басыгыз. "
+"Проксилер скриптларны локаль кэшлар, нәтиҗәле эшләү өчен."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal Электрон почтасы (Кайтару)"
+
+msgid "Quick Stats"
+msgstr "Кыска статистика"
+
+msgid "Widget Status:"
+msgstr "Виджет статус:"
+
+msgid "Active"
+msgstr "Актив"
+
+msgid "Inactive"
+msgstr "Пассив"
+
+msgid "Enabled Payment Methods:"
+msgstr "Йекләнгән түләү ысуллары:"
+
+msgid "None"
+msgstr "Юк"
+
+msgid "Crypto Wallet:"
+msgstr "Криптовалюта кошмасы:"
+
+msgid "Not set"
+msgstr "Төзелмәгән"
+
+msgid "pay_with_card"
+msgstr "Карта белән түләргә"
+
+msgid "crypto_address_label"
+msgstr "Криптовалютаны тік адреска җибәрегез:"
+
+msgid "crypto_note"
+msgstr "Фондлар турыдан-туры сезнең кошмага бара. Комиссия юк."
+
+msgid "your_crypto_address"
+msgstr "Сезнең кошмага адресыгыз:"
+
+msgid "nowpayments_desc"
+msgstr "Кредит карта белән түләргә – крипто турыдан-туры сезнең кошмага бара."
+
+msgid "coingate_desc"
+msgstr "Кредит карта белән түләргә – крипто сезнең кошмага бара."
+
+msgid "bitpay_desc"
+msgstr "Куркынычлы крипто түләүләр. АКШ бизнеслары өчен иң яхшы."
+
+msgid "moonpay_desc"
+msgstr ""
+"Кредит карта белән крипто сатып алыгыз – аны түбәндәге адреска җибәрегез."
+
+msgid "moonpay_note"
+msgstr ""
+"Крипто сатып алганнан соң, зинһар, аны югарыдагы кошмага адресына җибәрегез."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Фондлар турыдан-туры сезнең кошмага бара. Комиссия юк."
+
+msgid "Pay with Card"
+msgstr "Карта белән түләргә"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Кредит карта белән түләргә – крипто турыдан-туры сезнең кошмага бара."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Криптовалютаны тік адреска җибәрегез:"

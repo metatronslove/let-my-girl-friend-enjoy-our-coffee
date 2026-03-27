@@ -1,0 +1,872 @@
+# Copyright (C) 2025 Metatron's Love
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/let-my-girl-friend-enjoy-our-coffee\n"
+"POT-Creation-Date: 2025-03-26 18:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4\n"
+
+#: admin/class-admin.php:47
+msgid "Coffee Widget Dashboard"
+msgstr ""
+
+#: admin/class-admin.php:48
+msgid "Coffee Widget"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Payment Methods"
+msgstr ""
+
+msgid "Help & Support"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Proxy Scripts"
+msgstr ""
+
+#: admin/partials/admin-settings.php:7
+msgid "Widget Settings"
+msgstr ""
+
+#: admin/partials/admin-settings.php:28
+msgid "Widget Status"
+msgstr ""
+
+#: admin/partials/admin-settings.php:29
+msgid "Widget active"
+msgstr ""
+
+#: admin/partials/admin-settings.php:33
+msgid "Button Color"
+msgstr ""
+
+#: admin/partials/admin-settings.php:38
+msgid "Button Position"
+msgstr ""
+
+#: admin/partials/admin-settings.php:39
+msgid "Left"
+msgstr ""
+
+#: admin/partials/admin-settings.php:40
+msgid "Right"
+msgstr ""
+
+#: admin/partials/admin-settings.php:44
+msgid "Horizontal Margin (px)"
+msgstr ""
+
+#: admin/partials/admin-settings.php:48
+msgid "Vertical Margin (px)"
+msgstr ""
+
+#: admin/partials/admin-settings.php:52
+msgid "Button Message"
+msgstr ""
+
+#: admin/partials/admin-settings.php:56
+msgid "Description"
+msgstr ""
+
+#: admin/partials/admin-settings.php:65
+msgid "Button Type"
+msgstr ""
+
+#: admin/partials/admin-settings.php:66
+msgid "Emoji"
+msgstr ""
+
+#: admin/partials/admin-settings.php:67
+msgid "SVG Code"
+msgstr ""
+
+#: admin/partials/admin-settings.php:68
+msgid "PNG Image URL"
+msgstr ""
+
+#: admin/partials/admin-settings.php:75
+msgid "Button Emoji"
+msgstr ""
+
+#: admin/partials/admin-settings.php:79
+msgid "SVG Code"
+msgstr ""
+
+#: admin/partials/admin-settings.php:84
+msgid "PNG Image URL"
+msgstr ""
+
+#: admin/partials/admin-settings.php:93
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/partials/admin-settings.php:99
+msgid "Custom JavaScript"
+msgstr ""
+
+#: admin/partials/admin-payment.php:12
+msgid "Which payment service should you choose?"
+msgstr ""
+
+#: admin/partials/admin-payment.php:13
+msgid "We offer multiple services to accept credit card payments to your crypto wallet. Here's how they compare:"
+msgstr ""
+
+#: admin/partials/admin-payment.php:20
+msgid "Service"
+msgstr ""
+
+#: admin/partials/admin-payment.php:21
+msgid "Fee"
+msgstr ""
+
+#: admin/partials/admin-payment.php:22
+msgid "Where does crypto go?"
+msgstr ""
+
+#: admin/partials/admin-payment.php:23
+msgid "WordPress Plugin"
+msgstr ""
+
+#: admin/partials/admin-payment.php:24
+msgid "Best for"
+msgstr ""
+
+#: admin/partials/admin-payment.php:25
+msgid "🇺🇸 US Business?"
+msgstr ""
+
+#: admin/partials/admin-payment.php:33
+msgid "Direct Crypto"
+msgstr ""
+
+#: admin/partials/admin-payment.php:33
+msgid "No fee"
+msgstr ""
+
+#: admin/partials/admin-payment.php:33
+msgid "Your wallet directly"
+msgstr ""
+
+#: admin/partials/admin-payment.php:33
+msgid "Built-in"
+msgstr ""
+
+#: admin/partials/admin-payment.php:33
+msgid "Crypto-savvy users"
+msgstr ""
+
+#: admin/partials/admin-payment.php:33
+msgid "Anywhere"
+msgstr ""
+
+#: admin/partials/admin-payment.php:37
+msgid "NOWPayments"
+msgstr ""
+
+#: admin/partials/admin-payment.php:37
+msgid "0.5% - 1%"
+msgstr ""
+
+#: admin/partials/admin-payment.php:37
+msgid "API ready"
+msgstr ""
+
+#: admin/partials/admin-payment.php:37
+msgid "Beginners, low fees"
+msgstr ""
+
+#: admin/partials/admin-payment.php:37
+msgid "Global (incl. Turkey)"
+msgstr ""
+
+#: admin/partials/admin-payment.php:41
+msgid "CoinGate"
+msgstr ""
+
+#: admin/partials/admin-payment.php:41
+msgid "1%"
+msgstr ""
+
+#: admin/partials/admin-payment.php:41
+msgid "Official plugin"
+msgstr ""
+
+#: admin/partials/admin-payment.php:41
+msgid "Good support"
+msgstr ""
+
+#: admin/partials/admin-payment.php:41
+msgid "Global"
+msgstr ""
+
+#: admin/partials/admin-payment.php:45
+msgid "BitPay"
+msgstr ""
+
+#: admin/partials/admin-payment.php:45
+msgid "Enterprise, US companies"
+msgstr ""
+
+#: admin/partials/admin-payment.php:45
+msgid "US-friendly"
+msgstr ""
+
+#: admin/partials/admin-payment.php:49
+msgid "MoonPay"
+msgstr ""
+
+#: admin/partials/admin-payment.php:49
+msgid "~3.5%"
+msgstr ""
+
+#: admin/partials/admin-payment.php:49
+msgid "⚠️ User's wallet first"
+msgstr ""
+
+#: admin/partials/admin-payment.php:49
+msgid "Widget ready"
+msgstr ""
+
+#: admin/partials/admin-payment.php:49
+msgid "Users with own wallets"
+msgstr ""
+
+#: admin/partials/admin-payment.php:53
+msgid "Stripe Crypto"
+msgstr ""
+
+#: admin/partials/admin-payment.php:53
+msgid "2.9% + $0.30"
+msgstr ""
+
+#: admin/partials/admin-payment.php:53
+msgid "US businesses only"
+msgstr ""
+
+#: admin/partials/admin-payment.php:53
+msgid "❌ US ONLY"
+msgstr ""
+
+#: admin/partials/admin-payment.php:57
+msgid "Alchemy Pay"
+msgstr ""
+
+#: admin/partials/admin-payment.php:57
+msgid "Variable"
+msgstr ""
+
+#: admin/partials/admin-payment.php:57
+msgid "Asia markets"
+msgstr ""
+
+#: admin/partials/admin-payment.php:61
+msgid "PayPal"
+msgstr ""
+
+#: admin/partials/admin-payment.php:61
+msgid "Standard fees"
+msgstr ""
+
+#: admin/partials/admin-payment.php:61
+msgid "⚠️ PayPal balance"
+msgstr ""
+
+#: admin/partials/admin-payment.php:61
+msgid "PayPal users"
+msgstr ""
+
+#: admin/partials/admin-payment.php:71
+msgid "Tip:"
+msgstr ""
+
+#: admin/partials/admin-payment.php:71
+msgid "If you are outside the US, we recommend NOWPayments (lowest fees, direct to your wallet). If you are in the US, Stripe Crypto is also an option. You can enable multiple services and let your visitors choose!"
+msgstr ""
+
+#: admin/partials/admin-payment.php:78
+msgid "Enabled Payment Methods"
+msgstr ""
+
+#: admin/partials/admin-payment.php:79
+msgid "Select which payment options will appear in your widget. Your visitors can choose their preferred method."
+msgstr ""
+
+#: admin/partials/admin-payment.php:85
+msgid "Show these methods"
+msgstr ""
+
+#: admin/partials/admin-payment.php:86
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr ""
+
+#: admin/partials/admin-payment.php:87
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr ""
+
+#: admin/partials/admin-payment.php:88
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr ""
+
+#: admin/partials/admin-payment.php:89
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr ""
+
+#: admin/partials/admin-payment.php:90
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr ""
+
+#: admin/partials/admin-payment.php:91
+msgid "💳 Stripe (Credit Card)"
+msgstr ""
+
+#: admin/partials/admin-payment.php:92
+msgid "🟡 PayPal"
+msgstr ""
+
+#: admin/partials/admin-payment.php:97
+msgid "Direct Crypto"
+msgstr ""
+
+#: admin/partials/admin-payment.php:98
+msgid "Display your wallet address so users can send crypto directly. Zero fees, but requires users to already have crypto."
+msgstr ""
+
+#: admin/partials/admin-payment.php:104
+msgid "Wallet Address"
+msgstr ""
+
+#: admin/partials/admin-payment.php:105
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr ""
+
+#: admin/partials/admin-payment.php:111
+msgid "Network"
+msgstr ""
+
+#: admin/partials/admin-payment.php:114
+msgid "Quai Network (Recommended - free)"
+msgstr ""
+
+#: admin/partials/admin-payment.php:115
+msgid "Ethereum"
+msgstr ""
+
+#: admin/partials/admin-payment.php:116
+msgid "Bitcoin"
+msgstr ""
+
+#: admin/partials/admin-payment.php:117
+msgid "Solana"
+msgstr ""
+
+#: admin/partials/admin-payment.php:118
+msgid "Polygon"
+msgstr ""
+
+#: admin/partials/admin-payment.php:124
+msgid "NOWPayments"
+msgstr ""
+
+#: admin/partials/admin-payment.php:126
+msgid "Best for beginners & lowest fees"
+msgstr ""
+
+#: admin/partials/admin-payment.php:127
+msgid "NOWPayments allows you to accept credit card payments directly to your crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+
+#: admin/partials/admin-payment.php:128
+msgid "Fee:"
+msgstr ""
+
+#: admin/partials/admin-payment.php:128
+msgid "per transaction"
+msgstr ""
+
+#: admin/partials/admin-payment.php:128
+msgid "Payout:"
+msgstr ""
+
+#: admin/partials/admin-payment.php:128
+msgid "Direct to your wallet"
+msgstr ""
+
+#: admin/partials/admin-payment.php:129
+msgid "Setup:"
+msgstr ""
+
+#: admin/partials/admin-payment.php:129
+msgid "Create free account → API Keys → Copy API Key"
+msgstr ""
+
+#: admin/partials/admin-payment.php:135
+msgid "NOWPayments API Key"
+msgstr ""
+
+#: admin/partials/admin-payment.php:136
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr ""
+
+#: admin/partials/admin-payment.php:144
+msgid "CoinGate"
+msgstr ""
+
+#: admin/partials/admin-payment.php:146
+msgid "Great support, slightly higher fee"
+msgstr ""
+
+#: admin/partials/admin-payment.php:147
+msgid "CoinGate is a well-established crypto payment processor with an official WordPress plugin."
+msgstr ""
+
+#: admin/partials/admin-payment.php:148
+msgid "1% per transaction"
+msgstr ""
+
+#: admin/partials/admin-payment.php:149
+msgid "coingate.com"
+msgstr ""
+
+#: admin/partials/admin-payment.php:149
+msgid "Create account → API Keys"
+msgstr ""
+
+#: admin/partials/admin-payment.php:155
+msgid "CoinGate API Key"
+msgstr ""
+
+#: admin/partials/admin-payment.php:163
+msgid "BitPay"
+msgstr ""
+
+#: admin/partials/admin-payment.php:165
+msgid "Enterprise-grade, US-friendly"
+msgstr ""
+
+#: admin/partials/admin-payment.php:166
+msgid "BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+
+#: admin/partials/admin-payment.php:167
+msgid "1% per transaction"
+msgstr ""
+
+#: admin/partials/admin-payment.php:168
+msgid "bitpay.com"
+msgstr ""
+
+#: admin/partials/admin-payment.php:168
+msgid "Business account → API Keys"
+msgstr ""
+
+#: admin/partials/admin-payment.php:174
+msgid "BitPay API Key"
+msgstr ""
+
+#: admin/partials/admin-payment.php:182
+msgid "MoonPay"
+msgstr ""
+
+#: admin/partials/admin-payment.php:184
+msgid "Users buy crypto first, then send to you"
+msgstr ""
+
+#: admin/partials/admin-payment.php:185
+msgid "MoonPay lets users buy crypto with credit card directly to THEIR wallet, then they send it to you. Higher fees but very simple for users."
+msgstr ""
+
+#: admin/partials/admin-payment.php:186
+msgid "~3.5% per transaction"
+msgstr ""
+
+#: admin/partials/admin-payment.php:186
+msgid "User's wallet first"
+msgstr ""
+
+#: admin/partials/admin-payment.php:187
+msgid "moonpay.com"
+msgstr ""
+
+#: admin/partials/admin-payment.php:193
+msgid "MoonPay API Key"
+msgstr ""
+
+#: admin/partials/admin-payment.php:200
+msgid "Stripe"
+msgstr ""
+
+#: admin/partials/admin-payment.php:203
+msgid "Important:"
+msgstr ""
+
+#: admin/partials/admin-payment.php:203
+msgid "Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If you are outside the US, Stripe will only accept credit card payments to your Stripe balance (not directly to crypto)."
+msgstr ""
+
+#: admin/partials/admin-payment.php:204
+msgid "If you are in the US, you can use Stripe to receive crypto directly. If outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+
+#: admin/partials/admin-payment.php:211
+msgid "Stripe Publishable Key"
+msgstr ""
+
+#: admin/partials/admin-payment.php:218
+msgid "Stripe Secret Key"
+msgstr ""
+
+#: admin/partials/admin-payment.php:227
+msgid "PayPal"
+msgstr ""
+
+#: admin/partials/admin-payment.php:229
+msgid "Classic PayPal payments. Users pay with PayPal balance or credit card. Funds go to your PayPal account."
+msgstr ""
+
+#: admin/partials/admin-payment.php:230
+msgid "Standard PayPal transaction fees apply."
+msgstr ""
+
+#: admin/partials/admin-payment.php:236
+msgid "PayPal Client ID"
+msgstr ""
+
+#: admin/partials/admin-payment.php:237
+msgid "Get your PayPal API credentials from <a href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer Dashboard</a>."
+msgstr ""
+
+#: admin/partials/admin-payment.php:244
+msgid "PayPal Secret"
+msgstr ""
+
+#: admin/partials/admin-payment.php:251
+msgid "Donation Tiers"
+msgstr ""
+
+#: admin/partials/admin-payment.php:257
+msgid "Add Tier"
+msgstr ""
+
+#: admin/partials/admin-payment.php:258
+msgid "Remove"
+msgstr ""
+
+#: admin/partials/admin-payment.php:259
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+
+#: admin/partials/admin-payment.php:266
+msgid "Membership"
+msgstr ""
+
+#: admin/partials/admin-payment.php:269
+msgid "Enable Membership"
+msgstr ""
+
+#: admin/partials/admin-payment.php:270
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr ""
+
+#: public/class-public.php:128
+msgid "Support"
+msgstr ""
+
+#: public/class-public.php:129
+msgid "Donate"
+msgstr ""
+
+#: public/class-public.php:130
+msgid "Membership"
+msgstr ""
+
+#: public/class-public.php:131
+msgid "Crypto"
+msgstr ""
+
+#: public/class-public.php:132
+msgid "Credit Card"
+msgstr ""
+
+#: public/class-public.php:133
+msgid "PayPal"
+msgstr ""
+
+#: public/class-public.php:134
+msgid "Choose amount"
+msgstr ""
+
+#: public/class-public.php:135
+msgid "Custom amount"
+msgstr ""
+
+#: public/class-public.php:136
+msgid "Enter amount (USD)"
+msgstr ""
+
+#: public/class-public.php:137
+msgid "Donate Now"
+msgstr ""
+
+#: public/class-public.php:138
+msgid "Crypto Address"
+msgstr ""
+
+#: public/class-public.php:139
+msgid "Copy Address"
+msgstr ""
+
+#: public/class-public.php:140
+msgid "Copied!"
+msgstr ""
+
+#: public/class-public.php:141
+msgid "Pay with Credit Card"
+msgstr ""
+
+#: public/class-public.php:142
+msgid "Pay with PayPal"
+msgstr ""
+
+#: public/class-public.php:143
+msgid "Membership Plans"
+msgstr ""
+
+#: public/class-public.php:144
+msgid "Monthly"
+msgstr ""
+
+#: public/class-public.php:145
+msgid "Yearly"
+msgstr ""
+
+#: public/class-public.php:146
+msgid "Subscribe"
+msgstr ""
+
+#: public/widget-js.php
+msgid "NOWPayments"
+msgstr ""
+
+#: public/widget-js.php
+msgid "CoinGate"
+msgstr ""
+
+#: public/widget-js.php
+msgid "BitPay"
+msgstr ""
+
+#: public/widget-js.php
+msgid "MoonPay"
+msgstr ""
+
+#: public/widget-js.php
+msgid "Stripe"
+msgstr ""
+
+#: public/widget-js.php
+msgid "PayPal"
+msgstr ""
+
+#: public/widget-js.php
+msgid "Credit Card → Crypto"
+msgstr ""
+
+#: public/widget-js.php
+msgid "Pay with Credit Card"
+msgstr ""
+
+#: public/widget-js.php
+msgid "Buy Crypto"
+msgstr ""
+
+#: public/widget-js.php
+msgid "Processing..."
+msgstr ""
+
+#: public/widget-js.php
+msgid "Payment successful!"
+msgstr ""
+
+#: public/widget-js.php
+msgid "Payment failed"
+msgstr ""
+
+#: public/widget-js.php
+msgid "NOWPayments allows you to accept credit card payments directly to your crypto wallet."
+msgstr ""
+
+#: public/widget-js.php
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr ""
+
+#: public/widget-js.php
+msgid "BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+
+#: public/widget-js.php
+msgid "MoonPay lets users buy crypto with credit card directly to THEIR wallet, then they send it to you."
+msgstr ""
+
+#: public/widget-js.php
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+
+#: public/widget-js.php
+msgid "Your crypto wallet address"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr ""
+
+#. Plugin Description of the plugin
+msgid "A powerful, free donation and payment widget that allows your visitors to support you via credit card or cryptocurrency (Quai). No monthly fees, no third-party subscriptions – just your wallet and free services."
+msgstr ""
+
+#: admin/partials/admin-settings.php
+msgid "External Script Proxy"
+msgstr ""
+
+msgid "Some browsers block third-party scripts for privacy. This proxy loads scripts through your own server to bypass these blocks."
+msgstr ""
+
+msgid "You can update the script URLs below if the original URLs change or if you want to use a different CDN."
+msgstr ""
+
+msgid "Script"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Cache TTL"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Test"
+msgstr ""
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Usage:"
+msgstr ""
+
+msgid "Stripe.js for credit card payments"
+msgstr ""
+
+msgid "PayPal SDK for PayPal payments"
+msgstr ""
+
+msgid "html2canvas for screenshot generation"
+msgstr ""
+
+msgid "jsPDF for PDF generation"
+msgstr ""
+
+msgid "Click \"Test\" to check if the script URL is accessible. The proxy will cache scripts locally for better performance."
+msgstr ""
+
+#: admin/partials/admin-payment.php
+msgid "Dogecoin"
+msgstr ""
+
+msgid "Litecoin"
+msgstr ""
+
+msgid "PayPal Email (Fallback)"
+msgstr ""
+
+#: admin/partials/dashboard-local.php
+msgid "Quick Stats"
+msgstr ""
+
+msgid "Widget Status:"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Enabled Payment Methods:"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Crypto Wallet:"
+msgstr ""
+
+msgid "Not set"
+msgstr ""
+
+#: public/class-public.php
+msgid "pay_with_card"
+msgstr ""
+
+msgid "crypto_address_label"
+msgstr ""
+
+msgid "crypto_note"
+msgstr ""
+
+msgid "your_crypto_address"
+msgstr ""
+
+msgid "nowpayments_desc"
+msgstr ""
+
+msgid "coingate_desc"
+msgstr ""
+
+msgid "bitpay_desc"
+msgstr ""
+
+msgid "moonpay_desc"
+msgstr ""
+
+msgid "moonpay_note"
+msgstr ""
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr ""
+
+msgid "Pay with Card"
+msgstr ""
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr ""

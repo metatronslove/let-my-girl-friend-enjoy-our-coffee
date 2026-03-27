@@ -1,0 +1,708 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Kurdish (Sorani) <ku_IQ>\n"
+"Language: ku-IQ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "داشبۆردی ویجێتی قهوه"
+
+msgid "Coffee Widget"
+msgstr "ویجێتی قهوه"
+
+msgid "Settings"
+msgstr "ڕێکخستنەکان"
+
+msgid "Dashboard"
+msgstr "داشبۆرد"
+
+msgid "Payment Methods"
+msgstr "هەنگاوەکانی پارەدان"
+
+msgid "Help & Support"
+msgstr "یارمەتی و پشتگیری"
+
+msgid "General"
+msgstr "گشتی"
+
+msgid "Button"
+msgstr "دکمه"
+
+msgid "Advanced"
+msgstr "پێشکەوتوو"
+
+msgid "Proxy Scripts"
+msgstr "سکریپتەکانی پروکسی"
+
+msgid "Widget Settings"
+msgstr "ڕێکخستنەکانی ویجێت"
+
+msgid "Widget Status"
+msgstr "دۆخی ویجێت"
+
+msgid "Widget active"
+msgstr "ویجێت چالاک"
+
+msgid "Button Color"
+msgstr "ڕنگی دکمه"
+
+msgid "Button Position"
+msgstr "شوێنی دکمه"
+
+msgid "Left"
+msgstr "چەپ"
+
+msgid "Right"
+msgstr "ڕاست"
+
+msgid "Horizontal Margin (px)"
+msgstr "هەنگاوی افقی (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "هەنگاوی کۆن (px)"
+
+msgid "Button Message"
+msgstr "پەیامی دکمه"
+
+msgid "Description"
+msgstr "وەسف"
+
+msgid "Button Type"
+msgstr "جۆری دکمه"
+
+msgid "Emoji"
+msgstr "ئێمۆژی"
+
+msgid "SVG Code"
+msgstr "کۆد SVG"
+
+msgid "PNG Image URL"
+msgstr "لینکی وێنە PNG"
+
+msgid "Button Emoji"
+msgstr "ئێمۆژی دکمه"
+
+msgid "Custom CSS"
+msgstr "CSSی تایبەتی"
+
+msgid "Custom JavaScript"
+msgstr "جاڤاسکریپتەکەی تایبەتی"
+
+msgid "Which payment service should you choose?"
+msgstr "کەی پارەدانی هەڵبژێریت؟"
+
+msgid "Service"
+msgstr "خزمەتگوزاری"
+
+msgid "Fee"
+msgstr "فیس"
+
+msgid "Where does crypto go?"
+msgstr "کریپتو چۆن دەچێ؟"
+
+msgid "WordPress Plugin"
+msgstr "پلگین WordPress"
+
+msgid "Best for"
+msgstr "باشترین بۆ"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 کۆمپانیای ئەمریکا؟"
+
+msgid "Direct Crypto"
+msgstr "کریپتو ڕاستەوخۆ"
+
+msgid "No fee"
+msgstr "بێ فیس"
+
+msgid "Your wallet directly"
+msgstr "پەیەکی خۆت ڕاستەوخۆ"
+
+msgid "Built-in"
+msgstr "لەدەستە"
+
+msgid "Crypto-savvy users"
+msgstr "بەکارهێنەران کە زانای کریپتو"
+
+msgid "Anywhere"
+msgstr "هەموو شوێن"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API تەواو"
+
+msgid "Beginners, low fees"
+msgstr "دەستپێکەکان، فیسەکان کەم"
+
+msgid "Global (incl. Turkey)"
+msgstr "گلوبال (هەروەها تورکیا)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "پلگین رسمی"
+
+msgid "Good support"
+msgstr "پشتیوانی باش"
+
+msgid "Global"
+msgstr "گلوبال"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "کارپۆراتی، کۆمپانیای ئەمریکا"
+
+msgid "US-friendly"
+msgstr "دوستەدارێتی ئەمریکا"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ پەیەکی بەکارهێنەر پێش"
+
+msgid "Widget ready"
+msgstr "وێدجێتی تەواو"
+
+msgid "Users with own wallets"
+msgstr "بەکارهێنەران بە پەیەکی خۆی"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "تەنیا بۆ کۆمپانیاکانی ئەمریکا"
+
+msgid "❌ US ONLY"
+msgstr "❌ تەنیا ئەمریکا"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "گۆڕاوەی"
+
+msgid "Asia markets"
+msgstr "بازارەکانی ئەشیا"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "رێگەیەکەی سەرەکی"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ پێیەکەی PayPal"
+
+msgid "PayPal users"
+msgstr "بەکارهێنەران PayPal"
+
+msgid "Tip:"
+msgstr "نیشانە:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"ئەگەر لە دەرەوەی ئەمریکا بێیت، NOWPayments (هەینیترین رێگە، ڕاستەوخۆ بۆ "
+"جەهوازەکەت) هەڵنەما. ئەگەر لە ئەمریکا بێیت، Stripe Crypto شیاواڵە هەروەها "
+"هەڵبژاردەیەکە. دەتوانیت خزمەتگوزارییەکانی جیاواز بپێدەری و بەکارهێنەران "
+"هەڵبژێردە."
+
+msgid "Enabled Payment Methods"
+msgstr "پلەکانە بۆ پارەبەری کۆنترۆڵکراو"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"هەڵبژێرە کە کەڵکەکان بۆ پارەدانی کەسایەتی دەردەکەوێن. بەرزکردنەکانت دەتوانن "
+"بڕیارەکانیان هەڵبژێرن."
+
+msgid "Show these methods"
+msgstr "ئەو کەڵکەکان نیشان بدە"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Direct Crypto (ناونیشانی Wallet)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (کارتە کڕێدیت → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (کارتە کڕێدیت → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (کارتە کڕێدیت → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (بەکارهێنەرەکە crypto ئەولە دەفرێش)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (کارتە کڕێدیت)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"ناونیشانی Wallet خۆتان نیشان بدە بۆ ئەوەی بەکارهێنەران بتوانن crypto یەک لە "
+"ڕاستەوخۆ بنێرن. رێگەکان سەفرن، بەڵکو بەکارهێنەران پێویستە بە crypto هەڵە بێت"
+" لێره."
+
+msgid "Wallet Address"
+msgstr "ناونیشانی Wallet"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr ""
+"ناونیشانی Wallet وەک Quai، Ethereum، Bitcoin، یان wallet هەورەکەتەکانت."
+
+msgid "Network"
+msgstr "تۆڕ"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network (پێشنیارکراو - بەدوای فری)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "باشترین بۆ دەستپێکەران و کەمترین فێرەکان"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments دەتوانێت پارەی کارتی کریتۆنەکەت بەسەری مافەکەت بەکار بێنێ. "
+"پارەکان بەدوایەکانە بۆ مافەکەت دەگۆڕن – هیچ بەکارهێنەرێکی لە ڕێگایەک "
+"نەکەمێکە."
+
+msgid "Fee:"
+msgstr "سەرکەوتن:"
+
+msgid "per transaction"
+msgstr "هر گۆڕان"
+
+msgid "Payout:"
+msgstr "دەرچوون:"
+
+msgid "Direct to your wallet"
+msgstr "ڕاستەوخۆ بۆ مافەکەت"
+
+msgid "Setup:"
+msgstr "ڕێکخستن:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "دروستکردنی هەژمارێکی بێپێدا → کلیدەکانی API → کۆپی کردنەوەی کلید API"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments کلید API"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "کلیدەکانی APIت لە داشبۆردی NOWPayments بنێرە."
+
+msgid "Great support, slightly higher fee"
+msgstr "پشتیبانی باش، فێرەکەیەکی هەردەم بەرزە"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate فڕۆشی کریتۆنەکانی سەبارەیەکی پێشکەشکراوە بەرزە و فەرمی WordPress "
+"پەیوەندیدارە."
+
+msgid "1% per transaction"
+msgstr "١٪ بۆ هەر گۆڕان"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "دروستکردنی هەژمار → کلیدەکانی API"
+
+msgid "CoinGate API Key"
+msgstr "کلید API CoinGate"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "نیشتمانەیەکی گەورە، لەگەڵ ئەمریکا"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay بە شرکتە گرنگەکان پەیوەندیە و کارەکان بۆ کاروبارەکانی لە ئامریکا "
+"بەڕێوەدەچێت."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "حسابەکانی کەشەکان → کلیدەکانی API"
+
+msgid "BitPay API Key"
+msgstr "کلید API BitPay"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "بەکارهێنەران سەرەتا کریتۆن خریدن، پاشان بۆت دەبەستێن"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay بەکارهێنەران دەتوانن کریتۆن بە کارتی کریتۆنەکەتان بەسەری بۆ "
+"مافەکەتان بکەن، پاشان بۆت دەبەستێن. فێرەکان بەرزە، بەڵام سەرکەوتنەکان بۆ "
+"بەکارهێنەران زۆر سادەیە."
+
+msgid "~3.5% per transaction"
+msgstr "~٣.٥٪ بۆ هەر گۆڕان"
+
+msgid "User's wallet first"
+msgstr "پەیوەندی بەرەی بۆکە"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "کلید API MoonPay"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "ئه‌همه‌:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"پێداویستی کریپتوەکانی Stripe (USDC) تەنیا بۆ کۆمپانیاکان لە سەر بە سەر "
+"ئەمریکا تەنها بەکار دەهێنرێت. ئەگەر لە دەرەوەی ئەمریکایەتی باشید، Stripe "
+"تەنها پارە بەکارتەکانی کارتی کردەی بۆ پارەی Stripe (نە بە کرپتو)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"ئەگەر لە ئەمریکا باشید، دەتوانن Stripe بەکاردەهێنیت بۆ گرتنی کرپتو بە سەری. "
+"ئەگەر لە دەرەوە، بڕیار بدە بۆ NOWPayments یان CoinGate بۆ دەرچوونی کرپتو بە "
+"سەری."
+
+msgid "Stripe Publishable Key"
+msgstr "کلیلەکەی فەڕاندن"
+
+msgid "Stripe Secret Key"
+msgstr "کلیلەکەی شەخسی"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"کۆن PayPal. بەکارهێنەران بە بەرزەکەی PayPal یان کارتی کردەی پارە دەهەن. "
+"پەیمنەکان بە پارەی PayPal-ت لەبەش دەبێن."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "کارەکانی گواستنەوەی PayPal بە شێوازی سەرەکی بەکار دەهێنرێن."
+
+msgid "PayPal Client ID"
+msgstr "ناسنامەی PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"دۆزینەی کریدەنتێلەکانی PayPal API-ت لە <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">Dashboard-ی پەرەی "
+"پەرەی PayPal</a>."
+
+msgid "PayPal Secret"
+msgstr "سیکرتی PayPal"
+
+msgid "Donation Tiers"
+msgstr "قۆناغەکانی داواکردن"
+
+msgid "Add Tier"
+msgstr "زیادکردن قۆناغ"
+
+msgid "Remove"
+msgstr "سڕینەوە"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr "نەخشەکانەی داواکردن (USD) پیشەوە. بۆ هەموو کەرتی تایبەت بە خالی بێت."
+
+msgid "Membership"
+msgstr "شەراکەت"
+
+msgid "Enable Membership"
+msgstr "فێرکردنی شەراکەت"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "پێشکەوتن بۆ بەجێچوونی دۆسیەکان (پێویستە Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "پشتیوانی"
+
+msgid "Donate"
+msgstr "داواکردن"
+
+msgid "Crypto"
+msgstr "کرپتو"
+
+msgid "Credit Card"
+msgstr "کارتەکەی کردەی"
+
+msgid "Choose amount"
+msgstr "هەندێک هەڵبژێرە"
+
+msgid "Custom amount"
+msgstr "هەندێک تایبەت"
+
+msgid "Enter amount (USD)"
+msgstr "دروستکردنی هەندە (USD)"
+
+msgid "Donate Now"
+msgstr "داواکردنی هەنووک"
+
+msgid "Crypto Address"
+msgstr "ناوی کرپتو"
+
+msgid "Copy Address"
+msgstr "کۆپی کردنەوەی ناو"
+
+msgid "Copied!"
+msgstr "کۆپی کرا!"
+
+msgid "Pay with Credit Card"
+msgstr "پارەدانی بە کارتی کردەی"
+
+msgid "Pay with PayPal"
+msgstr "پارەدانی بە PayPal"
+
+msgid "Membership Plans"
+msgstr "پلانی ئەنداشتەکان"
+
+msgid "Monthly"
+msgstr "ماهینەیی"
+
+msgid "Yearly"
+msgstr "سالانه"
+
+msgid "Subscribe"
+msgstr "بەشداریکن"
+
+msgid "Credit Card → Crypto"
+msgstr "کارتە کریتێنە → کریپتو"
+
+msgid "Buy Crypto"
+msgstr "کڕینی کریپتو"
+
+msgid "Processing..."
+msgstr "پڕۆسەکە..."
+
+msgid "Payment successful!"
+msgstr "کۆتایی سەرکەوتووە!"
+
+msgid "Payment failed"
+msgstr "کۆتایی ناکۆک بوو"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments ڕێگە دەدات بۆ بەکارهێنانی پارەکانی کارتێکریتە بەدوای خەتەی "
+"کریپتوەکەت."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate فڕۆکەیەکی سەیرەکانی کریپتوەکەی بەڕێزە."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay بەکارهێنەران دەمێنێت بۆ کڕینی کریپتو بە کارتێکریتە بڕۆنە خەتەی خود، "
+"دوایان ئەوە بۆ تۆ بنێن."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "دواترە کە کریپتو کڕیت، تکایە بۆ ناونیشانی خەتەی لە خوارەوە بنێن."
+
+msgid "Your crypto wallet address"
+msgstr "ناونیشانی خەتەی کریپتوەکەت"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "دوستەکەم بۆ خۆشەویستی قه‌یفەکەمان بەجێگرێن."
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"وێجتێکی قوی، بێپێکه و خزمەتگوزاری پارەدانەکەیەکە کە ڕێگە دەدات سەیرەکانی تۆ "
+"بۆ پشتیوانی بکەن بە کارتێکریتە یان کریپتو (Quai). هیچ فێری ماهیەکان، هیچ "
+"سەپلەکێک بەسەرچوو نەکە، تەنها خەتەیەکەت و خزمەتگوزارییەکان بێپێکه."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"هەندێک گەڕەکەکە سکرپتەکانی سێدەری سەیرەکەکان بۆ حەماسی شفاف قاپدەکەن. ئەم "
+"پراکسیە سکرپتەکان لە ڕێگەی خۆت بۆ سروەکەتەکەت دەنەکات بۆ پاراستنی ئەم "
+"قاپەکان."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"دەتوانیت URL-ەکانی سکرپت لە خوارەوە نوێ بکەیت ئەگەر URL-ەکانی سەرەکی گۆڕدرێت"
+" یان دەتەوێت CDN جیاوازەکە بەکاردەهێنیت."
+
+msgid "Script"
+msgstr "سکرپت"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "کردار"
+
+msgid "Test"
+msgstr "تست"
+
+msgid "Refresh"
+msgstr "بارکردنەوە"
+
+msgid "Usage:"
+msgstr "بەکارهێنان:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js بۆ پارەدانی کارتێکریتە"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK بۆ پارەدانی PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas بۆ دروستکردنی سکرین‌شۆت"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF بۆ دروستکردنی PDF"
+
+msgid "External Script Proxy"
+msgstr "پراکسی سکرپتی دەرەوە"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"کلیک بکە لەسەر \"تست\" بۆ چیککردنی ئەگەر URL-ی سکریپتە بەردەستە. پرۆکسی "
+"سکریپتانەکان لە ناوەندی خۆی هەڵدەکات بۆ باشترکردنی کارایی."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "ئیمەیڵی PayPal (پێشکەشکردن)"
+
+msgid "Quick Stats"
+msgstr "ئامارێکی کورت"
+
+msgid "Widget Status:"
+msgstr "دۆخی وێجت:"
+
+msgid "Active"
+msgstr "چالاک"
+
+msgid "Inactive"
+msgstr "نەچالاک"
+
+msgid "Enabled Payment Methods:"
+msgstr "ڕێکەوتنەکانی پارەدانەوە کە بەردەستە:"
+
+msgid "None"
+msgstr "هیچ"
+
+msgid "Crypto Wallet:"
+msgstr "پەیەندی کریپتو:"
+
+msgid "Not set"
+msgstr "نەبەستکراو"
+
+msgid "pay_with_card"
+msgstr "پەیە بکە بە کارت"
+
+msgid "crypto_address_label"
+msgstr "کریپتو بڕێنە بەدوور بۆ ئەم ناونیشانە:"
+
+msgid "crypto_note"
+msgstr "سەرمایەکان بەباشەی بۆ پەیەندەکەت دەردەکەوێت. هیچ فیسێک نیە."
+
+msgid "your_crypto_address"
+msgstr "ناونیشانی پەیەندەکەت:"
+
+msgid "nowpayments_desc"
+msgstr "پەیە بکە بە کارت کردەیەک – کریپتو بەباشەی بۆ پەیەندەکەت دەردەکەوێت."
+
+msgid "coingate_desc"
+msgstr "پەیە بکە بە کارت کردەیەک – کریپتو بۆ پەیەندەکەت."
+
+msgid "bitpay_desc"
+msgstr ""
+"پارەدانەکانی کریپتو لە سەروەکی سەربەخۆ. باشترین بۆ کۆمپانیایەکانی لە "
+"ئامریکا."
+
+msgid "moonpay_desc"
+msgstr "کریپتو بەکاربەی کارت کردەیەک بڕۆ، هەروەها بۆ ناونیشانی خوارەوە بنێرە."
+
+msgid "moonpay_note"
+msgstr "پاش خریدەکانی کریپتو، تکایە بۆ ناونیشانی پەیەندەکەت پێشە بکە."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "سەرمایەکان بەباشەی بۆ پەیەندەکەت دەردەکەوێت. هیچ فیسێک نیە."
+
+msgid "Pay with Card"
+msgstr "پەیە بکە بە کارت"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "پەیە بکە بە کارت کردەیەک – کریپتو بەباشەی بۆ پەیەندەکەت دەردەکەوێت."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "کریپتو بڕێنە بەدوور بۆ ئەم ناونیشانە:"

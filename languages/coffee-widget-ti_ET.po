@@ -1,0 +1,685 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tigrinya <ti_ET>\n"
+"Language: ti-ET\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "ኮፊው ዋይድጅ ዳሽቦርድ"
+
+msgid "Coffee Widget"
+msgstr "ኮፊው ዋይድጅ"
+
+msgid "Settings"
+msgstr "ቅንብር"
+
+msgid "Dashboard"
+msgstr "ዳሽቦርድ"
+
+msgid "Payment Methods"
+msgstr "የክፍያ አይነቶች"
+
+msgid "Help & Support"
+msgstr "እርዳታ ንድጋፍ"
+
+msgid "General"
+msgstr "አጠቃላይ"
+
+msgid "Button"
+msgstr "ቶምቢዩ"
+
+msgid "Advanced"
+msgstr "ተለዋዋጭ"
+
+msgid "Proxy Scripts"
+msgstr "ፕሮክሲ ስክርፕቶች"
+
+msgid "Widget Settings"
+msgstr "ዋይድጅ ቅንብር"
+
+msgid "Widget Status"
+msgstr "ዋይድጅ ሃልተኛ"
+
+msgid "Widget active"
+msgstr "ዋይድጅ ተናጋሪ"
+
+msgid "Button Color"
+msgstr "ቶምቢዩ ቀለም"
+
+msgid "Button Position"
+msgstr "ቶምቢዩ ቦታ"
+
+msgid "Left"
+msgstr "ደረት"
+
+msgid "Right"
+msgstr "ጽዕና"
+
+msgid "Horizontal Margin (px)"
+msgstr "ሰውነት ሰፊ አርስተት (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "ተለዋዋጭ አርስተት (px)"
+
+msgid "Button Message"
+msgstr "ቶምቢዩ መልዕክት"
+
+msgid "Description"
+msgstr "ተናጋሪ"
+
+msgid "Button Type"
+msgstr "ቶምቢዩ አይነት"
+
+msgid "Emoji"
+msgstr "ኤምሮ"
+
+msgid "SVG Code"
+msgstr "SVG ኮድ"
+
+msgid "PNG Image URL"
+msgstr "PNG ምስል አድርግ"
+
+msgid "Button Emoji"
+msgstr "ቶምቢዩ ኤምሮ"
+
+msgid "Custom CSS"
+msgstr "ብዙሕ CSS"
+
+msgid "Custom JavaScript"
+msgstr "ብዙሕ JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "ምንታይ የክፍያ አገልግሎት ይምረጡ?"
+
+msgid ""
+"We offer multiple services to accept credit card payments to your crypto "
+"wallet. Here's how they compare:"
+msgstr ""
+"እና ይሰጣለን ብዙ አገልግሎቶች የተሰርበት ዕቃ ክርዲት ካርድ ክፍያዎች ወደ ክርፕቶ በማተም። እነዚ እንዴት ይሰራሉ:"
+
+msgid "Service"
+msgstr "ኣገልግሎት"
+
+msgid "Fee"
+msgstr "ክፍያ"
+
+msgid "Where does crypto go?"
+msgstr "ክሪፕቶ ንዝተሰራ ትብለይ?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress ፕለጊን"
+
+msgid "Best for"
+msgstr "ብስልጣናት ምርጥ"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 አሜሪካ ቢዝነስ?"
+
+msgid "Direct Crypto"
+msgstr "ቀጥታ ክሪፕቶ"
+
+msgid "No fee"
+msgstr "ክፍያ አይደለም"
+
+msgid "Your wallet directly"
+msgstr "ወላትዎ ቀጥታ"
+
+msgid "Built-in"
+msgstr "ተቀምጠው"
+
+msgid "Crypto-savvy users"
+msgstr "ክሪፕቶ ተወላጅ ደርጃ"
+
+msgid "Anywhere"
+msgstr "ወይኛም ቦታ"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API ዝጠንቀቅ"
+
+msgid "Beginners, low fees"
+msgstr "ተጀማሪዎች, ትንሽ ክፍያ"
+
+msgid "Global (incl. Turkey)"
+msgstr "አለም (በተካትት ቱርክ)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "አብራሪ ፕለጊን"
+
+msgid "Good support"
+msgstr "ጥሩ ድጋፍ"
+
+msgid "Global"
+msgstr "አለም"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "ንግድ, የአሜሪካ ኩባንያቶች"
+
+msgid "US-friendly"
+msgstr "አሜሪካ ተስፋማ"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ ወላት ውስጥ ደቀ ሰው"
+
+msgid "Widget ready"
+msgstr "ዌብድግ ዝጠንቀቅ"
+
+msgid "Users with own wallets"
+msgstr "ሰብ አብ ዝስል ወላት"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "ዩኤስ ቢዝነሶች ብትንቅስቃስ"
+
+msgid "❌ US ONLY"
+msgstr "❌ ዩኤስ ብትንቅስቃስ"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "ተለዋዋጭ"
+
+msgid "Asia markets"
+msgstr "አይሳ ገበታት"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "ነተን ዕምባ"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ የፓል ተደብቃት"
+
+msgid "PayPal users"
+msgstr "የፓል ተጠቃሚዎች"
+
+msgid "Tip:"
+msgstr "ጥቅም:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"ንዓይ ውጭ የሆኑ የNOWPayments ይወዳጅ (ተለቅ ዕምባ፣ በትክክል ወደ ቪላይዎ በቀጠለም). እቲ ውስጥ ካልከው "
+"የStripe Crypto ናይ አንድ ምርጫ ኢዩ. አትር ደገሞ ብተስራ አንድ ይሰራርት እና ተጠቃሚዎችን ይምረጡ!"
+
+msgid "Enabled Payment Methods"
+msgstr "የተረገበ የክፍያ ዘይትና"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr "ምን የክፍያ ምርጫዎች ይታዩ በይዙ በይን እና ይምረጡ።"
+
+msgid "Show these methods"
+msgstr "እነዚህን ስርዓት ይታዩ"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 ዕጽም ክርፓይ (የቪላይ አድራሻ)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (ክርድ ካርድ → ክርፓይ)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (ክርድ ካርድ → ክርፓይ)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (ክርድ ካርድ → ክርፓይ)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (ተጠቃሚ አለበት ክርፓይ ይገበር)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (ክርድ ካርድ)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr "የየትን ቪላይ አድራሻ ይታዩ። በተለይ ዕጽም ክርፓይ ማስተናገድ ይችላሉ።"
+
+msgid "Wallet Address"
+msgstr "የቪላይ አድራሻ"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "የእናት ኪይ፣ ኤትሪየም፣ ቢቶኬን ወይም ሌላ ቪላይ አድራሻ"
+
+msgid "Network"
+msgstr "በር"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network (የተመከረ - የነገ ቅርጽ)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "ተስማሚ ለነበርቲ እና ተቀባ ትርፍ"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments ይችላል ክርድ ካርድ በቀጠለ ወደ ክርይፖ ተቅበል ፣ ገበሬ በቀጠለ ወደ አንተ ይደርስ – ከብሉ ይልም "
+"ይደርስ አይደለም።"
+
+msgid "Fee:"
+msgstr "ትርፍ:"
+
+msgid "per transaction"
+msgstr "ን ዕቃ"
+
+msgid "Payout:"
+msgstr "አትማጃ:"
+
+msgid "Direct to your wallet"
+msgstr "በተወላጅ ወደ አንተ ይደርስ"
+
+msgid "Setup:"
+msgstr "ስትማም:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "ነጻ አካውንት ፕሮፕ → API ቁልፍ → API ቁልፍ ዝተቃለ አትም"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API ቁልፍ"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "NOWPayments dashboard ደርሰ የ API ቁልፍ ይታደው"
+
+msgid "Great support, slightly higher fee"
+msgstr "ብተብስ ድጋፍ፣ ትክክል ትርፍ"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr "CoinGate የተሠራበ ክርይፖ አካውንት እና አምባባሪ WordPress የተቀበል ተጠና"
+
+msgid "1% per transaction"
+msgstr "1% ን ዕቃ"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "አካውንት ፕሮፕ → API ቁልፍ"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API ቁልፍ"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "ተቀባበል አዲስ ድርስ, US የተለያዩ"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr "BitPay በተጠቃሚ ድርስ ይታወቀው እና የ US የተለያዩ ንግድ ይሰራ"
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "የንግድ አካውንት → API ቁልፍ"
+
+msgid "BitPay API Key"
+msgstr "BitPay API ቁልፍ"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "ተስማሚ ክርይፖ አብ አልፈ ይገዛ እና ከድርሰ ወደ አንተ ይላካ"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay ተስማሚ ክርይፖ ከተባበር ይቀበል በቀጠለ ወደ ተለያዩ ሰንደይ ተባበር ይደርስ እና ከድርሰ ወደ አንተ ይላካ።"
+" ይቀበል ትርፍ ከፍ ነው እና ተስማሚ ይስተል ለተለያዩ"
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% ን ዕቃ"
+
+msgid "User's wallet first"
+msgstr "ተስማሚ ወደ ስምዕን አስፈላጊ"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API ቁልፍ"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "ነባር:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto ክፍያታት (USDC) ብ US ተቋምታት ብተስፋት እዩ። እንተ ዓይነት በ US ውጭ እንተይ፣ "
+"Stripe ብ ደርስ ክርድካርድ ክፍያት ወደ ደንበኛ ስር ይትብል እንተ እንደዚ አይደለይ።"
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"US እንተድ በ Stripe ብ ክርፕቶ ይተርም። አብ ውጭ እንተይ፣ NOWPayments ወይ CoinGate ብ ክርፕቶ "
+"ይተወስድ።"
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe ዝተሰረ ቁልፍ"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe ዝተምርጥ ቁልፍ"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"አነዱ PayPal ክፍያት። ተሰባት ከ PayPal አካውንት ወይ በ ትምህርት ክፍያት ይደርስ። ደርቅ ወደ እትሕት ይገብር።"
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "ደንበኛ አበይ ን PayPal ወጪ ይሰራል።"
+
+msgid "PayPal Client ID"
+msgstr "PayPal ተሳርዓት አይዲ"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"ወደ <a href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal "
+"Developer Dashboard</a> ይደርሱ ።"
+
+msgid "PayPal Secret"
+msgstr "PayPal ዝተምርጥ"
+
+msgid "Donation Tiers"
+msgstr "ደረጃ ተደርስ"
+
+msgid "Add Tier"
+msgstr "ደረጃ ጨምር"
+
+msgid "Remove"
+msgstr "ይተነበይ"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr "በተቃወም የተደርስ ደረጃ (USD). የምርት ማስተማው አትተር ይወድድ።"
+
+msgid "Membership"
+msgstr "ተቀበለ"
+
+msgid "Enable Membership"
+msgstr "ተቀበለ አክል"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "የነበር ደረጃ ተደርስ ተርዖት (Stripe Subscriptions ይትካል።"
+
+msgid "Support"
+msgstr "እርዳታ"
+
+msgid "Donate"
+msgstr "ተባለ"
+
+msgid "Crypto"
+msgstr "ክርፕቶ"
+
+msgid "Credit Card"
+msgstr "ትምህርት ትለት"
+
+msgid "Choose amount"
+msgstr "ደረጃ ይምረጥ"
+
+msgid "Custom amount"
+msgstr "ልዩ ደረጃ"
+
+msgid "Enter amount (USD)"
+msgstr "ደረጃ ይቅር (USD)"
+
+msgid "Donate Now"
+msgstr "አሁን ተባለ"
+
+msgid "Crypto Address"
+msgstr "ክርፕቶ አድርስ"
+
+msgid "Copy Address"
+msgstr "አድርስ ይቅር"
+
+msgid "Copied!"
+msgstr "ይትተቅስ!"
+
+msgid "Pay with Credit Card"
+msgstr "በ ትምህርት ትለት አትደርስ"
+
+msgid "Pay with PayPal"
+msgstr "በ PayPal አትደርስ"
+
+msgid "Membership Plans"
+msgstr "ዝተመዝገበ ኣብዛይ"
+
+msgid "Monthly"
+msgstr "ሙኒተል"
+
+msgid "Yearly"
+msgstr "ዓመትናይ"
+
+msgid "Subscribe"
+msgstr "ይተወስን"
+
+msgid "Credit Card → Crypto"
+msgstr "ክርድ ካርድ → ክሪፖ"
+
+msgid "Buy Crypto"
+msgstr "ክሪፖ ይግዙ"
+
+msgid "Processing..."
+msgstr "በስተት ደርሶ አለው…"
+
+msgid "Payment successful!"
+msgstr "ኣብዚ ደርሶ አለው!"
+
+msgid "Payment failed"
+msgstr "ኣብዚ ደርሶ አይተሰልክ"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments ዝተፈጸም እዚ በአትነት ክርድ ካርድ ንክተይ ንዝደርሶ በክሪፖ ወለት በተወሰነ በስተት አለው."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate ዝተፈጸም ኣብ ዓለም ዝምድና ክሪፖ ክብደል ዝሰርም."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr "MoonPay ደርሶ ይተዋስን ክሪፖ በክርድ ካርድ በተወሰነ ወለት ደርሶ ነበር በነዚ ንክትሰምን."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "ከተምቢራ ንምትዝ በክሪፖ ከይደርስ ከትደርስ በተወሰነ ወለት አድራሻ በታች."
+
+msgid "Your crypto wallet address"
+msgstr "ንክትሰምን ክሪፖ ወለት አድራሻ"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "ስምዒት እንዲዋበዝ አንዱ ንግድ አልተና"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"ስልት ትክክል እና ንብዝ በክርድ ካርድ ወይ ክሪፖ (Quai) አብዚ ዘብስሰት ነበር፣ የአንዱ ነገር ስርዓት ወይም ስርዓት"
+" ማስተላለፍ አልተና."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr "ምንም ባደር በስተት ይምን አይተወስን እንቅስቃሴ አልተና፣ ይህ ፕሮክሲ ስክሪፕት በትርጉም አለው."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr "እባክዎ ስክሪፕት ድጋፍ አለተለዋይ እንዲደርስ እንደተወሰነ አማርኛ ይጠቀሙ."
+
+msgid "Script"
+msgstr "ስክሪፕት"
+
+msgid "URL"
+msgstr "ዩአርኤል"
+
+msgid "Cache TTL"
+msgstr "ተቋሚ ጊዜ"
+
+msgid "Action"
+msgstr "እርስዎ ይታወቃሉ"
+
+msgid "Test"
+msgstr "ሙከራ"
+
+msgid "Refresh"
+msgstr "እውነት ማዘጋጃ"
+
+msgid "Usage:"
+msgstr "አስተዋፅኦ:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js የክርድ ካርድ ክብደል አትራ"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK የPayPal ክብደል"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas ስክሪንሽ ዝግጅት"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF የPDF ስክሪንሽ ስርዓት"
+
+msgid "External Script Proxy"
+msgstr "የሚቀጥለው ስክሪፕት ፕሮክሲ"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"ይጫን \"Test\" ንምርምር እንተ ዝተገበረ ስክሪፕት URL ከምዚ ከይትገባ እዩ። ውልቃ ስክሪፕትን ብዕቃበ ምምርምር "
+"ክሓዝዝ ይትትከትል።"
+
+msgid "Dogecoin"
+msgstr "ዶግኬን"
+
+msgid "Litecoin"
+msgstr "ሊተክኦን"
+
+msgid "PayPal Email (Fallback)"
+msgstr "ዋስትን ፕላል ኢሜል (ኣብ ሓትት)"
+
+msgid "Quick Stats"
+msgstr "ቀላል ስታትስ"
+
+msgid "Widget Status:"
+msgstr "ዋይድግ ስታትስ፦"
+
+msgid "Active"
+msgstr "ኣብትሕያ"
+
+msgid "Inactive"
+msgstr "ምዝገበር"
+
+msgid "Enabled Payment Methods:"
+msgstr "ስርእስ ይኽን ግዜ አብዛን ወይድ፦"
+
+msgid "None"
+msgstr "ምንትም"
+
+msgid "Crypto Wallet:"
+msgstr "ትርጉም ወሎት፦"
+
+msgid "Not set"
+msgstr "ኣብዚ እዩ ይኣተግበር"
+
+msgid "pay_with_card"
+msgstr "ከርት ገበታ እንተገብር"
+
+msgid "crypto_address_label"
+msgstr "ዓይነት ምስክት ንወይድ ዝድደውም ኣብ አድራሻ ይብልክ፦"
+
+msgid "crypto_note"
+msgstr "ግዜ ስም አብ ወሎት ብቐልጥ ንግስተ አይፈልጥ።"
+
+msgid "your_crypto_address"
+msgstr "እንደደ አድራሻው ወሎት፦"
+
+msgid "nowpayments_desc"
+msgstr "ንግስተ አብ ምንትም ውስት ደርሰት – በለዝ ዝተባለይ ከምዚ አብ ወሎት ብምርምር ይኽንዱ።"
+
+msgid "coingate_desc"
+msgstr "ንግስተ አብ ምንትም ደርሰት – ነገ ወሎት በበርክት።"
+
+msgid "bitpay_desc"
+msgstr "አደባባሚ ዝተዋን ወሎት ገበታ። ተማካሪ የዚዝ ብማይ ድሕሪት ይደርስ።"
+
+msgid "moonpay_desc"
+msgstr "ወሎት ብግዜ ነገ ብትልሽ ይግባ። ንምበር እትዝ አድራሻ በስርዓት ይኽንዱ።"
+
+msgid "moonpay_note"
+msgstr "እትግባ ከም ወሎት የተሞዘ አድራሻ ኣብ ተነበለ እብል ይሃል።"
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "ገንዘብ ብተለምድ አብ ወሎት ይተብል። ዝተደረገ አይደለይ።"
+
+msgid "Pay with Card"
+msgstr "የማስተናገድ ክርድ"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "ንምወዳድም ትርጉም ብርስታት – ወሎት ብተለምድ ይተብል።"
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "ከም ወሎት ብተለምድ እንተጠቅላ ዝተረገዘ አድራሻ፦"

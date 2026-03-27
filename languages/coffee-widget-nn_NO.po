@@ -1,0 +1,704 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Norwegian (Nynorsk) <nn_NO>\n"
+"Language: nn-NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Kaffe-widget-dashbord"
+
+msgid "Coffee Widget"
+msgstr "Kaffe-widget"
+
+msgid "Settings"
+msgstr "Innstillingar"
+
+msgid "Dashboard"
+msgstr "Kaffe-dashbord"
+
+msgid "Payment Methods"
+msgstr "Betalingsmåtar"
+
+msgid "Help & Support"
+msgstr "Hjelp & støtte"
+
+msgid "General"
+msgstr "Generelt"
+
+msgid "Button"
+msgstr "Knapp"
+
+msgid "Advanced"
+msgstr "Avansert"
+
+msgid "Proxy Scripts"
+msgstr "Proxy-skript"
+
+msgid "Widget Settings"
+msgstr "Widget-innstillingar"
+
+msgid "Widget Status"
+msgstr "Widget-status"
+
+msgid "Widget active"
+msgstr "Widget aktiv"
+
+msgid "Button Color"
+msgstr "Knappfarge"
+
+msgid "Button Position"
+msgstr "Knappplassering"
+
+msgid "Left"
+msgstr "Venstre"
+
+msgid "Right"
+msgstr "Høgre"
+
+msgid "Horizontal Margin (px)"
+msgstr "Horisontal marg (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Vertikal marg (px)"
+
+msgid "Button Message"
+msgstr "Knappmelding"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Button Type"
+msgstr "Knapptype"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "SVG-kode"
+
+msgid "PNG Image URL"
+msgstr "PNG bilete-URL"
+
+msgid "Button Emoji"
+msgstr "Knapp‑emoji"
+
+msgid "Custom CSS"
+msgstr "Eigendefinert CSS"
+
+msgid "Custom JavaScript"
+msgstr "Eigendefinert JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "Kva betalings‑teneste skal du velje?"
+
+msgid "Service"
+msgstr "Teneste"
+
+msgid "Fee"
+msgstr "Gebyr"
+
+msgid "Where does crypto go?"
+msgstr "Kva gjer kryptovaluta seg?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress-tillegg"
+
+msgid "Best for"
+msgstr "Beste for"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 US-virksomheit?"
+
+msgid "Direct Crypto"
+msgstr "Direkte kryptovaluta"
+
+msgid "No fee"
+msgstr "Ingen gebyr"
+
+msgid "Your wallet directly"
+msgstr "Ditt lommebok direkte"
+
+msgid "Built-in"
+msgstr "Integrert"
+
+msgid "Crypto-savvy users"
+msgstr "Kryptokunnige brukarar"
+
+msgid "Anywhere"
+msgstr "Overalt"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API-klar"
+
+msgid "Beginners, low fees"
+msgstr "Nybegynnarar, låga gebyr"
+
+msgid "Global (incl. Turkey)"
+msgstr "Global (inkl. Tyrkia)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Offisielt tillegg"
+
+msgid "Good support"
+msgstr "God støtte"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Enterprise, amerikanske firma"
+
+msgid "US-friendly"
+msgstr "US-vennleg"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Brukarens lommebok først"
+
+msgid "Widget ready"
+msgstr "Widget-klar"
+
+msgid "Users with own wallets"
+msgstr "Brukarar med eigne lommebøker"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Berre amerikanske bedrifter"
+
+msgid "❌ US ONLY"
+msgstr "❌ US ALENE"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Variabel"
+
+msgid "Asia markets"
+msgstr "Asia-marknader"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Standardavgiftar"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal-saldo"
+
+msgid "PayPal users"
+msgstr "PayPal-brukarar"
+
+msgid "Tip:"
+msgstr "Tips:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Dersom du er utanfor USA, anbefaler vi NOWPayments (lavaste avgifter, "
+"direkte til lommeboka di). Dersom du er i USA, er Stripe Crypto òg ein val. "
+"Du kan aktivere fleire tenester og la besøkarane dine velja!"
+
+msgid "Enabled Payment Methods"
+msgstr "Aktiverte betalingsmetodar"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Vel kva betalingsalternativ som skal visast i widgeten. Dine besøkarar kan "
+"velja den foretrukke metoden."
+
+msgid "Show these methods"
+msgstr "Vis desse metodane"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Direct Crypto (Lommebokadresse)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Kredittkort → Krypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Kredittkort → Krypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Kredittkort → Krypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Brukar kjøper krypto først)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Kredittkort)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Vis lommebokadressa di slik at brukarar kan senda krypto direkte. Ingen "
+"avgifter, men krev at brukarar allereie har krypto."
+
+msgid "Wallet Address"
+msgstr "Lommebokadresse"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Dine Quai-, Ethereum-, Bitcoin- eller andre lommebokadresse."
+
+msgid "Network"
+msgstr "Nettverk"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai-nettverk (Rekrumande – gratis)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Beste for nybegynnarar og lavaste gebyrar"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments lar deg ta imot kredittkortbetalingar direkte til "
+"kryptolommeboka di. Midlane går rett til lommeboka di – ingen mellommann."
+
+msgid "Fee:"
+msgstr "Gebyr:"
+
+msgid "per transaction"
+msgstr "per transaksjon"
+
+msgid "Payout:"
+msgstr "Utbetaling:"
+
+msgid "Direct to your wallet"
+msgstr "Direkte til lommeboka di"
+
+msgid "Setup:"
+msgstr "Oppsett:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Opprett gratis konto → API-nøklar → Kopier API-nøkkel"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API-nøkkel"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Lim inn API-nøkkelen frå NOWPayments dashbordet."
+
+msgid "Great support, slightly higher fee"
+msgstr "Flott støtte, litt høgare gebyr"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate er ein vel etablert kryptobetalingsprosessor med eit offisielt "
+"WordPress-tillegg."
+
+msgid "1% per transaction"
+msgstr "1% per transaksjon"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Opprett konto → API-nøklar"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API-nøkkel"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Enterprise-grade, US-vennleg"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay er betrodd av store selskap. Fungerer godt for US-baserte bedrifter."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Bedriftskonto → API-nøklar"
+
+msgid "BitPay API Key"
+msgstr "BitPay API-nøkkel"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Brukarar kjøper kryptovaluta først, deretter sender den til deg"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay lar brukarar kjøpe kryptovaluta med kredittkort direkte til sine "
+"lommeboka, deretter sender dei det til deg. Høgare gebyrar, men veldig "
+"enkelt for brukarar."
+
+msgid "~3.5% per transaction"
+msgstr "~3,5% per transaksjon"
+
+msgid "User's wallet first"
+msgstr "Brukarens lommeboka først"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API-nøkkel"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Viktig:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto-betalingar (USDC) er KUN tilgjengelege for bedrifter som er "
+"baserte i USA. Dersom du er utanfor USA, vil Stripe berre godta "
+"kredittkortbetalingar til Stripe-saldoen din (ikkje direkte til "
+"kryptovaluta)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Dersom du er i USA, kan du bruke Stripe til å motta kryptovaluta direkte. "
+"Dersom du er utanfor, vurder NOWPayments eller CoinGate for direkte "
+"kryptovalutautbetalingar."
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe Publiserbar nøkkel"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe Hemmelig nøkkel"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Klassiske PayPal-betalingar. Brukarar betaler med PayPal-saldo eller "
+"kredittkort. Midlene går til PayPal-kontoen din."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Standard PayPal-transaksjonsgebyrer gjer seg gjeldande."
+
+msgid "PayPal Client ID"
+msgstr "PayPal-klient-ID"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Hent PayPal API-legitimasjonane dine frå <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "PayPal Hemmelig"
+
+msgid "Donation Tiers"
+msgstr "Donasjonsnivå"
+
+msgid "Add Tier"
+msgstr "Legg til nivå"
+
+msgid "Remove"
+msgstr "Fjern"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Forhåndsdefinerte donasjonsbeløp (USD). La stå tomt berre for sjølvvalgt "
+"beløp."
+
+msgid "Membership"
+msgstr "Medlemskap"
+
+msgid "Enable Membership"
+msgstr "Aktiver medlemskap"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Tillat gjentakande abonnement (krev Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Støtte"
+
+msgid "Donate"
+msgstr "Donér"
+
+msgid "Crypto"
+msgstr "Krypto"
+
+msgid "Credit Card"
+msgstr "Kredittkort"
+
+msgid "Choose amount"
+msgstr "Vel beløp"
+
+msgid "Custom amount"
+msgstr "Sjølvvalgt beløp"
+
+msgid "Enter amount (USD)"
+msgstr "Skriv inn beløp (USD)"
+
+msgid "Donate Now"
+msgstr "Donér no"
+
+msgid "Crypto Address"
+msgstr "Krypto-adresse"
+
+msgid "Copy Address"
+msgstr "Kopier adresse"
+
+msgid "Copied!"
+msgstr "Kopiert!"
+
+msgid "Pay with Credit Card"
+msgstr "Betal med kredittkort"
+
+msgid "Pay with PayPal"
+msgstr "Betal med PayPal"
+
+msgid "Membership Plans"
+msgstr "Medlemskapstilbod"
+
+msgid "Monthly"
+msgstr "Månadleg"
+
+msgid "Yearly"
+msgstr "Årlig"
+
+msgid "Subscribe"
+msgstr "Abonner"
+
+msgid "Credit Card → Crypto"
+msgstr "Kreditkort → Krypto"
+
+msgid "Buy Crypto"
+msgstr "Kjøp Krypto"
+
+msgid "Processing..."
+msgstr "Behandlar..."
+
+msgid "Payment successful!"
+msgstr "Betaling vellykket!"
+
+msgid "Payment failed"
+msgstr "Betaling feila"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments lar deg ta imot kreditkortbetalingar direkte til lommeboka di "
+"med krypto."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate er ein vel etablert kryptobetalingar prosessor."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay lar brukarar kjøpe krypto med kreditkort direkte til deres lommebok,"
+" deretter sender dei det til deg."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Etter å ha kjøpt krypto, send det til lommebokadressa nedanfor."
+
+msgid "Your crypto wallet address"
+msgstr "Din krypto lommebokadresse"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "La min kjæreste nyte kaffen vår"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Ein kraftig, gratis donasjon- og betalingswidget som lar besøkeare støtte "
+"deg med kreditkort eller kryptovaluta (Quai). Ingen månadsgebyr, ingen "
+"tredjepartsabonnement – berre lommeboka di og gratis tenester."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Nokre nettlesarar blokkerer tredjepartsskript for personvern. Denne proxyen "
+"lastar skriptene gjennom din eigen tenar for å omgå desse blokkeringane."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Du kan oppdatere skript-URLane nedanfor dersom den opprinnelege URLane "
+"endrar seg eller dersom du vil bruke ein annan CDN."
+
+msgid "Script"
+msgstr "Skript"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Handling"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Refresh"
+msgstr "Oppdater"
+
+msgid "Usage:"
+msgstr "Bruk:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js for kreditkortbetalingar"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK for PayPal-betalingar"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas for skjermbildegenerering"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF for PDF-generering"
+
+msgid "External Script Proxy"
+msgstr "Ekstern skriptproxy"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Klikk \"Test\" for å sjekke om skript‑URL‑en er tilgjengeleg. Proxyen vil "
+"cache‑skripta lokalt for betre ytelse."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal‑e‑post (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Snarstatistikk"
+
+msgid "Widget Status:"
+msgstr "Widget‑status:"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Inactive"
+msgstr "Inaktiv"
+
+msgid "Enabled Payment Methods:"
+msgstr "Aktiverte betalingsmåtar:"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "Crypto Wallet:"
+msgstr "Krypto‑lommeboks:"
+
+msgid "Not set"
+msgstr "Ikkje sett"
+
+msgid "pay_with_card"
+msgstr "Betal med kort"
+
+msgid "crypto_address_label"
+msgstr "Send kryptovaluta direkte til denne adressen:"
+
+msgid "crypto_note"
+msgstr "Midlane går direkte til lommeboka di. Ingen gebyrar."
+
+msgid "your_crypto_address"
+msgstr "Din lommebokadresse:"
+
+msgid "nowpayments_desc"
+msgstr "Betal med kredittkort – kryptovaluta går direkte til lommeboka di."
+
+msgid "coingate_desc"
+msgstr "Betal med kredittkort – kryptovaluta til lommeboka di."
+
+msgid "bitpay_desc"
+msgstr "Enterprise‑grad kryptobetalingar. Beste for amerikanske bedrifter."
+
+msgid "moonpay_desc"
+msgstr ""
+"Kjøp kryptovaluta med kredittkort – deretter send den til adressa nedanfor."
+
+msgid "moonpay_note"
+msgstr "Etter kjøp av kryptovaluta, send den til lommebokadressa ovanfor."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Midlane går direkte til lommeboka di. Ingen gebyrar."
+
+msgid "Pay with Card"
+msgstr "Betal med kort"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Betal med kredittkort – kryptovaluta går direkte til lommeboka di."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Send kryptovaluta direkte til denne adressen:"

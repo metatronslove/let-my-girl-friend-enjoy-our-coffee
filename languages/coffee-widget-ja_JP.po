@@ -1,0 +1,675 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Japanese <ja_JP>\n"
+"Language: ja-JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "コーヒーウィジェットダッシュボード"
+
+msgid "Coffee Widget"
+msgstr "コーヒーウィジェット"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Dashboard"
+msgstr "コーヒーダッシュボード"
+
+msgid "Payment Methods"
+msgstr "支払い方法"
+
+msgid "Help & Support"
+msgstr "ヘルプ＆サポート"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Button"
+msgstr "ボタン"
+
+msgid "Advanced"
+msgstr "高度な"
+
+msgid "Proxy Scripts"
+msgstr "プロキシスクリプト"
+
+msgid "Widget Settings"
+msgstr "ウィジェット設定"
+
+msgid "Widget Status"
+msgstr "ウィジェットステータス"
+
+msgid "Widget active"
+msgstr "ウィジェットアクティブ"
+
+msgid "Button Color"
+msgstr "ボタン色"
+
+msgid "Button Position"
+msgstr "ボタン位置"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Horizontal Margin (px)"
+msgstr "水平余白 (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "垂直余白 (px)"
+
+msgid "Button Message"
+msgstr "ボタンメッセージ"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Button Type"
+msgstr "ボタンタイプ"
+
+msgid "Emoji"
+msgstr "絵文字"
+
+msgid "SVG Code"
+msgstr "SVGコード"
+
+msgid "PNG Image URL"
+msgstr "PNG画像URL"
+
+msgid "Button Emoji"
+msgstr "ボタン絵文字"
+
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+msgid "Custom JavaScript"
+msgstr "カスタムJavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "どの支払いサービスを選択すべきですか？"
+
+msgid "Service"
+msgstr "サービス"
+
+msgid "Fee"
+msgstr "手数料"
+
+msgid "Where does crypto go?"
+msgstr "暗号資産はどこに行きますか？"
+
+msgid "WordPress Plugin"
+msgstr "WordPress プラグイン"
+
+msgid "Best for"
+msgstr "おすすめの用途"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 アメリカビジネスですか？"
+
+msgid "Direct Crypto"
+msgstr "直接暗号資産"
+
+msgid "No fee"
+msgstr "手数料なし"
+
+msgid "Your wallet directly"
+msgstr "あなたのウォレットへ直接"
+
+msgid "Built-in"
+msgstr "組み込み"
+
+msgid "Crypto-savvy users"
+msgstr "暗号資産に精通したユーザー"
+
+msgid "Anywhere"
+msgstr "どこでも"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API 対応"
+
+msgid "Beginners, low fees"
+msgstr "初心者向け、低手数料"
+
+msgid "Global (incl. Turkey)"
+msgstr "グローバル（トルコ含む）"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "公式プラグイン"
+
+msgid "Good support"
+msgstr "良好なサポート"
+
+msgid "Global"
+msgstr "グローバル"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "エンタープライズ、米国企業"
+
+msgid "US-friendly"
+msgstr "米国向け"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ ユーザーのウォレットを優先"
+
+msgid "Widget ready"
+msgstr "ウィジェット対応"
+
+msgid "Users with own wallets"
+msgstr "自分のウォレットを持つユーザー"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "米国企業のみ"
+
+msgid "❌ US ONLY"
+msgstr "❌ 米国限定"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "可変"
+
+msgid "Asia markets"
+msgstr "アジア市場"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "標準料金"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal残高"
+
+msgid "PayPal users"
+msgstr "PayPalユーザー"
+
+msgid "Tip:"
+msgstr "ヒント:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"米国外にお住まいの場合は、NOWPayments（最低手数料、ウォレットへの直送）をおすすめします。米国内にお住まいの場合は、Stripe "
+"Cryptoもオプションです。複数のサービスを有効にして、訪問者に選択させることができます！"
+
+msgid "Enabled Payment Methods"
+msgstr "有効化された支払い方法"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr "ウィジェットに表示される支払いオプションを選択してください。訪問者は好きな方法を選べます。"
+
+msgid "Show these methods"
+msgstr "これらの方法を表示"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 直接暗号通貨（ウォレットアドレス）"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments（クレジットカード→暗号通貨）"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate（クレジットカード→暗号通貨）"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay（クレジットカード→暗号通貨）"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay（ユーザーが暗号通貨を最初に購入）"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe（クレジットカード）"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"ウォレットアドレスを表示してユーザーが直接暗号通貨を送信できるようにします。手数料はゼロですが、ユーザーはすでに暗号通貨を保有している必要があります。"
+
+msgid "Wallet Address"
+msgstr "ウォレットアドレス"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "あなたのQuai、Ethereum、Bitcoin、または他のウォレットアドレス。"
+
+msgid "Network"
+msgstr "ネットワーク"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network（推奨 - 無料）"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "ソラナ"
+
+msgid "Polygon"
+msgstr "ポリゴン"
+
+msgid "Best for beginners & lowest fees"
+msgstr "初心者向け＆最低手数料"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPaymentsでは、クレジットカード決済を暗号通貨ウォレットに直接受け付けることができます。資金はウォレットに直接送金され、中間業者は不要です。"
+
+msgid "Fee:"
+msgstr "手数料:"
+
+msgid "per transaction"
+msgstr "1件あたり"
+
+msgid "Payout:"
+msgstr "支払:"
+
+msgid "Direct to your wallet"
+msgstr "直接あなたのウォレットへ"
+
+msgid "Setup:"
+msgstr "設定:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "無料アカウント作成 → APIキー → APIキーをコピー"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments APIキー"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "NOWPaymentsダッシュボードからAPIキーを貼り付けてください。"
+
+msgid "Great support, slightly higher fee"
+msgstr "素晴らしいサポート、手数料は少し高め"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr "CoinGateは公式WordPressプラグインを備えた確立された暗号決済プロセッサです。"
+
+msgid "1% per transaction"
+msgstr "1%（1件あたり）"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "アカウント作成 → APIキー"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate APIキー"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "エンタープライズレベル、米国向け"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr "BitPayは大手企業に信頼されており、米国拠点のビジネスに適しています。"
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "ビジネスアカウント → APIキー"
+
+msgid "BitPay API Key"
+msgstr "BitPay APIキー"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "ユーザーはまず暗号を購入し、次に送金します"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPayはユーザーがクレジットカードで暗号を直接自分のウォレットに購入し、その後あなたに送金することを可能にします。手数料は高めですが、ユーザーにとって非常に簡単です。"
+
+msgid "~3.5% per transaction"
+msgstr "約3.5%（1件あたり）"
+
+msgid "User's wallet first"
+msgstr "ユーザーのウォレット先"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay APIキー"
+
+msgid "Stripe"
+msgstr "ストライプ"
+
+msgid "Important:"
+msgstr "重要:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto payments (USDC) "
+"は米国拠点のビジネスにのみ利用可能です。米国外にいる場合、Stripeはクレジットカード決済をStripe残高にのみ受け付けます（直接暗号資産へは受け付けません）。"
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"米国内にいる場合、Stripeを使用して暗号資産を直接受け取ることができます。米国外の場合は、NOWPaymentsやCoinGateで直接暗号資産の支払いを検討してください。"
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe公開キー"
+
+msgid "Stripe Secret Key"
+msgstr "Stripeシークレットキー"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr "クラシックPayPal決済。ユーザーはPayPal残高またはクレジットカードで支払います。資金はPayPalアカウントに入金されます。"
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "標準のPayPal取引手数料が適用されます。"
+
+msgid "PayPal Client ID"
+msgstr "PayPalクライアントID"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"PayPal API認証情報は、<a href=\"https://developer.paypal.com/\" "
+"target=\"_blank\">PayPal Developer Dashboard</a>から取得してください。"
+
+msgid "PayPal Secret"
+msgstr "PayPalシークレット"
+
+msgid "Donation Tiers"
+msgstr "寄付レベル"
+
+msgid "Add Tier"
+msgstr "レベルを追加"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr "事前定義された寄付額（USD）。カスタム額のみを使用する場合は空白のままにしてください。"
+
+msgid "Membership"
+msgstr "メンバーシップ"
+
+msgid "Enable Membership"
+msgstr "メンバーシップを有効化"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "継続的なサブスクリプションを許可（Stripeサブスクリプションが必要）"
+
+msgid "Support"
+msgstr "サポート"
+
+msgid "Donate"
+msgstr "寄付"
+
+msgid "Crypto"
+msgstr "暗号資産"
+
+msgid "Credit Card"
+msgstr "クレジットカード"
+
+msgid "Choose amount"
+msgstr "金額を選択"
+
+msgid "Custom amount"
+msgstr "カスタム金額"
+
+msgid "Enter amount (USD)"
+msgstr "金額を入力（USD）"
+
+msgid "Donate Now"
+msgstr "今すぐ寄付"
+
+msgid "Crypto Address"
+msgstr "暗号資産アドレス"
+
+msgid "Copy Address"
+msgstr "アドレスをコピー"
+
+msgid "Copied!"
+msgstr "コピーしました！"
+
+msgid "Pay with Credit Card"
+msgstr "クレジットカードで支払う"
+
+msgid "Pay with PayPal"
+msgstr "PayPalで支払う"
+
+msgid "Membership Plans"
+msgstr "メンバーシッププラン"
+
+msgid "Monthly"
+msgstr "月額"
+
+msgid "Yearly"
+msgstr "年額"
+
+msgid "Subscribe"
+msgstr "購読"
+
+msgid "Credit Card → Crypto"
+msgstr "クレジットカード → 暗号通貨"
+
+msgid "Buy Crypto"
+msgstr "暗号通貨を購入"
+
+msgid "Processing..."
+msgstr "処理中..."
+
+msgid "Payment successful!"
+msgstr "支払いが成功しました！"
+
+msgid "Payment failed"
+msgstr "支払いに失敗しました"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr "NOWPaymentsでは、クレジットカード決済を暗号通貨ウォレットに直接受け取ることができます。"
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGateは、確立された暗号通貨決済プロセッサーです。"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr "MoonPayは、ユーザーがクレジットカードで暗号通貨を購入し、直接自分のウォレットに送金し、そこからあなたに送ることを可能にします。"
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "暗号通貨を購入後、以下のウォレットアドレスに送金してください。"
+
+msgid "Your crypto wallet address"
+msgstr "あなたの暗号通貨ウォレットアドレス"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "彼女が私たちのコーヒーを楽しむように"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"訪問者がクレジットカードまたは暗号通貨（Quai）でサポートできる、強力で無料の寄付・決済ウィジェットです。月額料金やサードパーティーのサブスクリプションはなく、ウォレットと無料サービスだけです。"
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"一部のブラウザーはプライバシーのためにサードパーティーのスクリプトをブロックします。このプロキシは、スクリプトを自身のサーバー経由で読み込むことで、ブロックを回避します。"
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr "オリジナルのURLが変更された場合や別のCDNを使用したい場合は、下のスクリプトURLを更新できます。"
+
+msgid "Script"
+msgstr "スクリプト"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "キャッシュTTL"
+
+msgid "Action"
+msgstr "アクション"
+
+msgid "Test"
+msgstr "テスト"
+
+msgid "Refresh"
+msgstr "更新"
+
+msgid "Usage:"
+msgstr "使用方法:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "クレジットカード決済用のStripe.js"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal決済用PayPal SDK"
+
+msgid "html2canvas for screenshot generation"
+msgstr "スクリーンショット生成用html2canvas"
+
+msgid "jsPDF for PDF generation"
+msgstr "PDF生成用jsPDF"
+
+msgid "External Script Proxy"
+msgstr "外部スクリプトプロキシ"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Click \\\"Test\\\" "
+"をクリックしてスクリプトURLがアクセス可能か確認してください。プロキシはパフォーマンス向上のためスクリプトをローカルにキャッシュします。"
+
+msgid "Dogecoin"
+msgstr "ドージコイン"
+
+msgid "Litecoin"
+msgstr "ライトコイン"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPalメール（フォールバック）"
+
+msgid "Quick Stats"
+msgstr "クイック統計"
+
+msgid "Widget Status:"
+msgstr "ウィジェットのステータス:"
+
+msgid "Active"
+msgstr "アクティブ"
+
+msgid "Inactive"
+msgstr "非アクティブ"
+
+msgid "Enabled Payment Methods:"
+msgstr "有効な支払方法:"
+
+msgid "None"
+msgstr "なし"
+
+msgid "Crypto Wallet:"
+msgstr "暗号ウォレット:"
+
+msgid "Not set"
+msgstr "未設定"
+
+msgid "pay_with_card"
+msgstr "カードで支払う"
+
+msgid "crypto_address_label"
+msgstr "暗号通貨をこのアドレスに直接送信してください:"
+
+msgid "crypto_note"
+msgstr "資金は直接あなたのウォレットに送金されます。手数料はありません。"
+
+msgid "your_crypto_address"
+msgstr "あなたのウォレットアドレス:"
+
+msgid "nowpayments_desc"
+msgstr "クレジットカードで支払う – 暗号通貨は直接あなたのウォレットに送金されます。"
+
+msgid "coingate_desc"
+msgstr "クレジットカードで支払う – 暗号通貨はウォレットに送金されます。"
+
+msgid "bitpay_desc"
+msgstr "エンタープライズ向け暗号通貨決済。米国企業に最適です。"
+
+msgid "moonpay_desc"
+msgstr "クレジットカードで暗号通貨を購入し、以下のアドレスに送金してください。"
+
+msgid "moonpay_note"
+msgstr "暗号通貨を購入後、上記のウォレットアドレスに送金してください。"
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "資金は直接あなたのウォレットに送金されます。手数料はありません。"
+
+msgid "Pay with Card"
+msgstr "カードで支払う"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "クレジットカードで支払う – 暗号通貨は直接あなたのウォレットに送金されます。"
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "暗号通貨をこのアドレスに直接送信してください:"

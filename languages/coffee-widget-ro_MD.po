@@ -1,0 +1,723 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Romanian (Moldova) <ro_MD>\n"
+"Language: ro-MD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Panou de bord Widget Cafea"
+
+msgid "Coffee Widget"
+msgstr "Widget Cafea"
+
+msgid "Settings"
+msgstr "Setări"
+
+msgid "Dashboard"
+msgstr "Panou de bord Cafea"
+
+msgid "Payment Methods"
+msgstr "Metode de plată"
+
+msgid "Help & Support"
+msgstr "Ajutor și Suport"
+
+msgid "General"
+msgstr "General"
+
+msgid "Button"
+msgstr "Buton"
+
+msgid "Advanced"
+msgstr "Avansat"
+
+msgid "Proxy Scripts"
+msgstr "Scripturi Proxy"
+
+msgid "Widget Settings"
+msgstr "Setări Widget"
+
+msgid "Widget Status"
+msgstr "Stare Widget"
+
+msgid "Widget active"
+msgstr "Widget activ"
+
+msgid "Button Color"
+msgstr "Culoare Buton"
+
+msgid "Button Position"
+msgstr "Poziție Buton"
+
+msgid "Left"
+msgstr "Stânga"
+
+msgid "Right"
+msgstr "Dreapta"
+
+msgid "Horizontal Margin (px)"
+msgstr "Margine orizontală (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Margine verticală (px)"
+
+msgid "Button Message"
+msgstr "Mesaj Buton"
+
+msgid "Description"
+msgstr "Descriere"
+
+msgid "Button Type"
+msgstr "Tip Buton"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "Cod SVG"
+
+msgid "PNG Image URL"
+msgstr "URL imagine PNG"
+
+msgid "Button Emoji"
+msgstr "Emoji Buton"
+
+msgid "Custom CSS"
+msgstr "CSS Personalizat"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Personalizat"
+
+msgid "Which payment service should you choose?"
+msgstr "Ce serviciu de plată ar trebui să alegi?"
+
+msgid ""
+"We offer multiple services to accept credit card payments to your crypto "
+"wallet. Here's how they compare:"
+msgstr ""
+"Oferim mai multe servicii pentru a accepta plăți cu card de credit către "
+"portofelul tău de criptomonede. Iată cum se compară:"
+
+msgid "Service"
+msgstr "Serviciu"
+
+msgid "Fee"
+msgstr "Taxă"
+
+msgid "Where does crypto go?"
+msgstr "Unde merge crypto?"
+
+msgid "WordPress Plugin"
+msgstr "Plugin WordPress"
+
+msgid "Best for"
+msgstr "Cel mai bun pentru"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Afacere în SUA?"
+
+msgid "Direct Crypto"
+msgstr "Crypto direct"
+
+msgid "No fee"
+msgstr "Fără taxă"
+
+msgid "Your wallet directly"
+msgstr "Portofelul tău direct"
+
+msgid "Built-in"
+msgstr "Încorporat"
+
+msgid "Crypto-savvy users"
+msgstr "Utilizatori cu experiență în criptomonede"
+
+msgid "Anywhere"
+msgstr "Oriunde"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API gata"
+
+msgid "Beginners, low fees"
+msgstr "Începători, taxe mici"
+
+msgid "Global (incl. Turkey)"
+msgstr "Global (inclusiv Turcia)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Plugin oficial"
+
+msgid "Good support"
+msgstr "Suport bun"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Enterprise, companii din SUA"
+
+msgid "US-friendly"
+msgstr "Prietenos cu SUA"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Portofelul utilizatorului mai întâi"
+
+msgid "Widget ready"
+msgstr "Widget gata"
+
+msgid "Users with own wallets"
+msgstr "Utilizatori cu portofele proprii"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Doar companii din SUA"
+
+msgid "❌ US ONLY"
+msgstr "❌ Doar SUA"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Variabil"
+
+msgid "Asia markets"
+msgstr "Piețe asiatice"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Taxe standard"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Sold PayPal"
+
+msgid "PayPal users"
+msgstr "Utilizatori PayPal"
+
+msgid "Tip:"
+msgstr "Sfat:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Dacă vă aflați în afara SUA, recomandăm NOWPayments (taxe scăzute, direct în"
+" portofel). Dacă sunteți în SUA, Stripe Crypto este, de asemenea, o opțiune."
+" Puteți activa mai multe servicii și permiteți vizitatorilor să aleagă!"
+
+msgid "Enabled Payment Methods"
+msgstr "Metode de plată activate"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Selectați care opțiuni de plată vor apărea în widget. Vizitatorii pot alege "
+"metoda preferată."
+
+msgid "Show these methods"
+msgstr "Arată aceste metode"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Crypto Direct (Adresa portofelului)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Card de credit → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Card de credit → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Card de credit → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Utilizatorul cumpără crypto întâi)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Card de credit)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Afișează adresa portofelului astfel încât utilizatorii să poată trimite "
+"crypto direct. Taxe zero, dar necesită ca utilizatorii să dețină deja "
+"crypto."
+
+msgid "Wallet Address"
+msgstr "Adresa portofelului"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Adresa dvs. Quai, Ethereum, Bitcoin sau alt portofel."
+
+msgid "Network"
+msgstr "Rețea"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Rețea Quai (Recomandată - gratuită)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Cel mai bun pentru începători și cu cele mai mici taxe"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments vă permite să acceptați plăți cu card de credit direct către "
+"portofelul dvs. cripto. Fondurile merg direct în portofelul dvs. – fără "
+"intermediar."
+
+msgid "Fee:"
+msgstr "Taxă:"
+
+msgid "per transaction"
+msgstr "pe tranzacție"
+
+msgid "Payout:"
+msgstr "Plată:"
+
+msgid "Direct to your wallet"
+msgstr "Direct în portofelul dvs."
+
+msgid "Setup:"
+msgstr "Configurare:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Creați cont gratuit → Chei API → Copiați cheia API"
+
+msgid "NOWPayments API Key"
+msgstr "Cheie API NOWPayments"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Lipiți cheia API din tabloul de bord NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Suport excelent, taxă puțin mai mare"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate este un procesor de plată cripto bine stabilit, cu un plugin "
+"oficial WordPress."
+
+msgid "1% per transaction"
+msgstr "1% pe tranzacție"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Creați cont → Chei API"
+
+msgid "CoinGate API Key"
+msgstr "Cheie API CoinGate"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "De nivel enterprise, prietenos cu SUA"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay este de încredere pentru mari companii. Funcționează bine pentru "
+"afaceri din SUA."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Cont de afaceri → Chei API"
+
+msgid "BitPay API Key"
+msgstr "Cheie API BitPay"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Utilizatorii cumpără cripto întâi, apoi îl trimit către dvs."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay permite utilizatorilor să cumpere cripto cu card de credit direct "
+"către portofelul lor, apoi îl trimit către dvs. Taxe mai mari, dar foarte "
+"simple pentru utilizatori."
+
+msgid "~3.5% per transaction"
+msgstr "~3,5% pe tranzacție"
+
+msgid "User's wallet first"
+msgstr "Portofelul utilizatorului întâi"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "Cheie API MoonPay"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Importantă:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Plățile Stripe Crypto (USDC) sunt DISPONIBILE numai pentru întreprinderile "
+"din SUA. Dacă ești în afara SUA, Stripe va accepta doar plăți cu card de "
+"credit către soldul tău Stripe (nu direct în criptomonede)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Dacă ești în SUA, poți folosi Stripe pentru a primi criptomonede direct. "
+"Dacă ești în afara SUA, ia în considerare NOWPayments sau CoinGate pentru "
+"plăți directe în criptomonede."
+
+msgid "Stripe Publishable Key"
+msgstr "Cheie Publică Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "Cheie Secretă Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Plăți PayPal clasice. Utilizatorii plătesc cu sold PayPal sau card de "
+"credit. Fondurile sunt transferate în contul tău PayPal."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Se aplică comisioane standard de tranzacție PayPal."
+
+msgid "PayPal Client ID"
+msgstr "ID Client PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Obține datele de autentificare PayPal API de la <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "Secret PayPal"
+
+msgid "Donation Tiers"
+msgstr "Niveluri de Donație"
+
+msgid "Add Tier"
+msgstr "Adaugă Nivel"
+
+msgid "Remove"
+msgstr "Elimină"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Sume de donație predefinite (USD). Lăsați gol pentru a introduce o sumă "
+"personalizată."
+
+msgid "Membership"
+msgstr "Înscriere"
+
+msgid "Enable Membership"
+msgstr "Activează Înscriere"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Permite abonamente recurente (necesită Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Sprijin"
+
+msgid "Donate"
+msgstr "Donează"
+
+msgid "Crypto"
+msgstr "Criptomonede"
+
+msgid "Credit Card"
+msgstr "Card de credit"
+
+msgid "Choose amount"
+msgstr "Alegeți suma"
+
+msgid "Custom amount"
+msgstr "Sumă personalizată"
+
+msgid "Enter amount (USD)"
+msgstr "Introduceți suma (USD)"
+
+msgid "Donate Now"
+msgstr "Donează Acum"
+
+msgid "Crypto Address"
+msgstr "Adresă Criptomonede"
+
+msgid "Copy Address"
+msgstr "Copiază Adresa"
+
+msgid "Copied!"
+msgstr "Copiat!"
+
+msgid "Pay with Credit Card"
+msgstr "Plătește cu Card de credit"
+
+msgid "Pay with PayPal"
+msgstr "Plătește cu PayPal"
+
+msgid "Membership Plans"
+msgstr "Planuri de membru"
+
+msgid "Monthly"
+msgstr "Lunar"
+
+msgid "Yearly"
+msgstr "Anual"
+
+msgid "Subscribe"
+msgstr "Abonează-te"
+
+msgid "Credit Card → Crypto"
+msgstr "Card de credit → Crypto"
+
+msgid "Buy Crypto"
+msgstr "Cumpără Crypto"
+
+msgid "Processing..."
+msgstr "În procesare..."
+
+msgid "Payment successful!"
+msgstr "Plată reușită!"
+
+msgid "Payment failed"
+msgstr "Plată eșuată"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments vă permite să acceptați plăți cu card de credit direct în "
+"portofelul dvs. de criptomonede."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate este un procesator de plăți crypto bine stabilit."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay permite utilizatorilor să cumpere criptomonede cu card de credit "
+"direct în portofelul lor, apoi le trimit către dvs."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+"După achiziționarea criptomonedelor, vă rugăm să le trimiteți la adresa "
+"portofelului de mai jos."
+
+msgid "Your crypto wallet address"
+msgstr "Adresa portofelului dvs. de criptomonede"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Lasă-ți prietena să se bucure de cafeaua noastră"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Un widget puternic, gratuit de donații și plăți care permite vizitatorilor "
+"să vă susțină prin card de credit sau criptomonede (Quai). Fără taxe lunare,"
+" fără abonamente de la terți – doar portofelul și serviciile gratuite."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Unele browsere blochează scripturi de la terți pentru confidențialitate. "
+"Acest proxy încarcă scripturi prin propriul tău server pentru a evita aceste"
+" blocaje."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Poți actualiza URL-urile scripturilor de mai jos dacă URL-urile originale se"
+" schimbă sau dacă vrei să folosești un CDN diferit."
+
+msgid "Script"
+msgstr "Script"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Acțiune"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Refresh"
+msgstr "Reîncarcă"
+
+msgid "Usage:"
+msgstr "Utilizare:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js pentru plăți cu card de credit"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK pentru plăți PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas pentru generarea de capturi de ecran"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF pentru generarea PDF"
+
+msgid "External Script Proxy"
+msgstr "Proxy de script extern"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Faceți clic pe \"Test\" pentru a verifica dacă URL-ul scriptului este "
+"accesibil. Proxy-ul va stoca scripturile local pentru performanță mai bună."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "E-mail PayPal (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Statistici rapide"
+
+msgid "Widget Status:"
+msgstr "Stare Widget:"
+
+msgid "Active"
+msgstr "Activ"
+
+msgid "Inactive"
+msgstr "Inactiv"
+
+msgid "Enabled Payment Methods:"
+msgstr "Metode de plată activate:"
+
+msgid "None"
+msgstr "Niciunul"
+
+msgid "Crypto Wallet:"
+msgstr "Portofel Crypto:"
+
+msgid "Not set"
+msgstr "Nesetat"
+
+msgid "pay_with_card"
+msgstr "Plătiți cu cardul"
+
+msgid "crypto_address_label"
+msgstr "Trimiteți criptomonede direct la această adresă:"
+
+msgid "crypto_note"
+msgstr "Fondurile merg direct în portofelul dvs. fără taxe."
+
+msgid "your_crypto_address"
+msgstr "Adresa portofelului dvs"
+
+msgid "nowpayments_desc"
+msgstr ""
+"Plătiți cu card de credit – criptomonedele merg direct în portofelul dvs."
+
+msgid "coingate_desc"
+msgstr "Plătiți cu card de credit – criptomonedele la portofelul dvs."
+
+msgid "bitpay_desc"
+msgstr ""
+"Plăți crypto la nivel de enterprise. Cel mai bun pentru întreprinderile din "
+"SUA."
+
+msgid "moonpay_desc"
+msgstr ""
+"Cumpărați criptomonede cu card de credit – apoi trimiteți-le la adresa de "
+"mai jos."
+
+msgid "moonpay_note"
+msgstr ""
+"După achiziționarea criptomonedelor, vă rugăm să le trimiteți la adresa "
+"portofelului de mai sus."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Fondurile merg direct în portofelul dvs. fără taxe."
+
+msgid "Pay with Card"
+msgstr "Plătiți cu card"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"Plătiți cu card de credit – criptomonedele merg direct în portofelul dvs."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Trimiteți criptomonede direct la această adresă:"

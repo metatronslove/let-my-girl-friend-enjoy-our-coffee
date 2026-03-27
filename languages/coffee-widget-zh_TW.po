@@ -1,0 +1,668 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Chinese (Traditional) <zh_TW>\n"
+"Language: zh-TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "咖啡小工具控制台"
+
+msgid "Coffee Widget"
+msgstr "咖啡小工具"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Dashboard"
+msgstr "咖啡儀表板"
+
+msgid "Payment Methods"
+msgstr "付款方式"
+
+msgid "Help & Support"
+msgstr "幫助與支援"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Button"
+msgstr "按鈕"
+
+msgid "Advanced"
+msgstr "進階"
+
+msgid "Proxy Scripts"
+msgstr "代理腳本"
+
+msgid "Widget Settings"
+msgstr "小工具設定"
+
+msgid "Widget Status"
+msgstr "小工具狀態"
+
+msgid "Widget active"
+msgstr "小工具已啟用"
+
+msgid "Button Color"
+msgstr "按鈕顏色"
+
+msgid "Button Position"
+msgstr "按鈕位置"
+
+msgid "Left"
+msgstr "左側"
+
+msgid "Right"
+msgstr "右側"
+
+msgid "Horizontal Margin (px)"
+msgstr "水平邊距 (像素)"
+
+msgid "Vertical Margin (px)"
+msgstr "垂直邊距 (像素)"
+
+msgid "Button Message"
+msgstr "按鈕訊息"
+
+msgid "Description"
+msgstr "說明"
+
+msgid "Button Type"
+msgstr "按鈕類型"
+
+msgid "Emoji"
+msgstr "表情符號"
+
+msgid "SVG Code"
+msgstr "SVG 代碼"
+
+msgid "PNG Image URL"
+msgstr "PNG 圖片網址"
+
+msgid "Button Emoji"
+msgstr "按鈕表情符號"
+
+msgid "Custom CSS"
+msgstr "自訂 CSS"
+
+msgid "Custom JavaScript"
+msgstr "自訂 JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "你應該選擇哪種付款服務？"
+
+msgid "Service"
+msgstr "服務"
+
+msgid "Fee"
+msgstr "費用"
+
+msgid "Where does crypto go?"
+msgstr "加密貨幣去哪裡？"
+
+msgid "WordPress Plugin"
+msgstr "WordPress 插件"
+
+msgid "Best for"
+msgstr "最佳適用對象"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 美國業務？"
+
+msgid "Direct Crypto"
+msgstr "直接加密貨幣"
+
+msgid "No fee"
+msgstr "無費用"
+
+msgid "Your wallet directly"
+msgstr "您的錢包直接"
+
+msgid "Built-in"
+msgstr "內建"
+
+msgid "Crypto-savvy users"
+msgstr "熟悉加密貨幣的使用者"
+
+msgid "Anywhere"
+msgstr "任何地方"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API 準備就緒"
+
+msgid "Beginners, low fees"
+msgstr "初學者，低費用"
+
+msgid "Global (incl. Turkey)"
+msgstr "全球（含土耳其）"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "官方插件"
+
+msgid "Good support"
+msgstr "良好支援"
+
+msgid "Global"
+msgstr "全球"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "企業，美國公司"
+
+msgid "US-friendly"
+msgstr "美國友好"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ 用戶錢包優先"
+
+msgid "Widget ready"
+msgstr "小工具準備就緒"
+
+msgid "Users with own wallets"
+msgstr "擁有自己錢包的使用者"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "僅限美國企業"
+
+msgid "❌ US ONLY"
+msgstr "❌ 只限美國"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "可變"
+
+msgid "Asia markets"
+msgstr "亞洲市場"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "標準費用"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal餘額"
+
+msgid "PayPal users"
+msgstr "PayPal用戶"
+
+msgid "Tip:"
+msgstr "提示:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"若您位於美國以外，我們建議使用NOWPayments（最低費用，直接匯入您的錢包）。若您在美國，Stripe "
+"Crypto也是一個選項。您可以啟用多種服務，讓訪客自行選擇！"
+
+msgid "Enabled Payment Methods"
+msgstr "已啟用支付方式"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr "選擇哪些支付選項會顯示在您的小工具中。訪客可自行選擇偏好方式。"
+
+msgid "Show these methods"
+msgstr "顯示這些方法"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 直接加密貨幣（錢包地址）"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments（信用卡 → 加密貨幣）"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate（信用卡 → 加密貨幣）"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay（信用卡 → 加密貨幣）"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay（用戶先購買加密貨幣）"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe（信用卡）"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr "顯示您的錢包地址，讓用戶直接發送加密貨幣。零手續費，但需用戶已經擁有加密貨幣。"
+
+msgid "Wallet Address"
+msgstr "錢包地址"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "您的Quai、以太坊、比特幣或其他錢包地址。"
+
+msgid "Network"
+msgstr "網路"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network（建議使用 - 免費）"
+
+msgid "Ethereum"
+msgstr "以太坊"
+
+msgid "Bitcoin"
+msgstr "比特幣"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "最適合初學者 & 最低手續費"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr "NOWPayments 允許您直接將信用卡支付匯入您的加密貨幣錢包。資金直接轉入您的錢包—無中介。"
+
+msgid "Fee:"
+msgstr "費用："
+
+msgid "per transaction"
+msgstr "每筆交易"
+
+msgid "Payout:"
+msgstr "付款："
+
+msgid "Direct to your wallet"
+msgstr "直接匯入您的錢包"
+
+msgid "Setup:"
+msgstr "設定："
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "創建免費帳戶 → API 金鑰 → 複製 API 金鑰"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API 金鑰"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "從 NOWPayments 儀表板粘貼您的 API 金鑰。"
+
+msgid "Great support, slightly higher fee"
+msgstr "優秀支援，略高費用"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr "CoinGate 是一個成熟的加密支付處理器，提供官方 WordPress 外掛。"
+
+msgid "1% per transaction"
+msgstr "每筆交易 1%"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "創建帳戶 → API 金鑰"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API 金鑰"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "企業級，適合美國使用者"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr "BitPay 受到主要公司信任，適合美國企業使用。"
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "商業帳戶 → API 金鑰"
+
+msgid "BitPay API Key"
+msgstr "BitPay API 金鑰"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "用戶先購買加密貨幣，然後再發送給您"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr "MoonPay 允許用戶使用信用卡直接購買加密貨幣到他們自己的錢包，然後再發送給您。費用較高，但對用戶非常簡單。"
+
+msgid "~3.5% per transaction"
+msgstr "每筆交易約 3.5%"
+
+msgid "User's wallet first"
+msgstr "用戶錢包優先"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API 金鑰"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "重要："
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe 加密貨幣支付（USDC）僅適用於美國企業。如果您在美國之外，Stripe 只接受信用卡支付至您的 Stripe 餘額（不直接到加密貨幣）。"
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"如果您在美國，您可以使用 Stripe 直接接收加密貨幣。如果在美國之外，請考慮 NOWPayments 或 CoinGate 進行直接加密貨幣支付。"
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe 公開金鑰"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe 私鑰"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr "經典 PayPal 支付。用戶使用 PayPal 餘額或信用卡付款。資金將匯入您的 PayPal 帳戶。"
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "適用標準 PayPal 交易手續費。"
+
+msgid "PayPal Client ID"
+msgstr "PayPal 用戶端 ID"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"從 <a href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal "
+"開發者儀表板</a> 取得您的 PayPal API 憑證。"
+
+msgid "PayPal Secret"
+msgstr "PayPal 秘密"
+
+msgid "Donation Tiers"
+msgstr "捐款等級"
+
+msgid "Add Tier"
+msgstr "新增等級"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr "預設捐款金額（美元）。若僅想自訂金額，請保持空白。"
+
+msgid "Membership"
+msgstr "會員"
+
+msgid "Enable Membership"
+msgstr "啟用會員"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "允許定期訂閱（需使用 Stripe 訂閱）。"
+
+msgid "Support"
+msgstr "支援"
+
+msgid "Donate"
+msgstr "捐贈"
+
+msgid "Crypto"
+msgstr "加密貨幣"
+
+msgid "Credit Card"
+msgstr "信用卡"
+
+msgid "Choose amount"
+msgstr "選擇金額"
+
+msgid "Custom amount"
+msgstr "自訂金額"
+
+msgid "Enter amount (USD)"
+msgstr "輸入金額（美元）"
+
+msgid "Donate Now"
+msgstr "立即捐贈"
+
+msgid "Crypto Address"
+msgstr "加密貨幣地址"
+
+msgid "Copy Address"
+msgstr "複製地址"
+
+msgid "Copied!"
+msgstr "已複製！"
+
+msgid "Pay with Credit Card"
+msgstr "使用信用卡支付"
+
+msgid "Pay with PayPal"
+msgstr "使用 PayPal 支付"
+
+msgid "Membership Plans"
+msgstr "會員方案"
+
+msgid "Monthly"
+msgstr "每月"
+
+msgid "Yearly"
+msgstr "每年"
+
+msgid "Subscribe"
+msgstr "訂閱"
+
+msgid "Credit Card → Crypto"
+msgstr "信用卡 → 加密貨幣"
+
+msgid "Buy Crypto"
+msgstr "購買加密貨幣"
+
+msgid "Processing..."
+msgstr "處理中..."
+
+msgid "Payment successful!"
+msgstr "支付成功！"
+
+msgid "Payment failed"
+msgstr "支付失敗"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr "NOWPayments 讓您能直接將信用卡支付轉至您的加密貨幣錢包。"
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate 是一個成熟的加密貨幣支付處理商。"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr "MoonPay 讓用戶可以直接用信用卡購買加密貨幣至他們的錢包，然後再將其轉給您。"
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "購買加密貨幣後，請將其轉至下方的錢包地址。"
+
+msgid "Your crypto wallet address"
+msgstr "您的加密貨幣錢包地址"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "讓我的女友享受我們的咖啡"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"一款功能強大且免費的捐贈與支付小工具，讓您的訪客能透過信用卡或加密貨幣（Quai）支持您。無月費，無第三方訂閱 – 只需您的錢包和免費服務。"
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr "某些瀏覽器為保護隱私會阻擋第三方腳本。此代理會透過您自己的伺服器載入腳本，以繞過這些封鎖。"
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr "若原始 URL 變更，或您想使用不同的 CDN，可在下方更新腳本 URL。"
+
+msgid "Script"
+msgstr "腳本"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "緩存 TTL"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "Test"
+msgstr "測試"
+
+msgid "Refresh"
+msgstr "重新整理"
+
+msgid "Usage:"
+msgstr "使用方式："
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js 用於信用卡支付"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK 用於 PayPal 支付"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas 用於截圖生成"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF 用於 PDF 生成"
+
+msgid "External Script Proxy"
+msgstr "外部腳本代理"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr "點擊「Test」以檢查腳本 URL 是否可存取。代理伺服器將本地緩存腳本以提升效能。"
+
+msgid "Dogecoin"
+msgstr "狗狗幣"
+
+msgid "Litecoin"
+msgstr "萊特幣"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal 電子郵件 (備援)"
+
+msgid "Quick Stats"
+msgstr "快速統計"
+
+msgid "Widget Status:"
+msgstr "小工具狀態："
+
+msgid "Active"
+msgstr "啟用"
+
+msgid "Inactive"
+msgstr "停用"
+
+msgid "Enabled Payment Methods:"
+msgstr "已啟用的付款方式："
+
+msgid "None"
+msgstr "無"
+
+msgid "Crypto Wallet:"
+msgstr "加密貨幣錢包："
+
+msgid "Not set"
+msgstr "未設定"
+
+msgid "pay_with_card"
+msgstr "以卡片付款"
+
+msgid "crypto_address_label"
+msgstr "直接將加密貨幣發送至此地址："
+
+msgid "crypto_note"
+msgstr "資金直接存入您的錢包。無任何手續費。"
+
+msgid "your_crypto_address"
+msgstr "您的錢包地址："
+
+msgid "nowpayments_desc"
+msgstr "使用信用卡付款 – 加密貨幣直接送至您的錢包。"
+
+msgid "coingate_desc"
+msgstr "使用信用卡付款 – 加密貨幣送至您的錢包。"
+
+msgid "bitpay_desc"
+msgstr "企業級加密貨幣支付。最適合美國企業。"
+
+msgid "moonpay_desc"
+msgstr "使用信用卡購買加密貨幣 – 然後將其發送至下方地址。"
+
+msgid "moonpay_note"
+msgstr "購買加密貨幣後，請將其發送至上方的錢包地址。"
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "資金直接存入您的錢包。無任何手續費。"
+
+msgid "Pay with Card"
+msgstr "以卡片付款"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "使用信用卡付款 – 加密貨幣直接送至您的錢包。"
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "直接將加密貨幣發送至此地址："

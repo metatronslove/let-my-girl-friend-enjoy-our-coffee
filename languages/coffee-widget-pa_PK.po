@@ -1,0 +1,706 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Punjabi (Shahmukhi) <pa_PK>\n"
+"Language: pa-PK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "کافی ویجٹ ڈیش بورڈ"
+
+msgid "Coffee Widget"
+msgstr "کافی ویجٹ"
+
+msgid "Settings"
+msgstr "سیٹنگز"
+
+msgid "Dashboard"
+msgstr "کافی ڈیش بورڈ"
+
+msgid "Payment Methods"
+msgstr "ادائیگی کے طریقے"
+
+msgid "Help & Support"
+msgstr "مدد & سپورٹ"
+
+msgid "General"
+msgstr "جنرل"
+
+msgid "Button"
+msgstr "بٹن"
+
+msgid "Advanced"
+msgstr "ایڈوانسڈ"
+
+msgid "Proxy Scripts"
+msgstr "پروکسی اسکرپٹس"
+
+msgid "Widget Settings"
+msgstr "ویجٹ سیٹنگز"
+
+msgid "Widget Status"
+msgstr "ویجٹ اسٹیٹس"
+
+msgid "Widget active"
+msgstr "ویجٹ فعال"
+
+msgid "Button Color"
+msgstr "بٹن رنگ"
+
+msgid "Button Position"
+msgstr "بٹن پوزیشن"
+
+msgid "Left"
+msgstr "بائیں"
+
+msgid "Right"
+msgstr "دائیں"
+
+msgid "Horizontal Margin (px)"
+msgstr "افقی مارجن (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "عمودی مارجن (px)"
+
+msgid "Button Message"
+msgstr "بٹن پیغام"
+
+msgid "Description"
+msgstr "تفصیل"
+
+msgid "Button Type"
+msgstr "بٹن ٹائپ"
+
+msgid "Emoji"
+msgstr "ایموجی"
+
+msgid "SVG Code"
+msgstr "SVG کوڈ"
+
+msgid "PNG Image URL"
+msgstr "PNG امیج URL"
+
+msgid "Button Emoji"
+msgstr "بٹن ایموجی"
+
+msgid "Custom CSS"
+msgstr "کاسٹم CSS"
+
+msgid "Custom JavaScript"
+msgstr "کاسٹم جاوا اسکرپٹ"
+
+msgid "Which payment service should you choose?"
+msgstr "کونسی ادائیگی سروس آپ کو منتخب کرنی چاہیے؟"
+
+msgid "Service"
+msgstr "سروس"
+
+msgid "Fee"
+msgstr "فیس"
+
+msgid "Where does crypto go?"
+msgstr "کریپٹو کہاں جاتا ہے؟"
+
+msgid "WordPress Plugin"
+msgstr "ورڈپریس پلگ ان"
+
+msgid "Best for"
+msgstr "سب سے بہتر"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 یو ایس کاروبار؟"
+
+msgid "Direct Crypto"
+msgstr "براہ راست کریپٹو"
+
+msgid "No fee"
+msgstr "کوئی فیس نہیں"
+
+msgid "Your wallet directly"
+msgstr "آپ کا والیٹ براہ راست"
+
+msgid "Built-in"
+msgstr "بِلٹ-ان"
+
+msgid "Crypto-savvy users"
+msgstr "کریپٹو جاننے والے صارفین"
+
+msgid "Anywhere"
+msgstr "کہیں بھی"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API تیار"
+
+msgid "Beginners, low fees"
+msgstr "ابتدائی، کم فیس"
+
+msgid "Global (incl. Turkey)"
+msgstr "گلوبل (شامل ترکی)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "سرکاری پلگ ان"
+
+msgid "Good support"
+msgstr "اچھی سپورٹ"
+
+msgid "Global"
+msgstr "گلوبل"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "انٹرپرائز، US کمپنیاں"
+
+msgid "US-friendly"
+msgstr "US دوستانہ"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ پہلے صارف کا والیٹ"
+
+msgid "Widget ready"
+msgstr "ویجٹ تیار"
+
+msgid "Users with own wallets"
+msgstr "اپنے والیٹس والے صارفین"
+
+msgid "Stripe Crypto"
+msgstr "سٹراپ کریپٹو"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "صرف امریکی کاروبار"
+
+msgid "❌ US ONLY"
+msgstr "❌ صرف امریکہ"
+
+msgid "Alchemy Pay"
+msgstr "الکیمن پے"
+
+msgid "Variable"
+msgstr "متغیر"
+
+msgid "Asia markets"
+msgstr "ایشیائی مارکیٹیں"
+
+msgid "PayPal"
+msgstr "پی پال"
+
+msgid "Standard fees"
+msgstr "معیاری فیس"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ پی پال بیلنس"
+
+msgid "PayPal users"
+msgstr "پی پال صارفین"
+
+msgid "Tip:"
+msgstr "ٹِپ:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"اگر آپ امریکہ کے باہر ہیں، ہم NOWPayments (سب سے کم فیس، براہِ راست آپ کے "
+"والیٹ تک) کی سفارش کرتے ہیں۔ اگر آپ امریکہ میں ہیں، Stripe Crypto بھی ایک "
+"آپشن ہے۔ آپ متعدد سروسز فعال کر سکتے ہیں اور اپنے زائرین کو انتخاب کرنے دیں!"
+
+msgid "Enabled Payment Methods"
+msgstr "فعال شدہ ادائیگی کے طریقے"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"چنیں کہ کون سی ادائیگی کے اختیارات آپ کے ویجٹ میں ظاہر ہوں گے۔ آپ کے زائرین "
+"اپنی پسندیدہ طریقہ کار منتخب کر سکتے ہیں۔"
+
+msgid "Show these methods"
+msgstr "ان طریقوں کو دکھائیں"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 براہِ راست کریپٹو (والیٹ ایڈریس)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (کریڈٹ کارڈ → کریپٹو)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (کریڈٹ کارڈ → کریپٹو)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (کریڈٹ کارڈ → کریپٹو)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (صارف پہلے کریپٹو خریدتا ہے)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (کریڈٹ کارڈ)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 پی پال"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"اپنا والیٹ ایڈریس دکھائیں تاکہ صارفین براہِ راست کریپٹو بھیج سکیں۔ صفر فیس، "
+"لیکن اس کے لئے ضروری ہے کہ صارفین پہلے سے کریپٹو رکھتے ہوں۔"
+
+msgid "Wallet Address"
+msgstr "والیٹ ایڈریس"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "آپ کا Quai، Ethereum، Bitcoin، یا کوئی دوسرا والیٹ ایڈریس۔"
+
+msgid "Network"
+msgstr "نیٹ ورک"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network (مستند - مفت)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "بِٹکوئن"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "بِگنرز لئی بہترین & سب توں کم فیس"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments آپ کو کریڈٹ کارڈ دے ادائیگی نوں براہِ راست اپنے کرِٹو والیٹ وچ "
+"قبول کرن دی اجازت دیندا اے۔ فنڈز براہِ راست تہاڈے والیٹ وچ جاندے نیں – کوئی "
+"میڈل مین نہیں۔"
+
+msgid "Fee:"
+msgstr "فیس:"
+
+msgid "per transaction"
+msgstr "فی ٹرانزیکشن"
+
+msgid "Payout:"
+msgstr "پے آؤٹ:"
+
+msgid "Direct to your wallet"
+msgstr "براہِ راست آپ کے والیٹ میں"
+
+msgid "Setup:"
+msgstr "سیٹ اپ:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "مفت اکاؤنٹ بنائیں → API Keys → API Key کاپی کریں"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Key"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "NOWPayments ڈیش بورڈ سے اپنا API Key چسپاں کریں۔"
+
+msgid "Great support, slightly higher fee"
+msgstr "بہت عمدہ سپورٹ، تھوڑی زیادہ فیس"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate ایک معتبر کریپٹو پیمنٹ پراسیسر ہے جس کا ایک سرکاری WordPress پلگ ان"
+" ہے۔"
+
+msgid "1% per transaction"
+msgstr "فی ٹرانزیکشن 1٪"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "اکاؤنٹ بنائیں → API Keys"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Key"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "انٹرپرائز گریڈ، امریکی دوستانہ"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay بڑے کمپنیوں کے ذریعے بھروسہ کیا جاتا ہے۔ یہ امریکہ میں قائم کاروبار "
+"کے لیے بہترین کام کرتا ہے۔"
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "بزنس اکاؤنٹ → API Keys"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Key"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "صارف پہلے کرپٹو خریدتے ہیں، پھر آپ کو بھیجتے ہیں"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay صارفین کو کریڈٹ کارڈ سے کرپٹو براہِ راست اپنے والیٹ میں خریدنے دیتا "
+"ہے، پھر وہ آپ کو بھیجتے ہیں۔ زیادہ فیس لیکن صارفین کے لیے بہت سادہ۔"
+
+msgid "~3.5% per transaction"
+msgstr "~3.5٪ فی ٹرانزیکشن"
+
+msgid "User's wallet first"
+msgstr "صارف کا والیٹ پہلے"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Key"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "اہم:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto payments (USDC) صرف امریکہ قاعدہ کاروباروں کے لیے دستیاب ہیں۔ "
+"اگر آپ امریکہ کے باہر ہیں، تو Stripe صرف کریڈٹ کارڈ ادائیگیوں کو آپ کے "
+"Stripe بیلنس پر قبول کرے گا (براہ راست کریپٹو پر نہیں)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"اگر آپ امریکہ میں ہیں، تو آپ Stripe کا استعمال کر کے کریپٹو براہ راست حاصل "
+"کر سکتے ہیں۔ اگر آپ باہر ہیں، تو NOWPayments یا CoinGate کو براہ راست کریپٹو"
+" ادائیگیوں کے لئے استعمال کریں۔"
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe پبلش ایبل کی"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe سیکریٹ کی"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"کلاسک PayPal ادائیگیاں۔ صارفین PayPal بیلنس یا کریڈٹ کارڈ سے ادائیگی کرتے "
+"ہیں۔ فنڈز آپ کے PayPal اکاؤنٹ میں جاتے ہیں۔"
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "معیاری PayPal ٹرانزیکشن فیسز لاگو ہوں گی۔"
+
+msgid "PayPal Client ID"
+msgstr "PayPal کلائنٹ آئی ڈی"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"اپنے PayPal API کی شناختی اسناد <a href=\"https://developer.paypal.com/\" "
+"target=\"_blank\">PayPal Developer Dashboard</a> سے حاصل کریں۔"
+
+msgid "PayPal Secret"
+msgstr "PayPal سیکریٹ"
+
+msgid "Donation Tiers"
+msgstr "دانیہ کی سطحیں"
+
+msgid "Add Tier"
+msgstr "ٹیر شامل کریں"
+
+msgid "Remove"
+msgstr "حذف کریں"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"پری ڈیفائنڈ دانیہ کی رقم (USD). اگر صرف اپنی مرضی کی رقم کے لئے خالی چھوڑیں۔"
+
+msgid "Membership"
+msgstr "رکنیت"
+
+msgid "Enable Membership"
+msgstr "رکنیت فعال کریں"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr ""
+"دہرائی جانے والی سبسکرپشنز کی اجازت دیں (Stripe Subscriptions کی ضرورت ہے)."
+
+msgid "Support"
+msgstr "سپورٹ"
+
+msgid "Donate"
+msgstr "دانیہ کریں"
+
+msgid "Crypto"
+msgstr "کریپٹو"
+
+msgid "Credit Card"
+msgstr "کریڈٹ کارڈ"
+
+msgid "Choose amount"
+msgstr "رقم منتخب کریں"
+
+msgid "Custom amount"
+msgstr "اپنی مرضی کی رقم"
+
+msgid "Enter amount (USD)"
+msgstr "رقم درج کریں (USD)"
+
+msgid "Donate Now"
+msgstr "ابھی دانیہ کریں"
+
+msgid "Crypto Address"
+msgstr "کریپٹو ایڈریس"
+
+msgid "Copy Address"
+msgstr "ایڈریس نقل کریں"
+
+msgid "Copied!"
+msgstr "نقل کر لیا!"
+
+msgid "Pay with Credit Card"
+msgstr "کریڈٹ کارڈ سے ادائیگی کریں"
+
+msgid "Pay with PayPal"
+msgstr "PayPal سے ادائیگی کریں"
+
+msgid "Membership Plans"
+msgstr "مینبرشپ پلانز"
+
+msgid "Monthly"
+msgstr "ماہانہ"
+
+msgid "Yearly"
+msgstr "سالانہ"
+
+msgid "Subscribe"
+msgstr "اشتراک کرو"
+
+msgid "Credit Card → Crypto"
+msgstr "کریڈٹ کارڈ → کرپٹو"
+
+msgid "Buy Crypto"
+msgstr "کرپٹو خریدیں"
+
+msgid "Processing..."
+msgstr "عمل ہو رہا ہے..."
+
+msgid "Payment successful!"
+msgstr "دفعہ کامیاب ہوا!"
+
+msgid "Payment failed"
+msgstr "دفعہ ناکام"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments آپ کو کریڈٹ کارڈ کے دفعات کو براہِ راست آپ کے کرپٹو والیٹ میں "
+"قبول کرنے کی اجازت دیتا ہے۔"
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate ایک معتبر کرپٹو ادائیگی کا پراسیسر ہے۔"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay صارفین کو کریڈٹ کارڈ کے ذریعے کرپٹو براہِ راست ان کے والیٹ میں "
+"خریدنے دیتا ہے، پھر وہ اسے آپ کو بھیجتے ہیں۔"
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "کرپٹو خریدنے کے بعد، براہِ کرم اسے نیچے دیئے گئے والیٹ پتے پر بھیجیں۔"
+
+msgid "Your crypto wallet address"
+msgstr "آپ کا کرپٹو والیٹ پتہ"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "میری گرل فرینڈ کو ہماری کافی کا لطف اٹھانے دو"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"ایک طاقتور، مفت عطیہ اور ادائیگی ویجٹ جو آپ کے وزیٹرز کو کریڈٹ کارڈ یا کرپٹو"
+" کرنسی (Quai) کے ذریعے آپ کی حمایت کرنے دیتا ہے۔ کوئی ماہانہ فیس نہیں، کوئی "
+"تھرڈ-پارٹی سبسکرپشن نہیں – صرف آپ کا والیٹ اور مفت خدمات۔"
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"کچھ براؤزرز پرائیویسی کے لیے تھرڈ پارٹی اسکرپٹس کو بلاک کرتے ہیں۔ یہ پراکسی "
+"آپ کے اپنے سرور کے ذریعے اسکرپٹس کو لوڈ کرتی ہے تاکہ ان بلاکوں کو بائی پاس "
+"کیا جا سکے۔"
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"آپ نیچے دیے گئے اسکرپٹ URLs کو اپ ڈیٹ کر سکتے ہیں اگر اصل URLs تبدیل ہو "
+"جائیں یا اگر آپ مختلف CDN استعمال کرنا چاہتے ہیں۔"
+
+msgid "Script"
+msgstr "اسکرپٹ"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "کیش TTL"
+
+msgid "Action"
+msgstr "عمل"
+
+msgid "Test"
+msgstr "ٹیسٹ"
+
+msgid "Refresh"
+msgstr "تازہ کریں"
+
+msgid "Usage:"
+msgstr "استعمال:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js کریڈٹ کارڈ ادائیگیوں کے لیے"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK PayPal ادائیگیوں کے لیے"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas اسکرین شاٹ بنانے کے لیے"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF PDF بنانے کے لیے"
+
+msgid "External Script Proxy"
+msgstr "بیرونی اسکرپٹ پراکسی"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"کلیک \"ٹیسٹ\" کر کے دیکھیں کہ اسکرپٹ کا URL قابل رسائی ہے یا نہیں۔ پراکسی "
+"اسکرپٹس کو مقامی طور پر کیش کرے گا بہتر کارکردگی کے لیے۔"
+
+msgid "Dogecoin"
+msgstr "ڈوجِکوئن"
+
+msgid "Litecoin"
+msgstr "لائٹِکوئن"
+
+msgid "PayPal Email (Fallback)"
+msgstr "پے پال ای میل (الٹنا)"
+
+msgid "Quick Stats"
+msgstr "تیزی سے سٹیٹس"
+
+msgid "Widget Status:"
+msgstr "ویجٹ کی حیثیت:"
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Inactive"
+msgstr "غیر فعال"
+
+msgid "Enabled Payment Methods:"
+msgstr "فعال شدہ ادائیگی کے طریقے:"
+
+msgid "None"
+msgstr "کوئی نہیں"
+
+msgid "Crypto Wallet:"
+msgstr "کریپٹو والیٹ:"
+
+msgid "Not set"
+msgstr "تقرر نہیں ہوا"
+
+msgid "pay_with_card"
+msgstr "کارڈ کے ساتھ ادائیگی"
+
+msgid "crypto_address_label"
+msgstr "کریپٹو کرنسی کو براہِ راست اس پتے پر بھیجیں:"
+
+msgid "crypto_note"
+msgstr "فنڈز براہِ راست آپ کے والیٹ میں جائیں گے۔ کوئی فیس نہیں۔"
+
+msgid "your_crypto_address"
+msgstr "آپ کا والیٹ ایڈریس:"
+
+msgid "nowpayments_desc"
+msgstr ""
+"کریڈٹ کارڈ کے ساتھ ادائیگی – کریپٹو براہِ راست آپ کے والیٹ میں جائے گا۔"
+
+msgid "coingate_desc"
+msgstr "کریڈٹ کارڈ کے ساتھ ادائیگی – کریپٹو آپ کے والیٹ میں۔"
+
+msgid "bitpay_desc"
+msgstr "انٹرپرائز گریڈ کریپٹو ادائیگیاں۔ امریکہ کے کاروباروں کے لیے بہترین۔"
+
+msgid "moonpay_desc"
+msgstr "کریڈٹ کارڈ کے ساتھ کریپٹو خریدیں – پھر اسے نیچے کے پتے پر بھیجیں۔"
+
+msgid "moonpay_note"
+msgstr ""
+"کریپٹو خریدنے کے بعد، برائے مہربانی اسے اوپر والے والیٹ ایڈریس پر بھیجیں۔"
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "فنڈز براہِ راست آپ کے والیٹ میں جائیں گے۔ کوئی فیس نہیں۔"
+
+msgid "Pay with Card"
+msgstr "کارڈ کے ساتھ ادائیگی"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"کریڈٹ کارڈ کے ساتھ ادائیگی – کریپٹو براہِ راست آپ کے والیٹ میں جائے گا۔"
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "کریپٹو کرنسی کو براہِ راست اس پتے پر بھیجیں:"

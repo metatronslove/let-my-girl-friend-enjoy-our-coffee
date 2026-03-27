@@ -1,0 +1,699 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Cornish <kw_GB>\n"
+"Language: kw-GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Dres Gwyth Wyf"
+
+msgid "Coffee Widget"
+msgstr "Wyf Gwyth"
+
+msgid "Settings"
+msgstr "Kresna"
+
+msgid "Dashboard"
+msgstr "Dres Gwyth"
+
+msgid "Payment Methods"
+msgstr "Kyselnow Payen"
+
+msgid "Help & Support"
+msgstr "Gwelgh ha Sypys"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Button"
+msgstr "Botyn"
+
+msgid "Advanced"
+msgstr "Dyskwys"
+
+msgid "Proxy Scripts"
+msgstr "Skriptow Proxy"
+
+msgid "Widget Settings"
+msgstr "Kresna Wyf"
+
+msgid "Widget Status"
+msgstr "Status Wyf"
+
+msgid "Widget active"
+msgstr "Wyf agas"
+
+msgid "Button Color"
+msgstr "Kyl Botyn"
+
+msgid "Button Position"
+msgstr "Posys Botyn"
+
+msgid "Left"
+msgstr "Lewes"
+
+msgid "Right"
+msgstr "Deu"
+
+msgid "Horizontal Margin (px)"
+msgstr "Karn Horisontel (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Karn Vertikal (px)"
+
+msgid "Button Message"
+msgstr "Mesow Botyn"
+
+msgid "Description"
+msgstr "Diskrwyon"
+
+msgid "Button Type"
+msgstr "Rag Botyn"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "SVG Kod"
+
+msgid "PNG Image URL"
+msgstr "PNG Delow URL"
+
+msgid "Button Emoji"
+msgstr "Botyn Emoji"
+
+msgid "Custom CSS"
+msgstr "CSS Gwry"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Gwry"
+
+msgid "Which payment service should you choose?"
+msgstr "Lowen gwrys ow klev?"
+
+msgid ""
+"We offer multiple services to accept credit card payments to your crypto "
+"wallet. Here's how they compare:"
+msgstr ""
+"An gwrywegh meur gwrys ow goll a gans gans ow klev a wregh crypto. Yma ow "
+"klev ow goll ow goll."
+
+msgid "Service"
+msgstr "Gwerthyn"
+
+msgid "Fee"
+msgstr "Fythe"
+
+msgid "Where does crypto go?"
+msgstr "Pyth an crypto a vyn?"
+
+msgid "WordPress Plugin"
+msgstr "Plug-in WordPress"
+
+msgid "Best for"
+msgstr "Bys rag"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Bysynyans US?"
+
+msgid "Direct Crypto"
+msgstr "Crypto Direct"
+
+msgid "No fee"
+msgstr "Nyn fythe"
+
+msgid "Your wallet directly"
+msgstr "Dhe gwallet dhe wor"
+
+msgid "Built-in"
+msgstr "Yw gwell"
+
+msgid "Crypto-savvy users"
+msgstr "Users a gwrys crypto"
+
+msgid "Anywhere"
+msgstr "Kenedh"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API yma"
+
+msgid "Beginners, low fees"
+msgstr "Beginners, low fees"
+
+msgid "Global (incl. Turkey)"
+msgstr "Global (incl. Turkey)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Plug-in ofis"
+
+msgid "Good support"
+msgstr "Sefydhyn wel"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Enterprise, US companies"
+
+msgid "US-friendly"
+msgstr "US-friendly"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ User's wallet first"
+
+msgid "Widget ready"
+msgstr "Widget ready"
+
+msgid "Users with own wallets"
+msgstr "Users with own wallets"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Bysyon US yn owth"
+
+msgid "❌ US ONLY"
+msgstr "❌ US owth"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Kres"
+
+msgid "Asia markets"
+msgstr "Rygyr Asya"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Kyns war gollan"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Gansh PayPal"
+
+msgid "PayPal users"
+msgstr "Kenywans PayPal"
+
+msgid "Tip:"
+msgstr "Tip:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"M'ys owth yn ober an US, an lowerya NOWPayments (gollan owle, gwyr a' "
+"gwelow). M'ys owth yn US, Stripe Crypto yw owth owth anowgh. Yma owth gweth "
+"owth meuthyd ow thynowgh owth ow thyth a'n gwelow."
+
+msgid "Enabled Payment Methods"
+msgstr "Meuthyd ow thynowgh"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Teegh anowgh an owth owth owth owth y gwyn. Kenywans owth a wreythy anowgh "
+"owth anowgh."
+
+msgid "Show these methods"
+msgstr "Gansh anowgh yma"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Crypto Gweres (Redenn Gwel)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Karthik Gwar → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Karthik Gwar → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Karthik Gwar → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Kenywans buy crypto y'm kros)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Karthik Gwar)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Kensel redenn gwelow owth owth usynni crypto a gwan. Gansh gollan, a vythy "
+"owgh ken a welow crypto."
+
+msgid "Wallet Address"
+msgstr "Redenn Gwel"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Deyn Quai, Ethereum, Bitcoin, owth yn owth redenn gwel."
+
+msgid "Network"
+msgstr "Kenyw"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network (Karnyow - ghyn)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Gwreghys yans gorn & ow lowen kelyth"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments a moy ow resya ow faskun trev an gwel a gwas ow porth gwellery. "
+"Pys ow porth gwrys ow kynnus – ow ynn ow gwryff."
+
+msgid "Fee:"
+msgstr "Kelyth:"
+
+msgid "per transaction"
+msgstr "per transasyon"
+
+msgid "Payout:"
+msgstr "Ollap:"
+
+msgid "Direct to your wallet"
+msgstr "Trev ow porth"
+
+msgid "Setup:"
+msgstr "Kynas:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Kresys owskys gans ow goll → API Keys → Kopys API Key"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Key"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Pastes ow API key a faw NOWPayments dashboard."
+
+msgid "Great support, slightly higher fee"
+msgstr "Kenyans gwreghys, ow kelyth ow reghys"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate yw ow kelyth gans ow lyth ow gans ow WordPress plugin a gwrys ow "
+"kammyn."
+
+msgid "1% per transaction"
+msgstr "1% per transasyon"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Kresys owskys → API Keys"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Key"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Gresys gans ow porth US-friendly"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr "BitPay yw ow fens an ow karnow ow gans ow cys"
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Owskys ow business → API Keys"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Key"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Resya ow porth gwellery ow tos, ow tos ow gans ow fow"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay ow resya ow gans ow faskun trev an gwel a gwas ow porth gwellery, ow"
+" tos ow gans ow fow. Gwreghys ow kelyth ow reghys"
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% per transasyon"
+
+msgid "User's wallet first"
+msgstr "Ow porth gwellery ow tos"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Key"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Important:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe Publishable Key"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe Secret Key"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Standard PayPal transaction fees apply."
+
+msgid "PayPal Client ID"
+msgstr "PayPal Client ID"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "PayPal Secret"
+
+msgid "Donation Tiers"
+msgstr "Donation Tiers"
+
+msgid "Add Tier"
+msgstr "Add Tier"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Predefined donation amounts (USD). Leave empty for custom amount only."
+
+msgid "Membership"
+msgstr "Membership"
+
+msgid "Enable Membership"
+msgstr "Enable Membership"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Allow recurring subscriptions (requires Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Donate"
+msgstr "Donate"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Credit Card"
+
+msgid "Choose amount"
+msgstr "Choose amount"
+
+msgid "Custom amount"
+msgstr "Custom amount"
+
+msgid "Enter amount (USD)"
+msgstr "Enter amount (USD)"
+
+msgid "Donate Now"
+msgstr "Donate Now"
+
+msgid "Crypto Address"
+msgstr "Crypto Address"
+
+msgid "Copy Address"
+msgstr "Copy Address"
+
+msgid "Copied!"
+msgstr "Copied!"
+
+msgid "Pay with Credit Card"
+msgstr "Pay with Credit Card"
+
+msgid "Pay with PayPal"
+msgstr "Pay with PayPal"
+
+msgid "Membership Plans"
+msgstr "Keth Plannow"
+
+msgid "Monthly"
+msgstr "Mesow"
+
+msgid "Yearly"
+msgstr "Yennow"
+
+msgid "Subscribe"
+msgstr "Kedl"
+
+msgid "Credit Card → Crypto"
+msgstr "Cerdhy Karty → Kripto"
+
+msgid "Buy Crypto"
+msgstr "Kreni Kripto"
+
+msgid "Processing..."
+msgstr "O Prysys..."
+
+msgid "Payment successful!"
+msgstr "Pymyn ow kelow!"
+
+msgid "Payment failed"
+msgstr "Pymyn ow gath"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr "NOWPayments leudha ow gath cerdhy karty ow kelow gans kripto wely."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate yw ow kenedh kripto ow kelow."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay leudha gweleryow kreni kripto ow cerdhy karty ow kelow gans wely ow,"
+" ow gwra ow."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Gans an a'n a gwrenk kripto, gwra ow ow gans wely lowen."
+
+msgid "Your crypto wallet address"
+msgstr "Gwra ow kripto wely"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Kellow My Gwirhyn Gans Gweres"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Ur worgh, ledh gans ow kenno, ow kelow, ow gans cerdhy karty ow kelow a'n a "
+"kripto (Quai). Nyn mesow ow gath, owth owth keneu owth owth, owgh ow kelow "
+"ow wely, ow gans ow ledh."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr "Aydh owth yeth, owth owgh owgh, owgh owgh, owgh owth."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr "Ow ghyn gans ow thwles ow thwles, ow thwles owgh, owgh."
+
+msgid "Script"
+msgstr "Skript"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Kach TTL"
+
+msgid "Action"
+msgstr "Keny"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Usage:"
+msgstr "Usk:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js ow gans cerdhy karty ow kelow"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK ow gans PayPal ow kelow"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas ow gans ow kelow"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF ow gans ow kelow"
+
+msgid "External Script Proxy"
+msgstr "Skript Extern Proxy"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Klik \"Test\" rag gwrys ow tosoweth an URL owskrivya. Ow proxy a yllow "
+"owskrithow yn gwrys owleus."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal Email (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Statow Cewes"
+
+msgid "Widget Status:"
+msgstr "Status Gwynder:"
+
+msgid "Active"
+msgstr "Kres"
+
+msgid "Inactive"
+msgstr "Nynkres"
+
+msgid "Enabled Payment Methods:"
+msgstr "Kresow owleus owleus:"
+
+msgid "None"
+msgstr "Nyn"
+
+msgid "Crypto Wallet:"
+msgstr "Weltow Krypto:"
+
+msgid "Not set"
+msgstr "Nyn yllow"
+
+msgid "pay_with_card"
+msgstr "Pay owleus owleus"
+
+msgid "crypto_address_label"
+msgstr "Sewghow krypto owleus rag an address:"
+
+msgid "crypto_note"
+msgstr "Pyn a yllow rag your wallet. Nyn fee."
+
+msgid "your_crypto_address"
+msgstr "An address ow your wallet:"
+
+msgid "nowpayments_desc"
+msgstr "Pay owleus owleus – krypto a yllow rag your wallet."
+
+msgid "coingate_desc"
+msgstr "Pay owleus owleus – krypto rag your wallet."
+
+msgid "bitpay_desc"
+msgstr "Ollik krypto owleus. Best for US businesses."
+
+msgid "moonpay_desc"
+msgstr "Kewes krypto owleus – rag sewghow rag address ow."
+
+msgid "moonpay_note"
+msgstr "Post keffrys krypto, rag sewghow rag address ow."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Pyn a yllow rag your wallet. Nyn fee."
+
+msgid "Pay with Card"
+msgstr "Pay owleus owleus"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Pay owleus owleus – krypto a yllow rag your wallet."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Sewghow krypto owleus rag an address:"

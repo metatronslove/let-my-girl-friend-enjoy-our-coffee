@@ -1,0 +1,715 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Cebuano <ceb_PH>\n"
+"Language: ceb-PH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Dashboard sa Coffee Widget"
+
+msgid "Coffee Widget"
+msgstr "Coffee Widget"
+
+msgid "Settings"
+msgstr "Mga Setting"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Payment Methods"
+msgstr "Mga Paagi sa Bayad"
+
+msgid "Help & Support"
+msgstr "Tabang & Suporta"
+
+msgid "General"
+msgstr "Pangkalahatan"
+
+msgid "Button"
+msgstr "Buton"
+
+msgid "Advanced"
+msgstr "Mas Halangdong"
+
+msgid "Proxy Scripts"
+msgstr "Mga Proxy Script"
+
+msgid "Widget Settings"
+msgstr "Mga Setting sa Widget"
+
+msgid "Widget Status"
+msgstr "Status sa Widget"
+
+msgid "Widget active"
+msgstr "Aktibo ang Widget"
+
+msgid "Button Color"
+msgstr "Kulay sa Buton"
+
+msgid "Button Position"
+msgstr "Posisyon sa Buton"
+
+msgid "Left"
+msgstr "Kaliwa"
+
+msgid "Right"
+msgstr "Tuo"
+
+msgid "Horizontal Margin (px)"
+msgstr "Horisontal nga Margin (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Verikal nga Margin (px)"
+
+msgid "Button Message"
+msgstr "Mensahe sa Buton"
+
+msgid "Description"
+msgstr "Deskripsyon"
+
+msgid "Button Type"
+msgstr "Klase sa Buton"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "SVG Code"
+
+msgid "PNG Image URL"
+msgstr "PNG Image URL"
+
+msgid "Button Emoji"
+msgstr "Emoji sa Buton"
+
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+msgid "Custom JavaScript"
+msgstr "Custom JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "Unsa nga serbisyo sa bayad ang imong pilion?"
+
+msgid "Service"
+msgstr "Serbisyo"
+
+msgid "Fee"
+msgstr "Bayad"
+
+msgid "Where does crypto go?"
+msgstr "Asa paingon ang crypto?"
+
+msgid "WordPress Plugin"
+msgstr "Plugin sa WordPress"
+
+msgid "Best for"
+msgstr "Pinakamaayo para sa"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Negosyo sa US?"
+
+msgid "Direct Crypto"
+msgstr "Direktang Crypto"
+
+msgid "No fee"
+msgstr "Walay bayad"
+
+msgid "Your wallet directly"
+msgstr "Imong wallet direkta"
+
+msgid "Built-in"
+msgstr "Built-in"
+
+msgid "Crypto-savvy users"
+msgstr "Mga tiggamit nga kahibalo sa crypto"
+
+msgid "Anywhere"
+msgstr "Bisan asa"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API andam"
+
+msgid "Beginners, low fees"
+msgstr "Mga bag-o, gamay nga bayad"
+
+msgid "Global (incl. Turkey)"
+msgstr "Global (lakip ang Turkey)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Opisyal nga plugin"
+
+msgid "Good support"
+msgstr "Maayo nga suporta"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Enterprise, mga kumpanya sa US"
+
+msgid "US-friendly"
+msgstr "US-friendly"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Wallet sa tiggamit una"
+
+msgid "Widget ready"
+msgstr "Widget andam"
+
+msgid "Users with own wallets"
+msgstr "Mga tiggamit nga adunay kaugalingong wallet"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Lang sa mga negosyo sa US"
+
+msgid "❌ US ONLY"
+msgstr "❌ US ONLY"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Variable"
+
+msgid "Asia markets"
+msgstr "Mga merkado sa Asia"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Standard nga bayranan"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal balance"
+
+msgid "PayPal users"
+msgstr "Mga tiggamit sa PayPal"
+
+msgid "Tip:"
+msgstr "Tip:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Kung naa ka gawas sa US, girekomenda namo ang NOWPayments (pinakagamay nga "
+"bayranan, direkta sa imong wallet). Kung naa ka sa US, ang Stripe Crypto "
+"usab usa ka opsyon. Mahimo nimong i-enable ang daghang serbisyo ug pasudlon "
+"ang imong mga bisita sa pagpili!"
+
+msgid "Enabled Payment Methods"
+msgstr "Enabled Payment Methods"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Pili-a kung unsang mga opsyon sa pagbayad ang moapareho sa imong widget. Ang"
+" imong mga bisita mahimong mopili sa ilang gusto nga paagi."
+
+msgid "Show these methods"
+msgstr "Ipakita ang mga kini nga mga paagi"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Direct Crypto (Wallet address)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Credit Card → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Credit Card → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Credit Card → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (User buys crypto first)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Credit Card)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Ipakita ang imong wallet address aron ang mga tiggamit makapadala og crypto "
+"diretso. Zero fees, apan kinahanglan nga naa na sila'y crypto."
+
+msgid "Wallet Address"
+msgstr "Wallet Address"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Ang imong Quai, Ethereum, Bitcoin, o uban pang wallet address."
+
+msgid "Network"
+msgstr "Network"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network (Recommended - free)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Pinakamaayo para sa mga bag‑tunganga & pinakagamay nga bayad"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"Ang NOWPayments nagtugot kanimo nga modawat og bayad sa kredito direkta sa "
+"imong crypto wallet. Ang pondo moadto diretso sa imong wallet – walay "
+"tunga‑tunga."
+
+msgid "Fee:"
+msgstr "Bayad:"
+
+msgid "per transaction"
+msgstr "per transaksyon"
+
+msgid "Payout:"
+msgstr "Pagbayad:"
+
+msgid "Direct to your wallet"
+msgstr "Direkta sa imong wallet"
+
+msgid "Setup:"
+msgstr "Setup:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Paghimo og libre nga account → API Keys → Kopyaha ang API Key"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Key"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "I‑paste ang imong API key gikan sa NOWPayments dashboard."
+
+msgid "Great support, slightly higher fee"
+msgstr "Maayo nga suporta, gamay nga mas taas nga bayad"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"Ang CoinGate usa ka kilala nga crypto payment processor nga adunay opisyal "
+"nga WordPress plugin."
+
+msgid "1% per transaction"
+msgstr "1% per transaksyon"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Paghimo og account → API Keys"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Key"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Enterprise-grade, US-friendly"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"Ang BitPay kasaligan sa dagkong kompaniya. Epektibo para sa mga negosyo nga "
+"nakabase sa US."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Business account → API Keys"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Key"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Gumagamit ang mga tiggamit sa crypto una, dayon ipadala kini kanimo"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"Ang MoonPay nagtugot sa mga tiggamit nga magpalit og crypto gamit ang credit"
+" card direkta sa ILONG wallet, dayon ipadala kini kanimo. Mas taas nga bayad"
+" apan sayon kaayo alang sa mga tiggamit."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% per transaksyon"
+
+msgid "User's wallet first"
+msgstr "Unang ang wallet sa user"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Key"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Importante:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Ang mga bayad sa Stripe Crypto (USDC) kay AVAILABLE ra alang sa mga negosyo "
+"nga nakabase sa US. Kung naa ka gawas sa US, ang Stripe ra magdawat og bayad"
+" pinaagi sa credit card ngadto sa imong Stripe balance (dili direkta sa "
+"crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Kung naa ka sa US, mahimo nimo gamiton ang Stripe aron direkta nga makadawat"
+" og crypto. Kung gawas, konsidera ang NOWPayments o CoinGate alang sa "
+"direkta nga crypto payouts."
+
+msgid "Stripe Publishable Key"
+msgstr "Yabi nga Key sa Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "Sekreto nga Key sa Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Classic PayPal nga bayad. Mga tiggamit magbayad gamit ang balanse sa PayPal "
+"o credit card. Ang pondo moadto sa imong PayPal nga account."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Apil ang standard nga bayad sa transaksyon sa PayPal."
+
+msgid "PayPal Client ID"
+msgstr "ID sa Client sa PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Kumuha sa imong PayPal API credentials gikan sa <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "Sekreto sa PayPal"
+
+msgid "Donation Tiers"
+msgstr "Mga Antas sa Donasyon"
+
+msgid "Add Tier"
+msgstr "Idugang ang Tier"
+
+msgid "Remove"
+msgstr "Kuhaa"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Mga predefined nga kantidad sa donasyon (USD). Palihug iwanang walay sulod "
+"kung gusto lang nimo og custom nga kantidad."
+
+msgid "Membership"
+msgstr "Kasapi"
+
+msgid "Enable Membership"
+msgstr "Pag-activate sa Membership"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr ""
+"Pahimusli ang recurring subscriptions (nagkinahanglan og Stripe "
+"Subscriptions)."
+
+msgid "Support"
+msgstr "Suporta"
+
+msgid "Donate"
+msgstr "I-donar"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Credit Card"
+
+msgid "Choose amount"
+msgstr "Pilii ang kantidad"
+
+msgid "Custom amount"
+msgstr "Custom nga kantidad"
+
+msgid "Enter amount (USD)"
+msgstr "Ibutang ang kantidad (USD)"
+
+msgid "Donate Now"
+msgstr "I-donar Karon"
+
+msgid "Crypto Address"
+msgstr "Address sa Crypto"
+
+msgid "Copy Address"
+msgstr "Kopyaha ang Address"
+
+msgid "Copied!"
+msgstr "Kopyado na!"
+
+msgid "Pay with Credit Card"
+msgstr "Bayad gamit ang Credit Card"
+
+msgid "Pay with PayPal"
+msgstr "Bayad gamit ang PayPal"
+
+msgid "Membership Plans"
+msgstr "Mga Plano sa Membership"
+
+msgid "Monthly"
+msgstr "Bulanon"
+
+msgid "Yearly"
+msgstr "Kada tuig"
+
+msgid "Subscribe"
+msgstr "Mag-subscribe"
+
+msgid "Credit Card → Crypto"
+msgstr "Credit Card → Crypto"
+
+msgid "Buy Crypto"
+msgstr "Palit og Crypto"
+
+msgid "Processing..."
+msgstr "Niproseso..."
+
+msgid "Payment successful!"
+msgstr "Ang bayad malampuson!"
+
+msgid "Payment failed"
+msgstr "Napakyas ang bayad"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"Gipasugot sa NOWPayments ang pagdawat og bayad gamit ang credit card diretso"
+" sa imong crypto wallet."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "Ang CoinGate usa ka kilala nga crypto payment processor."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"Gihimo sa MoonPay nga makapalit ang mga tiggamit og crypto gamit ang credit "
+"card diretso sa ILANG wallet, unya ipadala nila kini kanimo."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+"Human magpalit og crypto, palihog isend kini sa wallet address sa ubos."
+
+msgid "Your crypto wallet address"
+msgstr "Ang imong crypto wallet address"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Tugoti ang akong Girl Friend nga malingaw sa among kape"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Usa ka kusgan, libre nga donation ug payment widget nga nagtugot sa imong "
+"mga bisita nga suportahan ka pinaagi sa credit card o cryptocurrency (Quai)."
+" Walay buwanong bayad, walay third-party subscription – ang imong wallet ug "
+"libre nga serbisyo ra."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Ang pipila ka mga browser mo-block sa third-party scripts alang sa privacy. "
+"Kini nga proxy mo-load sa scripts pinaagi sa imong kaugalingong server aron "
+"malikayan kini nga mga block."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Mahimo nimo i-update ang mga script URLs sa ubos kung mag-usab ang orihinal "
+"nga URLs o kung gusto nimo gamiton ang lain nga CDN."
+
+msgid "Script"
+msgstr "Script"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Aksyon"
+
+msgid "Test"
+msgstr "Sulayi"
+
+msgid "Refresh"
+msgstr "I-refresh"
+
+msgid "Usage:"
+msgstr "Paggamit:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js para sa bayad gamit ang credit card"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK para sa PayPal bayad"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas para sa paghimo og screenshot"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF para sa paghimo og PDF"
+
+msgid "External Script Proxy"
+msgstr "External Script Proxy"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"I-klik ang \"Test\" aron masuta kung ma-access ang script URL. Ang proxy "
+"mag-cache sa mga script locally para sa mas maayo nga performance."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal Email (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Quick Stats"
+
+msgid "Widget Status:"
+msgstr "Widget Status:"
+
+msgid "Active"
+msgstr "Aktibo"
+
+msgid "Inactive"
+msgstr "Inaktibo"
+
+msgid "Enabled Payment Methods:"
+msgstr "Enabled Payment Methods:"
+
+msgid "None"
+msgstr "Wala"
+
+msgid "Crypto Wallet:"
+msgstr "Crypto Wallet:"
+
+msgid "Not set"
+msgstr "Wala nakatakda"
+
+msgid "pay_with_card"
+msgstr "Bayad gamit ang Card"
+
+msgid "crypto_address_label"
+msgstr "Ipadala ang cryptocurrency diretso sa kini nga address:"
+
+msgid "crypto_note"
+msgstr "Ang pondo diretso padulong sa imong wallet. Walay bayad."
+
+msgid "your_crypto_address"
+msgstr "Ang imong wallet address:"
+
+msgid "nowpayments_desc"
+msgstr ""
+"Bayad gamit ang credit card – ang crypto diretso padulong sa imong wallet."
+
+msgid "coingate_desc"
+msgstr "Bayad gamit ang credit card – crypto padulong sa imong wallet."
+
+msgid "bitpay_desc"
+msgstr "Enterprise-grade crypto payments. Best for US businesses."
+
+msgid "moonpay_desc"
+msgstr ""
+"Bumili og crypto gamit ang credit card – dayon ipadala kini sa address ubos."
+
+msgid "moonpay_note"
+msgstr ""
+"Human makapalit og crypto, palihug ipadala kini sa wallet address ibabaw."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Ang pondo diretso padulong sa imong wallet. Walay bayad."
+
+msgid "Pay with Card"
+msgstr "Bayad gamit ang Card"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"Bayad gamit ang credit card – ang crypto diretso padulong sa imong wallet."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Ipadala ang cryptocurrency diretso sa kini nga address:"

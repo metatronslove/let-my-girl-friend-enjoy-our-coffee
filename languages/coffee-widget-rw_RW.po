@@ -1,0 +1,716 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Kinyarwanda <rw_RW>\n"
+"Language: rw-RW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Dashboard ya Coffee Widget"
+
+msgid "Coffee Widget"
+msgstr "Coffee Widget"
+
+msgid "Settings"
+msgstr "Imiterere"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Payment Methods"
+msgstr "Uburyo bwo kwishyura"
+
+msgid "Help & Support"
+msgstr "Ifashanyo & Inkunga"
+
+msgid "General"
+msgstr "Rusange"
+
+msgid "Button"
+msgstr "Buto"
+
+msgid "Advanced"
+msgstr "Birenzeho"
+
+msgid "Proxy Scripts"
+msgstr "Script za Proxy"
+
+msgid "Widget Settings"
+msgstr "Imiterere ya Widget"
+
+msgid "Widget Status"
+msgstr "Imiterere ya Widget"
+
+msgid "Widget active"
+msgstr "Widget yibumbiye"
+
+msgid "Button Color"
+msgstr "Ibara rya Buto"
+
+msgid "Button Position"
+msgstr "Ahantu h'ibuto"
+
+msgid "Left"
+msgstr "Ibumoso"
+
+msgid "Right"
+msgstr "Ibumwe"
+
+msgid "Horizontal Margin (px)"
+msgstr "Margin yo ku ruhande (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Margin yo hejuru (px)"
+
+msgid "Button Message"
+msgstr "Ubutumwa bwa Buto"
+
+msgid "Description"
+msgstr "Ibisobanuro"
+
+msgid "Button Type"
+msgstr "Ubwoko bwa Buto"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "Umurongo wa SVG"
+
+msgid "PNG Image URL"
+msgstr "URL y'ishusho ya PNG"
+
+msgid "Button Emoji"
+msgstr "Emoji y'ibuto"
+
+msgid "Custom CSS"
+msgstr "CSS y'ibyo ushaka"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript y'ibyo ushaka"
+
+msgid "Which payment service should you choose?"
+msgstr "Ni serivisi yo kwishyura ugomba guhitamo?"
+
+msgid "Service"
+msgstr "Serivisi"
+
+msgid "Fee"
+msgstr "Igiciro"
+
+msgid "Where does crypto go?"
+msgstr "Crypto iragenda ahe?"
+
+msgid "WordPress Plugin"
+msgstr "Plugin ya WordPress"
+
+msgid "Best for"
+msgstr "Byiza kuri"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Uruganda rw'i Leta Zunze Ubumwe z'Amerika?"
+
+msgid "Direct Crypto"
+msgstr "Crypto byihuse"
+
+msgid "No fee"
+msgstr "Nta mafaranga"
+
+msgid "Your wallet directly"
+msgstr "Imbuku yawe byihuse"
+
+msgid "Built-in"
+msgstr "Mu buryo bw'imbere"
+
+msgid "Crypto-savvy users"
+msgstr "Abakoresha bafite ubumenyi kuri crypto"
+
+msgid "Anywhere"
+msgstr "Ahandi hose"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API yiteguye"
+
+msgid "Beginners, low fees"
+msgstr "Abatangiza, amafaranga make"
+
+msgid "Global (incl. Turkey)"
+msgstr "Ku isi yose (harimo Turkey)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Plugin yemewe"
+
+msgid "Good support"
+msgstr "Inkunga nziza"
+
+msgid "Global"
+msgstr "Mpuzamahanga"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Enterprise, sosiyete za US"
+
+msgid "US-friendly"
+msgstr "Zikora neza mu US"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Imbuku y'umukoresha ikambere"
+
+msgid "Widget ready"
+msgstr "Widget yiteguye"
+
+msgid "Users with own wallets"
+msgstr "Abakoresha bafite imbuku zabo"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Imirimo yo mu USA gusa"
+
+msgid "❌ US ONLY"
+msgstr "❌ US gusa"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Igihindagurika"
+
+msgid "Asia markets"
+msgstr "Amashoko y'Aziya"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Amafaranga asanzwe"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Konti ya PayPal"
+
+msgid "PayPal users"
+msgstr "Abakoresha PayPal"
+
+msgid "Tip:"
+msgstr "Inama:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Niba uri hanze ya USA, turagusaba NOWPayments (amafaranga agabanya cyane, "
+"byihutirwa ku mafaranga yawe). Niba uri muri USA, Stripe Crypto ni naho "
+"ushobora kuyikoresha. Ushobora kwemerera serivisi nyinshi kandi wemerere "
+"abashyitsi bawe guhitamo!"
+
+msgid "Enabled Payment Methods"
+msgstr "Uburyo bwo kwishyura byemewe"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Hitamo uburyo bwo kwishyura buzagaragara muri widget yawe. Abashyitsi bawe "
+"bashobora guhitamo uburyo buboneye."
+
+msgid "Show these methods"
+msgstr "Erekana izi nzira"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Crypto nyayo (adresse ya Wallet)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Ikarita y'inguzanyo → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Ikarita y'inguzanyo → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Ikarita y'inguzanyo → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Umukoresha agura crypto mbere)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Ikarita y'inguzanyo)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Erekana adresse ya wallet yawe kugirango abakoresha babashe kohereza crypto "
+"byikora. Amafaranga agomba kuba atari 0, ariko bisaba ko abakoresha bafite "
+"crypto."
+
+msgid "Wallet Address"
+msgstr "Adresse ya Wallet"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Adresse yawe ya Quai, Ethereum, Bitcoin, cyangwa indi wallet."
+
+msgid "Network"
+msgstr "Umujyo"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network (Yemejwe - ubuntu)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Ikiza kuri abatangizi & amafaranga make"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments yemera kwakira kwishyurana ku ikarita ya kredite mu buryo buhita"
+" ku gikapu cya crypto cyawe. Amafaranga ashyirwa mu gikapu cyawe – nta muntu"
+" hagati."
+
+msgid "Fee:"
+msgstr "Amafaranga yo kwishyura:"
+
+msgid "per transaction"
+msgstr "kuri buri transa"
+
+msgid "Payout:"
+msgstr "Kwimura:"
+
+msgid "Direct to your wallet"
+msgstr "Kuri gikapu cyawe"
+
+msgid "Setup:"
+msgstr "Gushyiraho:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Shiraho konti y'ubuntu → Imbonerahamwe ya API → Kopi API Key"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Key"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Funga API key yawe iva ku dashboard ya NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Inkunga nziza, amafaranga akomeye gato"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate ni umucuruzi w’amafaranga ya crypto ufite plugin ya WordPress "
+"yemewe."
+
+msgid "1% per transaction"
+msgstr "1% kuri buri transa"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Shiraho konti → Imbonerahamwe ya API"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Key"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Igiciro cy'ubucuruzi, kibereye muri Amerika"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr "BitPay yizewe n'ibigo bikomeye. Ikora neza ku bucuruzi bw'Amerika."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Konti y'ubucuruzi → Imbonerahamwe ya API"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Key"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Abakoresha bacuruza crypto mbere, hanyuma bakohereza kuriwe"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay ituma abakoresha bacuruza crypto n'ikarita ya kredite mu buryo "
+"buhita ku gikapu cyabo, hanyuma bakohereza kuriwe. Amafaranga arenga ariko "
+"yoroshya abakoresha."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% kuri buri transa"
+
+msgid "User's wallet first"
+msgstr "Gikapu cy'umukoresha mbere"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Key"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Ingenzi:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto payments (USDC) ziboneka gusa ku bigo bishingiye muri Leta "
+"Zunze Ubumwe za Amerika. Niba uri ahandi hantu uretse Amerika, Stripe "
+"izakira gusa ubwishyu bw'ikarita y'ikredit kuri saldo yawe ya Stripe (ntabwo"
+" ku crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Niba uri mu gihugu cya Amerika, ushobora gukoresha Stripe kugira ngo ubone "
+"crypto mu buryo bwihariye. Niba uri ahandi, reba NOWPayments cyangwa "
+"CoinGate kugira ngo ubone crypto ku buryo bwihuse."
+
+msgid "Stripe Publishable Key"
+msgstr "Ishyirwamo rya Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "Icyemezo cyihishe cya Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Amafaranga ya Classic PayPal. Abakoresha bakora ubwishyu bakoresheje "
+"amafaranga ya PayPal cyangwa karetera y'ikredit. Amafaranga ajya ku konti "
+"yawe ya PayPal."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Amafaranga y'inyungu zisanzwe ya PayPal agira ingaruka."
+
+msgid "PayPal Client ID"
+msgstr "ID ya PayPal y'Umukiriya"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Bona amahirwe yawe ya PayPal API muri <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "Icyemezo cya PayPal"
+
+msgid "Donation Tiers"
+msgstr "Amajwi y'ubufasha"
+
+msgid "Add Tier"
+msgstr "Ongeraho Icyiciro"
+
+msgid "Remove"
+msgstr "Sukura"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Amafaranga y'ubufasha yatanzwe (USD). Ureke ubusanzwe niba ushaka "
+"kwiyandikishaho amafaranga yihariye."
+
+msgid "Membership"
+msgstr "Umwuga"
+
+msgid "Enable Membership"
+msgstr "Shyiraho Umwuga"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Emeza ko abakiriya basubira (bisaba Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Gushyigikira"
+
+msgid "Donate"
+msgstr "Ongeraho"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Karte y'ikredit"
+
+msgid "Choose amount"
+msgstr "Hitamo amafaranga"
+
+msgid "Custom amount"
+msgstr "Amafaranga yihariye"
+
+msgid "Enter amount (USD)"
+msgstr "Andika amafaranga (USD)"
+
+msgid "Donate Now"
+msgstr "Ongeraho ubu"
+
+msgid "Crypto Address"
+msgstr "Aderesi ya Crypto"
+
+msgid "Copy Address"
+msgstr "Kopa Aderesi"
+
+msgid "Copied!"
+msgstr "Byakopiwe!"
+
+msgid "Pay with Credit Card"
+msgstr "Kora ubwishyu ukoresheje karetera y'ikredit"
+
+msgid "Pay with PayPal"
+msgstr "Kora ubwishyu ukoresheje PayPal"
+
+msgid "Membership Plans"
+msgstr "Porogaramu z'ubunyamuryango"
+
+msgid "Monthly"
+msgstr "Ku kwezi"
+
+msgid "Yearly"
+msgstr "Ku mwaka"
+
+msgid "Subscribe"
+msgstr "Kwiyandikisha"
+
+msgid "Credit Card → Crypto"
+msgstr "Ikadi ya Kredit → Crypto"
+
+msgid "Buy Crypto"
+msgstr "Gura Crypto"
+
+msgid "Processing..."
+msgstr "Bikora..."
+
+msgid "Payment successful!"
+msgstr "Kwishyura byagenze neza!"
+
+msgid "Payment failed"
+msgstr "Kwishyura byanze"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments ikemerera kwakira kwishyura by'ikadi ya kredit mu gikapu cya "
+"crypto cyawe."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate ni umukozi ukomeye w'ikoranabuhanga ryo kwishyura crypto."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay ituma abakoresha bagura crypto bakoresheje ikadi ya kredit bakajya "
+"mu gikapu cyabo, hanyuma bakukohereza."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+"Nyuma yo kugura crypto, nyamuneka ohereza mu aderesi y'ikigega iri hasi."
+
+msgid "Your crypto wallet address"
+msgstr "Aderesi y'ikigega cyawe cya crypto"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Tanga ntagira yanjye gusangira coffee yacu"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Igikoresho gikomeye, cy'ubuntu cyo gutanga no kwishyura, gituma abasura bawe"
+" bashobora kukwerekana inkunga ukoresheje ikadi ya kredit cyangwa "
+"cryptocurrency (Quai). Nta mafaranga y'ukwezi, nta gahunda z'abandi – gusa "
+"gikapu cyawe n'ibikorwa by'ubuntu."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Bimwe mu bisomero byirinda scripts zituruka ahandi kubera ubwisanzure. Proxy"
+" yacu itwara scripts ukoresheje server yawe kugira ngo uce aya makosa."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Urashobora kuvugurura aderesi za script hano hasi niba aderesi z'inkomoko "
+"zahindutse cyangwa niba wifuza gukoresha CDN itandukanye."
+
+msgid "Script"
+msgstr "Script"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Usage:"
+msgstr "Gukoresha:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js ku kwishyurwa by'ikadi ya kredit"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK ku kwishyurwa by'PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas ku gukora screenshot"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF ku gukora PDF"
+
+msgid "External Script Proxy"
+msgstr "Proxy ya Script y'inyuma"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Kanda \"Test\" urebe niba URL y'ikode irashobora kugerwaho. Proxy izabika "
+"scripts mu buryo bw'ahantu kugirango ibe nziza."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "Imeyili ya PayPal (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Ibisobanuro byihuse"
+
+msgid "Widget Status:"
+msgstr "Imiterere ya Widget:"
+
+msgid "Active"
+msgstr "Kuri Gukora"
+
+msgid "Inactive"
+msgstr "Ntibikora"
+
+msgid "Enabled Payment Methods:"
+msgstr "Uburyo bwo kwishyura bwemerwe:"
+
+msgid "None"
+msgstr "Nta none"
+
+msgid "Crypto Wallet:"
+msgstr "Imbogo y'amafaranga ya crypto:"
+
+msgid "Not set"
+msgstr "Kitagenwe"
+
+msgid "pay_with_card"
+msgstr "Kwishyura ukoresheje Karte"
+
+msgid "crypto_address_label"
+msgstr "Tanga amafaranga ya crypto muri iyi aderesi:"
+
+msgid "crypto_note"
+msgstr "Amafaranga yoherezwa kuri wallet yawe. Nta fee."
+
+msgid "your_crypto_address"
+msgstr "Aderesi yawe ya crypto:"
+
+msgid "nowpayments_desc"
+msgstr ""
+"Kwiyishyura ukoresheje karete ya kredite – crypto yoherezwa kuri wallet "
+"yawe."
+
+msgid "coingate_desc"
+msgstr "Kwiyishyura ukoresheje karete ya kredite – crypto kuri wallet yawe."
+
+msgid "bitpay_desc"
+msgstr ""
+"Kwishyura mu buryo bw'ubucuruzi bwa crypto. Byiza kuri sosiyete za Amerika."
+
+msgid "moonpay_desc"
+msgstr ""
+"Shora crypto ukoresheje karete ya kredite – hanyuma woherereza kuri aderesi "
+"iri hepfo."
+
+msgid "moonpay_note"
+msgstr ""
+"Nyuma yo kugura crypto, nyamuneka woherereza kuri aderesi ya wallet hejuru."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Amafaranga yoherezwa kuri wallet yawe. Nta fee."
+
+msgid "Pay with Card"
+msgstr "Kwishyura ukoresheje Karte"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"Kwiyishyura ukoresheje karete ya kredite – crypto yoherezwa kuri wallet "
+"yawe."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Tanga amafaranga ya crypto muri iyi aderesi:"

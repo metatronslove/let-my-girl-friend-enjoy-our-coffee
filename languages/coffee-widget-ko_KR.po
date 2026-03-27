@@ -1,0 +1,684 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Korean <ko_KR>\n"
+"Language: ko-KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "커피 위젯 대시보드"
+
+msgid "Coffee Widget"
+msgstr "커피 위젯"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Dashboard"
+msgstr "커피 대시보드"
+
+msgid "Payment Methods"
+msgstr "결제 수단"
+
+msgid "Help & Support"
+msgstr "도움말 및 지원"
+
+msgid "General"
+msgstr "일반"
+
+msgid "Button"
+msgstr "버튼"
+
+msgid "Advanced"
+msgstr "고급"
+
+msgid "Proxy Scripts"
+msgstr "프록시 스크립트"
+
+msgid "Widget Settings"
+msgstr "위젯 설정"
+
+msgid "Widget Status"
+msgstr "위젯 상태"
+
+msgid "Widget active"
+msgstr "위젯 활성"
+
+msgid "Button Color"
+msgstr "버튼 색상"
+
+msgid "Button Position"
+msgstr "버튼 위치"
+
+msgid "Left"
+msgstr "왼쪽"
+
+msgid "Right"
+msgstr "오른쪽"
+
+msgid "Horizontal Margin (px)"
+msgstr "수평 여백 (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "수직 여백 (px)"
+
+msgid "Button Message"
+msgstr "버튼 메시지"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Button Type"
+msgstr "버튼 유형"
+
+msgid "Emoji"
+msgstr "이모지"
+
+msgid "SVG Code"
+msgstr "SVG 코드"
+
+msgid "PNG Image URL"
+msgstr "PNG 이미지 URL"
+
+msgid "Button Emoji"
+msgstr "버튼 이모지"
+
+msgid "Custom CSS"
+msgstr "사용자 정의 CSS"
+
+msgid "Custom JavaScript"
+msgstr "사용자 정의 JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "어떤 결제 서비스를 선택하시겠습니까?"
+
+msgid ""
+"We offer multiple services to accept credit card payments to your crypto "
+"wallet. Here's how they compare:"
+msgstr "우리는 암호화폐 지갑으로 신용카드 결제를 수락할 수 있는 다양한 서비스를 제공합니다. 다음은 이들 서비스의 비교입니다:"
+
+msgid "Service"
+msgstr "서비스"
+
+msgid "Fee"
+msgstr "수수료"
+
+msgid "Where does crypto go?"
+msgstr "암호화폐는 어디로 가나요?"
+
+msgid "WordPress Plugin"
+msgstr "워드프레스 플러그인"
+
+msgid "Best for"
+msgstr "최적의 선택"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 미국 비즈니스?"
+
+msgid "Direct Crypto"
+msgstr "직접 암호화폐"
+
+msgid "No fee"
+msgstr "수수료 없음"
+
+msgid "Your wallet directly"
+msgstr "귀하의 지갑으로 직접"
+
+msgid "Built-in"
+msgstr "내장"
+
+msgid "Crypto-savvy users"
+msgstr "암호화폐에 정통한 사용자"
+
+msgid "Anywhere"
+msgstr "언제 어디서나"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API 준비 완료"
+
+msgid "Beginners, low fees"
+msgstr "초보자, 저렴한 수수료"
+
+msgid "Global (incl. Turkey)"
+msgstr "전 세계 (터키 포함)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "공식 플러그인"
+
+msgid "Good support"
+msgstr "우수한 지원"
+
+msgid "Global"
+msgstr "전 세계"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "기업용, 미국 기업"
+
+msgid "US-friendly"
+msgstr "미국 친화적"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ 먼저 사용자의 지갑"
+
+msgid "Widget ready"
+msgstr "위젯 준비 완료"
+
+msgid "Users with own wallets"
+msgstr "자체 지갑을 보유한 사용자"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "미국 비즈니스만"
+
+msgid "❌ US ONLY"
+msgstr "❌ 미국 전용"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "변동"
+
+msgid "Asia markets"
+msgstr "아시아 시장"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "표준 수수료"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal 잔액"
+
+msgid "PayPal users"
+msgstr "PayPal 사용자"
+
+msgid "Tip:"
+msgstr "팁:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"미국 이외 지역에 계신 경우 NOWPayments (가장 낮은 수수료, 바로 지갑으로) 를 권장합니다. 미국에 계신 경우 Stripe "
+"Crypto도 옵션입니다. 여러 서비스를 활성화하고 방문자가 선택할 수 있도록 하세요!"
+
+msgid "Enabled Payment Methods"
+msgstr "활성화된 결제 방법"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr "위젯에 표시할 결제 옵션을 선택하세요. 방문자는 선호하는 방식을 선택할 수 있습니다."
+
+msgid "Show these methods"
+msgstr "이 방법 표시"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 직접 암호화폐 (지갑 주소)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (신용카드 → 암호화폐)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (신용카드 → 암호화폐)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (신용카드 → 암호화폐)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (사용자가 먼저 암호화폐 구매)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (신용카드)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"지갑 주소를 표시해 사용자가 직접 암호화폐를 보낼 수 있도록 하세요. 수수료 없음, 단 암호화폐를 이미 보유하고 있어야 합니다."
+
+msgid "Wallet Address"
+msgstr "지갑 주소"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "당신의 Quai, 이더리움, 비트코인, 또는 다른 지갑 주소."
+
+msgid "Network"
+msgstr "네트워크"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network (권장 - 무료)"
+
+msgid "Ethereum"
+msgstr "이더리움"
+
+msgid "Bitcoin"
+msgstr "비트코인"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "초보자에게 최적 & 낮은 수수료"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments는 신용카드 결제를 직접 암호화폐 지갑에 받을 수 있게 해줍니다. 자금은 중개자 없이 바로 지갑에 입금됩니다."
+
+msgid "Fee:"
+msgstr "수수료:"
+
+msgid "per transaction"
+msgstr "거래당"
+
+msgid "Payout:"
+msgstr "지불금:"
+
+msgid "Direct to your wallet"
+msgstr "지갑으로 직접"
+
+msgid "Setup:"
+msgstr "설정:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "무료 계정 생성 → API 키 → API 키 복사"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Key"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "NOWPayments 대시보드에서 API 키를 복사해 붙여넣으세요."
+
+msgid "Great support, slightly higher fee"
+msgstr "우수한 지원, 다소 높은 수수료"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr "CoinGate는 공식 워드프레스 플러그인이 있는 잘 정립된 암호화폐 결제 프로세서입니다."
+
+msgid "1% per transaction"
+msgstr "거래당 1%"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "계정 생성 → API 키"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Key"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "기업용 수준, 미국 친화적"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr "BitPay는 주요 기업들에 의해 신뢰받고 있습니다. 미국 기반 비즈니스에 적합합니다."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "비즈니스 계정 → API 키"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Key"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "사용자가 먼저 암호화폐를 구매하고 그 다음에 당신에게 전송합니다."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay는 사용자가 신용카드로 암호화폐를 직접 그들의 지갑에 구매하고, 그 다음에 당신에게 전송할 수 있게 해줍니다. 수수료는 "
+"높지만 사용자에게는 매우 간단합니다."
+
+msgid "~3.5% per transaction"
+msgstr "거래당 약 3.5%"
+
+msgid "User's wallet first"
+msgstr "사용자 지갑 먼저"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Key"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "중요:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto 결제(USDC)는 미국 기반 비즈니스에만 제공됩니다. 미국 외에 계시다면 Stripe는 Stripe 잔액(직접 "
+"암호화폐로는)으로 신용카드 결제만 수락합니다."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"미국에 계시다면 Stripe를 사용해 암호화폐를 직접 받을 수 있습니다. 미국 외에 계시다면 NOWPayments 또는 CoinGate를"
+" 통해 직접 암호화폐 지급을 고려해 보세요."
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe 공개 키"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe 비밀 키"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"전통적인 PayPal 결제입니다. 사용자는 PayPal 잔액 또는 신용카드로 결제합니다. 자금은 귀하의 PayPal 계정으로 입금됩니다."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "표준 PayPal 거래 수수료가 적용됩니다."
+
+msgid "PayPal Client ID"
+msgstr "PayPal 클라이언트 ID"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"PayPal API 자격 증명을 <a href=\"https://developer.paypal.com/\" "
+"target=\"_blank\">PayPal Developer Dashboard</a>에서 확인하세요."
+
+msgid "PayPal Secret"
+msgstr "PayPal 비밀"
+
+msgid "Donation Tiers"
+msgstr "기부 단계"
+
+msgid "Add Tier"
+msgstr "단계 추가"
+
+msgid "Remove"
+msgstr "제거"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr "미리 정의된 기부 금액 (USD). 맞춤 금액만 입력하려면 비워 두세요."
+
+msgid "Membership"
+msgstr "멤버십"
+
+msgid "Enable Membership"
+msgstr "멤버십 활성화"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "정기 구독을 허용합니다 (Stripe Subscriptions 필요)."
+
+msgid "Support"
+msgstr "지원"
+
+msgid "Donate"
+msgstr "기부"
+
+msgid "Crypto"
+msgstr "암호화폐"
+
+msgid "Credit Card"
+msgstr "신용카드"
+
+msgid "Choose amount"
+msgstr "금액 선택"
+
+msgid "Custom amount"
+msgstr "맞춤 금액"
+
+msgid "Enter amount (USD)"
+msgstr "금액 입력 (USD)"
+
+msgid "Donate Now"
+msgstr "지금 기부"
+
+msgid "Crypto Address"
+msgstr "암호화폐 주소"
+
+msgid "Copy Address"
+msgstr "주소 복사"
+
+msgid "Copied!"
+msgstr "복사되었습니다!"
+
+msgid "Pay with Credit Card"
+msgstr "신용카드로 결제"
+
+msgid "Pay with PayPal"
+msgstr "PayPal로 결제"
+
+msgid "Membership Plans"
+msgstr "멤버십 플랜"
+
+msgid "Monthly"
+msgstr "월간"
+
+msgid "Yearly"
+msgstr "연간"
+
+msgid "Subscribe"
+msgstr "구독하기"
+
+msgid "Credit Card → Crypto"
+msgstr "신용카드 → 암호화폐"
+
+msgid "Buy Crypto"
+msgstr "암호화폐 구매"
+
+msgid "Processing..."
+msgstr "처리 중..."
+
+msgid "Payment successful!"
+msgstr "결제에 성공했습니다!"
+
+msgid "Payment failed"
+msgstr "결제 실패"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr "NOWPayments는 신용카드 결제를 직접 암호화폐 지갑으로 받을 수 있게 해줍니다."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate는 잘 알려진 암호화폐 결제 처리업체입니다."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay는 사용자가 신용카드로 암호화폐를 직접 그들의 지갑에 구매한 뒤, 그 지갑에서 당신에게 송금할 수 있게 해줍니다."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "암호화폐를 구매한 후 아래 지갑 주소로 송금해 주세요."
+
+msgid "Your crypto wallet address"
+msgstr "당신의 암호화폐 지갑 주소"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "내 여자친구가 우리 커피를 즐길 수 있도록 해 주세요"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"크레딧카드 또는 암호화폐(Quai)를 통해 방문자가 당신을 지원할 수 있도록 해주는 강력하고 무료인 기부 및 결제 위젯입니다. 월간 "
+"수수료 없이, 제3자 구독 없이, 오직 당신의 지갑과 무료 서비스만 제공합니다."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"일부 브라우저는 개인정보 보호를 위해 제3자 스크립트를 차단합니다. 이 프록시는 당신의 서버를 통해 스크립트를 로드하여 이러한 차단을 "
+"우회합니다."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr "원본 URL이 변경되었거나 다른 CDN을 사용하고 싶을 경우 아래 스크립트 URL을 업데이트할 수 있습니다."
+
+msgid "Script"
+msgstr "스크립트"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "캐시 TTL"
+
+msgid "Action"
+msgstr "액션"
+
+msgid "Test"
+msgstr "테스트"
+
+msgid "Refresh"
+msgstr "새로고침"
+
+msgid "Usage:"
+msgstr "사용법:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "신용카드 결제를 위한 Stripe.js"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal 결제를 위한 PayPal SDK"
+
+msgid "html2canvas for screenshot generation"
+msgstr "스크린샷 생성을 위한 html2canvas"
+
+msgid "jsPDF for PDF generation"
+msgstr "PDF 생성을 위한 jsPDF"
+
+msgid "External Script Proxy"
+msgstr "외부 스크립트 프록시"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr "스크립트 URL이 접근 가능한지 확인하려면 \"Test\"를 클릭하세요. 프록시는 성능 향상을 위해 스크립트를 로컬에 캐시합니다."
+
+msgid "Dogecoin"
+msgstr "도지코인"
+
+msgid "Litecoin"
+msgstr "라이트코인"
+
+msgid "PayPal Email (Fallback)"
+msgstr "페이팔 이메일 (백업)"
+
+msgid "Quick Stats"
+msgstr "빠른 통계"
+
+msgid "Widget Status:"
+msgstr "위젯 상태:"
+
+msgid "Active"
+msgstr "활성"
+
+msgid "Inactive"
+msgstr "비활성"
+
+msgid "Enabled Payment Methods:"
+msgstr "사용 가능한 결제 방법:"
+
+msgid "None"
+msgstr "없음"
+
+msgid "Crypto Wallet:"
+msgstr "암호화폐 지갑:"
+
+msgid "Not set"
+msgstr "설정되지 않음"
+
+msgid "pay_with_card"
+msgstr "카드로 결제"
+
+msgid "crypto_address_label"
+msgstr "암호화폐를 이 주소로 직접 전송하세요:"
+
+msgid "crypto_note"
+msgstr "자금은 직접 지갑으로 이동합니다. 수수료가 없습니다."
+
+msgid "your_crypto_address"
+msgstr "지갑 주소:"
+
+msgid "nowpayments_desc"
+msgstr "신용카드로 결제 – 암호화폐가 직접 지갑으로 이동합니다."
+
+msgid "coingate_desc"
+msgstr "신용카드로 결제 – 암호화폐가 지갑으로 이동합니다."
+
+msgid "bitpay_desc"
+msgstr "기업용 암호화폐 결제. 미국 비즈니스에 가장 적합합니다."
+
+msgid "moonpay_desc"
+msgstr "신용카드로 암호화폐를 구매한 뒤 아래 주소로 전송하십시오."
+
+msgid "moonpay_note"
+msgstr "암호화폐를 구매한 후 위 지갑 주소로 전송하십시오."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "자금은 직접 지갑으로 이동합니다. 수수료가 없습니다."
+
+msgid "Pay with Card"
+msgstr "카드로 결제"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "신용카드로 결제 – 암호화폐가 직접 지갑으로 이동합니다."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "암호화폐를 이 주소로 직접 전송하세요:"

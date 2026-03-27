@@ -1,0 +1,719 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Southern Sotho <st_ZA>\n"
+"Language: st-ZA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Dashboard ea Coffee Widget"
+
+msgid "Coffee Widget"
+msgstr "Coffee Widget"
+
+msgid "Settings"
+msgstr "Seting"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Payment Methods"
+msgstr "Litšenyehelo"
+
+msgid "Help & Support"
+msgstr "Thusa le Thuso"
+
+msgid "General"
+msgstr "Kaofela"
+
+msgid "Button"
+msgstr "Klippe"
+
+msgid "Advanced"
+msgstr "Tjheletseng"
+
+msgid "Proxy Scripts"
+msgstr "Script tsa Proxy"
+
+msgid "Widget Settings"
+msgstr "Seting tsa Widget"
+
+msgid "Widget Status"
+msgstr "Boemo ba Widget"
+
+msgid "Widget active"
+msgstr "Widget e sebetsang"
+
+msgid "Button Color"
+msgstr "Mala oa Klippe"
+
+msgid "Button Position"
+msgstr "Boemo ba Klippe"
+
+msgid "Left"
+msgstr "Ka lehlakoreng"
+
+msgid "Right"
+msgstr "Ka boroko"
+
+msgid "Horizontal Margin (px)"
+msgstr "Margin ea Palo (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Margin ea Lefifi (px)"
+
+msgid "Button Message"
+msgstr "Letsapa la Klippe"
+
+msgid "Description"
+msgstr "Tlhaloso"
+
+msgid "Button Type"
+msgstr "Moemeli oa Klippe"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "Kode ea SVG"
+
+msgid "PNG Image URL"
+msgstr "URL ea PNG"
+
+msgid "Button Emoji"
+msgstr "Emoji ea Klippe"
+
+msgid "Custom CSS"
+msgstr "CSS e itseng"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript e itseng"
+
+msgid "Which payment service should you choose?"
+msgstr "Keletsoeng sešho sa thekiso o lokela ho e khetha?"
+
+msgid "Service"
+msgstr "Thuso"
+
+msgid "Fee"
+msgstr "Molaolofelo"
+
+msgid "Where does crypto go?"
+msgstr "Crypto e ea kae?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress Plugin"
+
+msgid "Best for"
+msgstr "Leholimo bakeng sa"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Business ea US?"
+
+msgid "Direct Crypto"
+msgstr "Crypto ea Khatle"
+
+msgid "No fee"
+msgstr "Ha ho Molaolofelo"
+
+msgid "Your wallet directly"
+msgstr "Ho potlako ho letsoho"
+
+msgid "Built-in"
+msgstr "Ka kakaho"
+
+msgid "Crypto-savvy users"
+msgstr "Basebelisi ba tsebahane le crypto"
+
+msgid "Anywhere"
+msgstr "Ka letho lefe"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API e loketseng"
+
+msgid "Beginners, low fees"
+msgstr "Ba thola, molaolofelo o lekanyelitsoe"
+
+msgid "Global (incl. Turkey)"
+msgstr "Hlokomeliso (ho kenyelletsa Turkey)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Plugin ea semmuso"
+
+msgid "Good support"
+msgstr "Thuso e ntle"
+
+msgid "Global"
+msgstr "Hlokomeliso"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Li-Enterprise, linhlangano tsa US"
+
+msgid "US-friendly"
+msgstr "E tshepa US"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Letsoho la mosebedisi pele"
+
+msgid "Widget ready"
+msgstr "Widget e loketseng"
+
+msgid "Users with own wallets"
+msgstr "Basebelisi ba nang le letsoho la bona"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Lišebeletso tsa US feela"
+
+msgid "❌ US ONLY"
+msgstr "❌ US ONLY"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Variable"
+
+msgid "Asia markets"
+msgstr "Mekgwe ya Asia"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Mafeno a Standard"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Balance ya PayPal"
+
+msgid "PayPal users"
+msgstr "Batho ba PayPal"
+
+msgid "Tip:"
+msgstr "Morato:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Ha u le ntle ho US, re kgothaletsa NOWPayments (mafa a lekakha, ho tsamaisa "
+"ho morero oa hau). Ha u le ho US, Stripe Crypto hape ke khetho. U ka thusa "
+"litšebeletso tse ngata le ho lefa ba liatlehang ba hau ho khetha!"
+
+msgid "Enabled Payment Methods"
+msgstr "Litšenyehelo tse thabelitsoeng"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Khetha litšenyehelo tsa ho leba tse tla bonagala ho widget ea hau. "
+"Liatlehang tsa hau li ka khetha tsela ea bona ea ho leba."
+
+msgid "Show these methods"
+msgstr "Bontša liindlela tsena"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Direct Crypto (Morero oa Wallet)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Credit Card → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Credit Card → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Credit Card → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (User buys crypto first)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Credit Card)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Bontša morero oa wallet oa hau hore baatle ba seke ba e romela crypto ka "
+"kopo. Mafeno a mokgwa, empa o lokela hore baatle ba le ho na le crypto "
+"kakaretso."
+
+msgid "Wallet Address"
+msgstr "Morero oa Wallet"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr ""
+"Morero oa wallet oa hau ea Quai, Ethereum, Bitcoin, kapa morero oa wallet oa"
+" mang."
+
+msgid "Network"
+msgstr "Litsela"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Litsela tsa Quai (Tlhoko - e kopi)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Bohlokoa bakeng sa ba thuping ba lecha le ditlale tse tlase"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments o u lumella hore u amohele li-akharetho tsa kaofelo le ho "
+"tsamaisa ditšhelete ka potlako ho wallet ea crypto ea hau. Ditšhelete li "
+"tsamaea ka potlako ho wallet ea hau – ha ho na moputso."
+
+msgid "Fee:"
+msgstr "Mala:"
+
+msgid "per transaction"
+msgstr "ka kopo"
+
+msgid "Payout:"
+msgstr "Palo:"
+
+msgid "Direct to your wallet"
+msgstr "Ho fetellana ho wallet ea hau"
+
+msgid "Setup:"
+msgstr "Ho theha:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Bua akhaonto ea mahala → Litlapi tsa API → Kopi API Key"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Key"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Kopiha API Key ea hau ho dashboard ea NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Tsebo e ntle, mali e thobane ka thobalo."
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate ke mpho oa li-akharetho tsa crypto e tsitsitseng ka plugin ea "
+"WordPress ea ofisi."
+
+msgid "1% per transaction"
+msgstr "1% ka kopo"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Bua akhaonto → Litlapi tsa API"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Key"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "E le ho Enterprise, e lehle ho US"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay e e lumelletseng ke likhampani tse kholo. E sebetsa hantle bakeng sa "
+"li-buisiness tsa US."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Akhaonto ea Tšebeliso → Litlapi tsa API"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Key"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Barutši ba reka crypto pele, ebe ba ba romella ho uena."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay e lumella barutši ba reka crypto ka kaofelo ho wallet ea bona, ebe "
+"ba ba romella ho uena. Molao o phakeme empa o bonolo haholo bakeng sa "
+"barutši."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% ka kopo"
+
+msgid "User's wallet first"
+msgstr "Wallet ea barutši pele"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Key"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Bohlokoa:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Litšenyehelo tsa Stripe Crypto (USDC) li thuse feela lipapali tsa US. Haeba "
+"u se ka US, Stripe e tla amohela feela litšenyehelo tsa kariti ho balansi ea"
+" Stripe ea hau (ha ho tswela pele ho crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Haeba u le US, u ka sebelisa Stripe ho fumana crypto ka potlako. Haeba u se "
+"ka US, itokisetsa NOWPayments kapa CoinGate bakeng sa ditshupetso tsa crypto"
+" tsa potlako."
+
+msgid "Stripe Publishable Key"
+msgstr "Lintlha tse Khomphu tsa Stripe."
+
+msgid "Stripe Secret Key"
+msgstr "Lintlha tsa Sekete tsa Stripe."
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Litšenyehelo tsa PayPal tsa khale. Basali ba li-fesa ka balansi ea PayPal "
+"kapa kariti. Leteho li tsela ho litaelo ea hau ea PayPal."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Mafaka a standard a tshehlo ho PayPal a fapela."
+
+msgid "PayPal Client ID"
+msgstr "ID ea Mohlōnane oa PayPal."
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Hwetša litšila tsa API tsa hau tsa PayPal ho <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "Sekete ea PayPal."
+
+msgid "Donation Tiers"
+msgstr "Tiers tsa Donation."
+
+msgid "Add Tier"
+msgstr "Eketsa Tier."
+
+msgid "Remove"
+msgstr "Tlosa"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Lihlopha tsa donation tse lekiloeng (USD). Tšohela tsōle bakeng sa moholo o "
+"mong feela."
+
+msgid "Membership"
+msgstr "Khopolo"
+
+msgid "Enable Membership"
+msgstr "Lepella Khopolo"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Batle liphetoho tse pholiloeng (li thuse Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Kopa Tšebeletso"
+
+msgid "Donate"
+msgstr "Nka"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Kariti"
+
+msgid "Choose amount"
+msgstr "Khetha Lihlopha"
+
+msgid "Custom amount"
+msgstr "Lihlopha le seng"
+
+msgid "Enter amount (USD)"
+msgstr "Kenya Lihlopha (USD)"
+
+msgid "Donate Now"
+msgstr "Nka hona Joale"
+
+msgid "Crypto Address"
+msgstr "Akauntle ea Crypto"
+
+msgid "Copy Address"
+msgstr "Kopitsa Akauntle"
+
+msgid "Copied!"
+msgstr "Kopisitsoeng!"
+
+msgid "Pay with Credit Card"
+msgstr "Pharisa ka Kariti"
+
+msgid "Pay with PayPal"
+msgstr "Pharisa ka PayPal"
+
+msgid "Membership Plans"
+msgstr "Mananeo a Khatholodi"
+
+msgid "Monthly"
+msgstr "Ka Motsi"
+
+msgid "Yearly"
+msgstr "Ka Selemo"
+
+msgid "Subscribe"
+msgstr "Ika"
+
+msgid "Credit Card → Crypto"
+msgstr "Kradita Card → Crypto"
+
+msgid "Buy Crypto"
+msgstr "Khetha Crypto"
+
+msgid "Processing..."
+msgstr "Etsa..."
+
+msgid "Payment successful!"
+msgstr "Lefapha le phethiloeng!"
+
+msgid "Payment failed"
+msgstr "Lefapha le e hlolehile"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments o u lumella ho amohela litšenyehelo tsa karatla ka tsela ea ho "
+"ruta ho wallet ya crypto."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate ke mosebelisi o khahlela oa li crypto lelitšenyehelo."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay o lumella basebelisi ho reka crypto ka karatla ka tsela ya ho ruta "
+"ho wallet ya bona, ebe ba letona ho u."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+"Bohlokoa ba ho reka crypto, ka kopo letona ho wallet address ho tlase."
+
+msgid "Your crypto wallet address"
+msgstr "Wallet address ya crypto ya hao"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Bolehe Khabana ya ka ho leahla ka khofi ea rona"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Sesebelisoa sa litšenyehelo le litšenyehelo tsa thupa e matla, ea "
+"phatlalatsa le e sebetsang ka ho sebaka se se le se se sa lokelang, se u "
+"lumellang boitsebiso ba hao ho u tšehetsa ka karatla kapa crypto (Quai). Ha "
+"ho na litšenyehelo tsa mahala, ha ho na likhatiso tsa thahasello le batho ba"
+" bonngoe – feela wallet ya hao le litšebeletso tsa mahala."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Bohlokoa ba li-browsers bo se li bontša li-script tsa ba bangwe ho ba "
+"lephata. Proxy ena e kenya li-script ka tsela ya seva ea hao ho felisa "
+"litšenyehelo tsena."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"O ka ntlafatsa URLs tsa script ho tlase haeba URLs tsa tlhahiso li fetoloa "
+"kapa haeba o batle ho sebelisa CDN e fapaneng."
+
+msgid "Script"
+msgstr "Script"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Usage:"
+msgstr "Sebenziso:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js bakeng sa litšenyehelo tsa karatla"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK bakeng sa litšenyehelo tsa PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas bakeng sa ho hlahisa screenshot"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF bakeng sa ho hlahisa PDF"
+
+msgid "External Script Proxy"
+msgstr "Proxy ya Script ea Phahanyane"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Klick \"Test\" ho hlahloba hore URL ea script e lokile. Proxy e tla ho laela"
+" liketloho tsa script ka ho loka ho fumana sebapeng se betere."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal Email (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Statistiki E Khutsitsitsoe"
+
+msgid "Widget Status:"
+msgstr "Boemo ba Widget:"
+
+msgid "Active"
+msgstr "E sebetsa"
+
+msgid "Inactive"
+msgstr "E sa sebetsa"
+
+msgid "Enabled Payment Methods:"
+msgstr "Mekhoa ea Phatlalatso e Ketsang:"
+
+msgid "None"
+msgstr "Ha ho na"
+
+msgid "Crypto Wallet:"
+msgstr "Crypto Wallet:"
+
+msgid "Not set"
+msgstr "Ha e lebohitsoe"
+
+msgid "pay_with_card"
+msgstr "Leka ka Kard"
+
+msgid "crypto_address_label"
+msgstr "Romela cryptocurrency ka tsela e loketseng ho address ena:"
+
+msgid "crypto_note"
+msgstr ""
+"Dintho di romeloa ho wallet ea hau ka tsela e sebakeng. Ha ho litaelo."
+
+msgid "your_crypto_address"
+msgstr "Leano la wallet ea hau:"
+
+msgid "nowpayments_desc"
+msgstr ""
+"Leka ka karidi ea thekiso – crypto e romeloa ka tsela e sebakeng ho wallet "
+"ea hau."
+
+msgid "coingate_desc"
+msgstr "Leka ka karidi ea thekiso – crypto ho wallet ea hau."
+
+msgid "bitpay_desc"
+msgstr ""
+"Phatlalatso ea crypto e la maemo a leholimo. E ntle bakeng sa li-entreprise "
+"tsa US."
+
+msgid "moonpay_desc"
+msgstr "Kapa crypto ka karidi ea thekiso – 'nete romela ho address e tlase."
+
+msgid "moonpay_note"
+msgstr "Ha o kapa crypto, ka kopo romela ho leano la wallet ea godimo."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr ""
+"Dintho di romeloa ho wallet ea hau ka tsela e sebakeng. Ha ho litaelo."
+
+msgid "Pay with Card"
+msgstr "Leka ka Kard"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"Leka ka karidi ea thekiso – crypto e romeloa ka tsela e sebakeng ho wallet "
+"ea hau."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Romela cryptocurrency ka tsela e loketseng ho address ena:"

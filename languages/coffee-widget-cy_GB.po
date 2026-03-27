@@ -1,0 +1,708 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Welsh <cy_GB>\n"
+"Language: cy-GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Dangosydd Widget Coffi"
+
+msgid "Coffee Widget"
+msgstr "Widget Coffi"
+
+msgid "Settings"
+msgstr "Gosodiadau"
+
+msgid "Dashboard"
+msgstr "Dangosydd Coffi"
+
+msgid "Payment Methods"
+msgstr "Dulliau talu"
+
+msgid "Help & Support"
+msgstr "Cymorth & Cefnogaeth"
+
+msgid "General"
+msgstr "Cyffredinol"
+
+msgid "Button"
+msgstr "Botwm"
+
+msgid "Advanced"
+msgstr "Uwch"
+
+msgid "Proxy Scripts"
+msgstr "Sgriptiau Proksi"
+
+msgid "Widget Settings"
+msgstr "Gosodiadau Widget"
+
+msgid "Widget Status"
+msgstr "Statws Widget"
+
+msgid "Widget active"
+msgstr "Wiget yn weithredol"
+
+msgid "Button Color"
+msgstr "Lliw Botwm"
+
+msgid "Button Position"
+msgstr "Safle Botwm"
+
+msgid "Left"
+msgstr "Chwith"
+
+msgid "Right"
+msgstr "De"
+
+msgid "Horizontal Margin (px)"
+msgstr "Ymyl Lliniol (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Ymyl Fertyg (px)"
+
+msgid "Button Message"
+msgstr "Neges Botwm"
+
+msgid "Description"
+msgstr "Disgrifiad"
+
+msgid "Button Type"
+msgstr "Math o Botwm"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "Côd SVG"
+
+msgid "PNG Image URL"
+msgstr "URL delwedd PNG"
+
+msgid "Button Emoji"
+msgstr "Emoji Botwm"
+
+msgid "Custom CSS"
+msgstr "CSS Addas"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Addas"
+
+msgid "Which payment service should you choose?"
+msgstr "Pa wasanaeth talu dymai'n dewis?"
+
+msgid "Service"
+msgstr "Gwasanaeth"
+
+msgid "Fee"
+msgstr "Ffio"
+
+msgid "Where does crypto go?"
+msgstr "Ble mae crypto'n mynd?"
+
+msgid "WordPress Plugin"
+msgstr "Plug-in WordPress"
+
+msgid "Best for"
+msgstr "Y gorau ar gyfer"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Busnes US?"
+
+msgid "Direct Crypto"
+msgstr "Crypto Uniongyrchol"
+
+msgid "No fee"
+msgstr "Dim ffio"
+
+msgid "Your wallet directly"
+msgstr "Eich awdurdod yn uniongyrchol"
+
+msgid "Built-in"
+msgstr "Yn cael ei adeiladu'n barthol"
+
+msgid "Crypto-savvy users"
+msgstr "Defnyddwyr cyffro-fair"
+
+msgid "Anywhere"
+msgstr "Unrhyw le"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API barod"
+
+msgid "Beginners, low fees"
+msgstr "Cychwynwyr, ffioedd isel"
+
+msgid "Global (incl. Turkey)"
+msgstr "Brenhinol (gan gynnwys Tirki)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Plug-in swyddogol"
+
+msgid "Good support"
+msgstr "Cymorth da"
+
+msgid "Global"
+msgstr "Brenhinol"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Cymeriad, cwmparïau US"
+
+msgid "US-friendly"
+msgstr "Cymwys US"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Awdurdod y defnyddiwr cyntaf"
+
+msgid "Widget ready"
+msgstr "Widget barod"
+
+msgid "Users with own wallets"
+msgstr "Defnyddwyr sydd â'u awdurdodion eu hunain"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "busnesau US yn unig"
+
+msgid "❌ US ONLY"
+msgstr "❌ US yn unig"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Amrywiol"
+
+msgid "Asia markets"
+msgstr "marchnadoedd Asia"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Ffioedd safonol"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Balans PayPal"
+
+msgid "PayPal users"
+msgstr "defnyddwyr PayPal"
+
+msgid "Tip:"
+msgstr "Awgrym:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Os ydych chi allan o'r US, rydym yn argymell NOWPayments (ffioedd isaf, "
+"uniongyrchol i'ch plygyn). Os ydych chi yn yr US, mae Stripe Crypto hefyd yn"
+" opsiwn. Gallwch analluogi amryw o wasanaethau a gadael i'ch ymwelwyr "
+"ddewis!"
+
+msgid "Enabled Payment Methods"
+msgstr "Methodau Taliad wedi'u Galluogi"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Dewiswch pa opsiynau talu fydd yn ymddangos yn eich widget. Gall eich "
+"ymwelwyr ddewis eu dull i'w ddymuno."
+
+msgid "Show these methods"
+msgstr "Dangos y dulliau hyn"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Crypto Uniongyrchol (Cyfeiriad Plygyn)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Cerdyn Credyd → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Cerdyn Credyd → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Cerdyn Credyd → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Defnyddiwr prynna crypto cyntaf)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Cerdyn Credyd)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Dangos eich cyfeiriad plygyn fel i ddefnyddwyr anfon crypto uniongyrchol. "
+"Ffioedd sero, ond mae'n gofyn i ddefnyddwyr gael crypto eisoes."
+
+msgid "Wallet Address"
+msgstr "Cyfeiriad Plygyn"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Eich cyfeiriad plygyn Quai, Ethereum, Bitcoin, neu gwahanol."
+
+msgid "Network"
+msgstr "Rhwydwaith"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Rhwydwaith Quai (Argymhellid - rhydd)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Cywir ar gyfer ddechrau a ffioedd isaf"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"Mae NOWPayments yn caniatáu i chi dderbyn taliadau cerdyn credyd yn "
+"uniongyrchol i'ch waled crypto. Mae'r arian yn mynd yn uniongyrchol i'ch "
+"waled – dim canfyddiaduron."
+
+msgid "Fee:"
+msgstr "Ffi:"
+
+msgid "per transaction"
+msgstr "ar bob trafodiad"
+
+msgid "Payout:"
+msgstr "Rhoi:"
+
+msgid "Direct to your wallet"
+msgstr "Uniongyrchol i'ch waled"
+
+msgid "Setup:"
+msgstr "Sefydlu:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Creu cyfrif am ddim → Allweddi API → Copïo Allwedd API"
+
+msgid "NOWPayments API Key"
+msgstr "Allwedd API NOWPayments"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Gludo eich allwedd API o'r dashboard NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Cefnogaeth dda, ffi syml uwch"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"Mae CoinGate yn proseswr talu crypto sefydledig iawn gyda ategyn swyddogol "
+"WordPress."
+
+msgid "1% per transaction"
+msgstr "1% ar bob trafodiad"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Creu cyfrif → Allweddi API"
+
+msgid "CoinGate API Key"
+msgstr "Allwedd API CoinGate"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Gradd Enterprise, defnyddiol i USA"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"Mae BitPay yn cael ei gadw'n ymddiriediad gan gwmni brif. Yn gweithio'n dda "
+"i fusnesau sy'n seiliedig ar USA."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Cyfrif busnes → Allweddi API"
+
+msgid "BitPay API Key"
+msgstr "Allwedd API BitPay"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Mae defnyddwyr yn prynnu crypto yn gyntaf, yna yn anfon atoch."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"Mae MoonPay yn caniatáu i ddefnyddwyr prynnu crypto gyda tharfa credyd "
+"uniongyrchol i'w waled, yna eu hanfon atoch. Ffioedd uwch ond yn hollol syml"
+" i ddefnyddwyr."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% ar bob trafodiad"
+
+msgid "User's wallet first"
+msgstr "Waled y defnyddiwr yn gyntaf"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "Allwedd API MoonPay"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Pwysig:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Mae taliadau Crypto o Stripe (USDC) yn AGOS ar gael ar gyfer busnesau sy’n "
+"cael eu hystyried o’r US. Os ydych chi’n tu allan i’r US, bydd Stripe yn "
+"derbyn taliadau cerdyn credyd i’ch cyfradd Stripe yn unig (heb fod yn "
+"uniongyrchol i crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Os ydych chi mewn yr US, gallwch ddefnyddio Stripe i dderbyn crypto yn "
+"uniongyrchol. Os chi’n tu allan, ystyriwch NOWPayments neu CoinGate ar gyfer"
+" talu crypto’n uniongyrchol."
+
+msgid "Stripe Publishable Key"
+msgstr "Allwedd Cyhoeddadwy Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "Allwedd Rhyfedd Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Taliadau PayPal Clasurol. Mae defnyddwyr yn talu gyda chyfradd PayPal neu "
+"gerdyn credyd. Mae arian yn mynd i’ch cyfrif PayPal."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Cyfraddion ystâd PayPal ystyried."
+
+msgid "PayPal Client ID"
+msgstr "ID Gais PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Cael eich manylion API PayPal o <a href=\"https://developer.paypal.com/\" "
+"target=\"_blank\">Dangosfwrdd Datblygwyr PayPal</a>."
+
+msgid "PayPal Secret"
+msgstr "Cyfrinach PayPal"
+
+msgid "Donation Tiers"
+msgstr "Cymoedd Anfonion"
+
+msgid "Add Tier"
+msgstr "Ychwanegu Cymoedd"
+
+msgid "Remove"
+msgstr "Tynnu"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Swmau anfonion wedi’u rhysgo (USD). Gadael yn wag er swm a dderbynir yn "
+"unig."
+
+msgid "Membership"
+msgstr "Aderbyniad"
+
+msgid "Enable Membership"
+msgstr "Galluogi Aderbyniad"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Caniatáu tanysgrifiadau ailddalu (ymylai tanysgrifiadau Stripe)."
+
+msgid "Support"
+msgstr "Cefnogaeth"
+
+msgid "Donate"
+msgstr "Anfon"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Cerdyn Credyd"
+
+msgid "Choose amount"
+msgstr "Dewis Swm"
+
+msgid "Custom amount"
+msgstr "Swm Personol"
+
+msgid "Enter amount (USD)"
+msgstr "Rhowch Swm (USD)"
+
+msgid "Donate Now"
+msgstr "Anfon Nawr"
+
+msgid "Crypto Address"
+msgstr "Cyfeiriad Crypto"
+
+msgid "Copy Address"
+msgstr "Copïo Cyfeiriad"
+
+msgid "Copied!"
+msgstr "Copïwyd!"
+
+msgid "Pay with Credit Card"
+msgstr "Talu gyda Cerdyn Credyd"
+
+msgid "Pay with PayPal"
+msgstr "Talu gyda PayPal"
+
+msgid "Membership Plans"
+msgstr "Pleidiau Mynediad"
+
+msgid "Monthly"
+msgstr "Cyson"
+
+msgid "Yearly"
+msgstr "Blynyddol"
+
+msgid "Subscribe"
+msgstr "Tanydy"
+
+msgid "Credit Card → Crypto"
+msgstr "Cerdyn Credyd → Crypto"
+
+msgid "Buy Crypto"
+msgstr "Prynu Crypto"
+
+msgid "Processing..."
+msgstr "Prosesu..."
+
+msgid "Payment successful!"
+msgstr "Talu wedi llwyddo!"
+
+msgid "Payment failed"
+msgstr "Talu wedi methu"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"Mae NOWPayments yn caniatáu i chi dderbyn taliadau cerdyn credyd yn "
+"uniongyrchol i'ch portfeli crypto."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "Mae CoinGate yn ymarferydd talu crypto wedi’i sefydlu’n dda."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"Mae MoonPay yn caniatáu i ddefnyddwyr brynu crypto gyda cerdyn credyd yn "
+"uniongyrchol i'w phortfeli, yna'n anfon y crypto atoch."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Ar ôl brynu crypto, anfonwch y crypto at y cyfeiriad portfeli isod."
+
+msgid "Your crypto wallet address"
+msgstr "Cyfeiriad eich portfeli crypto"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Gobeithio i fy ngariad mwynhau ein coffi"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Gweld yn pwerus, rhad ac am ddim a widget buddsoddi a thaliad sy'n caniatáu "
+"i'ch ymwelwyr eich cefnogi drwy cerdyn credyd neu cryptocurrency (Quai). Dim"
+" ffi misol, dim tanydyddion drydyw – dim ond eich portfeli a gwasanaethau am"
+" ddim."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Mae rhai porwyr yn rhwystro sgriptiau drydyw am gyfrinach. Mae’r prifys yn "
+"llwytho sgriptiau trwy’ch gweinydd eich hun i drio’r rhwystrau hyn."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Gallwch ddiweddaru URLau’r sgriptiau isod os bydd yr URLau gwreiddiol yn "
+"newid neu os ydych am ddefnyddio CDN gwahanol."
+
+msgid "Script"
+msgstr "Sgript"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Gweithred"
+
+msgid "Test"
+msgstr "Pryniad"
+
+msgid "Refresh"
+msgstr "Ail-lwytho"
+
+msgid "Usage:"
+msgstr "Defnydd:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js ar gyfer taliadau cerdyn credyd"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK ar gyfer taliadau PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas ar gyfer cynhyrchu llun sgrin"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF ar gyfer cynhyrchu PDF"
+
+msgid "External Script Proxy"
+msgstr "Prifys Sgript Allanol"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Cliciwch \"Test\" i wirio os yw'r URL sgript yn hygyrch. Bydd y canolog yn "
+"storio sgriptau'n lleol i wella perfformiad."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "E-bost PayPal (Faldyn)"
+
+msgid "Quick Stats"
+msgstr "Statistig Gyflym"
+
+msgid "Widget Status:"
+msgstr "Statws widget:"
+
+msgid "Active"
+msgstr "Gweithredol"
+
+msgid "Inactive"
+msgstr "Anweithredol"
+
+msgid "Enabled Payment Methods:"
+msgstr "Dulliau talu wedi'u galluogi:"
+
+msgid "None"
+msgstr "Dim"
+
+msgid "Crypto Wallet:"
+msgstr "Portfeint Crypto:"
+
+msgid "Not set"
+msgstr "Heb ei osod"
+
+msgid "pay_with_card"
+msgstr "Talu gyda Cerdyn"
+
+msgid "crypto_address_label"
+msgstr "Anfon crypto'n uniongyrchol i'r cyfeiriad hwn:"
+
+msgid "crypto_note"
+msgstr "Mae arian yn mynd uniongyrchol i'ch portfeint. Dim ffi."
+
+msgid "your_crypto_address"
+msgstr "Eich cyfeiriad portfeint:"
+
+msgid "nowpayments_desc"
+msgstr ""
+"Talu gyda gerdyn credyd – mae crypto'n mynd uniongyrchol i'ch portfeint."
+
+msgid "coingate_desc"
+msgstr "Talu gyda gerdyn credyd – crypto i'ch portfeint."
+
+msgid "bitpay_desc"
+msgstr "Talu crypto ar lefel busnes. Yn fwyaf addas i busnesau yn y S.A."
+
+msgid "moonpay_desc"
+msgstr "Prynu crypto gyda gerdyn credyd – yna anfonwch i'r cyfeiriad isod."
+
+msgid "moonpay_note"
+msgstr "Ar ôl prynu crypto, anfonwch i'r cyfeiriad portfeint uchod."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Mae arian yn mynd uniongyrchol i'ch portfeint. Dim ffi."
+
+msgid "Pay with Card"
+msgstr "Talu gyda Cerdyn"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"Talu gyda gerdyn credyd – mae crypto'n mynd uniongyrchol i'ch portfeint."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Anfon crypto'n uniongyrchol i'r cyfeiriad hwn:"

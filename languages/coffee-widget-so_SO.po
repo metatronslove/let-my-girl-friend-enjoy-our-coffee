@@ -1,0 +1,715 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Somali <so_SO>\n"
+"Language: so-SO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Dashboard-ka Widgetka Kafee"
+
+msgid "Coffee Widget"
+msgstr "Widgetka Kafee"
+
+msgid "Settings"
+msgstr "Dejinta"
+
+msgid "Dashboard"
+msgstr "Dashboard-ka Kafee"
+
+msgid "Payment Methods"
+msgstr "Hababka Lacag Bixinta"
+
+msgid "Help & Support"
+msgstr "Caawimaad & Taageero"
+
+msgid "General"
+msgstr "Guud"
+
+msgid "Button"
+msgstr "Badhan"
+
+msgid "Advanced"
+msgstr "Xirfadle"
+
+msgid "Proxy Scripts"
+msgstr "Koodhka Proxy"
+
+msgid "Widget Settings"
+msgstr "Xarunta Widgetka"
+
+msgid "Widget Status"
+msgstr "Xaaladda Widgetka"
+
+msgid "Widget active"
+msgstr "Widget firfircoon"
+
+msgid "Button Color"
+msgstr "Midabka Badhan"
+
+msgid "Button Position"
+msgstr "Meesha Badhan"
+
+msgid "Left"
+msgstr "Bidix"
+
+msgid "Right"
+msgstr "Midig"
+
+msgid "Horizontal Margin (px)"
+msgstr "Margin Fudud (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Margin Sare (px)"
+
+msgid "Button Message"
+msgstr "Fariinta Badhan"
+
+msgid "Description"
+msgstr "Sharaxaad"
+
+msgid "Button Type"
+msgstr "Nooca Badhan"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "Koodhka SVG"
+
+msgid "PNG Image URL"
+msgstr "URL sawirka PNG"
+
+msgid "Button Emoji"
+msgstr "Emoji Badhan"
+
+msgid "Custom CSS"
+msgstr "CSS gaarka ah"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript gaarka ah"
+
+msgid "Which payment service should you choose?"
+msgstr "Waa maxay adeegga lacag bixinta ee aad dooranayso?"
+
+msgid "Service"
+msgstr "Adeeg"
+
+msgid "Fee"
+msgstr "Khidmad"
+
+msgid "Where does crypto go?"
+msgstr "Xaggee crypto u dhici kartaa?"
+
+msgid "WordPress Plugin"
+msgstr "Pluginta WordPress"
+
+msgid "Best for"
+msgstr "Ugu fiican"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Ganacsi US?"
+
+msgid "Direct Crypto"
+msgstr "Crypto toos ah"
+
+msgid "No fee"
+msgstr "Marnaba khidmad"
+
+msgid "Your wallet directly"
+msgstr "Wallet-kaaga toos"
+
+msgid "Built-in"
+msgstr "Ku dhex jira"
+
+msgid "Crypto-savvy users"
+msgstr "Isticmaalayaasha aqoon u leh crypto"
+
+msgid "Anywhere"
+msgstr "Meel kasta"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API diyaar"
+
+msgid "Beginners, low fees"
+msgstr "Bilowga, khidmad yar"
+
+msgid "Global (incl. Turkey)"
+msgstr "Dunida (oo ay ku jiraan Turkey)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Plug-in rasmi ah"
+
+msgid "Good support"
+msgstr "Taageero wanaagsan"
+
+msgid "Global"
+msgstr "Dunida"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Shirkado Enterprise, US"
+
+msgid "US-friendly"
+msgstr "Saaxiib US"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Wallet-ka isticmaale ka hor"
+
+msgid "Widget ready"
+msgstr "Widget diyaar"
+
+msgid "Users with own wallets"
+msgstr "Isticmaalayaasha leh wallet-ooda"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Kaliya ganacsiyada Mareykanka"
+
+msgid "❌ US ONLY"
+msgstr "❌ US Kaliya"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Isbeddel"
+
+msgid "Asia markets"
+msgstr "Suqyada Asia"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Kharashka caadiga ah"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Balanska PayPal"
+
+msgid "PayPal users"
+msgstr "Isticmaalayaasha PayPal"
+
+msgid "Tip:"
+msgstr "Talo:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Haddii aad ka baxsan tahay Mareykanka, waxaan kugula talineynaa NOWPayments "
+"(kharashka ugu hooseeya, tooska u socda wallet-kaaga). Haddii aad ku sugan "
+"tahay Mareykanka, Stripe Crypto sidoo kale waa ikhtiyaar. Waxaad awood u "
+"leedahay inaad adeegyo badan u dhisto oo aad booqdayaashu dooran karaan!"
+
+msgid "Enabled Payment Methods"
+msgstr "Hababka Bixinta la Dhaqan-galiyay"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Xulo xulashooyinka lacag bixinta ee muuqan doona widget-kaaga. Booqdayaashu "
+"waxay dooran karaan habka ay jecel yihiin."
+
+msgid "Show these methods"
+msgstr "Tus habkan"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Crypto toos (Cinwaanka Wallet)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Kaarka Kireed → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Kaarka Kireed → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Kaarka Kireed → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Isticmaaluhu wuxuu iibsadaa crypto hore)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Kaarka Kireed)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Soo bandhig cinwaanka wallet-kaaga si isticmaalayaasha ay u diraan crypto si"
+" toos ah. Kharash la'aan, laakiin waxay u baahan tahay isticmaalayaasha inay"
+" hore u leeyihiin crypto."
+
+msgid "Wallet Address"
+msgstr "Cinwaanka Wallet"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Cinwaankaaga Quai, Ethereum, Bitcoin, ama wallet kale."
+
+msgid "Network"
+msgstr "Shabakad"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Shabakadda Quai (La Talo Gaar Ah - Bilaash)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Ku fiican bilowga iyo kharashyada ugu hooseeya"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments waxay kuu oggolaanaysaa inaad aqbasho lacag bixinta kaarka "
+"deynta si toos ah u dhigta boorsooyinkaaga crypto. Kharashka si toos ah ayaa"
+" loogu diraa boorsadaada – laguma dhexdhegin cid kale."
+
+msgid "Fee:"
+msgstr "Kharash:"
+
+msgid "per transaction"
+msgstr "kull xawaare"
+
+msgid "Payout:"
+msgstr "Bixinta:"
+
+msgid "Direct to your wallet"
+msgstr "Si toos ah u boorsadaada"
+
+msgid "Setup:"
+msgstr "Dejinta:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Samee akoon bilaash ah → Fursadaha API → Koobi furaha API"
+
+msgid "NOWPayments API Key"
+msgstr "Furaha API ee NOWPayments"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Ku dheji furahaaga API ee miiska NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Taageero wanaagsan, kharash yar oo ka sarreeya"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate waa habka lacag bixin crypto oo si fiican u aasaasay oo leh plugin "
+"rasmi ah oo WordPress."
+
+msgid "1% per transaction"
+msgstr "1% kulla xawaare"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Samee akoon → Fursadaha API"
+
+msgid "CoinGate API Key"
+msgstr "Furaha API ee CoinGate"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Darajo ganacsi, U.S. saaxiibtinimo leh"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay waxaa ku kalsoon shirkadaha waaweyn. Waxay si fiican uga shaqaysaa "
+"ganacsiyada ku yaalla U.S."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Akaun ganacsi → Fursadaha API"
+
+msgid "BitPay API Key"
+msgstr "Furaha API ee BitPay"
+
+msgid "Users buy crypto first, then send to you"
+msgstr ""
+"Isticmaalayaashu waxay ka iibsadaan crypto marka hore, ka dibna kuu diraa"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay waxay u oggolaaneysaa isticmaalayaasha inay ka iibsadaan crypto "
+"kaarka deynta si toos ah boorsadooda, ka dibna kuu diraa. Kharashka sarreeya"
+" laakiin aad u fudud isticmaalayaasha."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% kulla xawaare"
+
+msgid "User's wallet first"
+msgstr "Boorsada isticmaalaha marka hore"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "Furaha API ee MoonPay"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Muhiim:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Bixinta Stripe Crypto (USDC) waxay kaliya ka jiraan ganacsiyada ku saleysan "
+"Mareykanka. Haddii aad ka baxdo Mareykanka, Stripe kaliya aqbali doontaa "
+"lacagta kaarka deynta ee ku jirta balansigaaga Stripe (ma ahan si toos ah u "
+"crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Haddii aad ku sugan tahay Mareykanka, waxaad isticmaali kartaa Stripe si "
+"toos ah u hesho crypto. Haddii aad ka baxdo, tixgeli NOWPayments ama "
+"CoinGate si toos ah u bixiso crypto."
+
+msgid "Stripe Publishable Key"
+msgstr "Furaha Daabacan ee Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "Furaha Qarsoon ee Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Bixinta caadiga ah ee PayPal. Adeegsadayaashu waxay ku bixinayaan lacagta "
+"PayPal ama kaarka deynta. Lacagtu waxay ku tagtaa akoonkaaga PayPal."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Kharashka Xisaabta caadiga ah ee PayPal ayaa khuseeya."
+
+msgid "PayPal Client ID"
+msgstr "ID Macaamiisha PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Hel aqoonsigaaga API PayPal ka <a href=\"https://developer.paypal.com/\" "
+"target=\"_blank\">PayPal Developer Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "Qarsoodo PayPal"
+
+msgid "Donation Tiers"
+msgstr "Darajooyinka Xayawaanka"
+
+msgid "Add Tier"
+msgstr "Ku dar Darajo"
+
+msgid "Remove"
+msgstr "Ka saar"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Maalmaha Xayawaanka ee horay loo qeexay (USD). Ka tag faaruq si loo qoro "
+"qadarka gaarka ah."
+
+msgid "Membership"
+msgstr "Xubinnimo"
+
+msgid "Enable Membership"
+msgstr "Fur Xubinnimo"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr ""
+"Ogolaada isdhexgalka soo noqnoqda (waxaa loo baahan yahay Stripe "
+"Subscriptions)."
+
+msgid "Support"
+msgstr "Taageero"
+
+msgid "Donate"
+msgstr "Bix"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Kaarka Deynta"
+
+msgid "Choose amount"
+msgstr "Dooro Qadarka"
+
+msgid "Custom amount"
+msgstr "Qadarka Gaarka ah"
+
+msgid "Enter amount (USD)"
+msgstr "Geli Qadarka (USD)"
+
+msgid "Donate Now"
+msgstr "Bixnow"
+
+msgid "Crypto Address"
+msgstr "Cinwaanka Crypto"
+
+msgid "Copy Address"
+msgstr "Nuqul Cinwaanka"
+
+msgid "Copied!"
+msgstr "La nuquliyey!"
+
+msgid "Pay with Credit Card"
+msgstr "Bixinta Kaarka Deynta"
+
+msgid "Pay with PayPal"
+msgstr "Bixinta PayPal"
+
+msgid "Membership Plans"
+msgstr "Qorshaha Xubinimada"
+
+msgid "Monthly"
+msgstr "Bishii"
+
+msgid "Yearly"
+msgstr "Sannadkii"
+
+msgid "Subscribe"
+msgstr "Isdiiwaangeli"
+
+msgid "Credit Card → Crypto"
+msgstr "Karta deynta → Kripto"
+
+msgid "Buy Crypto"
+msgstr "Iibso Kripto"
+
+msgid "Processing..."
+msgstr "Waa la hawlgelinayaa..."
+
+msgid "Payment successful!"
+msgstr "Bixinta waa guul!"
+
+msgid "Payment failed"
+msgstr "Bixinta fashilmay"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments waxay kuu oggolaaneysaa inaad qaadato lacagaha kaarka deynta si "
+"toos ah boorsadaada kripto."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate waa habka lacag bixinta kripto ee si wanaagsan loo aasaasay."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay waxay isticmaale u oggolaataa inuu iibsado kripto kaarka deynta si "
+"toos ah boorsadiisa, ka dibna uu kuu diro."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+"Ka dib iibsashada kripto, fadlan u dir cinwaanka boorsada ee hoos ku qoran."
+
+msgid "Your crypto wallet address"
+msgstr "Cinwaanka boorsadaada kripto"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Ku raaxayso kafeega aan la' saaxiibadayda"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Qalab awood leh oo bilaash ah oo kuu oggolaanaya booqdayaashu inay ku "
+"taageeraan kaarka deynta ama lacagta kripto (Quai). Ma jiraan khidmadyo "
+"bishii, ma jiraan is-diiwaangelin dhinaca saddexaad – kaliya boorsadaada iyo"
+" adeegyo bilaash ah."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Qaar ka mid ah biraawsarka waxay xiraan script-yada dhinaca saddexaad ee "
+"asturnaanta. Proxy-kan wuxuu script-yada ka soo celiyaa serverkaaga si uu u "
+"xad-galo xayndaabyadaas."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Waxaad cusbooneysiin kartaa URLs-yada script-yada hoos ku qoran haddii URLs-"
+"yada asalka ah ay isbedelaan ama haddii aad rabto inaad isticmaasho CDN kala"
+" duwan."
+
+msgid "Script"
+msgstr "Script"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "TTL kaydka"
+
+msgid "Action"
+msgstr "Tallaabo"
+
+msgid "Test"
+msgstr "Tijaabi"
+
+msgid "Refresh"
+msgstr "Cusbooneysii"
+
+msgid "Usage:"
+msgstr "Isticmaalka:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js ee lacag bixinta kaarka deynta"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK ee lacag bixinta PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas ee abuurista sawir-qaadista shaashadda"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF ee abuurista PDF"
+
+msgid "External Script Proxy"
+msgstr "Proxy-ka Script-ka Dibadda"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Riix \"Test\" si aad u hubiso in cinwaanka script-ka uu heli karo. Garan-"
+"wareeguhu wuxuu keydin doonaa scripts-ka gudaha si waxqabadka u "
+"wanaagsanaado."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal Email (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Xog Degdeg ah"
+
+msgid "Widget Status:"
+msgstr "Xaaladda Widget:"
+
+msgid "Active"
+msgstr "Firfircoon"
+
+msgid "Inactive"
+msgstr "Jebban"
+
+msgid "Enabled Payment Methods:"
+msgstr "Hababka Lacag-bixinta ee la awoodsiiyay:"
+
+msgid "None"
+msgstr "Waxba"
+
+msgid "Crypto Wallet:"
+msgstr "Walgashi Kripto:"
+
+msgid "Not set"
+msgstr "Aan dhicin"
+
+msgid "pay_with_card"
+msgstr "Bixi Kaarka"
+
+msgid "crypto_address_label"
+msgstr "Si toos ah u dir kripti oo dhan cinwaankan:"
+
+msgid "crypto_note"
+msgstr "Dhaqaalaha si toos ah u gala walgashigaaga. Ma jiro kharash."
+
+msgid "your_crypto_address"
+msgstr "Cinwaankaaga walgashiga:"
+
+msgid "nowpayments_desc"
+msgstr "Bixi Kaarka Kireyska – Kripti si toos ah u gala walgashigaaga."
+
+msgid "coingate_desc"
+msgstr "Bixi Kaarka Kireyska – Kripti walgashigaaga."
+
+msgid "bitpay_desc"
+msgstr ""
+"Lacag-bixinta Kripti heer shirkadeed. Ku fiican shirkadaha Maraykanka."
+
+msgid "moonpay_desc"
+msgstr "Iibso kripti kaarka kireyska – ka dibna u dir cinwaankan hoose."
+
+msgid "moonpay_note"
+msgstr "Kadib iibsashada kripti, fadlan u dir cinwaanka walgashiga ee kore."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Dhaqaalaha si toos ah u gala walgashigaaga. Ma jiro kharash."
+
+msgid "Pay with Card"
+msgstr "Bixi Kaarka"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Bixi Kaarka Kireyska – Kripti si toos ah u gala walgashigaaga."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Si toos ah u dir kripti oo dhan cinwaankan:"

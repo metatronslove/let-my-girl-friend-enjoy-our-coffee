@@ -1,0 +1,703 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Igbo <ig_NG>\n"
+"Language: ig-NG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Dashboard Ngwaọrụ Kofi"
+
+msgid "Coffee Widget"
+msgstr "Ngwaọrụ Kofi"
+
+msgid "Settings"
+msgstr "Ntọala"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Payment Methods"
+msgstr "Ụzọ ịkwụ ụgwọ"
+
+msgid "Help & Support"
+msgstr "Enyemaka & Nkwado"
+
+msgid "General"
+msgstr "Nke a chọrọ"
+
+msgid "Button"
+msgstr "Bọtịnụ"
+
+msgid "Advanced"
+msgstr "Mara"
+
+msgid "Proxy Scripts"
+msgstr "Scripts Proxy"
+
+msgid "Widget Settings"
+msgstr "Ntọala Ngwaọrụ"
+
+msgid "Widget Status"
+msgstr "Ọnọdụ Ngwaọrụ"
+
+msgid "Widget active"
+msgstr "Ngwaọrụ na-arụ ọrụ"
+
+msgid "Button Color"
+msgstr "Ncha Bọtịnụ"
+
+msgid "Button Position"
+msgstr "Ọkwa Bọtịnụ"
+
+msgid "Left"
+msgstr "N'aka ekpe"
+
+msgid "Right"
+msgstr "N'aka nri"
+
+msgid "Horizontal Margin (px)"
+msgstr "Margin Akụkụ (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Margin Okwu (px)"
+
+msgid "Button Message"
+msgstr "Ozi Bọtịnụ"
+
+msgid "Description"
+msgstr "Nkọwa"
+
+msgid "Button Type"
+msgstr "Ụdị Bọtịnụ"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "Koodu SVG"
+
+msgid "PNG Image URL"
+msgstr "URL Ụdị PNG"
+
+msgid "Button Emoji"
+msgstr "Emoji Bọtịnụ"
+
+msgid "Custom CSS"
+msgstr "CSS Akụkọ"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Akụkọ"
+
+msgid "Which payment service should you choose?"
+msgstr "Kedu ọrụ ịkwụ ụgwọ ị ga-ahọrọ?"
+
+msgid "Service"
+msgstr "Ọrụ"
+
+msgid "Fee"
+msgstr "Ụgwọ"
+
+msgid "Where does crypto go?"
+msgstr "Ebee ka crypto na-aga?"
+
+msgid "WordPress Plugin"
+msgstr "Plugin WordPress"
+
+msgid "Best for"
+msgstr "Mma maka"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Ụlọ ọrụ US?"
+
+msgid "Direct Crypto"
+msgstr "Crypto ozugbo"
+
+msgid "No fee"
+msgstr "Enweghị Ụgwọ"
+
+msgid "Your wallet directly"
+msgstr "Wallet gị ozugbo"
+
+msgid "Built-in"
+msgstr "Ebe e tinyere"
+
+msgid "Crypto-savvy users"
+msgstr "Onye maara crypto"
+
+msgid "Anywhere"
+msgstr "Ebee ọbụla"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API dị njikere"
+
+msgid "Beginners, low fees"
+msgstr "Ọbịa, Ụgwọ dị ala"
+
+msgid "Global (incl. Turkey)"
+msgstr "Ụwa (gụnyere Turkey)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Plugin ziri ezi"
+
+msgid "Good support"
+msgstr "Nkwado ọma"
+
+msgid "Global"
+msgstr "Ụwa"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Ọrụ, ụlọ ọrụ US"
+
+msgid "US-friendly"
+msgstr "Enyi US"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Wallet onye ọrụ mbụ"
+
+msgid "Widget ready"
+msgstr "Widget dị njikere"
+
+msgid "Users with own wallets"
+msgstr "Onye ọrụ nwere wallet n'onwe ya"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Ụlọ ọrụ US naanị"
+
+msgid "❌ US ONLY"
+msgstr "❌ US ONLY"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Onye gbanwere"
+
+msgid "Asia markets"
+msgstr "Ahịa Asia"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Ụgwọ Standị"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal balance"
+
+msgid "PayPal users"
+msgstr "Onye ọrụ PayPal"
+
+msgid "Tip:"
+msgstr "Tip:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Ọ bụrụ na ị nọ n'èzí US, anyị na-atụ aro NOWPayments (ahịa kacha nta, "
+"kpọtụrụ wallet gị ozugbo). Ọ bụrụ na ị nọ na US, Stripe Crypto bụkwa nhọrọ "
+"ọzọ. Ị nwere ike wepụta ọtụtụ ọrụ ma gwa ndị ọbịa gị ịhọrọ!"
+
+msgid "Enabled Payment Methods"
+msgstr "Ụdị Ịkwụ ụgwọ Kwesịrị"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Họrọ nhọrọ ịkwụ ụgwọ ga-apụta na widget gị. Ụlọ ọrụ gị nwere ike ịhọrọ ụzọ "
+"ha chọrọ."
+
+msgid "Show these methods"
+msgstr "Gosi ụzọ ndị a"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Crypto Nkọwa (Adreesị Ụkwụ Akụ)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Kaadi Ego → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Kaadi Ego → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Kaadi Ego → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Onye zụrụ crypto mbụ)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Kaadi Ego)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Gosi adreesị wallet gị ka ndị ọrụ nwere ike izipu crypto ozugbo. Enweghị "
+"ụgwọ, ma ọ bụrụ na ndị ọrụ nwere crypto dị adị."
+
+msgid "Wallet Address"
+msgstr "Adreesị Ụkwụ Akụ"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Adreesị Ụkwụ akụ gị, Quai, Ethereum, Bitcoin, ma ọ bụ nke ọzọ."
+
+msgid "Network"
+msgstr "Netwọk"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Netwọk Quai (Ekwenyere - efu)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Nke kacha mma maka ndị mmalite & ụgwọ kacha ala"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments na-enye gị ohere ịnakọta ụgwọ kaadị kredit ozugbo na akpa ego "
+"crypto gị. Ego ahụ na-apụta ozugbo na akpa gị – enweghị onye nke a na-"
+"arụkọrịta."
+
+msgid "Fee:"
+msgstr "Ụgwọ:"
+
+msgid "per transaction"
+msgstr "nke azịza"
+
+msgid "Payout:"
+msgstr "Nkwụ ụgwọ:"
+
+msgid "Direct to your wallet"
+msgstr "Zaa ozugbo na akpa gị"
+
+msgid "Setup:"
+msgstr "Nseta:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Mepụta akaụntụ efu → API Keys → Copy API Key"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Key"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Detụ API Key gị na NOWPayments dashboard."
+
+msgid "Great support, slightly higher fee"
+msgstr "Nkwado dị mma, ụgwọ obere karịa"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate bụ usoro nyefe crypto nke a maara nke ọma nwere mgbakwunye "
+"WordPress ofịshọ."
+
+msgid "1% per transaction"
+msgstr "1% nke azịza"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Mepụta akaụntụ → API Keys"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Key"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Ụdị azụmaahịa, dị mfe maka US"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay ewere na ya nke ọma site na nnukwu ụlọ ọrụ. Na-arụ ọrụ nke ọma maka "
+"azụmaahịa nke US."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Business account → API Keys"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Key"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Onye ọrụ zụta crypto mbụ, mgbe ahụ zipụ ya na gị"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay kwere ka ndị ọrụ zụta crypto na kaadị kredit ozugbo na akpa ha, mgbe"
+" ahụ zipụ ya na gị. Ọgwụgwọ dị elu ma dị mfe maka ndị ọrụ."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% nke azịza"
+
+msgid "User's wallet first"
+msgstr "Akpa onye ọrụ mbụ"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Key"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Ihe dị mkpa:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Ego crypto Stripe (USDC) nwere naanị maka azụmahịa dị na US. Ọ bụrụ na ị dị "
+"n'èzí US, Stripe ga-anabatakwa naanị akwụmụgwọ kaadi kredit n'azụ azụ gị "
+"Stripe (ọ bụghị ozugbo na crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Ọ bụrụ na ị nọ na US, ị nwere ike iji Stripe nweta crypto ozugbo. Ọ bụrụ na "
+"ị nọ n'èzí, tụlee NOWPayments ma ọ bụ CoinGate maka ịkwụ ụgwọ crypto ozugbo."
+
+msgid "Stripe Publishable Key"
+msgstr "Ụkpụrụ Stripe Nkwupụta"
+
+msgid "Stripe Secret Key"
+msgstr "Ụkpụrụ Stripe Nzuzo"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Nkwụ ụgwọ PayPal nke oge ochie. Ụlọ ọrụ na-akwụ ụgwọ site na ego PayPal ma ọ"
+" bụ kaadi kredit. Ego na-apụ n'ịgọta gị PayPal."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "A na-atụgharị ụgwọ azụmahịa PayPal akpọrọ."
+
+msgid "PayPal Client ID"
+msgstr "ID Ụlọọrụ PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Nweta akwụkwọ ikike PayPal API gị site na <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">Dashboard onye "
+"mmepe PayPal</a>."
+
+msgid "PayPal Secret"
+msgstr "Nzuzo PayPal"
+
+msgid "Donation Tiers"
+msgstr "Ọkwa Ọrụ Ego"
+
+msgid "Add Tier"
+msgstr "Tinye Ọkwa"
+
+msgid "Remove"
+msgstr "Wepụ"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Ego onyinye e depụtara (USD). Hapụ efu ma ọ bụrụ na ịchọrọ naanị ego gị."
+
+msgid "Membership"
+msgstr "Mmekọrịta"
+
+msgid "Enable Membership"
+msgstr "Bụrụ Mmekọrịta"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr ""
+"Nwee ohere ịnye akwụkwọ akwụmụgwọ nke na-apụtakwa (na-achọ Stripe "
+"Subscriptions)."
+
+msgid "Support"
+msgstr "Nkwado"
+
+msgid "Donate"
+msgstr "Nye ego"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Kaadi Kredit"
+
+msgid "Choose amount"
+msgstr "Họrọ ego"
+
+msgid "Custom amount"
+msgstr "Ego omenala"
+
+msgid "Enter amount (USD)"
+msgstr "Tinye ego (USD)"
+
+msgid "Donate Now"
+msgstr "Nye ego Ugbu a"
+
+msgid "Crypto Address"
+msgstr "Adreesị Crypto"
+
+msgid "Copy Address"
+msgstr "Detuo Adreesị"
+
+msgid "Copied!"
+msgstr "Detuo!"
+
+msgid "Pay with Credit Card"
+msgstr "Kwụọ ụgwọ na Kaadi Kredit"
+
+msgid "Pay with PayPal"
+msgstr "Kwụọ ụgwọ na PayPal"
+
+msgid "Membership Plans"
+msgstr "Ụdị atụmatụ ndebanye"
+
+msgid "Monthly"
+msgstr "N'ọnwa"
+
+msgid "Yearly"
+msgstr "N'afọ"
+
+msgid "Subscribe"
+msgstr "Debanye"
+
+msgid "Credit Card → Crypto"
+msgstr "Kaadi Kredit → Crypto"
+
+msgid "Buy Crypto"
+msgstr "Zụta Crypto"
+
+msgid "Processing..."
+msgstr "Na-emegharị..."
+
+msgid "Payment successful!"
+msgstr "Ụgwọ gara nke ọma!"
+
+msgid "Payment failed"
+msgstr "Ụgwọ akwụsịrị"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments na-enye gị ohere ịnakọta ụgwọ kaadi kredit ozugbo na wallet "
+"crypto gị."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate bụ onye na-arụ ọrụ ịnakọta ụgwọ crypto nke ọma."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay na-enye ndị ọrụ ohere ịzụta crypto site na kaadi kredit ozugbo na "
+"wallet ha, mgbe ahụ ha zigara gị ya."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Mgbe ịzụrụ crypto, biko zigara ya na adreesị wallet dị n'okpuru."
+
+msgid "Your crypto wallet address"
+msgstr "Adreesị wallet crypto gị"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Ka nwanyị m nwee ekele kọfị anyị"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Ngwaọrụ ntụnyere ego, ụgwọ na nkwado n'efu nke nwere ike izute ndị gara gị "
+"site na kaadi kredit ma ọ bụ cryptocurrency (Quai). Enweghị ụgwọ ọnwa, "
+"enweghị ntụnyere nke ndị ọzọ – naanị wallet gị na ọrụ n'efu."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Ụfọdụ ihe nchọgharị kwụsịrị skripti nke ndị ọzọ maka nzuzo. Proxy a na-"
+"ebudata skripti site na sava gị iji gbanwee ndị a."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Ị nwere ike melite URL skripti dị n'okpuru ma ọ bụrụ na URL mbụ gbanwee ma ọ"
+" bụ ma ịchọrọ iji CDN dị iche."
+
+msgid "Script"
+msgstr "Skripti"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Ihe omume"
+
+msgid "Test"
+msgstr "Nyocha"
+
+msgid "Refresh"
+msgstr "Mmelite"
+
+msgid "Usage:"
+msgstr "Iji:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js maka ụgwọ kaadi kredit"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK maka ụgwọ PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas maka n'ịmepụta eserese"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF maka n'ịmepụta PDF"
+
+msgid "External Script Proxy"
+msgstr "Proxy Skripti Mpụga"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Pịa \"Test\" iji lelee ma URL skripti ahụ dị. Onye njikwa a ga-echekwa "
+"skripti n'ime ebe nchekwa maka arụmọrụ ka mma."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "E‑mail PayPal (Nzaghachi)"
+
+msgid "Quick Stats"
+msgstr "Statistiks Ọsọ"
+
+msgid "Widget Status:"
+msgstr "Ọkwa Widget:"
+
+msgid "Active"
+msgstr "Nrụ ọrụ"
+
+msgid "Inactive"
+msgstr "Mba"
+
+msgid "Enabled Payment Methods:"
+msgstr "Ụzọ Ịkwụ ụgwọ a Kwado:"
+
+msgid "None"
+msgstr "Enweghị"
+
+msgid "Crypto Wallet:"
+msgstr "Ụlọ akụ Crypto:"
+
+msgid "Not set"
+msgstr "Echeghị"
+
+msgid "pay_with_card"
+msgstr "Pịa Ego na Kaadị"
+
+msgid "crypto_address_label"
+msgstr "Ziga cryptocurrency ozugbo na adreesị a:"
+
+msgid "crypto_note"
+msgstr "Ọnụ ahịa na-aga ozugbo na wallet gị. Enweghị ụgwọ."
+
+msgid "your_crypto_address"
+msgstr "Adreesị wallet gị:"
+
+msgid "nowpayments_desc"
+msgstr "Pịa ego na kaadị kredit – crypto na-aga ozugbo na wallet gị."
+
+msgid "coingate_desc"
+msgstr "Pịa ego na kaadị kredit – crypto na wallet gị."
+
+msgid "bitpay_desc"
+msgstr "Ịkwụ ụgwọ crypto nke ụlọ ọrụ. kacha mma maka azụmahịa US."
+
+msgid "moonpay_desc"
+msgstr "Zụta crypto na kaadị kredit – soro ziga ya na adreesị dị n'okpuru."
+
+msgid "moonpay_note"
+msgstr "Mgbe ị zụtara crypto, biko ziga ya na wallet adreesị dị n'elu."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Ọnụ ahịa na-aga ozugbo na wallet gị. Enweghị ụgwọ."
+
+msgid "Pay with Card"
+msgstr "Pịa Ego na Kaadị"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Pịa ego na kaadị kredit – crypto na-aga ozugbo na wallet gị."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Ziga cryptocurrency ozugbo na adreesị a:"

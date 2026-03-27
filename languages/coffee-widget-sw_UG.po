@@ -1,0 +1,712 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Swahili (Uganda) <sw_UG>\n"
+"Language: sw-UG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Dashibodi ya Kiofa la Kahawa"
+
+msgid "Coffee Widget"
+msgstr "Kiofa la Kahawa"
+
+msgid "Settings"
+msgstr "Mipangilio"
+
+msgid "Dashboard"
+msgstr "Dashibodi"
+
+msgid "Payment Methods"
+msgstr "Njia za Malipo"
+
+msgid "Help & Support"
+msgstr "Msaada & Usaidizi"
+
+msgid "General"
+msgstr "Jumla"
+
+msgid "Button"
+msgstr "Kitufe"
+
+msgid "Advanced"
+msgstr "Kiambishi"
+
+msgid "Proxy Scripts"
+msgstr "Skripti za Proxy"
+
+msgid "Widget Settings"
+msgstr "Mipangilio ya Kiofa"
+
+msgid "Widget Status"
+msgstr "Hali ya Kiofa"
+
+msgid "Widget active"
+msgstr "Kiofa limezo"
+
+msgid "Button Color"
+msgstr "Rangi ya Kitufe"
+
+msgid "Button Position"
+msgstr "Mahali pa Kitufe"
+
+msgid "Left"
+msgstr "Kushoto"
+
+msgid "Right"
+msgstr "Kulia"
+
+msgid "Horizontal Margin (px)"
+msgstr "Mada ya Uwezo (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Mada ya Nenda (px)"
+
+msgid "Button Message"
+msgstr "Ujumbe wa Kitufe"
+
+msgid "Description"
+msgstr "Maelezo"
+
+msgid "Button Type"
+msgstr "Aina ya Kitufe"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "Simbua ya SVG"
+
+msgid "PNG Image URL"
+msgstr "URL ya Picha PNG"
+
+msgid "Button Emoji"
+msgstr "Emoji ya Kitufe"
+
+msgid "Custom CSS"
+msgstr "CSS ya Kawaida"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript ya Kawaida"
+
+msgid "Which payment service should you choose?"
+msgstr "Je, huduma gani ya malipo unapaswa kuchagua?"
+
+msgid "Service"
+msgstr "Huduma"
+
+msgid "Fee"
+msgstr "Ada"
+
+msgid "Where does crypto go?"
+msgstr "Crypto inenda wapi?"
+
+msgid "WordPress Plugin"
+msgstr "Plugin ya WordPress"
+
+msgid "Best for"
+msgstr "Zuri kwa"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Biashara ya Marekani?"
+
+msgid "Direct Crypto"
+msgstr "Crypto moja kwa moja"
+
+msgid "No fee"
+msgstr "Hakuna ada"
+
+msgid "Your wallet directly"
+msgstr "Waleti yako moja kwa moja"
+
+msgid "Built-in"
+msgstr "Imewekwa ndani"
+
+msgid "Crypto-savvy users"
+msgstr "Watumiaji wanaojua crypto"
+
+msgid "Anywhere"
+msgstr "Popote"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API tayari"
+
+msgid "Beginners, low fees"
+msgstr "Watangulizi, ada ndogo"
+
+msgid "Global (incl. Turkey)"
+msgstr "Ulimwenguni (pamoja na Turuki)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Plugin rasmi"
+
+msgid "Good support"
+msgstr "Msaada mzuri"
+
+msgid "Global"
+msgstr "Ulimwenguni"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Kampuni kubwa, kampuni za Marekani"
+
+msgid "US-friendly"
+msgstr "Yenye urahisi kwa Marekani"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Waleti ya mtumiaji kwanza"
+
+msgid "Widget ready"
+msgstr "Widget tayari"
+
+msgid "Users with own wallets"
+msgstr "Watumiaji wenye waleti zao"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Biashara za Marekani pekee"
+
+msgid "❌ US ONLY"
+msgstr "❌ USA pekee"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Yenye Mabadiliko"
+
+msgid "Asia markets"
+msgstr "Soko la Asia"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Ada za kawaida"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Salio la PayPal"
+
+msgid "PayPal users"
+msgstr "Watumiaji wa PayPal"
+
+msgid "Tip:"
+msgstr "Vidokezo:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Ikiwa unapatikana nje ya Marekani, tunapendekeza NOWPayments (ada ndogo "
+"kabisa, moja kwa moja kwenye pochi yako). Ikiwa unapoendelea katika "
+"Marekani, Stripe Crypto pia ni chaguo. Unaweza kuwezesha huduma nyingi na "
+"kuruhusu wageni wako kuchagua!"
+
+msgid "Enabled Payment Methods"
+msgstr "Njia za Malipo Zilizowezeshwa"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Chagua njia za malipo zitakazojulikana katika widget yako. Wageni wako "
+"wanaweza kuchagua njia wanayotaka."
+
+msgid "Show these methods"
+msgstr "Onyesha njia hizi"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Crypto moja kwa moja (Anwani ya pochi)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Kadi ya Krediti → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Kadi ya Krediti → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Kadi ya Krediti → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Mtumiaji anauza crypto kwanza)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Kadi ya Krediti)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Onyesha anwani ya pochi yako ili watumiaji watumie crypto moja kwa moja. Ada"
+" sifariji, lakini inahitaji watumiaji kuwa tayari na crypto."
+
+msgid "Wallet Address"
+msgstr "Anwani ya pochi"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Anwani yako ya Quai, Ethereum, Bitcoin, au pochi nyingine."
+
+msgid "Network"
+msgstr "Mtandao"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Mtandao wa Quai (Inapendekezwa - bure)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Bila ya ada ndogo zaidi & bora kwa watangulizi"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments inakuwezesha kugawia malipo ya kadi ya mkopo moja kwa moja "
+"kwenye pochi yako ya crypto. Fedha inakwenda moja kwa moja kwenye pochi yako"
+" – hakuna mhusika wa kati."
+
+msgid "Fee:"
+msgstr "Ada:"
+
+msgid "per transaction"
+msgstr "kwa kila muamala"
+
+msgid "Payout:"
+msgstr "Malipo:"
+
+msgid "Direct to your wallet"
+msgstr "Kwa moja kwa moja kwenye pochi yako"
+
+msgid "Setup:"
+msgstr "Usanidi:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Tengeneza akaunti bure → Funguo za API → Nakili Funguo la API"
+
+msgid "NOWPayments API Key"
+msgstr "Funguo la API la NOWPayments"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Bandika funguo yako la API kutoka dashboard ya NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Msaada mzuri, ada ya juu kidogo"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate ni mchakato wa malipo ya crypto ulio wazi wa kuaminika na plugin "
+"rasmi ya WordPress."
+
+msgid "1% per transaction"
+msgstr "1% kwa kila muamala"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Tengeneza akaunti → Funguo za API"
+
+msgid "CoinGate API Key"
+msgstr "Funguo la API la CoinGate"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Jinsi ya kampuni, rafiki wa Marekani"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay inatendewa na kampuni kuu. Inafanya kazi vizuri kwa biashara za "
+"Marekani."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Akaunti ya biashara → Funguo za API"
+
+msgid "BitPay API Key"
+msgstr "Funguo la API la BitPay"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Watumiaji wanauza crypto kwanza, kisha watakupitisha"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay huruia watumiaji kugua crypto kwa kadi ya mkopo moja kwa moja kwenye"
+" pochi yao, kisha watakupeleka. Ada za juu lakini ni rahisi sana kwa "
+"watumiaji."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% kwa kila muamala"
+
+msgid "User's wallet first"
+msgstr "Pochi ya mtumiaji kwanza"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "Funguo la API la MoonPay"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Muhimu:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Malipo ya Crypto ya Stripe (USDC) yanapatikana tu kwa biashara zinazotokana "
+"na Marekani. Ikiwa uko nje ya Marekani, Stripe itakubali pekee malipo ya "
+"kadi ya mkopo kwa salio lako la Stripe (sio moja kwa moja kwa crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Ikiwa uko Marekani, unaweza kutumia Stripe kupewa crypto moja kwa moja. "
+"Ikiwa uko nje, zingatia NOWPayments au CoinGate kwa matangazo ya crypto moja"
+" kwa moja."
+
+msgid "Stripe Publishable Key"
+msgstr "Ufunguo Mtangulizi wa Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "Ufunguo wa Siri wa Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Malipo ya kawaida ya PayPal. Watumiaji hufadhili kwa salio la PayPal au kadi"
+" ya mkopo. Fedha zinawasilishwa kwenye akaunti yako ya PayPal."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Ada za miamala ya kawaida ya PayPal zinapatikana."
+
+msgid "PayPal Client ID"
+msgstr "Kitambulisho cha Mteja wa PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Pata credentials za API yako ya PayPal kutoka <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "Siri ya PayPal"
+
+msgid "Donation Tiers"
+msgstr "Viwango vya Donesheni"
+
+msgid "Add Tier"
+msgstr "Ongeza Kiwango"
+
+msgid "Remove"
+msgstr "Ondoa"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Idaha zilizowekwa mapema (USD). Kaa tupu ikiwa unataka kiasi cha kibinafsi "
+"tu."
+
+msgid "Membership"
+msgstr "Uanachama"
+
+msgid "Enable Membership"
+msgstr "Washa Uanachama"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Ruhusu usajili unaorudiwa (inahitaji Usajili wa Stripe)."
+
+msgid "Support"
+msgstr "Msaada"
+
+msgid "Donate"
+msgstr "Toa donesheni"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Kadi ya mkopo"
+
+msgid "Choose amount"
+msgstr "Chagua kiasi"
+
+msgid "Custom amount"
+msgstr "Kiasi cha kibinafsi"
+
+msgid "Enter amount (USD)"
+msgstr "Weka kiasi (USD)"
+
+msgid "Donate Now"
+msgstr "Toa donesheni sasa"
+
+msgid "Crypto Address"
+msgstr "Anwani ya Crypto"
+
+msgid "Copy Address"
+msgstr "Nakili Anwani"
+
+msgid "Copied!"
+msgstr "Imeombwa!"
+
+msgid "Pay with Credit Card"
+msgstr "Lipa kwa Kadi ya mkopo"
+
+msgid "Pay with PayPal"
+msgstr "Lipa kwa PayPal"
+
+msgid "Membership Plans"
+msgstr "Vipango vya uanachama"
+
+msgid "Monthly"
+msgstr "Mwezi"
+
+msgid "Yearly"
+msgstr "Mwaka"
+
+msgid "Subscribe"
+msgstr "Jisajili"
+
+msgid "Credit Card → Crypto"
+msgstr "Kadi ya Mikopo → Krypto"
+
+msgid "Buy Crypto"
+msgstr "Nunua Krypto"
+
+msgid "Processing..."
+msgstr "Inapitia..."
+
+msgid "Payment successful!"
+msgstr "Malipo meleti!"
+
+msgid "Payment failed"
+msgstr "Malipo haliwezi"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments inakuwezesha kupokea malipo ya kadi ya mkopo moja kwa moja "
+"kwenye pochi yako ya krypto."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate ni mchakato maarufu wa malipo ya krypto."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay inawawezesha watumiaji kununua krypto kwa kadi ya mkopo moja kwa "
+"moja kwenye pochi YOI, kisha wanakutuma."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+"Baada ya kununua krypto, tafadhali utuma kwenye anwani ya pochi iliyo hapa "
+"chini."
+
+msgid "Your crypto wallet address"
+msgstr "Anwani yako ya pochi ya krypto"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Pia Mpenzi wangu aweze kufurahia Kahawa yetu"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Widget yenye nguvu, bure ya michango na malipo inayoamuru wageni wako "
+"kukusaidia kupitia kadi ya mkopo au cryptocurrency (Quai). Hakuna ada za "
+"kila mwezi, hakuna usajili wa watu wengine – kupunguza pochi yako na huduma "
+"bure."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Baadhi ya kivinjari huzuia skripti za watu wengine kwa usiri. Proxy hii "
+"inapakia skripti kupitia seva yako mwenyewe ili kupitisha kizuizi haya."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Unaweza kusasisha URL za skripti hapa chini ikiwa URL za awali zitabadilika "
+"au ikiwa unataka kutumia CDN tofauti."
+
+msgid "Script"
+msgstr "Skripti"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Kitendo"
+
+msgid "Test"
+msgstr "Jaribu"
+
+msgid "Refresh"
+msgstr "Weka upya"
+
+msgid "Usage:"
+msgstr "Matumizi:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js kwa malipo ya kadi ya mkopo"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK kwa malipo ya PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas kwa kutengeneza skrini"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF kwa kutengeneza PDF"
+
+msgid "External Script Proxy"
+msgstr "Proxy ya Skripti Nyingine"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Bofya \"Test\" ili kuangalia kama URL ya skripti inapatikana. Proxy "
+"itahifadhi skripti ndani kwa ufanisi zaidi."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "Barua pepe ya PayPal (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Statisti za Haraka"
+
+msgid "Widget Status:"
+msgstr "Hali ya Widget:"
+
+msgid "Active"
+msgstr "Inatumika"
+
+msgid "Inactive"
+msgstr "Sio inayotumiwa"
+
+msgid "Enabled Payment Methods:"
+msgstr "Njia za Malipo zilizotumika:"
+
+msgid "None"
+msgstr "Hakuna"
+
+msgid "Crypto Wallet:"
+msgstr "Kipesa cha Crypto:"
+
+msgid "Not set"
+msgstr "Sio iliyowekwa"
+
+msgid "pay_with_card"
+msgstr "Malipo kwa Kadi"
+
+msgid "crypto_address_label"
+msgstr "Tuma kripto moja kwa moja kwa anwani hii:"
+
+msgid "crypto_note"
+msgstr "Fedha inakwenda moja kwa moja kwenye pochi yako. Hakuna ada."
+
+msgid "your_crypto_address"
+msgstr "Anwani yako ya pochi:"
+
+msgid "nowpayments_desc"
+msgstr ""
+"Malipo kwa kadi ya mkopo – kripto inakwenda moja kwa moja kwenye pochi yako."
+
+msgid "coingate_desc"
+msgstr "Malipo kwa kadi ya mkopo – kripto kwa pochi yako."
+
+msgid "bitpay_desc"
+msgstr ""
+"Malipo ya crypto ya kiwango cha kampuni. Bora kwa biashara za Marekani."
+
+msgid "moonpay_desc"
+msgstr "Nunua kripto kwa kadi ya mkopo – kisha utuma kwa anwani hapa chini."
+
+msgid "moonpay_note"
+msgstr ""
+"Baada ya kununua kripto, tafadhali utuma kwa anwani ya pochi hapo juu."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Fedha inakwenda moja kwa moja kwenye pochi yako. Hakuna ada."
+
+msgid "Pay with Card"
+msgstr "Malipo kwa Kadi"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"Malipo kwa kadi ya mkopo – kripto inakwenda moja kwa moja kwenye pochi yako."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Tuma kripto moja kwa moja kwa anwani hii:"

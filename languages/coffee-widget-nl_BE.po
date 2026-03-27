@@ -1,0 +1,712 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Dutch (Belgium) <nl_BE>\n"
+"Language: nl-BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Coffee Widget Dashboard"
+
+msgid "Coffee Widget"
+msgstr "Coffee Widget"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Dashboard"
+msgstr "Coffee Dashboard"
+
+msgid "Payment Methods"
+msgstr "Betaalmethoden"
+
+msgid "Help & Support"
+msgstr "Help & Ondersteuning"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Button"
+msgstr "Knop"
+
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+msgid "Proxy Scripts"
+msgstr "Proxy Scripts"
+
+msgid "Widget Settings"
+msgstr "Widget Instellingen"
+
+msgid "Widget Status"
+msgstr "Widget Status"
+
+msgid "Widget active"
+msgstr "Widget actief"
+
+msgid "Button Color"
+msgstr "Knopkleur"
+
+msgid "Button Position"
+msgstr "Knoppositie"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Horizontal Margin (px)"
+msgstr "Horizontale marge (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Verticale marge (px)"
+
+msgid "Button Message"
+msgstr "Knopbericht"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Button Type"
+msgstr "Knoptype"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "SVG-code"
+
+msgid "PNG Image URL"
+msgstr "PNG-afbeeldings-URL"
+
+msgid "Button Emoji"
+msgstr "Knop Emoji"
+
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+msgid "Custom JavaScript"
+msgstr "Aangepaste JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "Welke betaalservice moet je kiezen?"
+
+msgid "Service"
+msgstr "Dienst"
+
+msgid "Fee"
+msgstr "Kosten"
+
+msgid "Where does crypto go?"
+msgstr "Waar gaat crypto naartoe?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress-plug-in"
+
+msgid "Best for"
+msgstr "Beste voor"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 US-bedrijf?"
+
+msgid "Direct Crypto"
+msgstr "Directe Crypto"
+
+msgid "No fee"
+msgstr "Geen kosten"
+
+msgid "Your wallet directly"
+msgstr "Uw portemonnee direct"
+
+msgid "Built-in"
+msgstr "Ingebouwd"
+
+msgid "Crypto-savvy users"
+msgstr "Crypto-kennisrijke gebruikers"
+
+msgid "Anywhere"
+msgstr "Overal"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0,5% - 1%"
+
+msgid "API ready"
+msgstr "API klaar"
+
+msgid "Beginners, low fees"
+msgstr "Beginneren, lage kosten"
+
+msgid "Global (incl. Turkey)"
+msgstr "Wereldwijd (inclusief Turkije)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Officiële plug-in"
+
+msgid "Good support"
+msgstr "Goede ondersteuning"
+
+msgid "Global"
+msgstr "Wereldwijd"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Enterprise, Amerikaanse bedrijven"
+
+msgid "US-friendly"
+msgstr "Vriendelijk voor de VS"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3,5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Portemonnee van de gebruiker eerst"
+
+msgid "Widget ready"
+msgstr "Widget klaar"
+
+msgid "Users with own wallets"
+msgstr "Gebruikers met eigen portemonnees"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Alleen voor Amerikaanse bedrijven"
+
+msgid "❌ US ONLY"
+msgstr "❌ VS ENDELIJK"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Variabel"
+
+msgid "Asia markets"
+msgstr "Aziatische markten"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Standaardkosten"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal saldo"
+
+msgid "PayPal users"
+msgstr "PayPal gebruikers"
+
+msgid "Tip:"
+msgstr "Tip:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Als je buiten de VS bent, raden we NOWPayments aan (laagste kosten, "
+"rechtstreeks naar je portemonnee). Als je in de VS bent, is Stripe Crypto "
+"ook een optie. Je kunt meerdere services inschakelen en je bezoekers laten "
+"kiezen!"
+
+msgid "Enabled Payment Methods"
+msgstr "Ingeschakelde betaalmethoden"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Selecteer welke betaalopties in je widget verschijnen. Je bezoekers kunnen "
+"hun voorkeur kiezen."
+
+msgid "Show these methods"
+msgstr "Toon deze methoden"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Direct Crypto (Portemonnee adres)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Creditcard → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Creditcard → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Creditcard → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Gebruiker koopt eerst crypto)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Creditcard)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Toon je portemonneeadres zodat gebruikers direct crypto kunnen verzenden. "
+"Geen kosten, maar vereist dat gebruikers al crypto hebben."
+
+msgid "Wallet Address"
+msgstr "Portemonneeadres"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Je Quai, Ethereum, Bitcoin of ander portemonneeadres."
+
+msgid "Network"
+msgstr "Netwerk"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Netwerk (Aanbevolen - gratis)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Beste voor beginners & laagste kosten"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments stelt je in staat creditcardbetalingen rechtstreeks naar je "
+"crypto wallet te accepteren. Geld gaat direct naar je wallet – geen "
+"tussenpersoon."
+
+msgid "Fee:"
+msgstr "Kosten:"
+
+msgid "per transaction"
+msgstr "per transactie"
+
+msgid "Payout:"
+msgstr "Uitbetaling:"
+
+msgid "Direct to your wallet"
+msgstr "Direct naar je wallet"
+
+msgid "Setup:"
+msgstr "Instelling:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Maak gratis account → API-sleutels → Kopieer API-sleutel"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API-sleutel"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Plak je API-sleutel van het NOWPayments dashboard."
+
+msgid "Great support, slightly higher fee"
+msgstr "Geweldige ondersteuning, iets hogere kosten"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate is een goed gevestigde crypto-betaalprocessor met een officieel "
+"WordPress-plug-in."
+
+msgid "1% per transaction"
+msgstr "1% per transactie"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Maak account → API-sleutels"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API-sleutel"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Enterprise-grade, US-vriendelijk"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay wordt vertrouwd door grote bedrijven. Werkt goed voor US-gebaseerde "
+"bedrijven."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Zakelijk account → API-sleutels"
+
+msgid "BitPay API Key"
+msgstr "BitPay API-sleutel"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Gebruikers kopen eerst crypto, sturen het daarna naar jou"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay laat gebruikers crypto kopen met een creditcard rechtstreeks naar "
+"HUN wallet, waarna ze het naar jou sturen. Hogere kosten maar zeer eenvoudig"
+" voor gebruikers."
+
+msgid "~3.5% per transaction"
+msgstr "~3,5% per transactie"
+
+msgid "User's wallet first"
+msgstr "Wallet van gebruiker eerst"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API-sleutel"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Belangrijk:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto betalingen (USDC) zijn ALLEEN beschikbaar voor bedrijven in de"
+" VS. Als je buiten de VS bent, accepteert Stripe alleen creditcardbetalingen"
+" naar je Stripe saldo (niet rechtstreeks naar crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Als je in de VS bent, kun je Stripe gebruiken om crypto rechtstreeks te "
+"ontvangen. Als je buiten de VS bent, overweeg dan NOWPayments of CoinGate "
+"voor directe crypto-uitbetalingen."
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe Publiceerbare Sleutel"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe Geheime Sleutel"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Klassieke PayPal betalingen. Gebruikers betalen met PayPal saldo of "
+"creditcard. Geld gaat naar je PayPal account."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Standaard PayPal transactiekosten zijn van toepassing."
+
+msgid "PayPal Client ID"
+msgstr "PayPal Client ID"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Haal je PayPal API-gegevens op van <a href=\"https://developer.paypal.com/\""
+" target=\"_blank\">PayPal Developer Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "PayPal Secret"
+
+msgid "Donation Tiers"
+msgstr "Donatie Levels"
+
+msgid "Add Tier"
+msgstr "Level toevoegen"
+
+msgid "Remove"
+msgstr "Verwijderen"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Voorgedefinieerde donatiebedragen (USD). Laat leeg voor alleen een aangepast"
+" bedrag."
+
+msgid "Membership"
+msgstr "Lidmaatschap"
+
+msgid "Enable Membership"
+msgstr "Lidmaatschap inschakelen"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Sta herhaalde abonnementen toe (verplicht Stripe Abonnementen)."
+
+msgid "Support"
+msgstr "Ondersteuning"
+
+msgid "Donate"
+msgstr "Doneren"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Creditcard"
+
+msgid "Choose amount"
+msgstr "Kies bedrag"
+
+msgid "Custom amount"
+msgstr "Aangepast bedrag"
+
+msgid "Enter amount (USD)"
+msgstr "Voer bedrag in (USD)"
+
+msgid "Donate Now"
+msgstr "Nu doneren"
+
+msgid "Crypto Address"
+msgstr "Crypto Adres"
+
+msgid "Copy Address"
+msgstr "Adres kopiëren"
+
+msgid "Copied!"
+msgstr "Gekopieerd!"
+
+msgid "Pay with Credit Card"
+msgstr "Betalen met creditcard"
+
+msgid "Pay with PayPal"
+msgstr "Betalen met PayPal"
+
+msgid "Membership Plans"
+msgstr "Lidmaatschapspakketten"
+
+msgid "Monthly"
+msgstr "Maandelijks"
+
+msgid "Yearly"
+msgstr "Jaarlijks"
+
+msgid "Subscribe"
+msgstr "Abonneer"
+
+msgid "Credit Card → Crypto"
+msgstr "Creditcard → Crypto"
+
+msgid "Buy Crypto"
+msgstr "Crypto kopen"
+
+msgid "Processing..."
+msgstr "Bezig met verwerken..."
+
+msgid "Payment successful!"
+msgstr "Betaling succesvol!"
+
+msgid "Payment failed"
+msgstr "Betaling mislukt"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments laat je toe om creditcardbetalingen rechtstreeks naar je crypto-"
+"wallet te accepteren."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate is een goed gevestigd crypto-betalingsverwerker."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay laat gebruikers crypto kopen met een creditcard rechtstreeks naar "
+"HUN wallet, waarna ze het naar jou sturen."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+"Na het kopen van crypto, stuur het alstublieft naar het onderstaande "
+"walletadres."
+
+msgid "Your crypto wallet address"
+msgstr "Je crypto-walletadres"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Laat mijn vriendin genieten van onze koffie"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Een krachtig, gratis donatie- en betalingswidget waarmee je bezoekers je "
+"kunnen ondersteunen via creditcard of cryptocurrency (Quai). Geen "
+"maandelijkse kosten, geen derde partij abonnementen – alleen je wallet en "
+"gratis diensten."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Sommige browsers blokkeren third‑party scripts voor privacy. Deze proxy "
+"laadt scripts via je eigen server om deze blokkades te omzeilen."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Je kunt hieronder de script‑URL's bijwerken als de oorspronkelijke URL's "
+"wijzigen of als je een andere CDN wilt gebruiken."
+
+msgid "Script"
+msgstr "Script"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Actie"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+msgid "Usage:"
+msgstr "Gebruik:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js voor creditcardbetalingen"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK voor PayPal-betalingen"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas voor schermafbeeldingen maken"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF voor PDF-maken"
+
+msgid "External Script Proxy"
+msgstr "Externe Script Proxy"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Klik op \"Test\" om te controleren of de script-URL toegankelijk is. De "
+"proxy zal scripts lokaal cachen voor betere prestaties."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal E-mailadres (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Snelle Statistieken"
+
+msgid "Widget Status:"
+msgstr "Widget Status:"
+
+msgid "Active"
+msgstr "Actief"
+
+msgid "Inactive"
+msgstr "Inactief"
+
+msgid "Enabled Payment Methods:"
+msgstr "Ingeschakelde Betaalmethoden:"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Crypto Wallet:"
+msgstr "Crypto Portemonnee:"
+
+msgid "Not set"
+msgstr "Niet ingesteld"
+
+msgid "pay_with_card"
+msgstr "Betaal met Kaart"
+
+msgid "crypto_address_label"
+msgstr "Stuur cryptocurrency rechtstreeks naar dit adres:"
+
+msgid "crypto_note"
+msgstr "Fondsen gaan rechtstreeks naar je portemonnee. Geen kosten."
+
+msgid "your_crypto_address"
+msgstr "Je portemonnee adres:"
+
+msgid "nowpayments_desc"
+msgstr "Betaal met creditcard – crypto gaat rechtstreeks naar je portemonnee."
+
+msgid "coingate_desc"
+msgstr "Betaal met creditcard – crypto naar je portemonnee."
+
+msgid "bitpay_desc"
+msgstr ""
+"Crypto betalingen op ondernemingsniveau. Beste voor Amerikaanse bedrijven."
+
+msgid "moonpay_desc"
+msgstr ""
+"Koop crypto met creditcard – stuur het vervolgens naar het onderstaande "
+"adres."
+
+msgid "moonpay_note"
+msgstr ""
+"Na het kopen van crypto, stuur het alstublieft naar het bovenstaande "
+"portemonnee adres."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Fondsen gaan rechtstreeks naar je portemonnee. Geen kosten."
+
+msgid "Pay with Card"
+msgstr "Betaal met Kaart"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Betaal met creditcard – crypto gaat rechtstreeks naar je portemonnee."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Stuur cryptocurrency rechtstreeks naar dit adres:"

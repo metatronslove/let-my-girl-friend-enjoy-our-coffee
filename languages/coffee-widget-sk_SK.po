@@ -1,0 +1,619 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Slovak <sk_SK>\n"
+"Language: sk-SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Service"
+msgstr "Služba"
+
+msgid "Fee"
+msgstr "Poplatok"
+
+msgid "Where does crypto go?"
+msgstr "Kde sa krypto presúva?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress plugin"
+
+msgid "Best for"
+msgstr "Najlepšie pre"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 US Business?"
+
+msgid "Direct Crypto"
+msgstr "Priama krypto"
+
+msgid "No fee"
+msgstr "Bez poplatku"
+
+msgid "Your wallet directly"
+msgstr "Vaša peňaženka priamo"
+
+msgid "Built-in"
+msgstr "Integrované"
+
+msgid "Crypto-savvy users"
+msgstr "Užívatelia so znalosťou kryptomien"
+
+msgid "Anywhere"
+msgstr "Kdekoľvek"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API pripravené"
+
+msgid "Beginners, low fees"
+msgstr "Začiatočníci, nízke poplatky"
+
+msgid "Global (incl. Turkey)"
+msgstr "Globálne (vrátane Turecka)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Oficiálny plugin"
+
+msgid "Good support"
+msgstr "Dobrá podpora"
+
+msgid "Global"
+msgstr "Globálne"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Enterprise, US spoločnosti"
+
+msgid "US-friendly"
+msgstr "USA-priateľský"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Najprv peňaženka používateľa"
+
+msgid "Widget ready"
+msgstr "Widget pripravený"
+
+msgid "Users with own wallets"
+msgstr "Používatelia s vlastnými peňaženkami"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Iba podniky z USA"
+
+msgid "❌ US ONLY"
+msgstr "❌ LEN USA"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Premenná"
+
+msgid "Asia markets"
+msgstr "Ázijské trhy"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Štandardné poplatky"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Zostatok PayPal"
+
+msgid "PayPal users"
+msgstr "Používatelia PayPal"
+
+msgid "Tip:"
+msgstr "Tip:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Ak ste mimo USA, odporúčame NOWPayments (najnižšie poplatky, priamy na vašu "
+"peňaženku). Ak ste v USA, Stripe Crypto je tiež možnosť. Môžete povoliť "
+"viacero služieb a dať svojim návštevníkom možnosť vybrať si!"
+
+msgid "Enabled Payment Methods"
+msgstr "Povolené platobné metódy"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Vyberte, ktoré platobné možnosti sa zobrazia vo vašom widgete. Návštevníci "
+"si môžu vybrať preferovanú metódu."
+
+msgid "Show these methods"
+msgstr "Zobraziť tieto metódy"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Priamy crypto (adresa peňaženky)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Kreditná karta → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Kreditná karta → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Kreditná karta → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Používateľ najprv kúpi crypto)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Kreditná karta)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Zobraziť vašu adresu peňaženky, aby používatelia mohli posielať crypto "
+"priamo. Žiadne poplatky, ale vyžaduje, aby už používatelia mali crypto."
+
+msgid "Wallet Address"
+msgstr "Adresa peňaženky"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Vaša adresa peňaženky Quai, Ethereum, Bitcoin alebo iná."
+
+msgid "Network"
+msgstr "Sieť"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network (Odporúčané - zdarma)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Najlepšie pre začiatočníkov & najnižšie poplatky"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments vám umožňuje prijímať platby kreditnými kartami priamo do vašej "
+"kryptomenovej peňaženky. Peniaze sa dostanú priamo do vašej peňaženky – bez "
+"sprostredkovateľa."
+
+msgid "Fee:"
+msgstr "Poplatok:"
+
+msgid "per transaction"
+msgstr "za transakciu"
+
+msgid "Payout:"
+msgstr "Výplata:"
+
+msgid "Direct to your wallet"
+msgstr "Priame do vašej peňaženky"
+
+msgid "Setup:"
+msgstr "Nastavenie:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Vytvorte bezplatný účet → API kľúče → Skopírujte API kľúč"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API kľúč"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Vložte svoj API kľúč z nástrojového panelu NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Vynikajúca podpora, mierne vyšší poplatok"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate je dobre zavedený spracovateľ kryptomienových platieb s oficiálnym "
+"pluginom pre WordPress."
+
+msgid "1% per transaction"
+msgstr "1% za transakciu"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Vytvorte účet → API kľúče"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API kľúč"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Enterprise-grade, US-friendly"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay je dôveryhodný u veľkých spoločností. Funguje dobre pre podniky so "
+"sídlom v USA."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Podnikový účet → API kľúče"
+
+msgid "BitPay API Key"
+msgstr "BitPay API kľúč"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Používatelia najprv kupujú kryptomenu, potom ju odosielajú vám"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay umožňuje používateľom nakupovať kryptomenu kreditnou kartou priamo "
+"do ich peňaženky, potom vám ju odosielajú. Vyššie poplatky, ale veľmi "
+"jednoduché pre používateľov."
+
+msgid "~3.5% per transaction"
+msgstr "~3,5% za transakciu"
+
+msgid "User's wallet first"
+msgstr "Najprv peňaženka používateľa"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API kľúč"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Dôležité:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Platby Stripe Crypto (USDC) sú k dispozícii IBA pre americké podniky. Ak nie"
+" ste v USA, Stripe akceptuje len platby kreditnou kartou na váš Stripe účet "
+"(nie priamo na kryptomenu)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Ak ste v USA, môžete Stripe použiť na priamy príjem kryptomien. Ak ste mimo,"
+" zvážte NOWPayments alebo CoinGate pre priamy výplat kryptomien."
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe Publikovateľný kľúč"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe Tajný kľúč"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Klasické platby PayPal. Používatelia platia pomocou zostatku PayPal alebo "
+"kreditnou kartou. Proceeds prechádzajú na váš účet PayPal."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Platí štandardné transakčné poplatky PayPal."
+
+msgid "PayPal Client ID"
+msgstr "PayPal ID klienta"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Získajte svoje API poverenia PayPal z <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "PayPal Tajné heslo"
+
+msgid "Donation Tiers"
+msgstr "Úrovne darov"
+
+msgid "Add Tier"
+msgstr "Pridať úroveň"
+
+msgid "Remove"
+msgstr "Odstrániť"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Preddefinované výšky darov (USD). Nechajte prázdne, ak chcete iba vlastnú "
+"výšku."
+
+msgid "Membership"
+msgstr "Členstvo"
+
+msgid "Enable Membership"
+msgstr "Povoliť členstvo"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Povoliť opakujúce sa predplatné (vyžaduje Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Donate"
+msgstr "Darovať"
+
+msgid "Crypto"
+msgstr "Krypto"
+
+msgid "Credit Card"
+msgstr "Kreditná karta"
+
+msgid "Choose amount"
+msgstr "Vybrať sumu"
+
+msgid "Custom amount"
+msgstr "Vlastná suma"
+
+msgid "Enter amount (USD)"
+msgstr "Zadajte sumu (USD)"
+
+msgid "Donate Now"
+msgstr "Darovať teraz"
+
+msgid "Crypto Address"
+msgstr "Krypto adresa"
+
+msgid "Copy Address"
+msgstr "Kopírovať adresu"
+
+msgid "Copied!"
+msgstr "Skopírované!"
+
+msgid "Pay with Credit Card"
+msgstr "Zaplaťte kreditnou kartou"
+
+msgid "Pay with PayPal"
+msgstr "Zaplaťte PayPalom"
+
+msgid "Membership Plans"
+msgstr "Členské plány"
+
+msgid "Monthly"
+msgstr "Mesačne"
+
+msgid "Yearly"
+msgstr "Ročne"
+
+msgid "Subscribe"
+msgstr "Prihlásiť sa"
+
+msgid "Credit Card → Crypto"
+msgstr "Kreditná karta → Krypto"
+
+msgid "Buy Crypto"
+msgstr "Kúpiť krypto"
+
+msgid "Processing..."
+msgstr "Spracováva sa..."
+
+msgid "Payment successful!"
+msgstr "Platba úspešná!"
+
+msgid "Payment failed"
+msgstr "Platba zlyhala"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments vám umožňuje prijímať platby kreditnou kartou priamo do vašej "
+"kryptomenovej peňaženky."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate je dobre zavedený procesor kryptomenových platieb."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay umožňuje používateľom kúpiť krypto kreditnou kartou priamo do VÁŠI "
+"peňaženky, potom vám to pošlú."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Po kúpe krypto prosím pošlite to na adresa peňaženky uvedenú nižšie."
+
+msgid "Your crypto wallet address"
+msgstr "Adresa vašej kryptomenovej peňaženky"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Nech moja kamarátka si užije našu kávu"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Výkonný, bezplatný widget na darovanie a platby, ktorý umožňuje vašim "
+"návštevníkom vás podporovať kreditnou kartou alebo kryptomenou (Quai). "
+"Žiadne mesačné poplatky, žiadne predplatné od tretích strán – len vaša "
+"peňaženka a bezplatné služby."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Niektoré prehliadače blokujú skripty tretích strán z dôvodu súkromia. Tento "
+"proxy načítava skripty cez vlastný server, aby prekonal tieto bloky."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Môžete aktualizovať nasledujúce URL skriptov, ak sa pôvodné URL zmenia alebo"
+" ak chcete použiť iný CDN."
+
+msgid "Script"
+msgstr "Skript"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Akcia"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Refresh"
+msgstr "Obnoviť"
+
+msgid "Usage:"
+msgstr "Použitie:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js pre platby kreditnou kartou"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK pre platby PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas na generovanie snímky obrazovky"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF na generovanie PDF"
+
+msgid "External Script Proxy"
+msgstr "Externý proxy skriptu"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Kliknite na \\\"Test\\\", aby ste zistili, či je URL skriptu prístupná. "
+"Proxy bude skripty ukladať lokálne pre lepší výkon."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal e-mail (náhradný)"
+
+msgid "Quick Stats"
+msgstr "Rýchle štatistiky"
+
+msgid "Widget Status:"
+msgstr "Stav widgetu:"
+
+msgid "Active"
+msgstr "Aktívny"
+
+msgid "Inactive"
+msgstr "Neaktívny"
+
+msgid "Enabled Payment Methods:"
+msgstr "Povolené platobné metódy:"
+
+msgid "None"
+msgstr "Žiadne"
+
+msgid "Crypto Wallet:"
+msgstr "Krypto peňaženka:"
+
+msgid "Not set"
+msgstr "Nenastavené"
+
+msgid "pay_with_card"
+msgstr "Zaplatiť kartou"
+
+msgid "crypto_address_label"
+msgstr "Odošlite kryptomenu priamo na túto adresu:"
+
+msgid "crypto_note"
+msgstr "Fondy idú priamo do vašej peňaženky. Žiadne poplatky."
+
+msgid "your_crypto_address"
+msgstr "Vaša adresa peňaženky:"
+
+msgid "nowpayments_desc"
+msgstr "Zaplatiť kreditnou kartou – krypto ide priamo do vašej peňaženky."
+
+msgid "coingate_desc"
+msgstr "Zaplatiť kreditnou kartou – krypto do vašej peňaženky."
+
+msgid "bitpay_desc"
+msgstr "Krypto platby na úrovni podniku. Najlepšie pre americké firmy."
+
+msgid "moonpay_desc"
+msgstr ""
+"Kúpite krypto kreditnou kartou – potom ho pošlete na nižšie uvedenú adresu."
+
+msgid "moonpay_note"
+msgstr ""
+"Po nákupe krypto prosím pošlite ho na vyššie uvedenú adresu peňaženky."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Fondy idú priamo do vašej peňaženky. Žiadne poplatky."
+
+msgid "Pay with Card"
+msgstr "Zaplatiť kartou"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Zaplatiť kreditnou kartou – krypto ide priamo do vašej peňaženky."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Odošlite kryptomenu priamo na túto adresu:"

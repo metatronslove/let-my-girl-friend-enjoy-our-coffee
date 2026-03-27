@@ -1,0 +1,695 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Lao <lo_LA>\n"
+"Language: lo-LA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "ໜ່າປ່ອງຂໍ້ມູນແຫ່ງ Coffee"
+
+msgid "Coffee Widget"
+msgstr "ແຫ່ງ Coffee"
+
+msgid "Settings"
+msgstr "ການຕັ້ງຄ່າ"
+
+msgid "Dashboard"
+msgstr "ໜ່າປະມວນ"
+
+msgid "Payment Methods"
+msgstr "ວິທີຈ່າຍ"
+
+msgid "Help & Support"
+msgstr "ຊ່ວຍແລະສະເໜັບ"
+
+msgid "General"
+msgstr "ທໍານະການທົ່ວໄປ"
+
+msgid "Button"
+msgstr "ປຸ່ມ"
+
+msgid "Advanced"
+msgstr "ກະສະນຸ"
+
+msgid "Proxy Scripts"
+msgstr "ກະທົ່ວມໂຄມ"
+
+msgid "Widget Settings"
+msgstr "ການຕັ້ງຄ່າແຫ່ງ"
+
+msgid "Widget Status"
+msgstr "ສະຖານະຂອງແຫ່ງ"
+
+msgid "Widget active"
+msgstr "ແຫ່ງເປີດໃຊ້"
+
+msgid "Button Color"
+msgstr "ສີຂອງປຸ່ມ"
+
+msgid "Button Position"
+msgstr "ຕຳເສດຂອງປຸ່ມ"
+
+msgid "Left"
+msgstr "ຊ່າ"
+
+msgid "Right"
+msgstr "ໂຄ"
+
+msgid "Horizontal Margin (px)"
+msgstr "ຂອງຊະໜ່ວຍເນິຍ (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "ຂອງຄວາມສູງ (px)"
+
+msgid "Button Message"
+msgstr "ຂໍ້ມູນຂອງປຸ່ມ"
+
+msgid "Description"
+msgstr "ການອະທິບາຍ"
+
+msgid "Button Type"
+msgstr "ປະເພດຂອງປຸ່ມ"
+
+msgid "Emoji"
+msgstr "ເອເມີ"
+
+msgid "SVG Code"
+msgstr "ລະບຸ SVG"
+
+msgid "PNG Image URL"
+msgstr "URL ຮູບ PNG"
+
+msgid "Button Emoji"
+msgstr "ເອເມີຂອງປຸ່ມ"
+
+msgid "Custom CSS"
+msgstr "CSS ຕອບເຕັ່ນ"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript ຕອບເຕັ່ນ"
+
+msgid "Which payment service should you choose?"
+msgstr "ທ່ານຄວນເລືອກບໍລິການຈ່າຍເງິນໃດ?"
+
+msgid ""
+"We offer multiple services to accept credit card payments to your crypto "
+"wallet. Here's how they compare:"
+msgstr ""
+"ພວກເຮົາສະໜອງບໍລິການຫຼາຍເພື່ອຮັບຈ່າຍເງິນດໍາເນີນການຈ່າຍຄະເຕີເປັນຂອງທ່ານ "
+"ນີ່ແມ່ນປະກອບທີ່ຈິງໃນການສະເຫັນໃຈ"
+
+msgid "Service"
+msgstr "ບໍລິການ"
+
+msgid "Fee"
+msgstr "ຄ່າທັບ"
+
+msgid "Where does crypto go?"
+msgstr "Crypto ສິ່ງເປັນຫຍັງ?"
+
+msgid "WordPress Plugin"
+msgstr "ໂປເລີ້ມ WordPress"
+
+msgid "Best for"
+msgstr "ສຸດທ້າຍ"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 ທຸລະກິດ US?"
+
+msgid "Direct Crypto"
+msgstr "Crypto ແຕ່ງເທົ່າ"
+
+msgid "No fee"
+msgstr "ບໍ່ມີຄ່າທັບ"
+
+msgid "Your wallet directly"
+msgstr "ເວັບທ່ານເປັນສອນໄວ"
+
+msgid "Built-in"
+msgstr "ເຂົ້າກັນ"
+
+msgid "Crypto-savvy users"
+msgstr "ຜູ້ໃຊ້ທີ່ເຂົ້າໃນ Crypto"
+
+msgid "Anywhere"
+msgstr "ໃນທຸກສະຫະພາບ"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API ຖືກກວດ"
+
+msgid "Beginners, low fees"
+msgstr "ຜູ້ເປັນເທື່ອ, ຄ່າທັບຕ່ຳ"
+
+msgid "Global (incl. Turkey)"
+msgstr "ເລີຍໃນລວມ (ລັງຈະປະຕິບັດ Turkey)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "ໂປເລີ້ມປະຈຳຕົວ"
+
+msgid "Good support"
+msgstr "ການສະໜອງປອດໄພ"
+
+msgid "Global"
+msgstr "ເກີນໄປ"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "ທຸລະກິດ Enterprise, ບໍ່ຜູ້ຂ່າວ US"
+
+msgid "US-friendly"
+msgstr "ເປັນສະໜອງ US"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ ບ້ານຜູ້ໃຊ້ກ່ອນ"
+
+msgid "Widget ready"
+msgstr "Widget ແລະຕ່ຳໄວ"
+
+msgid "Users with own wallets"
+msgstr "ຜູ້ໃຊ້ທີ່ມີບ້ານຂອງເອງ"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "ບໍລິສັດແຕ່ US"
+
+msgid "❌ US ONLY"
+msgstr "❌ US ພິເສດ"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "ປະແຈ"
+
+msgid "Asia markets"
+msgstr "ຕະຫຼາດເໜືອ"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "ຄ່າທີ່ຖືກຕ້ອງ"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ ບັນຊີ PayPal"
+
+msgid "PayPal users"
+msgstr "ຜູ້ໃຊ້ PayPal"
+
+msgid "Tip:"
+msgstr "ຕົວແທນ:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"ຖ້າທ່ານຢູ່ນอก US, ພວກເຮົາແນະນຳ NOWPayments (ຄ່າເງິນສະເຫຼີມ, ສົ່ງໜ້າທ່ານໄປ). "
+"ຖ້າທ່ານຢູ່ພາຍໃນ US, Stripe Crypto ແມ່ນຕົວເລືອກອື່ນ. "
+"ທ່ານສາມາດເປີດຕັ້ງບໍລິການທີ່ຫຼາຍແລະເຮັດໃຫ້ເຂົ້າເສີມເລືອກ!"
+
+msgid "Enabled Payment Methods"
+msgstr "ວິທີຈ່າຍແປກທີ່ເປີດ"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"ເລືອກວິທີຈ່າຍທີ່ຈະສະເໝນໃນ widget ຂອງທ່ານ. ເຂົ້າເສີມແລະເລືອກເວລາຂອງທ່ານ."
+
+msgid "Show these methods"
+msgstr "ສະເໝນວິທີນີ້"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Direct Crypto (ທີ່ເປັນບັນທຸກ)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (ໜີ້ຄອດ → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (ໜີ້ຄອດ → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (ໜີ້ຄອດ → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (ຜູ້ໃຊ້ຂອງທ່ານຊື້ Crypto ກ່ອນ)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (ໜີ້ຄອດ)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"ສະເໝນທີ່ເປັນບັນທຸກເປັນເກັບໃສ່ຜູ້ໃຊ້ເພື່ອສົ່ງ crypto ເປັນຕອນແລ່ນ. "
+"ບໍ່ມີຄ່າເງິນ, ແຕ່ຕ້ອງການຜູ້ໃຊ້ມີ crypto ແລ້ວ."
+
+msgid "Wallet Address"
+msgstr "ທີ່ເປັນບັນທຸກ"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "ທີ່ເປັນບັນທຸກ Quai, Ethereum, Bitcoin ຫຼືທີ່ເປັນບັນທຸກອື່ນໆ."
+
+msgid "Network"
+msgstr "ໜ່າງ"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "ໜ່າງ Quai (ແນະນຳ - ຟຣີ)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "ເປັນຜູ້ເລີ່ມຕົ້ນທີ່ດີ & ຄ່າຈ່າຍທີ່ລົດ"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments "
+"ອະນຸຍົມໃຫ້ທ່ານຮັບການຈ່າຍເງິນຕ່າງໆໃນເບັກຄຣີບໂຕມັນຂອງທ່ານເວັ້ນຜ່ານເປັນບ່ອນເງິນ"
+" – ບໍ່ມີຜູ່ລວມ"
+
+msgid "Fee:"
+msgstr "ຄ່າຈ່າຍ:"
+
+msgid "per transaction"
+msgstr "ໂດຍທຸກຕໍ່"
+
+msgid "Payout:"
+msgstr "ຈ່າຍແກ່:"
+
+msgid "Direct to your wallet"
+msgstr "ແທນເບັກ"
+
+msgid "Setup:"
+msgstr "ຕັ້ງແຕ່ນ"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "ສ້າງບັນຊີຟຣີ → ລະຫັດ API → ສະຫລຸນໃສ່ລະຫັດ API"
+
+msgid "NOWPayments API Key"
+msgstr "ລະຫັດ API NOWPayments"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "ຂຽນລະຫັດ API ຂອງທ່ານຈາກໜ່ວຍຂໍ້ມູນ NOWPayments"
+
+msgid "Great support, slightly higher fee"
+msgstr "ການສະໜອງທີ່ດີ, ຄ່າຈ່າຍເກີນເຕັ້ນ"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr "CoinGate ແມ່ນຜະລິດການເງິນຄຣີບໂຕມັນທີ່ມີຄວາມສະເພາະກັບເຜົາ WordPress"
+
+msgid "1% per transaction"
+msgstr "1% ໂດຍທຸກຕໍ່"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "ສ້າງບັນຊີ → ລະຫັດ API"
+
+msgid "CoinGate API Key"
+msgstr "ລະຫັດ API CoinGate"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "ລະດັບຕົນລາງ, ມີພາບທຸລະກິດ US"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr "BitPay ຕອບເທັນໃນອຸດສາຫະນະມາເຈັນ, ປະເທດ US ຂຽນເວັ່ນເປັນຂອງທ່ານ"
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "ບັນຊີທຸລະກິດ → ລະຫັດ API"
+
+msgid "BitPay API Key"
+msgstr "ລະຫັດ API BitPay"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "ຜູ້ໃຊ້ຊື້ crypto ແລ້ວສົ່ງໃຫ່ກັນ"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay ສ່ວນງານຜູ້ໃຊ້ໃຫ້ຊື້ crypto ເພື່ອເປັນເບັກຂອງພວກເຂົ້າ, "
+"ແລະພວກເຂົ້າສົ່ງໃຫ່ກັນ. ຄ່າຈ່າຍເກີນເຕັ້ນ ແຕ່ງ່າຍໃນການໃຊ້"
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% ໂດຍທຸກຕໍ່"
+
+msgid "User's wallet first"
+msgstr "ເບັກຂອງຜູ້ໃຊ້ແກ່"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "ລະຫັດ API MoonPay"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "ສຳຄັນ:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"ຈ່າຍເງິນ Crypto ຂອງ Stripe (USDC) "
+"ເປັນເປັນສ່ວນຕ່າງການຕິດຕໍ່ກັບບໍລິສັດທີ່ຢູ່ໃນສະຫະນິບອາເມລີ. "
+"ຖ້າທ່ານຢູ່ອນອະນາຄົ້ນສະຫະນິບອາເມລີ, Stripe "
+"ຈະເປັນໃນການຈ່າຍເງິນໂດຍບັດຄັດເຂົ້າເຖິງບັນຊີ Stripe ຂອງທ່ານ (ບໍ່ເປັນ Crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"ຖ້າທ່ານຢູ່ສະຫະນິບອາເມລີ, ທ່ານສາມາດໃຊ້ Stripe เพื่อรับ Crypto ตรง ๆ. "
+"ຖ້າຢູ່ອນອະນາຄົ້ນ, ເລືອກ NOWPayments ຫຼື CoinGate ເພື່ອສົ່ງ Crypto ตรง ๆ."
+
+msgid "Stripe Publishable Key"
+msgstr "ລະຫັດຈັດພິສ່ມໃຫ້ Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "ລະຫັດໝັ້ນທ່ານ Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"ຈ່າຍເງິນ PayPal ເທົ່າເທົ່າ. ຜູ້ໃຊ້ຈ່າຍໂດຍມັນ PayPal ຫຼືບັດຄັດ. "
+"ຈ່າຍເງິນຈະເຂົ້າໃນບັນຊີ PayPal ຂອງທ່ານ."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "ຄ່າທຶນການປ່ອງຂອງ PayPal ແມ່ນ Standard."
+
+msgid "PayPal Client ID"
+msgstr "ລະຫັດລູກຄ້າ PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"ດຶອນຂໍ້ມູນ API PayPal ຂອງທ່ານຈາກ <a href=\"https://developer.paypal.com/\" "
+"target=\"_blank\">PayPal Developer Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "ລະຫັດໝັ້ນ PayPal"
+
+msgid "Donation Tiers"
+msgstr "ຈັດກະເລີນການລາຍງຽນ"
+
+msgid "Add Tier"
+msgstr "ເພີ່ມຂໍ້ມູນ"
+
+msgid "Remove"
+msgstr "ລຶບ"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"ຈ່າຍເງິນທີ່ບອກເວົ້າ (USD). ຢ່າງງ່າຍທີ່ດັ່ງກ່ອນກະທັບໃນການລະອົງຄ່າຕົວເລີ່ມ."
+
+msgid "Membership"
+msgstr "ສະເພາະ"
+
+msgid "Enable Membership"
+msgstr "ເປີດສະເພາະ"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "ອະນຸຍົມການສ້າງຕອນຕອນຕອນ (ຕ້ອງການ Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "ການສະໜັບສະໜູ່"
+
+msgid "Donate"
+msgstr "ຍື່ນ"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "ບັດຄັດ"
+
+msgid "Choose amount"
+msgstr "ເລືອກຈ່າຍເງິນ"
+
+msgid "Custom amount"
+msgstr "ຈ່າຍເງິນທີ່ຕັ້ງ"
+
+msgid "Enter amount (USD)"
+msgstr "ໃສ່ຈ່າຍເງິນ (USD)"
+
+msgid "Donate Now"
+msgstr "ຍື່ນລັບທີ່ມັ່ນ"
+
+msgid "Crypto Address"
+msgstr "ທີ່ຢູ່ Crypto"
+
+msgid "Copy Address"
+msgstr "ສຳເລັດທີ່ຢູ່"
+
+msgid "Copied!"
+msgstr "ສຳເລັດ!"
+
+msgid "Pay with Credit Card"
+msgstr "ຈ່າຍເງິນດ້ວຍບັດຄັດ"
+
+msgid "Pay with PayPal"
+msgstr "ຈ່າຍເງິນໂດຍ PayPal"
+
+msgid "Membership Plans"
+msgstr "ແຜນສະມາຊິກ"
+
+msgid "Monthly"
+msgstr "ເດືອນ"
+
+msgid "Yearly"
+msgstr "ປີ"
+
+msgid "Subscribe"
+msgstr "ສະໝັກ"
+
+msgid "Credit Card → Crypto"
+msgstr "ບັດເງິນ → ຄຣິບໂຕ"
+
+msgid "Buy Crypto"
+msgstr "ຊື້ຄຣິບໂຕ"
+
+msgid "Processing..."
+msgstr "ກຳນວນ..."
+
+msgid "Payment successful!"
+msgstr "ຈ່າຍເງິນສຳເລັດ!"
+
+msgid "Payment failed"
+msgstr "ການຈ່າຍເງິນລົ້ມເຫດ"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments "
+"ອະນຸຍາດໃຫ້ເຈົ້າຮັບຈ່າຍເງິນບັດເງິນແລະເສີມໃນບັນຊີຄຣິບໂຕຂອງເຈົ້າແທນເທ້ນ."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate ແມ່ນຜູ້ປະກອບການຈ່າຍເງິນຄຣິບໂຕທີ່ທີ່ເປັນຂໍ້ມູນສະໜ່ອງ."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay ອະນຸຍາດໃຫ້ຜູ້ໃຊ້ຊື້ຄຣິບໂຕເພື່ອບັດເງິນໃສ່ບັນຊີຂອງພວກເຂົາ, "
+"ແລ່ນທີ່ສົ່ງເຖິງເຈົ້າ."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "ຫຼັງຈາກຊື້ຄຣິບໂຕ, ກະລຸນາສົ່ງເຖິງທີ່ຢູ່ບັນຊີຂອງທ່ານທີ່ຕໍ່ເຖິງນີ້."
+
+msgid "Your crypto wallet address"
+msgstr "ທີ່ຢູ່ບັນຊີຄຣິບໂຕຂອງທ່ານ"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "ໃຫ້ນ່າເຄູ່ຂອງຂ້ອຍເຂົ້າໃນການນ່າເກັບແບບຜູ້ໃຊ້ເຮົາ"
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"ບາກເວັ່ນຈົ່ງກວດທີ່ຜ່ານຄວາມປອດໄພ. Proxy "
+"ຂອງນີ້ໂຫຼດຂໍ້ມູນໂດຍເວັບເຊີ້ໃນອຸດສາຫະນະໃນທົ່ວໄປເພາະບອກຂໍ້ສັນສະບອນໂດຍການເປັນທັນຈິງ."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"ທ່ານສາມາດແກ້ໄຂ URL ຂອງເຄື່ອງມືເພາະທີ່ເປັນປະເສີດ ຫຼືຕ້ອງການໃຊ້ CDN ຕ່າງໆ."
+
+msgid "Script"
+msgstr "ເຄື່ອງມື"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Usage:"
+msgstr "ການນຳໃຊ້:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js ສໍາລັບການຈ່າຍເງິນບັດເງິນ"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK ສໍາລັບການຈ່າຍເງິນ PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas ເພີ່ມສະແດງເອົາສີ່ນ"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF ສໍາລັບການຜະລິດ PDF"
+
+msgid "External Script Proxy"
+msgstr "External Script Proxy"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"ກົດ \"ທຽງ\" ເພື່ອກວດເບິ່ງວ່າ URL ຂອງໂຄສະເລເນດເປັນແນ່ໃຈ. "
+"ບໍລິການໂປກຊິເຈັດເກັບໂຄສະເລເນດໃນເທັກໂນໂລຍີພາຍໃນກໍ່ເຮັດອີກດີກວ່າ."
+
+msgid "Dogecoin"
+msgstr "ດອເກີນ"
+
+msgid "Litecoin"
+msgstr "ລິທໂຄເກນ"
+
+msgid "PayPal Email (Fallback)"
+msgstr "ອີເມວ PayPal (ຕອນໃສ)"
+
+msgid "Quick Stats"
+msgstr "ຂໍ້ມູນໄວ"
+
+msgid "Widget Status:"
+msgstr "ສະຖານະ Widget:"
+
+msgid "Active"
+msgstr "ເຊັນ"
+
+msgid "Inactive"
+msgstr "ບໍ່ເຊັນ"
+
+msgid "Enabled Payment Methods:"
+msgstr "ວິທີການຈ່າຍທີ່ເປັນດີ:"
+
+msgid "None"
+msgstr "ບໍ່ມີ"
+
+msgid "Crypto Wallet:"
+msgstr "ໂຮງໜ່ອນກະລະທີ:"
+
+msgid "Not set"
+msgstr "ບໍ່ຕັ້ງ"
+
+msgid "pay_with_card"
+msgstr "ຈ່າຍໂດຍໃບໃກ້"
+
+msgid "crypto_address_label"
+msgstr "ສົ່ງ cryptocurrency ແລະກັບປະເພດຢູ່ນີ້:"
+
+msgid "crypto_note"
+msgstr "ງວ່ນໄປທີ່ໂຮງໜ່ອນຂອງທ່ານ. ບໍ່ມີຄ່າ."
+
+msgid "your_crypto_address"
+msgstr "ທີ່ຢູ່ໂຮງໜ່ອນຂອງທ່ານ:"
+
+msgid "nowpayments_desc"
+msgstr "ຈ່າຍໂດຍໃບໃກ້ – cryptocurrency ຈະຂຶ້ນເຖິງໂຮງໜ່ອນຂອງທ່ານ"
+
+msgid "coingate_desc"
+msgstr "ຈ່າຍໂດຍໃບໃກ້ – cryptocurrency ຈະຂຶ້ນເຖິງໂຮງໜ່ອນຂອງທ່ານ"
+
+msgid "bitpay_desc"
+msgstr ""
+"ການຈ່າຍ cryptocurrency ທີ່ມີຄຸນນະໜ່ວຍໃຈສະເພາະການເຮັດວຽກ. "
+"ດີສໍາລັບບໍລິການອາເມລິກາ"
+
+msgid "moonpay_desc"
+msgstr "ຂາຍ cryptocurrency ດ້ວຍໃບໃກ້ – ຫລັງສົ່ງໃນທີ່ຢູ່ລ່າງນີ້"
+
+msgid "moonpay_note"
+msgstr "ຫຼັງຈາກການຂາຍ cryptocurrency, ກະລຸນາສົ່ງໃນທີ່ຢູ່ໂຮງໜ່ອນທີ່ເຂົ້າເປັນ"
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "ງວ່ນໄປທີ່ໂຮງໜ່ອນຂອງທ່ານ. ບໍ່ມີຄ່າ."
+
+msgid "Pay with Card"
+msgstr "ຈ່າຍໂດຍໃບໃກ້"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "ຈ່າຍໂດຍໃບໃກ້ – cryptocurrency ຈະຂຶ້ນເຖິງໂຮງໜ່ອນຂອງທ່ານ"
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "ສົ່ງ cryptocurrency ແລະກັບປະເພດຢູ່ນີ້:"

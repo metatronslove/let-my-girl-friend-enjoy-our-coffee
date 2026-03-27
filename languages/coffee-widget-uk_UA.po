@@ -1,0 +1,718 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Ukrainian <uk_UA>\n"
+"Language: uk-UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Панель віджета Coffee Widget"
+
+msgid "Coffee Widget"
+msgstr "Віджет Coffee"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "Dashboard"
+msgstr "Панель"
+
+msgid "Payment Methods"
+msgstr "Способи оплати"
+
+msgid "Help & Support"
+msgstr "Допомога та підтримка"
+
+msgid "General"
+msgstr "Загальне"
+
+msgid "Button"
+msgstr "Кнопка"
+
+msgid "Advanced"
+msgstr "Розширений"
+
+msgid "Proxy Scripts"
+msgstr "Скрипти проксі"
+
+msgid "Widget Settings"
+msgstr "Налаштування віджета"
+
+msgid "Widget Status"
+msgstr "Статус віджета"
+
+msgid "Widget active"
+msgstr "Віджет активний"
+
+msgid "Button Color"
+msgstr "Колір кнопки"
+
+msgid "Button Position"
+msgstr "Розташування кнопки"
+
+msgid "Left"
+msgstr "Ліво"
+
+msgid "Right"
+msgstr "Право"
+
+msgid "Horizontal Margin (px)"
+msgstr "Горизонтальний відступ (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Вертикальний відступ (px)"
+
+msgid "Button Message"
+msgstr "Повідомлення кнопки"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "Button Type"
+msgstr "Тип кнопки"
+
+msgid "Emoji"
+msgstr "Емодзі"
+
+msgid "SVG Code"
+msgstr "Код SVG"
+
+msgid "PNG Image URL"
+msgstr "URL PNG-зображення"
+
+msgid "Button Emoji"
+msgstr "Емодзі кнопки"
+
+msgid "Custom CSS"
+msgstr "Користувацький CSS"
+
+msgid "Custom JavaScript"
+msgstr "Користувацький JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "Яку службу оплати слід обрати?"
+
+msgid "Service"
+msgstr "Послуга"
+
+msgid "Fee"
+msgstr "Комісія"
+
+msgid "Where does crypto go?"
+msgstr "Куди йде крипта?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress плагін"
+
+msgid "Best for"
+msgstr "Найкраще для"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Бізнес у США?"
+
+msgid "Direct Crypto"
+msgstr "Пряма крипта"
+
+msgid "No fee"
+msgstr "Без комісії"
+
+msgid "Your wallet directly"
+msgstr "Ваш гаманець безпосередньо"
+
+msgid "Built-in"
+msgstr "Вбудований"
+
+msgid "Crypto-savvy users"
+msgstr "Користувачі, що добре розбираються в крипті"
+
+msgid "Anywhere"
+msgstr "Будь-де"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "Готовий до API"
+
+msgid "Beginners, low fees"
+msgstr "Початківці, низькі комісії"
+
+msgid "Global (incl. Turkey)"
+msgstr "Глобально (включаючи Туреччину)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Офіційний плагін"
+
+msgid "Good support"
+msgstr "Добра підтримка"
+
+msgid "Global"
+msgstr "Глобально"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Підприємства, компанії з США"
+
+msgid "US-friendly"
+msgstr "Підходить для США"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Спочатку гаманця користувача"
+
+msgid "Widget ready"
+msgstr "Готовий віджет"
+
+msgid "Users with own wallets"
+msgstr "Користувачі зі своїми гаманцями"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Тільки компанії з США"
+
+msgid "❌ US ONLY"
+msgstr "❌ Тільки США"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Змінна"
+
+msgid "Asia markets"
+msgstr "Азійські ринки"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Стандартні комісії"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Баланс PayPal"
+
+msgid "PayPal users"
+msgstr "Користувачі PayPal"
+
+msgid "Tip:"
+msgstr "Порада:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Якщо ви перебуваєте поза США, ми рекомендуємо NOWPayments (найнижчі комісії,"
+" прямий переказ у ваш гаманець). Якщо ви в США, Stripe Crypto також є "
+"варіантом. Ви можете включити кілька сервісів і дозволити вашим відвідувачам"
+" вибрати!"
+
+msgid "Enabled Payment Methods"
+msgstr "Увімкнені способи платежу"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Виберіть, які способи платежу відображатимуться у вашому віджеті. Ваші "
+"відвідувачі можуть вибрати бажаний метод."
+
+msgid "Show these methods"
+msgstr "Показати ці способи"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Прямий Crypto (адреса гаманця)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Кредитна картка → Криптовалюта)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Кредитна картка → Криптовалюта)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Кредитна картка → Криптовалюта)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Користувач купує крипту спочатку)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Кредитна картка)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Відображайте адресу вашого гаманця, щоб користувачі могли надсилати "
+"криптовалюту напряму. Комісії нульові, але вимагає, щоб користувачі вже мали"
+" криптовалюту."
+
+msgid "Wallet Address"
+msgstr "Адреса гаманця"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Ваша адреса гаманця Quai, Ethereum, Bitcoin або інша."
+
+msgid "Network"
+msgstr "Мережа"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network (Рекомендовано - безкоштовно)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Найкращий для початківців і найнижчі комісії"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments дозволяє приймати платежі кредитними картками безпосередньо у "
+"ваш криптовалютний гаманець. Фонди йдуть безпосередньо у ваш гаманець – без "
+"посередників."
+
+msgid "Fee:"
+msgstr "Комісія:"
+
+msgid "per transaction"
+msgstr "за транзакцію"
+
+msgid "Payout:"
+msgstr "Виплата:"
+
+msgid "Direct to your wallet"
+msgstr "Прямо у ваш гаманець"
+
+msgid "Setup:"
+msgstr "Налаштування:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Створити безкоштовний акаунт → API Keys → Копіювати API Key"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Key"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Вставте свій API ключ з панелі NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Чудова підтримка, трохи вищі комісії"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate – відомий криптовалютний платіжний процесор з офіційним плагіном "
+"WordPress."
+
+msgid "1% per transaction"
+msgstr "1% за транзакцію"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Створити акаунт → API Keys"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Key"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Рівень Enterprise, зручний для США"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr "BitPay довіряють великі компанії. Працює добре для бізнесу в США."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Business account → API Keys"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Key"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Користувачі спочатку купують криптовалюту, а потім надсилають вам"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay дозволяє користувачам купувати криптовалюту кредитною карткою "
+"безпосередньо у їхній гаманець, а потім надсилати її вам. Вищі комісії, але "
+"дуже простий для користувачів."
+
+msgid "~3.5% per transaction"
+msgstr "~3,5% за транзакцію"
+
+msgid "User's wallet first"
+msgstr "Гаманець користувача спочатку"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Key"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Важливо:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Платежі криптовалютними платежами Stripe (USDC) доступні ТОЛЬКИ для бізнесу,"
+" розташованого в США. Якщо ви перебуваєте за межами США, Stripe прийматиме "
+"лише платежі кредитними картками на ваш баланс Stripe (не безпосередньо на "
+"крипто)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Якщо ви в США, ви можете використовувати Stripe для прямого отримання "
+"криптовалюти. Якщо поза США, розгляньте NOWPayments або CoinGate для прямих "
+"виплат у криптовалюті."
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe публічний ключ"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe секретний ключ"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Класичні платежі PayPal. Користувачі сплачують з балансу PayPal або "
+"кредитною карткою. Фіси переносяться на ваш акаунт PayPal."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Дійсні стандартні комісії за транзакції PayPal."
+
+msgid "PayPal Client ID"
+msgstr "PayPal ідентифікатор клієнта"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Отримайте ваші облікові дані PayPal API з <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "PayPal секрет"
+
+msgid "Donation Tiers"
+msgstr "Рівні пожертвувань"
+
+msgid "Add Tier"
+msgstr "Додати рівень"
+
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Визначені суми пожертвувань (USD). Залиште порожнім, якщо хочете ввести "
+"власну суму."
+
+msgid "Membership"
+msgstr "Членство"
+
+msgid "Enable Membership"
+msgstr "Увімкнути членство"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Дозволити повторювані підписки (потрібні Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Підтримка"
+
+msgid "Donate"
+msgstr "Пожертвувати"
+
+msgid "Crypto"
+msgstr "Криптовалюта"
+
+msgid "Credit Card"
+msgstr "Кредитна картка"
+
+msgid "Choose amount"
+msgstr "Виберіть суму"
+
+msgid "Custom amount"
+msgstr "Власна сума"
+
+msgid "Enter amount (USD)"
+msgstr "Введіть суму (USD)"
+
+msgid "Donate Now"
+msgstr "Пожертвувати зараз"
+
+msgid "Crypto Address"
+msgstr "Криптоадреса"
+
+msgid "Copy Address"
+msgstr "Копіювати адресу"
+
+msgid "Copied!"
+msgstr "Скопійовано!"
+
+msgid "Pay with Credit Card"
+msgstr "Оплатити кредитною карткою"
+
+msgid "Pay with PayPal"
+msgstr "Оплатити PayPal"
+
+msgid "Membership Plans"
+msgstr "Плани членства"
+
+msgid "Monthly"
+msgstr "Щомісячно"
+
+msgid "Yearly"
+msgstr "Щорічно"
+
+msgid "Subscribe"
+msgstr "Підписатися"
+
+msgid "Credit Card → Crypto"
+msgstr "Кредитна картка → Крипта"
+
+msgid "Buy Crypto"
+msgstr "Купити крипту"
+
+msgid "Processing..."
+msgstr "Обробка..."
+
+msgid "Payment successful!"
+msgstr "Оплата успішна!"
+
+msgid "Payment failed"
+msgstr "Оплата не вдалася"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments дозволяє приймати платежі кредитною карткою безпосередньо на ваш"
+" криптовалютний гаманець."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr ""
+"CoinGate — це добре зарекомендувався криптовалютний процесор платежів."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay дозволяє користувачам купувати криптовалюту кредитною карткою "
+"безпосередньо в їх гаманець, а потім надсилати її вам."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+"Після покупки криптовалюти, будь ласка, надішліть її на адресу гаманця "
+"нижче."
+
+msgid "Your crypto wallet address"
+msgstr "Адреса вашого криптогаманця"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Нехай моя дівчина насолодиться нашою кавою"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Потужний, безкоштовний віджет для донатів та платежів, який дозволяє вашим "
+"відвідувачам підтримувати вас за допомогою кредитної картки або криптовалюти"
+" (Quai). Без щомісячних платежів, без підписок третіх сторін – лише ваш "
+"гаманець і безкоштовні послуги."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Деякі браузери блокують сторонні скрипти для захисту приватності. Цей проксі"
+" завантажує скрипти через ваш власний сервер, щоб обійти ці блоки."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Ви можете оновити URL-адреси скриптів нижче, якщо оригінальні URL-адреси "
+"зміняться або якщо ви хочете використовувати інший CDN."
+
+msgid "Script"
+msgstr "Скрипт"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "TTL кешу"
+
+msgid "Action"
+msgstr "Дія"
+
+msgid "Test"
+msgstr "Тест"
+
+msgid "Refresh"
+msgstr "Оновити"
+
+msgid "Usage:"
+msgstr "Використання:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js для платежів кредитною карткою"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK для платежів PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas для створення скріншотів"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF для створення PDF"
+
+msgid "External Script Proxy"
+msgstr "Проксі зовнішніх скриптів"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Натисніть \"Test\", щоб перевірити, чи доступна URL-адреса сценарію. Проксі "
+"буде кешувати скрипти локально для кращої продуктивності."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal Email (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Швидка статистика"
+
+msgid "Widget Status:"
+msgstr "Статус віджету:"
+
+msgid "Active"
+msgstr "Активний"
+
+msgid "Inactive"
+msgstr "Неактивний"
+
+msgid "Enabled Payment Methods:"
+msgstr "Увімкнені способи платежу:"
+
+msgid "None"
+msgstr "Немає"
+
+msgid "Crypto Wallet:"
+msgstr "Криптовалютний гаманець:"
+
+msgid "Not set"
+msgstr "Не встановлено"
+
+msgid "pay_with_card"
+msgstr "Оплатити карткою"
+
+msgid "crypto_address_label"
+msgstr "Надішліть криптовалюту безпосередньо на цю адресу:"
+
+msgid "crypto_note"
+msgstr "Фонди йдуть безпосередньо до вашого гаманця. Без комісій."
+
+msgid "your_crypto_address"
+msgstr "Адреса вашого гаманця:"
+
+msgid "nowpayments_desc"
+msgstr ""
+"Оплатити кредитною карткою – криптовалюта йде безпосередньо до вашого "
+"гаманця."
+
+msgid "coingate_desc"
+msgstr "Оплатити кредитною карткою – криптовалюта в ваш гаманець."
+
+msgid "bitpay_desc"
+msgstr ""
+"Криптовалютні платежі корпоративного рівня. Найкраще для американських "
+"компаній."
+
+msgid "moonpay_desc"
+msgstr ""
+"Купіть криптовалюту кредитною карткою – потім перешліть її на адресу нижче."
+
+msgid "moonpay_note"
+msgstr ""
+"Після покупки криптовалюти, будь ласка, перешліть її на вказану вище адресу "
+"гаманця."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Фонди йдуть безпосередньо до вашого гаманця. Без комісій."
+
+msgid "Pay with Card"
+msgstr "Оплатити карткою"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"Оплатити кредитною карткою – криптовалюта йде безпосередньо до вашого "
+"гаманця."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Надішліть криптовалюту безпосередньо на цю адресу:"

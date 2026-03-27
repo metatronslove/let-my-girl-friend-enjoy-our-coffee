@@ -1,0 +1,707 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Esperanto <eo_UY>\n"
+"Language: eo-UY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Kafea Widget Panelo"
+
+msgid "Coffee Widget"
+msgstr "Kafea Widget"
+
+msgid "Settings"
+msgstr "Agordoj"
+
+msgid "Dashboard"
+msgstr "Kafea Panelo"
+
+msgid "Payment Methods"
+msgstr "Pagaj Metodoj"
+
+msgid "Help & Support"
+msgstr "Helpo & Subteno"
+
+msgid "General"
+msgstr "Ĝenerala"
+
+msgid "Button"
+msgstr "Butono"
+
+msgid "Advanced"
+msgstr "Altnivela"
+
+msgid "Proxy Scripts"
+msgstr "Proxy skriptoj"
+
+msgid "Widget Settings"
+msgstr "Widget Agordoj"
+
+msgid "Widget Status"
+msgstr "Widget Stato"
+
+msgid "Widget active"
+msgstr "Widget Aktiva"
+
+msgid "Button Color"
+msgstr "Butono Koloro"
+
+msgid "Button Position"
+msgstr "Butono Pozicio"
+
+msgid "Left"
+msgstr "Maldekstra"
+
+msgid "Right"
+msgstr "Dekstra"
+
+msgid "Horizontal Margin (px)"
+msgstr "Horizontala Marĝeno (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Vertikala Marĝeno (px)"
+
+msgid "Button Message"
+msgstr "Butono Mesaĝo"
+
+msgid "Description"
+msgstr "Priskribo"
+
+msgid "Button Type"
+msgstr "Butono Tipo"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "SVG Kodo"
+
+msgid "PNG Image URL"
+msgstr "PNG Bilda URL"
+
+msgid "Button Emoji"
+msgstr "Butono Emoji"
+
+msgid "Custom CSS"
+msgstr "Propra CSS"
+
+msgid "Custom JavaScript"
+msgstr "Propra JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "Kiu pagservico vi devus elekti?"
+
+msgid ""
+"We offer multiple services to accept credit card payments to your crypto "
+"wallet. Here's how they compare:"
+msgstr ""
+"Ni ofertas plurajn servojn por akcepti kreditkartajn pagojn al via "
+"kriptoportmonujo. Jen kiel ili komparas:"
+
+msgid "Service"
+msgstr "Servo"
+
+msgid "Fee"
+msgstr "Kosto"
+
+msgid "Where does crypto go?"
+msgstr "Kie iras kripto?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress-kromaĵo"
+
+msgid "Best for"
+msgstr "Plej bona por"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Usona negocio?"
+
+msgid "Direct Crypto"
+msgstr "Rekta Kripto"
+
+msgid "No fee"
+msgstr "Neniu kosto"
+
+msgid "Your wallet directly"
+msgstr "Via monujo rekte"
+
+msgid "Built-in"
+msgstr "Enkonstruita"
+
+msgid "Crypto-savvy users"
+msgstr "Uzantoj kun kripto-scio"
+
+msgid "Anywhere"
+msgstr "Ĉie"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API preta"
+
+msgid "Beginners, low fees"
+msgstr "Komencantoj, malaltaj kostoj"
+
+msgid "Global (incl. Turkey)"
+msgstr "Monda (inkl. Turkio)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Oficia kromaĵo"
+
+msgid "Good support"
+msgstr "Bonan subtenon"
+
+msgid "Global"
+msgstr "Monda"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Enterprizo, Usonaj kompanioj"
+
+msgid "US-friendly"
+msgstr "Usona-amika"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Uzanta monujo unue"
+
+msgid "Widget ready"
+msgstr "Videto-preta"
+
+msgid "Users with own wallets"
+msgstr "Uzantoj kun propraj monuoj"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Nur Usonaj entreprenoj"
+
+msgid "❌ US ONLY"
+msgstr "❌ Usono nur"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Variabla"
+
+msgid "Asia markets"
+msgstr "Azia merkatoj"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Normaj kostoj"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal-saldo"
+
+msgid "PayPal users"
+msgstr "PayPal-uzantoj"
+
+msgid "Tip:"
+msgstr "Konsejo:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Se vi estas ekster Usono, ni rekomendas NOWPayments (malaltaj kostoj, rekte "
+"al via monujo). Se vi estas en Usono, Stripe Crypto ankaŭ estas opcio. Vi "
+"povas ebligi multajn servojn kaj permesi viaj vizitantoj elekti!"
+
+msgid "Enabled Payment Methods"
+msgstr "Ebligitaj pagaj metodoj"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Elektu kiuj pagaj opcioj aperos en via fenestraĵo. Viaj vizitantoj povas "
+"elekti sian preferitan metodon."
+
+msgid "Show these methods"
+msgstr "Montri tiujn metodojn"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Rekta Kripto (Monuj-adreso)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Kredito karto → Kripto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Kredito karto → Kripto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Kredito karto → Kripto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Uzanto aĉetas kripton unue)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Kredito karto)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Montri vian monuj-adreson, tiel ke uzantoj povas sendi kripton rekte. Nulaj "
+"kostoj, sed postulas ke uzantoj jam posedu kripton."
+
+msgid "Wallet Address"
+msgstr "Monuj-adreso"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Via Quai, Ethereum, Bitcoin, aŭ alia monuj-adreso."
+
+msgid "Network"
+msgstr "Retejo"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai-retejo (Rekomendita - senpaga)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Plej bona por komencantoj & plej malaltaj taksoj"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments permesas vin akcepti kreditan karton pagojn rekte al via kripto "
+"portmonujo. Aloj iras rekte al via portmonujo – neniu intermedia."
+
+msgid "Fee:"
+msgstr "Taks:"
+
+msgid "per transaction"
+msgstr "per transakcio"
+
+msgid "Payout:"
+msgstr "Revolucio:"
+
+msgid "Direct to your wallet"
+msgstr "Rekte al via portmonujo"
+
+msgid "Setup:"
+msgstr "Agordado:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Krei senpagan konton → API Ŝlosiloj → Kopii API Ŝlosilon"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Ŝlosilo"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Algluu vian API-ŝlosilon de NOWPayments panelo."
+
+msgid "Great support, slightly higher fee"
+msgstr "Bonega subteno, iom pli alta takso"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate estas bone establita kripto-pagoprocesoro kun ofica WordPress-"
+"kromaĵo."
+
+msgid "1% per transaction"
+msgstr "1% per transakcio"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Krei konton → API Ŝlosiloj"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Ŝlosilo"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Kompania grado, Usono-amika"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay estas fida de grandaj kompanioj. Bone funkcias por Usona bazitaj "
+"kompanioj."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Komerca konto → API Ŝlosiloj"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Ŝlosilo"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Uzantoj aĉetas kripton unue, poste sendas al vi"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay permesas uzantoj aĉeti kripton per kredita karto rekte al ILIA "
+"portmonujo, poste ili sendas ĝin al vi. Pli altaj taksoj, sed tre simpla por"
+" uzantoj."
+
+msgid "~3.5% per transaction"
+msgstr "~3,5% per transakcio"
+
+msgid "User's wallet first"
+msgstr "Uzanto-portmonujo unue"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Ŝlosilo"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Grava:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto paymentoj (USDC) disponeblas nur por kompanioj bazitaj en "
+"Usono. Se vi estas ekster Usono, Stripe nur akceptos pagojn per kredkarto al"
+" via Stripe-saldo (ne rekte al kripto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Se vi estas en Usono, vi povas uzi Stripe por rekte ricevi kripton. Se "
+"ekster, konsideru NOWPayments aŭ CoinGate por rektaj kripto pagoj."
+
+msgid "Stripe Publishable Key"
+msgstr "Publikebla Ŝlosilo de Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "Sekreta Ŝlosilo de Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Klasaj PayPal pagoj. Uzantoj pagas per PayPal-saldo aŭ kredkarto. Fundoj "
+"iras al via PayPal-konto."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Aplikiĝas standardaj PayPal-transakciaj taksoj."
+
+msgid "PayPal Client ID"
+msgstr "PayPal Klienta ID"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Ricevu viajn PayPal API-erojn de <a href=\"https://developer.paypal.com/\" "
+"target=\"_blank\">PayPal Developer Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "PayPal Sekreto"
+
+msgid "Donation Tiers"
+msgstr "Donacaj Niveloj"
+
+msgid "Add Tier"
+msgstr "Aldoni Nivelon"
+
+msgid "Remove"
+msgstr "Forigi"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Antaŭdifinitaj donacaj sumoj (USD). Lasu malplena por nur propra sumo."
+
+msgid "Membership"
+msgstr "Membreco"
+
+msgid "Enable Membership"
+msgstr "Ebligu Membrecon"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Permesu rekurrentajn abonojn (postulas Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Subteno"
+
+msgid "Donate"
+msgstr "Donaci"
+
+msgid "Crypto"
+msgstr "Kripto"
+
+msgid "Credit Card"
+msgstr "Kredkarto"
+
+msgid "Choose amount"
+msgstr "Elektu sumon"
+
+msgid "Custom amount"
+msgstr "Propra sumo"
+
+msgid "Enter amount (USD)"
+msgstr "Enigu sumon (USD)"
+
+msgid "Donate Now"
+msgstr "Donaci Nun"
+
+msgid "Crypto Address"
+msgstr "Kripto-adreso"
+
+msgid "Copy Address"
+msgstr "Kopii Adreson"
+
+msgid "Copied!"
+msgstr "Kopiita!"
+
+msgid "Pay with Credit Card"
+msgstr "Pagu per Kredkarto"
+
+msgid "Pay with PayPal"
+msgstr "Pagu per PayPal"
+
+msgid "Membership Plans"
+msgstr "Membrestaj Planoj"
+
+msgid "Monthly"
+msgstr "Monata"
+
+msgid "Yearly"
+msgstr "Jare"
+
+msgid "Subscribe"
+msgstr "Aboni"
+
+msgid "Credit Card → Crypto"
+msgstr "Kredita Karto → Kripto"
+
+msgid "Buy Crypto"
+msgstr "Aĉeti Kripton"
+
+msgid "Processing..."
+msgstr "Procezado..."
+
+msgid "Payment successful!"
+msgstr "Pago sukcese!"
+
+msgid "Payment failed"
+msgstr "Pago malsukcesis"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments permesas vin akcepti kreditan kartan pagon rekte al via kripta "
+"monujo."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate estas bone establita kripta pagoprocezilo."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay permesas uzantojn aĉeti kripton per kredita karto rekte al ILI "
+"monujo, poste ili sendas ĝin al vi."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Post aĉeto de kripto, bonvolu sendi ĝin al la suba monujo-adreso."
+
+msgid "Your crypto wallet address"
+msgstr "Via kripta monujo-adreso"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Lasu Miajn Knabonĝon ĝui nian kafon"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Poderan, senpaga donac- kaj pagobutonon kiu permesas viaj vizitantoj subteni"
+" vin per kredita karto aŭ kriptomonedo (Quai). Neniu monata takso, neniu "
+"tria partio-subskribado – nur via monujo kaj senpaga servoj."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Iuj retumiloj blokas tria partio skriptojn por privateco. Ĉi tiu prokurilo "
+"ŝargas skriptojn tra via propra servilo por superrigardi tiujn blokojn."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Vi povas ĝisdatigi la skriptaj URL-ojn sube, se la origina URL-oj ŝanĝiĝas "
+"aŭ se vi volas uzi alian CDN."
+
+msgid "Script"
+msgstr "Skripto"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "TTL de kaŝmemoro"
+
+msgid "Action"
+msgstr "Ago"
+
+msgid "Test"
+msgstr "Provu"
+
+msgid "Refresh"
+msgstr "Reŝargi"
+
+msgid "Usage:"
+msgstr "Uzado:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js por kredita karto pagoj"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK por PayPal pagoj"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas por ekrankapto-generado"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF por PDF-generado"
+
+msgid "External Script Proxy"
+msgstr "Ekstera Skripto Prokurilo"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Alklaku \"Test\" por kontroli ĉu la skripto-URL estas alirebla. La proksy "
+"memorigos skriptojn lokale por pli bona rendimento."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal retpoŝto (Rezerva)"
+
+msgid "Quick Stats"
+msgstr "Rapidaj Statistikoj"
+
+msgid "Widget Status:"
+msgstr "Stato de ĵeteto:"
+
+msgid "Active"
+msgstr "Aktiva"
+
+msgid "Inactive"
+msgstr "Inaktiva"
+
+msgid "Enabled Payment Methods:"
+msgstr "Enŝaltitaj Paga Metodoj:"
+
+msgid "None"
+msgstr "Neniu"
+
+msgid "Crypto Wallet:"
+msgstr "Kripto-monujo:"
+
+msgid "Not set"
+msgstr "Ne agordita"
+
+msgid "pay_with_card"
+msgstr "Pagu per Karto"
+
+msgid "crypto_address_label"
+msgstr "Sendu kriptovaluton rekte al ĉi tiu adreso:"
+
+msgid "crypto_note"
+msgstr "Fundoj iras rekte al via monujo. Neniu takso."
+
+msgid "your_crypto_address"
+msgstr "Via monujo adreso:"
+
+msgid "nowpayments_desc"
+msgstr "Pagu per kreditkarto – kripto iras rekte al via monujo."
+
+msgid "coingate_desc"
+msgstr "Pagu per kreditkarto – kripto al via monujo."
+
+msgid "bitpay_desc"
+msgstr "Komerca-nivela kripto-pago. Plej bona por US-komercoj."
+
+msgid "moonpay_desc"
+msgstr "Aĉetu kripton per kreditkarto – poste sendu ĝin al la suba adreso."
+
+msgid "moonpay_note"
+msgstr "Post aĉeto de kripto, bonvolu sendi ĝin al la supra monujo-adreso."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Fundoj iras rekte al via monujo. Neniu takso."
+
+msgid "Pay with Card"
+msgstr "Pagu per Karto"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Pagu per kreditkarto – kripto iras rekte al via monujo."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Sendu kriptovaluton rekte al ĉi tiu adreso:"

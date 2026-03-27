@@ -1,0 +1,712 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Vietnamese <vi_VN>\n"
+"Language: vi-VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Bảng điều khiển Coffee Widget"
+
+msgid "Coffee Widget"
+msgstr "Coffee Widget"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Dashboard"
+msgstr "Bảng điều khiển Coffee"
+
+msgid "Payment Methods"
+msgstr "Phương thức thanh toán"
+
+msgid "Help & Support"
+msgstr "Trợ giúp & Hỗ trợ"
+
+msgid "General"
+msgstr "Chung"
+
+msgid "Button"
+msgstr "Nút"
+
+msgid "Advanced"
+msgstr "Nâng cao"
+
+msgid "Proxy Scripts"
+msgstr "Kịch bản Proxy"
+
+msgid "Widget Settings"
+msgstr "Cài đặt Widget"
+
+msgid "Widget Status"
+msgstr "Trạng thái Widget"
+
+msgid "Widget active"
+msgstr "Widget đang hoạt động"
+
+msgid "Button Color"
+msgstr "Màu nút"
+
+msgid "Button Position"
+msgstr "Vị trí nút"
+
+msgid "Left"
+msgstr "Trái"
+
+msgid "Right"
+msgstr "Phải"
+
+msgid "Horizontal Margin (px)"
+msgstr "Khoảng cách ngang (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Khoảng cách dọc (px)"
+
+msgid "Button Message"
+msgstr "Tin nhắn nút"
+
+msgid "Description"
+msgstr "Mô tả"
+
+msgid "Button Type"
+msgstr "Loại nút"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "Mã SVG"
+
+msgid "PNG Image URL"
+msgstr "URL hình PNG"
+
+msgid "Button Emoji"
+msgstr "Emoji nút"
+
+msgid "Custom CSS"
+msgstr "CSS tùy chỉnh"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript tùy chỉnh"
+
+msgid "Which payment service should you choose?"
+msgstr "Bạn nên chọn dịch vụ thanh toán nào?"
+
+msgid ""
+"We offer multiple services to accept credit card payments to your crypto "
+"wallet. Here's how they compare:"
+msgstr ""
+"Chúng tôi cung cấp nhiều dịch vụ để chấp nhận thanh toán thẻ tín dụng vào ví"
+" crypto của bạn. Đây là sự so sánh:"
+
+msgid "Service"
+msgstr "Dịch vụ"
+
+msgid "Fee"
+msgstr "Phí"
+
+msgid "Where does crypto go?"
+msgstr "Crypto được chuyển tới đâu?"
+
+msgid "WordPress Plugin"
+msgstr "Plugin WordPress"
+
+msgid "Best for"
+msgstr "Tốt nhất cho"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Doanh nghiệp Hoa Kỳ?"
+
+msgid "Direct Crypto"
+msgstr "Crypto trực tiếp"
+
+msgid "No fee"
+msgstr "Không phí"
+
+msgid "Your wallet directly"
+msgstr "Ví của bạn trực tiếp"
+
+msgid "Built-in"
+msgstr "Tích hợp"
+
+msgid "Crypto-savvy users"
+msgstr "Người dùng am hiểu crypto"
+
+msgid "Anywhere"
+msgstr "Nơi nào cũng"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API đã sẵn sàng"
+
+msgid "Beginners, low fees"
+msgstr "Người mới, phí thấp"
+
+msgid "Global (incl. Turkey)"
+msgstr "Toàn cầu (bao gồm Thổ Nhĩ Kỳ)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Plugin chính thức"
+
+msgid "Good support"
+msgstr "Hỗ trợ tốt"
+
+msgid "Global"
+msgstr "Toàn cầu"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Doanh nghiệp, công ty Hoa Kỳ"
+
+msgid "US-friendly"
+msgstr "Thân thiện với Hoa Kỳ"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Ví người dùng trước"
+
+msgid "Widget ready"
+msgstr "Sẵn sàng widget"
+
+msgid "Users with own wallets"
+msgstr "Người dùng có ví riêng"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Chỉ cho doanh nghiệp Mỹ"
+
+msgid "❌ US ONLY"
+msgstr "❌ CHỈ CHO Mỹ"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Biến đổi"
+
+msgid "Asia markets"
+msgstr "Thị trường châu Á"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Phí tiêu chuẩn"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Cân bằng PayPal"
+
+msgid "PayPal users"
+msgstr "Người dùng PayPal"
+
+msgid "Tip:"
+msgstr "Gợi ý:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Nếu bạn đang ở ngoài Mỹ, chúng tôi khuyên dùng NOWPayments (phí thấp nhất, "
+"chuyển trực tiếp tới ví của bạn). Nếu bạn ở Mỹ, Stripe Crypto cũng là một "
+"lựa chọn. Bạn có thể bật nhiều dịch vụ và để khách truy cập lựa chọn!"
+
+msgid "Enabled Payment Methods"
+msgstr "Phương thức thanh toán đã bật"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Chọn các tùy chọn thanh toán sẽ hiển thị trong widget của bạn. Khách truy "
+"cập có thể chọn phương thức ưa thích của họ."
+
+msgid "Show these methods"
+msgstr "Hiển thị các phương thức này"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Crypto trực tiếp (địa chỉ ví)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Thẻ tín dụng → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Thẻ tín dụng → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Thẻ tín dụng → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Người dùng mua crypto trước)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Thẻ tín dụng)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Hiển thị địa chỉ ví của bạn để người dùng gửi crypto trực tiếp. Không phí, "
+"nhưng yêu cầu người dùng đã có crypto."
+
+msgid "Wallet Address"
+msgstr "Địa chỉ ví"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Địa chỉ ví Quai, Ethereum, Bitcoin, hoặc ví khác của bạn."
+
+msgid "Network"
+msgstr "Mạng"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Mạng Quai (Đề xuất - miễn phí)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Thích hợp nhất cho người mới bắt đầu & phí thấp nhất"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments cho phép bạn nhận thanh toán bằng thẻ tín dụng trực tiếp vào ví "
+"crypto của mình. Quỹ sẽ được chuyển trực tiếp vào ví – không qua trung gian."
+
+msgid "Fee:"
+msgstr "Phí:"
+
+msgid "per transaction"
+msgstr "mỗi giao dịch"
+
+msgid "Payout:"
+msgstr "Thanh toán:"
+
+msgid "Direct to your wallet"
+msgstr "Trực tiếp vào ví của bạn"
+
+msgid "Setup:"
+msgstr "Cài đặt:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Tạo tài khoản miễn phí → API Keys → Sao chép API Key"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Key"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Dán API key của bạn từ bảng điều khiển NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Hỗ trợ tuyệt vời, phí hơi cao hơn"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate là một nhà xử lý thanh toán crypto đã được xác nhận với plugin "
+"WordPress chính thức."
+
+msgid "1% per transaction"
+msgstr "1% mỗi giao dịch"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Tạo tài khoản → API Keys"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Key"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Chất lượng doanh nghiệp, thân thiện với Mỹ"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay được các công ty lớn tin tưởng. Hoạt động tốt cho các doanh nghiệp "
+"tại Mỹ."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Tài khoản doanh nghiệp → API Keys"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Key"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Người dùng mua crypto trước, rồi gửi cho bạn"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay cho phép người dùng mua crypto bằng thẻ tín dụng trực tiếp vào VÍ "
+"của HỌ, rồi gửi cho bạn. Phí cao hơn nhưng rất đơn giản cho người dùng."
+
+msgid "~3.5% per transaction"
+msgstr "~3,5% mỗi giao dịch"
+
+msgid "User's wallet first"
+msgstr "Ví của người dùng trước"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Key"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Quan trọng:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Thanh toán Crypto bằng Stripe (USDC) chỉ có sẵn cho doanh nghiệp tại Mỹ. Nếu"
+" bạn ở ngoài Mỹ, Stripe chỉ chấp nhận thanh toán bằng thẻ tín dụng vào tài "
+"khoản Stripe của bạn (không trực tiếp vào crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Nếu bạn ở Mỹ, bạn có thể dùng Stripe để nhận crypto trực tiếp. Nếu ở ngoài, "
+"hãy cân nhắc NOWPayments hoặc CoinGate cho việc trả crypto trực tiếp."
+
+msgid "Stripe Publishable Key"
+msgstr "Khóa công khai Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "Khóa bí mật Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Thanh toán PayPal cổ điển. Người dùng thanh toán bằng tài khoản PayPal hoặc "
+"thẻ tín dụng. Quỹ chuyển vào tài khoản PayPal của bạn."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Phí giao dịch PayPal tiêu chuẩn sẽ áp dụng."
+
+msgid "PayPal Client ID"
+msgstr "ID khách hàng PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Lấy thông tin API PayPal của bạn từ <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">Bảng điều khiển nhà"
+" phát triển PayPal</a>."
+
+msgid "PayPal Secret"
+msgstr "Mật khẩu PayPal"
+
+msgid "Donation Tiers"
+msgstr "Các cấp độ quyên góp"
+
+msgid "Add Tier"
+msgstr "Thêm cấp độ"
+
+msgid "Remove"
+msgstr "Xóa"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Số tiền quyên góp đã định (USD). Để trống nếu chỉ muốn số tiền tùy chỉnh."
+
+msgid "Membership"
+msgstr "Thành viên"
+
+msgid "Enable Membership"
+msgstr "Bật thành viên"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Cho phép đăng ký định kỳ (yêu cầu Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Hỗ trợ"
+
+msgid "Donate"
+msgstr "Quyên góp"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Thẻ tín dụng"
+
+msgid "Choose amount"
+msgstr "Chọn số tiền"
+
+msgid "Custom amount"
+msgstr "Số tiền tùy chỉnh"
+
+msgid "Enter amount (USD)"
+msgstr "Nhập số tiền (USD)"
+
+msgid "Donate Now"
+msgstr "Quyên góp ngay"
+
+msgid "Crypto Address"
+msgstr "Địa chỉ Crypto"
+
+msgid "Copy Address"
+msgstr "Sao chép địa chỉ"
+
+msgid "Copied!"
+msgstr "Đã sao chép!"
+
+msgid "Pay with Credit Card"
+msgstr "Thanh toán bằng thẻ tín dụng"
+
+msgid "Pay with PayPal"
+msgstr "Thanh toán bằng PayPal"
+
+msgid "Membership Plans"
+msgstr "Kế hoạch thành viên"
+
+msgid "Monthly"
+msgstr "Hàng tháng"
+
+msgid "Yearly"
+msgstr "Hàng năm"
+
+msgid "Subscribe"
+msgstr "Đăng ký"
+
+msgid "Credit Card → Crypto"
+msgstr "Thẻ tín dụng → Crypto"
+
+msgid "Buy Crypto"
+msgstr "Mua Crypto"
+
+msgid "Processing..."
+msgstr "Đang xử lý..."
+
+msgid "Payment successful!"
+msgstr "Thanh toán thành công!"
+
+msgid "Payment failed"
+msgstr "Thanh toán thất bại"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments cho phép bạn nhận thanh toán thẻ tín dụng trực tiếp vào ví "
+"crypto của mình."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate là một nhà xử lý thanh toán crypto được công nhận."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay cho phép người dùng mua crypto bằng thẻ tín dụng trực tiếp vào VÒNG "
+"ví của Họ, sau đó họ gửi nó cho bạn."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Sau khi mua crypto, vui lòng gửi nó tới địa chỉ ví dưới đây."
+
+msgid "Your crypto wallet address"
+msgstr "Địa chỉ ví crypto của bạn"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Cho bạn gái của tôi thưởng thức cà phê của chúng ta"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Một widget quyên góp và thanh toán mạnh mẽ, miễn phí cho phép khách truy cập"
+" hỗ trợ bạn qua thẻ tín dụng hoặc tiền điện tử (Quai). Không có phí hàng "
+"tháng, không có đăng ký bên thứ ba – chỉ ví và dịch vụ miễn phí của bạn."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Một số trình duyệt chặn script bên thứ ba vì lý do bảo mật. Giao thức này "
+"tải script qua máy chủ của bạn để vượt qua những chặn này."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Bạn có thể cập nhật URL script dưới đây nếu URL gốc thay đổi hoặc nếu bạn "
+"muốn sử dụng CDN khác."
+
+msgid "Script"
+msgstr "Script"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "TTL bộ nhớ đệm"
+
+msgid "Action"
+msgstr "Hành động"
+
+msgid "Test"
+msgstr "Kiểm tra"
+
+msgid "Refresh"
+msgstr "Làm mới"
+
+msgid "Usage:"
+msgstr "Cách sử dụng:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js cho thanh toán thẻ tín dụng"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK cho thanh toán PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas để tạo ảnh chụp màn hình"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF để tạo PDF"
+
+msgid "External Script Proxy"
+msgstr "Giao thức Script Bên ngoài"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Nhấn \"Test\" để kiểm tra xem URL script có khả năng truy cập hay không. "
+"Proxy sẽ lưu trữ script cục bộ để cải thiện hiệu suất."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "Email PayPal (Sao lưu)"
+
+msgid "Quick Stats"
+msgstr "Thống kê nhanh"
+
+msgid "Widget Status:"
+msgstr "Trạng thái Widget:"
+
+msgid "Active"
+msgstr "Kích hoạt"
+
+msgid "Inactive"
+msgstr "Không hoạt động"
+
+msgid "Enabled Payment Methods:"
+msgstr "Phương thức thanh toán đã bật:"
+
+msgid "None"
+msgstr "Không có"
+
+msgid "Crypto Wallet:"
+msgstr "Ví Crypto:"
+
+msgid "Not set"
+msgstr "Chưa cài đặt"
+
+msgid "pay_with_card"
+msgstr "Thanh toán bằng thẻ"
+
+msgid "crypto_address_label"
+msgstr "Gửi tiền điện tử trực tiếp đến địa chỉ này:"
+
+msgid "crypto_note"
+msgstr "Quỹ được chuyển trực tiếp vào ví của bạn. Không phí."
+
+msgid "your_crypto_address"
+msgstr "Địa chỉ ví của bạn:"
+
+msgid "nowpayments_desc"
+msgstr ""
+"Thanh toán bằng thẻ tín dụng – tiền điện tử được chuyển trực tiếp vào ví của"
+" bạn."
+
+msgid "coingate_desc"
+msgstr "Thanh toán bằng thẻ tín dụng – tiền điện tử đến ví của bạn."
+
+msgid "bitpay_desc"
+msgstr ""
+"Thanh toán tiền điện tử cấp doanh nghiệp. Tốt nhất cho doanh nghiệp Mỹ."
+
+msgid "moonpay_desc"
+msgstr "Mua tiền điện tử bằng thẻ tín dụng – sau đó gửi vào địa chỉ bên dưới."
+
+msgid "moonpay_note"
+msgstr "Sau khi mua tiền điện tử, vui lòng gửi vào địa chỉ ví trên."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Quỹ được chuyển trực tiếp vào ví của bạn. Không phí."
+
+msgid "Pay with Card"
+msgstr "Thanh toán bằng thẻ"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"Thanh toán bằng thẻ tín dụng – tiền điện tử được chuyển trực tiếp vào ví của"
+" bạn."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Gửi tiền điện tử trực tiếp đến địa chỉ này:"

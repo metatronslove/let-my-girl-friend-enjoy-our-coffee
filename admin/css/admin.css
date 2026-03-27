@@ -1,0 +1,67 @@
+/* Admin panel styles */
+.coffee-settings-page .form-table th {
+    width: 200px;
+}
+
+.wp-picker-container {
+    display: inline-block;
+}
+
+.nav-tab-wrapper {
+    margin-bottom: 20px;
+}
+
+.nav-tab-active {
+    background: #fff;
+    border-bottom-color: #fff;
+}
+
+.settings-tab-content {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-top: none;
+    padding: 20px;
+}
+
+.help-box {
+    background: #f9f9f9;
+    border-left: 4px solid #FFDD00;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
+.help-box h3 {
+    margin-top: 0;
+}
+
+.help-box code {
+    background: #eaeaea;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.button-option {
+    display: table-row;
+}
+
+.tier-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+
+.service-comparison table {
+    margin: 15px 0;
+}
+
+.service-comparison th,
+.service-comparison td {
+    padding: 8px 12px;
+}
+
+.notice-warning {
+    background: #fff3cd;
+    border-left-color: #ffc107;
+}

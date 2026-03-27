@@ -1,0 +1,698 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Northern Sami (Finland) <se_FI>\n"
+"Language: se-FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Kaffa Widget Dashboard"
+
+msgid "Coffee Widget"
+msgstr "Kaffa Widget"
+
+msgid "Settings"
+msgstr "Earrá"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Payment Methods"
+msgstr "Gávnnágoidit"
+
+msgid "Help & Support"
+msgstr "Váldda & Lávkodat"
+
+msgid "General"
+msgstr "Gullbmá"
+
+msgid "Button"
+msgstr "Button"
+
+msgid "Advanced"
+msgstr "Folgielgi"
+
+msgid "Proxy Scripts"
+msgstr "Proxy Scripts"
+
+msgid "Widget Settings"
+msgstr "Widget Settings"
+
+msgid "Widget Status"
+msgstr "Widget Status"
+
+msgid "Widget active"
+msgstr "Widget active"
+
+msgid "Button Color"
+msgstr "Button Color"
+
+msgid "Button Position"
+msgstr "Button Position"
+
+msgid "Left"
+msgstr "Válddu"
+
+msgid "Right"
+msgstr "Reahta"
+
+msgid "Horizontal Margin (px)"
+msgstr "Horizontal Margin (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Vertical Margin (px)"
+
+msgid "Button Message"
+msgstr "Button Message"
+
+msgid "Description"
+msgstr "Áboda"
+
+msgid "Button Type"
+msgstr "Button Type"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "SVG Code"
+
+msgid "PNG Image URL"
+msgstr "PNG Image URL"
+
+msgid "Button Emoji"
+msgstr "Button Emoji"
+
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+msgid "Custom JavaScript"
+msgstr "Custom JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "Mii goidit gávnnágoidit áŋŋá?"
+
+msgid "Service"
+msgstr "Bálgeđgi"
+
+msgid "Fee"
+msgstr "Pálka"
+
+msgid "Where does crypto go?"
+msgstr "Mun lea cripto go?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress-plugin"
+
+msgid "Best for"
+msgstr "Báze leat"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 US Business?"
+
+msgid "Direct Crypto"
+msgstr "Direkt crypto"
+
+msgid "No fee"
+msgstr "Gihte barggo"
+
+msgid "Your wallet directly"
+msgstr "Mii báláhuovgga direkt"
+
+msgid "Built-in"
+msgstr "Bielggaid"
+
+msgid "Crypto-savvy users"
+msgstr "Crypto-savvy beaivve"
+
+msgid "Anywhere"
+msgstr "Alli"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API giellad"
+
+msgid "Beginners, low fees"
+msgstr "Gáhtet, lohku barggo"
+
+msgid "Global (incl. Turkey)"
+msgstr "Gállgo (incl. Turkey)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Ofital plugin"
+
+msgid "Good support"
+msgstr "Goat support"
+
+msgid "Global"
+msgstr "Gállgo"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Enterprise, US companies"
+
+msgid "US-friendly"
+msgstr "US-friendly"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ User's wallet first"
+
+msgid "Widget ready"
+msgstr "Widget giellad"
+
+msgid "Users with own wallets"
+msgstr "Beaivve leat guovnnat"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "US-juohkehusašuvvahkain"
+
+msgid "❌ US ONLY"
+msgstr "❌ US buoremus"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Maidjal"
+
+msgid "Asia markets"
+msgstr "Asa biera"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Standardi guolla"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal boazahus"
+
+msgid "PayPal users"
+msgstr "PayPal geavahčalain"
+
+msgid "Tip:"
+msgstr "Váldat:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Jos lea eamban US:in, mun galgaš NOWPayments (miebmii guollá, deavahpágo "
+"jažžohkki oaidnán). Jos lea US:in, Stripe Crypto lea de gođđahus. Galgá leat"
+" galgoš moaidneami earágo lea ovdal go lea galbáhpas!"
+
+msgid "Enabled Payment Methods"
+msgstr "Leat galgoš ožžolgoažaidnedit"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Maidde ožžolgoažaidniid galgoš widget-giid. Visitein leat galgoš earágo "
+"birrádgo."
+
+msgid "Show these methods"
+msgstr "Vearáruvvon maiddit"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Direct Crypto (Oaidnán address)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Credit Card → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Credit Card → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Credit Card → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (User buys crypto first)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Credit Card)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Leat oaidnán addressa ođđa oaidnán sendet. Guollá dása, muhto leat "
+"geavahčalain birá háččon de oaidnán."
+
+msgid "Wallet Address"
+msgstr "Oaidnán address"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Quai, Ethereum, Bitcoin, eará ođđa oaidnán address."
+
+msgid "Network"
+msgstr "Sámi"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network (Váldadit - ođđit)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Gávnniddugo ii leat ovddas & gohččá fievdad"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments leat duogágo beaivi kreditkárdi bargat gohččan dán "
+"kráfeitáhkkis. Geldáruin geavgi go dán kráfeitáhkkis – dárbámus beaivi."
+
+msgid "Fee:"
+msgstr "Fíga:"
+
+msgid "per transaction"
+msgstr "bassegeat"
+
+msgid "Payout:"
+msgstr "Páiduvdna:"
+
+msgid "Direct to your wallet"
+msgstr "Direkt go dán kráfeitáhkkis"
+
+msgid "Setup:"
+msgstr "Sápmelaš:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Buot guđgeahkeheaddji → API-n mávkat → API-n mávkáhčát"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API-n mávká"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Paste API-n mávká go NOWPayments dashboard."
+
+msgid "Great support, slightly higher fee"
+msgstr "Gállas goavddal, eará bálvái fievdad"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate lea nammái boahtágo kráfeitáhkkis bargatágo official WordPress "
+"plugin."
+
+msgid "1% per transaction"
+msgstr "1% bassegeat"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Buot addjeheaddji → API-n mávkat"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API-n mávká"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Enterprise-grade, US-finná"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay lea vázzolaš dego válláhtaid. Lávddas ii leat US-ruovdi business-ii."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Business addjeheaddji → API-n mávkat"
+
+msgid "BitPay API Key"
+msgstr "BitPay API-n mávká"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Userid leat beaivi kráfeitáhkkis gárdan, dan sihko go du."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay lea userid beaivi kráfeitáhkkis kreditkárdi bargat go dán "
+"kráfeitáhkkis, dan sihko go du. Bálvái fievdad, dan ii leat ođđa dárbámus "
+"userid-ii."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% bassegeat"
+
+msgid "User's wallet first"
+msgstr "Useraid kráfeitáhkkis gárdan"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API-n mávká"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Ođđuddu:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto-hakkaradusgoađit (USDC) leat ráhko doarbu US-i bieldes. Soait "
+"nuusii USA, Stripe lean ahtus bargin kredit korta bargat Stripe balansein "
+"(iđđa goahčáhusaŋgo crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Soait US-juovllá, lean go Stripe goahčáhusaŋgo crypto iđđa. Soait nuusii, "
+"leavvi NOWPayments- či CoinGate iđđa crypto bargu."
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe publikágojuvvođjeh"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe gávnnáhusaŋgo"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Classic PayPal bargat. Bráhket go PayPal balansein eai kredit korta. Gálget "
+"go PayPal kaupá."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Standard PayPal bargat fee-juvvon."
+
+msgid "PayPal Client ID"
+msgstr "PayPal klient ID"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Váldo PayPal API-juvvođjeh <a href=\"https://developer.paypal.com/\" "
+"target=\"_blank\">PayPal Developer Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "PayPal gávnnáhusaŋgo"
+
+msgid "Donation Tiers"
+msgstr "Donátuvŋa"
+
+msgid "Add Tier"
+msgstr "Add Tier"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Predefined donation amounts (USD). Leave empty for custom amount only."
+
+msgid "Membership"
+msgstr "Membership"
+
+msgid "Enable Membership"
+msgstr "Enable Membership"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Allow recurring subscriptions (requires Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Donate"
+msgstr "Donate"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Credit Card"
+
+msgid "Choose amount"
+msgstr "Choose amount"
+
+msgid "Custom amount"
+msgstr "Custom amount"
+
+msgid "Enter amount (USD)"
+msgstr "Enter amount (USD)"
+
+msgid "Donate Now"
+msgstr "Donate Now"
+
+msgid "Crypto Address"
+msgstr "Crypto Address"
+
+msgid "Copy Address"
+msgstr "Copy Address"
+
+msgid "Copied!"
+msgstr "Copied!"
+
+msgid "Pay with Credit Card"
+msgstr "Pay with Credit Card"
+
+msgid "Pay with PayPal"
+msgstr "Pay with PayPal"
+
+msgid "Membership Plans"
+msgstr "Liigáhusálddá"
+
+msgid "Monthly"
+msgstr "Jahki"
+
+msgid "Yearly"
+msgstr "Eanuš"
+
+msgid "Subscribe"
+msgstr "Ábbaš"
+
+msgid "Credit Card → Crypto"
+msgstr "Kredihárgu → Krypto"
+
+msgid "Buy Crypto"
+msgstr "Krypto áibmmoš"
+
+msgid "Processing..."
+msgstr "Prosessuvvuođa..."
+
+msgid "Payment successful!"
+msgstr "Bargovus dán!"
+
+msgid "Payment failed"
+msgstr "Bargovus eará"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments lea bargovusat bargovusat kredihárgu bargovusat eará váhkan dán "
+"krypto-dávvir."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate lea válduheapmi krypto bargovusat bargovusat bargovus."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay lea gávnnat bargovusat krypto bargovusat kredihárgu bargovusat eará "
+"váhkan DAN dávvir, deh eahkko dan."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Gárre bargovusat krypto, gova bargovusat DAN dávvir vuosttaid dán."
+
+msgid "Your crypto wallet address"
+msgstr "DAN krypto dávvir vuostta"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Lávo mun guoláhusáldat gávnnat gávnnat"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Ábbiid, dán gávnnat bargovusat, bargovusat, bargovusat, bargovusat. Inna "
+"jahki bargovusat, dán bargovusat bargovusat – dán dávvir ja dán dán "
+"bargovusat."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Mii browserev bálkađii gielahus skriptáhus. Dán proxy nallit skriptáhus "
+"váhkan DAN serváru dán bálka."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Dán nánit skriptáhus URL: dán dán URL: dán gárra dán URL: dán gárra dán CDN."
+
+msgid "Script"
+msgstr "Skript"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Usage:"
+msgstr "Sahkkeš"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js bargovusat kredihárgu bargovusat"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK bargovusat PayPal bargovusat"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas bargovusat skreiptehaddat"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF bargovusat PDF bargovusat"
+
+msgid "External Script Proxy"
+msgstr "Dárkastehii skriptáhuvvá"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Klikka \"Test\" maid skripta URL ovddus dán gávdne. Proxy gávnna skriptid "
+"lokálien dán gávdne."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal e-mail (fallback)"
+
+msgid "Quick Stats"
+msgstr "Bohččon statistiidat"
+
+msgid "Widget Status:"
+msgstr "Widget Status:"
+
+msgid "Active"
+msgstr "Váldu"
+
+msgid "Inactive"
+msgstr "Ihku"
+
+msgid "Enabled Payment Methods:"
+msgstr "Báhkuođđin bálggalgoeđas:"
+
+msgid "None"
+msgstr "Gos"
+
+msgid "Crypto Wallet:"
+msgstr "Krypto wallet:"
+
+msgid "Not set"
+msgstr "Ellišat"
+
+msgid "pay_with_card"
+msgstr "Pay with Card"
+
+msgid "crypto_address_label"
+msgstr "Sátnet kryptoáigedat dásáhku:"
+
+msgid "crypto_note"
+msgstr "Fondat dárkká sáhtát leat dán wallet. Ohte."
+
+msgid "your_crypto_address"
+msgstr "Dán wallet addrese:"
+
+msgid "nowpayments_desc"
+msgstr "Pay with credit card – crypto goes directly to your wallet."
+
+msgid "coingate_desc"
+msgstr "Pay with credit card – crypto to your wallet."
+
+msgid "bitpay_desc"
+msgstr "Enterprise-grade crypto payments. Best for US businesses."
+
+msgid "moonpay_desc"
+msgstr "Buy crypto with credit card – then send it to the address below."
+
+msgid "moonpay_note"
+msgstr "After purchasing crypto, please send it to the wallet address above."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Fondat dárkká sáhtát leat dán wallet. Ohte."
+
+msgid "Pay with Card"
+msgstr "Pay with Card"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Pay with credit card – crypto goes directly to your wallet."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Sátnet kryptoáigedat dásáhku:"

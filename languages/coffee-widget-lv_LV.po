@@ -1,0 +1,707 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Latvian <lv_LV>\n"
+"Language: lv-LV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Kafijas logrīka informācijas panelis"
+
+msgid "Coffee Widget"
+msgstr "Kafijas logrīks"
+
+msgid "Settings"
+msgstr "Iestatījumi"
+
+msgid "Dashboard"
+msgstr "Kontroles panelis"
+
+msgid "Payment Methods"
+msgstr "Maksājumu veidi"
+
+msgid "Help & Support"
+msgstr "Palīdzība un atbalsts"
+
+msgid "General"
+msgstr "Vispārīgi"
+
+msgid "Button"
+msgstr "Pogas"
+
+msgid "Advanced"
+msgstr "Uzlabots"
+
+msgid "Proxy Scripts"
+msgstr "Starpnieku skripti"
+
+msgid "Widget Settings"
+msgstr "Logdaļa iestatījumi"
+
+msgid "Widget Status"
+msgstr "Logdaļa statuss"
+
+msgid "Widget active"
+msgstr "Logdaļa aktīva"
+
+msgid "Button Color"
+msgstr "Pogas krāsa"
+
+msgid "Button Position"
+msgstr "Pogas pozīcija"
+
+msgid "Left"
+msgstr "Pa kreisi"
+
+msgid "Right"
+msgstr "Pa labi"
+
+msgid "Horizontal Margin (px)"
+msgstr "Horizontālais rasts (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Vertikālais rasts (px)"
+
+msgid "Button Message"
+msgstr "Pogas ziņojums"
+
+msgid "Description"
+msgstr "Apraksts"
+
+msgid "Button Type"
+msgstr "Pogas tips"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "SVG kods"
+
+msgid "PNG Image URL"
+msgstr "PNG attēla URL"
+
+msgid "Button Emoji"
+msgstr "Pogas emoji"
+
+msgid "Custom CSS"
+msgstr "Pielāgots CSS"
+
+msgid "Custom JavaScript"
+msgstr "Pielāgots JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "Kādu maksājumu pakalpojumu izvēlēties?"
+
+msgid "Service"
+msgstr "Pakalpojums"
+
+msgid "Fee"
+msgstr "Maksas"
+
+msgid "Where does crypto go?"
+msgstr "Kur kriptovalūta iet?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress spraudnis"
+
+msgid "Best for"
+msgstr "Labāk piemērots"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 ASV uzņēmums?"
+
+msgid "Direct Crypto"
+msgstr "Tiešs kriptu"
+
+msgid "No fee"
+msgstr "Nav maksas"
+
+msgid "Your wallet directly"
+msgstr "Jūsu portfelis tieši"
+
+msgid "Built-in"
+msgstr "Iegulto"
+
+msgid "Crypto-savvy users"
+msgstr "Kriptosaprausie lietotāji"
+
+msgid "Anywhere"
+msgstr "Kur ir"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API gatavs"
+
+msgid "Beginners, low fees"
+msgstr "Sācēji, zemas maksas"
+
+msgid "Global (incl. Turkey)"
+msgstr "Globāls (ieskaitot Turkiju)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Oficiālais spraudnis"
+
+msgid "Good support"
+msgstr "Labā atbalsts"
+
+msgid "Global"
+msgstr "Globāls"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Enterprise, ASV uzņēmumi"
+
+msgid "US-friendly"
+msgstr "ASV draudzīgs"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Lietotāja portfelis vispirms"
+
+msgid "Widget ready"
+msgstr "Widget gatavs"
+
+msgid "Users with own wallets"
+msgstr "Lietotāji ar savu portfelim"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Tikai ASV uzņēmumiem"
+
+msgid "❌ US ONLY"
+msgstr "❌ ASV TIKAI"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Mainīgs"
+
+msgid "Asia markets"
+msgstr "Āzijas tirgi"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Standarta maksa"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal atlikums"
+
+msgid "PayPal users"
+msgstr "PayPal lietotāji"
+
+msgid "Tip:"
+msgstr "Piezīme:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Ja esat ārpus ASV, iesakām NOWPayments (lielākās zemas maksas, tieši uz jūsu"
+" krājumu). Ja esat ASV, Stripe Crypto arī ir iespēja. Jūs varat ieslēgt "
+"vairākus pakalpojumus un ļaut saviem apmeklētājiem izvēlēties!"
+
+msgid "Enabled Payment Methods"
+msgstr "Aktivizētie maksājumu veidi"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Atlasiet, kuri maksājumu varianti parādīsies jūsu logdaļā. Jūsu apmeklētāji "
+"varēs izvēlēties vēlamo veidu."
+
+msgid "Show these methods"
+msgstr "Parādīt šos veidus"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Tiešā kriptovalūta (krājuma adrese)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Kredītkarte → Kriptovalūta)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Kredītkarte → Kriptovalūta)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Kredītkarte → Kriptovalūta)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Lietotājs pirms pirka kriptovalūtu)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Kredītkarte)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Parādiet savu krājuma adresi, lai lietotāji varētu nosūtīt kriptovalūtu "
+"tieši. Viena maksa, bet prasa lietotājiem jau būt kriptovalūtai."
+
+msgid "Wallet Address"
+msgstr "Krājuma adrese"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Jūsu Quai, Ethereum, Bitcoin vai cita krājuma adrese."
+
+msgid "Network"
+msgstr "Tīkls"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Tīkls (Ieteicams - bezmaksas)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Labākie iesācējiem un zemas maksas"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments ļauj jums pieņemt kredītkartes maksājumus tieši uz jūsu "
+"kriptovalūtas iespēdi. Pienākumi iet uz jūsu iespēdi tieši – bez posmities."
+
+msgid "Fee:"
+msgstr "Maksas:"
+
+msgid "per transaction"
+msgstr "par transakciju"
+
+msgid "Payout:"
+msgstr "Izmaksa:"
+
+msgid "Direct to your wallet"
+msgstr "Tieši uz jūsu iespēdi"
+
+msgid "Setup:"
+msgstr "Uzstādīšana:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Izveidojiet bezmaksas kontu → API atslēgas → Kopējiet API atslēgu"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API atslēga"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Ielīmējiet savu API atslēgu no NOWPayments pārvaldnieka panela."
+
+msgid "Great support, slightly higher fee"
+msgstr "Lielisks atbalsts, nedaudz augstāka maksa"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate ir labi izveidots kriptovalūtas maksājumu apstrādātājs ar oficiālu "
+"WordPress spraudni."
+
+msgid "1% per transaction"
+msgstr "1% par transakciju"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Izveidojiet kontu → API atslēgas"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API atslēga"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Uzņēmuma līmeņa, ASV draudzīgs"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay ir uzticams galvenajām kompānijām. Darbojas labi ASV uzņēmumiem."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Biznesa konts → API atslēgas"
+
+msgid "BitPay API Key"
+msgstr "BitPay API atslēga"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Lietotāji vispirms iegādājas kriptovalūtu, pēc tam nosūta to jums"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay ļauj lietotājiem pirkt kriptovalūtu ar kredītkarti tieši uz VIŅI "
+"iespēdi, pēc tam viņi to sūta jums. Augstākas maksas, bet ļoti vienkārši "
+"lietotājiem."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% par transakciju"
+
+msgid "User's wallet first"
+msgstr "Lietotāja iespēde vispirms"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API atslēga"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Svarīgi:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe kriptovalūtu maksājumi (USDC) pieejami tikai ASV uzņēmumiem. Ja esat "
+"ārpus ASV, Stripe pieņems tikai kredītkaršu maksājumus uz jūsu Stripe "
+"bilanci (ne tieši uz kriptovalūtu)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Ja esat ASV, varat izmantot Stripe, lai tieši saņemtu kriptovalūtu. Ja esat "
+"ārpus ASV, apsveriet NOWPayments vai CoinGate tiešiem kriptovalūtu izmaksa."
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe publiskā atslēga"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe slepenā atslēga"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Klassiskie PayPal maksājumi. Lietotāji maksā ar PayPal atlikumu vai "
+"kredītkarti. Finansiālie līdzekļi tiek pārsūtīti uz jūsu PayPal kontu."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Tiek piemēroti standarta PayPal darījumu komisijas maksa."
+
+msgid "PayPal Client ID"
+msgstr "PayPal klienta ID"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Iegūstiet PayPal API pieteikuma datus no <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "PayPal slepenā atslēga"
+
+msgid "Donation Tiers"
+msgstr "Ziedojumu līmeņi"
+
+msgid "Add Tier"
+msgstr "Pievienot līmeni"
+
+msgid "Remove"
+msgstr "Noņemt"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Iepriekš definēti ziedojumu summas (USD). Atstājiet tukšu, ja vēlaties "
+"ievadīt savu summu."
+
+msgid "Membership"
+msgstr "Dalība"
+
+msgid "Enable Membership"
+msgstr "Aktivizēt dalību"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Atļaut regulārus abonementus (nepieciešami Stripe abonementi)."
+
+msgid "Support"
+msgstr "Atbalsts"
+
+msgid "Donate"
+msgstr "Ziedot"
+
+msgid "Crypto"
+msgstr "Kriptu"
+
+msgid "Credit Card"
+msgstr "Kredītkarte"
+
+msgid "Choose amount"
+msgstr "Izvēlēties summu"
+
+msgid "Custom amount"
+msgstr "Pielāgota summa"
+
+msgid "Enter amount (USD)"
+msgstr "Ievadiet summu (USD)"
+
+msgid "Donate Now"
+msgstr "Ziedot tagad"
+
+msgid "Crypto Address"
+msgstr "Kriptovalūtas adrese"
+
+msgid "Copy Address"
+msgstr "Kopēt adresi"
+
+msgid "Copied!"
+msgstr "Kopēts!"
+
+msgid "Pay with Credit Card"
+msgstr "Maksāt ar kredītkaršu"
+
+msgid "Pay with PayPal"
+msgstr "Maksāt ar PayPal"
+
+msgid "Membership Plans"
+msgstr "Dalības plāni"
+
+msgid "Monthly"
+msgstr "Mēneša"
+
+msgid "Yearly"
+msgstr "Gada"
+
+msgid "Subscribe"
+msgstr "Abonēt"
+
+msgid "Credit Card → Crypto"
+msgstr "Kredītkarte → Kriptovalūta"
+
+msgid "Buy Crypto"
+msgstr "Iegādāties kriptovalūtu"
+
+msgid "Processing..."
+msgstr "Apstrādē..."
+
+msgid "Payment successful!"
+msgstr "Maksājums veikts!"
+
+msgid "Payment failed"
+msgstr "Maksājums neizdevās"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments ļauj pieņemt kredītkartes maksājumus tieši uz jūsu kripto "
+"domenu."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate ir labi iepazīstams kripto maksājumu apstrādātājs."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay ļauj lietotājiem iegādāties kriptovalūtu ar kredītkaršu tieši uz "
+"JŪSAS domenu, pēc tam viņi nosūta to jums."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+"Pēc kriptovalūtas iegādē, lūdzu nosūtiet to uz zemāk esošo domēna adresi."
+
+msgid "Your crypto wallet address"
+msgstr "Jūsu kripto domēna adrese"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Ļaujiet manai sievietei izbaudīt mūsu kafiju"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Spēcīgs, bezmaksas ziedojumu un maksājumu logrīks, kas ļauj jūsu "
+"apmeklētājiem atbalstīt jūs ar kredītkaršu vai kriptovalūtu (Quai). Nav "
+"mēneša maksas, nav trešās puses abonementi – tikai jūsu domene un bezmaksas "
+"pakalpojumi."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Daži pārlūki bloķē trešo pušu skriptus privātuma dēļ. Šis starpnieks ielādē "
+"skriptus caur jūsu serveri, lai apietu šos bloķējumus."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Jūs varat atjaunināt zemāk minētos skriptu URL, ja oriģinālie URL mainās vai"
+" ja vēlaties izmantot citu CDN."
+
+msgid "Script"
+msgstr "Skripts"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Kešas TTL"
+
+msgid "Action"
+msgstr "Darbība"
+
+msgid "Test"
+msgstr "Tests"
+
+msgid "Refresh"
+msgstr "Atsvaidzināt"
+
+msgid "Usage:"
+msgstr "Lietošana:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js kredītkaršu maksājumiem"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK PayPal maksājumiem"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas ekrānuzņēmumu ģenerēšanai"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF PDF ģenerēšanai"
+
+msgid "External Script Proxy"
+msgstr "Ārējais skripta starpnieks"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Spiediet uz \"Test\", lai pārbaudītu, vai skripta URL ir pieejams. "
+"Starpnieks kešēs skriptus lokāli, lai uzlabotu veiktspēju."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal e-pasts (Rezerves)"
+
+msgid "Quick Stats"
+msgstr "Ātrās statistikas"
+
+msgid "Widget Status:"
+msgstr "Logdaļas statuss:"
+
+msgid "Active"
+msgstr "Aktīvs"
+
+msgid "Inactive"
+msgstr "Inaktīvs"
+
+msgid "Enabled Payment Methods:"
+msgstr "Iespējotās maksājumu metodes:"
+
+msgid "None"
+msgstr "Nekas"
+
+msgid "Crypto Wallet:"
+msgstr "Krypto portfelis:"
+
+msgid "Not set"
+msgstr "Nav iestatīts"
+
+msgid "pay_with_card"
+msgstr "Izmaksa ar karti"
+
+msgid "crypto_address_label"
+msgstr "Nosūtiet kriptovalūtu tieši uz šo adresi:"
+
+msgid "crypto_note"
+msgstr "Pienākumi tieši iet uz jūsu portfelim. Bez maksa."
+
+msgid "your_crypto_address"
+msgstr "Jūsu portfelis adrese:"
+
+msgid "nowpayments_desc"
+msgstr "Maksājiet ar kredītkaršu – kriptovalūta iet tieši uz jūsu portfelim."
+
+msgid "coingate_desc"
+msgstr "Maksājiet ar kredītkaršu – kriptovalūta uz jūsu portfelim."
+
+msgid "bitpay_desc"
+msgstr "Uzņēmumu līmeņa kriptovalūtas maksājumi. Vislabāk US uzņēmumiem."
+
+msgid "moonpay_desc"
+msgstr ""
+"Pirkiet kriptovalūtu ar kredītkaršu – pēc tam nosūtiet to uz zemāk norādīto "
+"adresi."
+
+msgid "moonpay_note"
+msgstr ""
+"Pēc kriptovalūtas iegādes lūdzu nosūtiet to uz iepriekš minēto portfelia "
+"adresi."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Pienākumi tieši iet uz jūsu portfelim. Bez maksa."
+
+msgid "Pay with Card"
+msgstr "Izmaksa ar karti"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Maksājiet ar kredītkaršu – kriptovalūta iet tieši uz jūsu portfelim."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Nosūtiet kriptovalūtu tieši uz šo adresi:"

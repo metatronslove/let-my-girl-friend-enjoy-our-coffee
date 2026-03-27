@@ -1,0 +1,792 @@
+# Turkish translation for Coffee Widget
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/let-my-girl-friend-enjoy-our-coffee\n"
+"POT-Creation-Date: 2025-03-26 18:00+0000\n"
+"PO-Revision-Date: 2025-03-26 21:00+0300\n"
+"Last-Translator: Metatron's Love <metatronslove@example.com>\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.9\n"
+
+#: admin/class-admin.php:47
+msgid "Coffee Widget Dashboard"
+msgstr "Kahve Widget Yönetim Paneli"
+
+#: admin/class-admin.php:48
+msgid "Coffee Widget"
+msgstr "Kahve Widget"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Dashboard"
+msgstr "Kahve Panosu"
+
+msgid "Payment Methods"
+msgstr "Ödeme Yöntemleri"
+
+msgid "Help & Support"
+msgstr "Yardım & Destek"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Button"
+msgstr "Düğme"
+
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+msgid "Proxy Scripts"
+msgstr "Uzak kodlar"
+
+#: admin/partials/admin-settings.php:7
+msgid "Widget Settings"
+msgstr "Widget Ayarları"
+
+#: admin/partials/admin-settings.php:28
+msgid "Widget Status"
+msgstr "Widget Durumu"
+
+#: admin/partials/admin-settings.php:29
+msgid "Widget active"
+msgstr "Widget aktif"
+
+#: admin/partials/admin-settings.php:33
+msgid "Button Color"
+msgstr "Buton Rengi"
+
+#: admin/partials/admin-settings.php:38
+msgid "Button Position"
+msgstr "Buton Konumu"
+
+#: admin/partials/admin-settings.php:39
+msgid "Left"
+msgstr "Sol"
+
+#: admin/partials/admin-settings.php:40
+msgid "Right"
+msgstr "Sağ"
+
+#: admin/partials/admin-settings.php:44
+msgid "Horizontal Margin (px)"
+msgstr "Yatay Kenar Boşluğu (px)"
+
+#: admin/partials/admin-settings.php:48
+msgid "Vertical Margin (px)"
+msgstr "Dikey Kenar Boşluğu (px)"
+
+#: admin/partials/admin-settings.php:52
+msgid "Button Message"
+msgstr "Buton Mesajı"
+
+#: admin/partials/admin-settings.php:56
+msgid "Description"
+msgstr "Açıklama"
+
+#: admin/partials/admin-settings.php:65
+msgid "Button Type"
+msgstr "Buton Tipi"
+
+#: admin/partials/admin-settings.php:66
+msgid "Emoji"
+msgstr "Emoji"
+
+#: admin/partials/admin-settings.php:67
+msgid "SVG Code"
+msgstr "SVG Kodu"
+
+#: admin/partials/admin-settings.php:68
+msgid "PNG Image URL"
+msgstr "PNG Resim URL'si"
+
+#: admin/partials/admin-settings.php:75
+msgid "Button Emoji"
+msgstr "Buton Emojisi"
+
+#: admin/partials/admin-settings.php:93
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: admin/partials/admin-settings.php:99
+msgid "Custom JavaScript"
+msgstr "Özel JavaScript"
+
+#: admin/partials/admin-payment.php:12
+msgid "Which payment service should you choose?"
+msgstr "Hangi ödeme servisini seçmelisiniz?"
+
+#: admin/partials/admin-payment.php:13
+msgid "We offer multiple services to accept credit card payments to your crypto wallet. Here's how they compare:"
+msgstr "Kripto cüzdanınıza kredi kartıyla ödeme almak için birden çok servis sunuyoruz. İşte karşılaştırması:"
+
+#: admin/partials/admin-payment.php:20
+msgid "Service"
+msgstr "Servis"
+
+#: admin/partials/admin-payment.php:21
+msgid "Fee"
+msgstr "Ücret"
+
+#: admin/partials/admin-payment.php:22
+msgid "Where does crypto go?"
+msgstr "Kripto nereye gider?"
+
+#: admin/partials/admin-payment.php:23
+msgid "WordPress Plugin"
+msgstr "WordPress Eklentisi"
+
+#: admin/partials/admin-payment.php:24
+msgid "Best for"
+msgstr "Kimler için uygun?"
+
+#: admin/partials/admin-payment.php:25
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 ABD İşletmesi?"
+
+#: admin/partials/admin-payment.php:33
+msgid "Direct Crypto"
+msgstr "Doğrudan Kripto"
+
+#: admin/partials/admin-payment.php:33
+msgid "No fee"
+msgstr "Ücretsiz"
+
+#: admin/partials/admin-payment.php:33
+msgid "Your wallet directly"
+msgstr "Doğrudan cüzdanınıza"
+
+#: admin/partials/admin-payment.php:33
+msgid "Built-in"
+msgstr "Dahili"
+
+#: admin/partials/admin-payment.php:33
+msgid "Crypto-savvy users"
+msgstr "Kripto bilen kullanıcılar"
+
+#: admin/partials/admin-payment.php:33
+msgid "Anywhere"
+msgstr "Her yerde"
+
+#: admin/partials/admin-payment.php:37
+msgid "0.5% - 1%"
+msgstr "%0.5 - %1"
+
+#: admin/partials/admin-payment.php:37
+msgid "API ready"
+msgstr "API hazır"
+
+#: admin/partials/admin-payment.php:37
+msgid "Beginners, low fees"
+msgstr "Yeni başlayanlar, düşük ücret"
+
+#: admin/partials/admin-payment.php:37
+msgid "Global (incl. Turkey)"
+msgstr "Küresel (Türkiye dahil)"
+
+#: admin/partials/admin-payment.php:41
+msgid "1%"
+msgstr "%1"
+
+#: admin/partials/admin-payment.php:41
+msgid "Official plugin"
+msgstr "Resmi eklenti"
+
+#: admin/partials/admin-payment.php:41
+msgid "Good support"
+msgstr "İyi destek"
+
+#: admin/partials/admin-payment.php:41
+msgid "Global"
+msgstr "Küresel"
+
+#: admin/partials/admin-payment.php:45
+msgid "Enterprise, US companies"
+msgstr "Kurumsal, ABD şirketleri"
+
+#: admin/partials/admin-payment.php:45
+msgid "US-friendly"
+msgstr "ABD dostu"
+
+#: admin/partials/admin-payment.php:49
+msgid "~3.5%"
+msgstr "~%3.5"
+
+#: admin/partials/admin-payment.php:49
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Önce kullanıcının cüzdanına"
+
+#: admin/partials/admin-payment.php:49
+msgid "Widget ready"
+msgstr "Widget hazır"
+
+#: admin/partials/admin-payment.php:49
+msgid "Users with own wallets"
+msgstr "Kendi cüzdanı olan kullanıcılar"
+
+#: admin/partials/admin-payment.php:53
+msgid "Stripe Crypto"
+msgstr "Stripe Kripto"
+
+#: admin/partials/admin-payment.php:53
+msgid "2.9% + $0.30"
+msgstr "%2.9 + $0.30"
+
+#: admin/partials/admin-payment.php:53
+msgid "US businesses only"
+msgstr "Sadece ABD işletmeleri"
+
+#: admin/partials/admin-payment.php:53
+msgid "❌ US ONLY"
+msgstr "❌ SADECE ABD"
+
+#: admin/partials/admin-payment.php:57
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+#: admin/partials/admin-payment.php:57
+msgid "Variable"
+msgstr "Değişken"
+
+#: admin/partials/admin-payment.php:57
+msgid "Asia markets"
+msgstr "Asya pazarları"
+
+#: admin/partials/admin-payment.php:61
+msgid "Standard fees"
+msgstr "Standart ücretler"
+
+#: admin/partials/admin-payment.php:61
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal bakiyesi"
+
+#: admin/partials/admin-payment.php:61
+msgid "PayPal users"
+msgstr "PayPal kullanıcıları"
+
+#: admin/partials/admin-payment.php:71
+msgid "Tip:"
+msgstr "İpucu:"
+
+#: admin/partials/admin-payment.php:71
+msgid "If you are outside the US, we recommend NOWPayments (lowest fees, direct to your wallet). If you are in the US, Stripe Crypto is also an option. You can enable multiple services and let your visitors choose!"
+msgstr "ABD dışındaysanız NOWPayments öneririz (en düşük ücret, doğrudan cüzdanınıza). ABD'deyseniz Stripe Crypto da bir seçenek. Birden çok servisi aktif edip ziyaretçilerinizin seçmesini sağlayabilirsiniz!"
+
+#: admin/partials/admin-payment.php:78
+msgid "Enabled Payment Methods"
+msgstr "Aktif Ödeme Yöntemleri"
+
+#: admin/partials/admin-payment.php:79
+msgid "Select which payment options will appear in your widget. Your visitors can choose their preferred method."
+msgstr "Widget'ınızda hangi ödeme seçeneklerinin görüneceğini seçin. Ziyaretçileriniz tercih ettikleri yöntemi seçebilir."
+
+#: admin/partials/admin-payment.php:85
+msgid "Show these methods"
+msgstr "Bu yöntemleri göster"
+
+#: admin/partials/admin-payment.php:86
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Doğrudan Kripto (Cüzdan adresi)"
+
+#: admin/partials/admin-payment.php:87
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Kredi Kartı → Kripto)"
+
+#: admin/partials/admin-payment.php:88
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Kredi Kartı → Kripto)"
+
+#: admin/partials/admin-payment.php:89
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Kredi Kartı → Kripto)"
+
+#: admin/partials/admin-payment.php:90
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Kullanıcı önce kripto satın alır)"
+
+#: admin/partials/admin-payment.php:91
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Kredi Kartı)"
+
+#: admin/partials/admin-payment.php:92
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+#: admin/partials/admin-payment.php:98
+msgid "Display your wallet address so users can send crypto directly. Zero fees, but requires users to already have crypto."
+msgstr "Kullanıcıların doğrudan kripto gönderebilmesi için cüzdan adresinizi gösterin. Ücretsiz, ancak kullanıcıların önceden kripto sahibi olmasını gerektirir."
+
+#: admin/partials/admin-payment.php:104
+msgid "Wallet Address"
+msgstr "Cüzdan Adresi"
+
+#: admin/partials/admin-payment.php:105
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Quai, Ethereum, Bitcoin veya diğer cüzdan adresiniz."
+
+#: admin/partials/admin-payment.php:111
+msgid "Network"
+msgstr "Ağ"
+
+#: admin/partials/admin-payment.php:114
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Ağı (Önerilen - ücretsiz)"
+
+#: admin/partials/admin-payment.php:115
+msgid "Ethereum"
+msgstr "Ethereum"
+
+#: admin/partials/admin-payment.php:116
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+#: admin/partials/admin-payment.php:117
+msgid "Solana"
+msgstr "Solana"
+
+#: admin/partials/admin-payment.php:118
+msgid "Polygon"
+msgstr "Polygon"
+
+#: admin/partials/admin-payment.php:126
+msgid "Best for beginners & lowest fees"
+msgstr "Yeni başlayanlar için en iyisi ve en düşük ücretler"
+
+#: admin/partials/admin-payment.php:127
+msgid "NOWPayments allows you to accept credit card payments directly to your crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr "NOWPayments, kredi kartıyla ödemeleri doğrudan kripto cüzdanınıza kabul etmenizi sağlar. Fonlar doğrudan cüzdanınıza gider – aracı yok."
+
+#: admin/partials/admin-payment.php:128
+msgid "Fee:"
+msgstr "Ücret:"
+
+#: admin/partials/admin-payment.php:128
+msgid "per transaction"
+msgstr "işlem başına"
+
+#: admin/partials/admin-payment.php:128
+msgid "Payout:"
+msgstr "Ödeme:"
+
+#: admin/partials/admin-payment.php:128
+msgid "Direct to your wallet"
+msgstr "Doğrudan cüzdanınıza"
+
+#: admin/partials/admin-payment.php:129
+msgid "Setup:"
+msgstr "Kurulum:"
+
+#: admin/partials/admin-payment.php:129
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Ücretsiz hesap oluştur → API Anahtarları → API Anahtarını kopyala"
+
+#: admin/partials/admin-payment.php:135
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Anahtarı"
+
+#: admin/partials/admin-payment.php:136
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "NOWPayments panelinden API anahtarınızı yapıştırın."
+
+#: admin/partials/admin-payment.php:146
+msgid "Great support, slightly higher fee"
+msgstr "Harika destek, biraz daha yüksek ücret"
+
+#: admin/partials/admin-payment.php:147
+msgid "CoinGate is a well-established crypto payment processor with an official WordPress plugin."
+msgstr "CoinGate, resmi WordPress eklentisi olan köklü bir kripto ödeme işlemcisidir."
+
+#: admin/partials/admin-payment.php:149
+msgid "coingate.com"
+msgstr "coingate.com"
+
+#: admin/partials/admin-payment.php:149
+msgid "Create account → API Keys"
+msgstr "Hesap oluştur → API Anahtarları"
+
+#: admin/partials/admin-payment.php:155
+msgid "CoinGate API Key"
+msgstr "CoinGate API Anahtarı"
+
+#: admin/partials/admin-payment.php:165
+msgid "Enterprise-grade, US-friendly"
+msgstr "Kurumsal seviye, ABD dostu"
+
+#: admin/partials/admin-payment.php:167
+msgid "1% per transaction"
+msgstr "İşlem başına %1"
+
+#: admin/partials/admin-payment.php:168
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+#: admin/partials/admin-payment.php:168
+msgid "Business account → API Keys"
+msgstr "İşletme hesabı → API Anahtarları"
+
+#: admin/partials/admin-payment.php:174
+msgid "BitPay API Key"
+msgstr "BitPay API Anahtarı"
+
+#: admin/partials/admin-payment.php:184
+msgid "Users buy crypto first, then send to you"
+msgstr "Kullanıcılar önce kripto satın alır, sonra size gönderir"
+
+#: admin/partials/admin-payment.php:185
+msgid "MoonPay lets users buy crypto with credit card directly to THEIR wallet, then they send it to you. Higher fees but very simple for users."
+msgstr "MoonPay, kullanıcıların kredi kartıyla kripto satın almasını doğrudan KENDİ cüzdanlarına yapar, sonra size gönderirler. Daha yüksek ücret ama kullanıcılar için çok basit."
+
+#: admin/partials/admin-payment.php:186
+msgid "~3.5% per transaction"
+msgstr "İşlem başına ~%3.5"
+
+#: admin/partials/admin-payment.php:186
+msgid "User's wallet first"
+msgstr "Önce kullanıcının cüzdanına"
+
+#: admin/partials/admin-payment.php:187
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+#: admin/partials/admin-payment.php:193
+msgid "MoonPay API Key"
+msgstr "MoonPay API Anahtarı"
+
+#: admin/partials/admin-payment.php:203
+msgid "Important:"
+msgstr "Önemli:"
+
+#: admin/partials/admin-payment.php:203
+msgid "Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If you are outside the US, Stripe will only accept credit card payments to your Stripe balance (not directly to crypto)."
+msgstr "Stripe Kripto ödemeleri (USDC) SADECE ABD merkezli işletmeler için kullanılabilir. ABD dışındaysanız, Stripe kredi kartı ödemelerini yalnızca Stripe bakiyenize kabul eder (doğrudan kriptoya değil)."
+
+#: admin/partials/admin-payment.php:204
+msgid "If you are in the US, you can use Stripe to receive crypto directly. If outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr "ABD'deyseniz, doğrudan kripto almak için Stripe kullanabilirsiniz. Dışındaysanız, doğrudan kripto ödemeleri için NOWPayments veya CoinGate'i değerlendirin."
+
+#: admin/partials/admin-payment.php:211
+msgid "Stripe Publishable Key"
+msgstr "Stripe Yayınlanabilir Anahtar"
+
+#: admin/partials/admin-payment.php:218
+msgid "Stripe Secret Key"
+msgstr "Stripe Gizli Anahtar"
+
+#: admin/partials/admin-payment.php:229
+msgid "Classic PayPal payments. Users pay with PayPal balance or credit card. Funds go to your PayPal account."
+msgstr "Klasik PayPal ödemeleri. Kullanıcılar PayPal bakiyesi veya kredi kartıyla öder. Fonlar PayPal hesabınıza gider."
+
+#: admin/partials/admin-payment.php:230
+msgid "Standard PayPal transaction fees apply."
+msgstr "Standart PayPal işlem ücretleri uygulanır."
+
+#: admin/partials/admin-payment.php:236
+msgid "PayPal Client ID"
+msgstr "PayPal Müşteri Kimliği"
+
+#: admin/partials/admin-payment.php:237
+msgid "Get your PayPal API credentials from <a href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer Dashboard</a>."
+msgstr "PayPal API kimlik bilgilerinizi <a href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Geliştirici Paneli</a>'nden alın."
+
+#: admin/partials/admin-payment.php:244
+msgid "PayPal Secret"
+msgstr "PayPal Gizli Anahtar"
+
+#: admin/partials/admin-payment.php:251
+msgid "Donation Tiers"
+msgstr "Bağış Seçenekleri"
+
+#: admin/partials/admin-payment.php:257
+msgid "Add Tier"
+msgstr "Seçenek Ekle"
+
+#: admin/partials/admin-payment.php:258
+msgid "Remove"
+msgstr "Kaldır"
+
+#: admin/partials/admin-payment.php:259
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr "Ön tanımlı bağış miktarları (USD). Sadece özel miktar için boş bırakın."
+
+#: admin/partials/admin-payment.php:269
+msgid "Enable Membership"
+msgstr "Üyelikleri Etkinleştir"
+
+#: admin/partials/admin-payment.php:270
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Tekrarlayan aboneliklere izin ver (Stripe Subscriptions gerektirir)."
+
+#: public/class-public.php:128
+msgid "Support"
+msgstr "Destek"
+
+#: public/class-public.php:129
+msgid "Donate"
+msgstr "Bağış Yap"
+
+#: public/class-public.php:130
+msgid "Membership"
+msgstr "Üyelik"
+
+#: public/class-public.php:131
+msgid "Crypto"
+msgstr "Kripto"
+
+#: public/class-public.php:132
+msgid "Credit Card"
+msgstr "Kredi Kartı"
+
+#: public/class-public.php:134
+msgid "Choose amount"
+msgstr "Miktar seçin"
+
+#: public/class-public.php:135
+msgid "Custom amount"
+msgstr "Özel miktar"
+
+#: public/class-public.php:136
+msgid "Enter amount (USD)"
+msgstr "Miktar girin (USD)"
+
+#: public/class-public.php:137
+msgid "Donate Now"
+msgstr "Bağış Yap"
+
+#: public/class-public.php:138
+msgid "Crypto Address"
+msgstr "Kripto Adresi"
+
+#: public/class-public.php:139
+msgid "Copy Address"
+msgstr "Adresi Kopyala"
+
+#: public/class-public.php:140
+msgid "Copied!"
+msgstr "Kopyalandı!"
+
+#: public/class-public.php:141
+msgid "Pay with Credit Card"
+msgstr "Kredi Kartı ile Öde"
+
+#: public/class-public.php:142
+msgid "Pay with PayPal"
+msgstr "PayPal ile Öde"
+
+#: public/class-public.php:143
+msgid "Membership Plans"
+msgstr "Üyelik Planları"
+
+#: public/class-public.php:144
+msgid "Monthly"
+msgstr "Aylık"
+
+#: public/class-public.php:145
+msgid "Yearly"
+msgstr "Yıllık"
+
+#: public/class-public.php:146
+msgid "Subscribe"
+msgstr "Abone Ol"
+
+#: public/widget-js.php
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+#: public/widget-js.php
+msgid "CoinGate"
+msgstr "CoinGate"
+
+#: public/widget-js.php
+msgid "BitPay"
+msgstr "BitPay"
+
+#: public/widget-js.php
+msgid "MoonPay"
+msgstr "MoonPay"
+
+#: public/widget-js.php
+msgid "Stripe"
+msgstr "Stripe"
+
+#: public/widget-js.php
+msgid "PayPal"
+msgstr "PayPal"
+
+#: public/widget-js.php
+msgid "Credit Card → Crypto"
+msgstr "Kredi Kartı → Kripto"
+
+#: public/widget-js.php
+msgid "Buy Crypto"
+msgstr "Kripto Satın Al"
+
+#: public/widget-js.php
+msgid "Processing..."
+msgstr "İşleniyor..."
+
+#: public/widget-js.php
+msgid "Payment successful!"
+msgstr "Ödeme başarılı!"
+
+#: public/widget-js.php
+msgid "Payment failed"
+msgstr "Ödeme başarısız"
+
+#: public/widget-js.php
+msgid "NOWPayments allows you to accept credit card payments directly to your crypto wallet."
+msgstr "NOWPayments, kredi kartıyla ödemeleri doğrudan kripto cüzdanınıza kabul etmenizi sağlar."
+
+#: public/widget-js.php
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate, köklü bir kripto ödeme işlemcisidir."
+
+#: public/widget-js.php
+msgid "BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr "BitPay büyük şirketler tarafından güvenilir. ABD merkezli işletmeler için iyi çalışır."
+
+#: public/widget-js.php
+msgid "MoonPay lets users buy crypto with credit card directly to THEIR wallet, then they send it to you."
+msgstr "MoonPay, kullanıcıların kredi kartıyla kripto satın almasını doğrudan KENDİ cüzdanlarına yapar, sonra size gönderirler."
+
+#: public/widget-js.php
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Kripto satın aldıktan sonra lütfen aşağıdaki cüzdan adresine gönderin."
+
+#: public/widget-js.php
+msgid "Your crypto wallet address"
+msgstr "Kripto cüzdan adresiniz"
+
+#. Plugin Name of the plugin
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Kız Arkadaşım Kahvemizin Tadını Çıkarsın"
+
+#. Plugin Description of the plugin
+msgid "A powerful, free donation and payment widget that allows your visitors to support you via credit card or cryptocurrency (Quai). No monthly fees, no third-party subscriptions – just your wallet and free services."
+msgstr "Ziyaretçilerinizin kredi kartı veya kripto para (Quai) ile sizi desteklemesini sağlayan güçlü, ücretsiz bir bağış ve ödeme widget'ı. Aylık ücret yok, üçüncü taraf abonelikleri yok – sadece cüzdanınız ve ücretsiz hizmetler."
+
+#: admin/partials/admin-settings.php
+msgid "External Script Proxy"
+msgstr "Harici Script Proxy'si"
+
+msgid "Some browsers block third-party scripts for privacy. This proxy loads scripts through your own server to bypass these blocks."
+msgstr "Bazı tarayıcılar gizlilik için üçüncü taraf script'leri engeller. Bu proxy, script'leri kendi sunucunuz üzerinden yükleyerek bu engelleri aşar."
+
+msgid "You can update the script URLs below if the original URLs change or if you want to use a different CDN."
+msgstr "Orijinal URL'ler değişirse veya farklı bir CDN kullanmak isterseniz aşağıdaki script URL'lerini güncelleyebilirsiniz."
+
+msgid "Script"
+msgstr "Script"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Önbellek Süresi"
+
+msgid "Action"
+msgstr "İşlem"
+
+msgid "Test"
+msgstr "Test Et"
+
+msgid "Refresh"
+msgstr "Yenile"
+
+msgid "Usage:"
+msgstr "Kullanım:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Kredi kartı ödemeleri için Stripe.js"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal ödemeleri için PayPal SDK"
+
+msgid "html2canvas for screenshot generation"
+msgstr "Ekran görüntüsü oluşturmak için html2canvas"
+
+msgid "jsPDF for PDF generation"
+msgstr "PDF oluşturmak için jsPDF"
+
+msgid "Click \"Test\" to check if the script URL is accessible. The proxy will cache scripts locally for better performance."
+msgstr "Script URL'sinin erişilebilir olup olmadığını kontrol etmek için \"Test Et\"e tıklayın. Proxy, daha iyi performans için script'leri yerel olarak önbelleğe alır."
+
+#: admin/partials/admin-payment.php
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal E-posta (Yedek)"
+
+#: admin/partials/dashboard-local.php
+msgid "Quick Stats"
+msgstr "Hızlı İstatistikler"
+
+msgid "Widget Status:"
+msgstr "Widget Durumu:"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Inactive"
+msgstr "Pasif"
+
+msgid "Enabled Payment Methods:"
+msgstr "Aktif Ödeme Yöntemleri:"
+
+msgid "None"
+msgstr "Yok"
+
+msgid "Crypto Wallet:"
+msgstr "Kripto Cüzdan:"
+
+msgid "Not set"
+msgstr "Ayarlanmamış"
+
+#: public/class-public.php
+msgid "pay_with_card"
+msgstr "Kart ile Öde"
+
+msgid "crypto_address_label"
+msgstr "Kripto para göndermek için bu adresi kullanın:"
+
+msgid "crypto_note"
+msgstr "Fonlar doğrudan cüzdanınıza gider. Ücret yoktur."
+
+msgid "your_crypto_address"
+msgstr "Cüzdan adresiniz:"
+
+msgid "nowpayments_desc"
+msgstr "Kredi kartı ile öde – kripto doğrudan cüzdanınıza gider."
+
+msgid "coingate_desc"
+msgstr "Kredi kartı ile öde – kripto cüzdanınıza gider."
+
+msgid "bitpay_desc"
+msgstr "Kurumsal seviye kripto ödemeleri. ABD işletmeleri için idealdir."
+
+msgid "moonpay_desc"
+msgstr "Kredi kartıyla kripto satın alın – ardından aşağıdaki adrese gönderin."
+
+msgid "moonpay_note"
+msgstr "Kripto satın aldıktan sonra lütfen yukarıdaki cüzdan adresine gönderin."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Fonlar doğrudan cüzdanınıza gider. Ücret yoktur."
+
+msgid "Pay with Card"
+msgstr "Kart ile Öde"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Kredi kartı ile öde – kripto doğrudan cüzdanınıza gider."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Şu cüzdan adresine doğrudan kripto para gönder:"

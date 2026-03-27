@@ -1,0 +1,704 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Bosnian <bs_BA>\n"
+"Language: bs-BA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Kuhani Widget nadzorna ploča"
+
+msgid "Coffee Widget"
+msgstr "Kafa Widget"
+
+msgid "Settings"
+msgstr "Postavke"
+
+msgid "Dashboard"
+msgstr "Nadzorna ploča"
+
+msgid "Payment Methods"
+msgstr "Načini plaćanja"
+
+msgid "Help & Support"
+msgstr "Pomoć & Podrška"
+
+msgid "General"
+msgstr "Općenito"
+
+msgid "Button"
+msgstr "Dugme"
+
+msgid "Advanced"
+msgstr "Napredno"
+
+msgid "Proxy Scripts"
+msgstr "Skripte proxy"
+
+msgid "Widget Settings"
+msgstr "Postavke widgeta"
+
+msgid "Widget Status"
+msgstr "Status widgeta"
+
+msgid "Widget active"
+msgstr "Widget aktivan"
+
+msgid "Button Color"
+msgstr "Boja dugmeta"
+
+msgid "Button Position"
+msgstr "Pozicija dugmeta"
+
+msgid "Left"
+msgstr "Lijevo"
+
+msgid "Right"
+msgstr "Desno"
+
+msgid "Horizontal Margin (px)"
+msgstr "Horizontalni margina (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Vertikalni margina (px)"
+
+msgid "Button Message"
+msgstr "Poruka dugmeta"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Button Type"
+msgstr "Tip dugmeta"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "SVG kod"
+
+msgid "PNG Image URL"
+msgstr "PNG URL slike"
+
+msgid "Button Emoji"
+msgstr "Emoji dugmeta"
+
+msgid "Custom CSS"
+msgstr "Prilagođeni CSS"
+
+msgid "Custom JavaScript"
+msgstr "Prilagođeni JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "Koju uslugu plaćanja biste trebali odabrati?"
+
+msgid "Service"
+msgstr "Usluga"
+
+msgid "Fee"
+msgstr "Naknada"
+
+msgid "Where does crypto go?"
+msgstr "Gdje ide kriptovaluta?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress dodatak"
+
+msgid "Best for"
+msgstr "Najbolje za"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 SAD poslovanje?"
+
+msgid "Direct Crypto"
+msgstr "Izravna kripto"
+
+msgid "No fee"
+msgstr "Bez naknade"
+
+msgid "Your wallet directly"
+msgstr "Vaša novčanik izravno"
+
+msgid "Built-in"
+msgstr "Ugrađeno"
+
+msgid "Crypto-savvy users"
+msgstr "Korisnici s kripto znanjem"
+
+msgid "Anywhere"
+msgstr "Bilo gdje"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API spreman"
+
+msgid "Beginners, low fees"
+msgstr "Početnici, niske naknade"
+
+msgid "Global (incl. Turkey)"
+msgstr "Globalno (uključujući Tursku)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Zvanični dodatak"
+
+msgid "Good support"
+msgstr "Dobra podrška"
+
+msgid "Global"
+msgstr "Globalno"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Poduzeća, SAD tvrtke"
+
+msgid "US-friendly"
+msgstr "Prijateljski prema SAD-u"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Korisnički novčanik prvi"
+
+msgid "Widget ready"
+msgstr "Widget spreman"
+
+msgid "Users with own wallets"
+msgstr "Korisnici s vlastitim novčanicima"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Samo američka preduzeća"
+
+msgid "❌ US ONLY"
+msgstr "❌ SAMO AMERIKA"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Varijabilno"
+
+msgid "Asia markets"
+msgstr "Azijski tržišta"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Standardne takse"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal stanje"
+
+msgid "PayPal users"
+msgstr "PayPal korisnici"
+
+msgid "Tip:"
+msgstr "Savjet:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Ukoliko se nalazite izvan SAD-a, preporučujemo NOWPayments (najniže takse, "
+"direktno na vaš novčanik). Ako se nalazite u SAD-u, Stripe Crypto je također"
+" opcija. Možete omogućiti više usluga i dopustiti posjetiteljima da odaberu!"
+
+msgid "Enabled Payment Methods"
+msgstr "Omogućeni načini plaćanja"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Odaberite koje će opcije plaćanja biti prikazane u vašem widgetu. "
+"Posjetitelji mogu odabrati preferirani način."
+
+msgid "Show these methods"
+msgstr "Prikaži ove metode"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Direktna kriptovaluta (adresa novčanika)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Kreditna kartica → Kriptovaluta)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Kreditna kartica → Kriptovaluta)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Kreditna kartica → Kriptovaluta)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Korisnik kupuje kripto prvo)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Kreditna kartica)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Prikažite svoju adresu novčanika kako bi korisnici mogli slati kripto "
+"direktno. Nema taksi, ali korisnici moraju već imati kripto."
+
+msgid "Wallet Address"
+msgstr "Adresa novčanika"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Vaša Quai, Ethereum, Bitcoin ili druga adresa novčanika."
+
+msgid "Network"
+msgstr "Mreža"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Mreža (Preporučeno - besplatno)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Najbolje za početnike & najniže naknade"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments omogućuje da primate plaćanja kreditnom karticom izravno na svoj"
+" kripto novčanik. Fondovi idu izravno u vaš novčanik – bez posrednika."
+
+msgid "Fee:"
+msgstr "Naknada:"
+
+msgid "per transaction"
+msgstr "po transakciji"
+
+msgid "Payout:"
+msgstr "Isplata:"
+
+msgid "Direct to your wallet"
+msgstr "Izravno u vaš novčanik"
+
+msgid "Setup:"
+msgstr "Podešavanje:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Kreirajte besplatni račun → API ključevi → Kopirajte API ključ"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API ključ"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Zalijepite svoj API ključ s NOWPayments nadzorne ploče."
+
+msgid "Great support, slightly higher fee"
+msgstr "Odlična podrška, nešto viša naknada"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate je dobro uspostavljen procesor kripto plaćanja s službenim "
+"WordPress dodatkom."
+
+msgid "1% per transaction"
+msgstr "1% po transakciji"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Kreirajte račun → API ključevi"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API ključ"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Enterprise-grade, US-friendly"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay je pouzdan od strane velikih kompanija. Dobra je za američke "
+"poslovnice."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Poslovni račun → API ključevi"
+
+msgid "BitPay API Key"
+msgstr "BitPay API ključ"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Korisnici najprije kupuju kripto, a zatim ga šalju vama"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay omogućuje korisnicima da kupuju kripto kreditnom karticom izravno u "
+"NINJO novčanik, a zatim ga šalju vama. Više naknade, ali vrlo jednostavno za"
+" korisnike."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% po transakciji"
+
+msgid "User's wallet first"
+msgstr "Prvo korisnički novčanik"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API ključ"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Važno:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe kripto plaćanja (USDC) dostupna su ISključivo za biznise iz SAD-a. "
+"Ako ste izvan SAD-a, Stripe će prihvatiti samo kreditna kartica koja se "
+"prebacuju na vaš Stripe balans (ne direktno na kripto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Ako se nalazite u SAD-u, možete koristiti Stripe za direktno primanje "
+"kripta. Ako ste izvan, razmislite o NOWPayments ili CoinGate za direktne "
+"kripto isplate."
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe objavljiv ključ"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe tajni ključ"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Klasična PayPal plaćanja. Korisnici plaćaju s PayPal saldom ili kreditnom "
+"karticom. Novac ide na vaš PayPal račun."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Primjenjuju se standardne PayPal transakcijske naknade."
+
+msgid "PayPal Client ID"
+msgstr "PayPal Klijent ID"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Dobijte svoje PayPal API vjerodajnice sa <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "PayPal Tajna"
+
+msgid "Donation Tiers"
+msgstr "Razredi donacija"
+
+msgid "Add Tier"
+msgstr "Dodaj razred"
+
+msgid "Remove"
+msgstr "Ukloni"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Predefinirane iznose donacija (USD). Ostavite prazno za samo prilagođeni "
+"iznos."
+
+msgid "Membership"
+msgstr "Članstvo"
+
+msgid "Enable Membership"
+msgstr "Omogući članstvo"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Dozvoli ponovljene pretplate (zavisno od Stripe Pretplata)."
+
+msgid "Support"
+msgstr "Podrška"
+
+msgid "Donate"
+msgstr "Doniraj"
+
+msgid "Crypto"
+msgstr "Kripto"
+
+msgid "Credit Card"
+msgstr "Kreditna kartica"
+
+msgid "Choose amount"
+msgstr "Izaberite iznos"
+
+msgid "Custom amount"
+msgstr "Prilagođeni iznos"
+
+msgid "Enter amount (USD)"
+msgstr "Unesite iznos (USD)"
+
+msgid "Donate Now"
+msgstr "Doniraj sada"
+
+msgid "Crypto Address"
+msgstr "Kripto adresa"
+
+msgid "Copy Address"
+msgstr "Kopiraj adresu"
+
+msgid "Copied!"
+msgstr "Kopirano!"
+
+msgid "Pay with Credit Card"
+msgstr "Plati kreditnom karticom"
+
+msgid "Pay with PayPal"
+msgstr "Plati PayPalom"
+
+msgid "Membership Plans"
+msgstr "Planovi članstva"
+
+msgid "Monthly"
+msgstr "Mjesecno"
+
+msgid "Yearly"
+msgstr "Godišnje"
+
+msgid "Subscribe"
+msgstr "Pretplati se"
+
+msgid "Credit Card → Crypto"
+msgstr "Kreditna kartica → Kripto"
+
+msgid "Buy Crypto"
+msgstr "Kupi kripto"
+
+msgid "Processing..."
+msgstr "Obrađuje se..."
+
+msgid "Payment successful!"
+msgstr "Plaćanje uspjelo!"
+
+msgid "Payment failed"
+msgstr "Plaćanje nije uspjelo"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments vam omogućuje da primate plaćanja kreditnom karticom direktno na"
+" vaš kripto novčanik."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate je dobro etablirani procesor kripto plaćanja."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay omogućuje korisnicima da kupe kripto s kreditnom karticom direktno u"
+" njihov novčanik, a zatim ga pošalju vama."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Nakon kupnje kripta, molimo pošaljite ga na adresu novčanika ispod."
+
+msgid "Your crypto wallet address"
+msgstr "Adresa vašeg kripto novčanika"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Neka moja djevojka uživa u našoj kavi"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Moćan, besplatan widget za donacije i plaćanja koji vašim posjetiteljima "
+"omogućuje da vas podrže kreditnom karticom ili kriptovalutama (Quai). Nema "
+"mjesečnih naknada, nema pretplata trećih strana – samo vaš novčanik i "
+"besplatne usluge."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Neki preglednici blokiraju skripte trećih strana radi privatnosti. Ovaj "
+"proxy učitava skripte putem vlastitog servera kako bi zaobišao ove blokade."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Možete ažurirati URL-ove skripti ispod ako se originalni URL-ovi promijene "
+"ili ako želite koristiti drugi CDN."
+
+msgid "Script"
+msgstr "Skript"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Akcija"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Refresh"
+msgstr "Osvježi"
+
+msgid "Usage:"
+msgstr "Upotreba:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js za plaćanja kreditnom karticom"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK za PayPal plaćanja"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas za generiranje snimaka ekrana"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF za generiranje PDF-ova"
+
+msgid "External Script Proxy"
+msgstr "Proxy za vanjske skripte"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Kliknite \"Test\" da biste provjerili je li URL skripte dostupan. Proxy će "
+"keširati skripte lokalno radi bolje performanse."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal Email (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Brze Statistike"
+
+msgid "Widget Status:"
+msgstr "Status Widget-a:"
+
+msgid "Active"
+msgstr "Aktivan"
+
+msgid "Inactive"
+msgstr "Neaktivan"
+
+msgid "Enabled Payment Methods:"
+msgstr "Omogućene Metode Plaćanja:"
+
+msgid "None"
+msgstr "Nijedna"
+
+msgid "Crypto Wallet:"
+msgstr "Kripto Novčanik:"
+
+msgid "Not set"
+msgstr "Nije postavljeno"
+
+msgid "pay_with_card"
+msgstr "Plaćanje karticom"
+
+msgid "crypto_address_label"
+msgstr "Pošaljite kriptovalutu direktno na ovu adresu:"
+
+msgid "crypto_note"
+msgstr "Fondovi idu direktno u vaš novčanik. Bez naknada."
+
+msgid "your_crypto_address"
+msgstr "Vaša adresa novčanika:"
+
+msgid "nowpayments_desc"
+msgstr "Plaćajte kreditnom karticom – kripto ide direktno u vaš novčanik."
+
+msgid "coingate_desc"
+msgstr "Plaćajte kreditnom karticom – kripto u vaš novčanik."
+
+msgid "bitpay_desc"
+msgstr "Korporativni nivo kripto plaćanja. Najbolje za američka preduzeća."
+
+msgid "moonpay_desc"
+msgstr "Kupite kripto kreditnom karticom – zatim pošaljite na adresu ispod."
+
+msgid "moonpay_note"
+msgstr "Nakon kupovine kripta, pošaljite ga na adresu novčanika iznad."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Fondovi idu direktno u vaš novčanik. Bez naknada."
+
+msgid "Pay with Card"
+msgstr "Plaćanje karticom"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Plaćajte kreditnom karticom – kripto ide direktno u vaš novčanik."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Pošaljite kriptovalutu direktno na ovu adresu:"

@@ -1,0 +1,719 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Malagasy <mg_MG>\n"
+"Language: mg-MG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Tabilao widget kafe"
+
+msgid "Coffee Widget"
+msgstr "Widget kafe"
+
+msgid "Settings"
+msgstr "Fikirakirana"
+
+msgid "Dashboard"
+msgstr "Tabilao kafe"
+
+msgid "Payment Methods"
+msgstr "Fomba fandoavam-bola"
+
+msgid "Help & Support"
+msgstr "Fanampiana & Fanohanana"
+
+msgid "General"
+msgstr "Ankapobeny"
+
+msgid "Button"
+msgstr "Bokotra"
+
+msgid "Advanced"
+msgstr "Mandroso"
+
+msgid "Proxy Scripts"
+msgstr "Script proxy"
+
+msgid "Widget Settings"
+msgstr "Fikirakirana widget"
+
+msgid "Widget Status"
+msgstr "Toetry ny widget"
+
+msgid "Widget active"
+msgstr "Widget mavitrika"
+
+msgid "Button Color"
+msgstr "Loko bokotra"
+
+msgid "Button Position"
+msgstr "Toerana bokotra"
+
+msgid "Left"
+msgstr "Andrefana"
+
+msgid "Right"
+msgstr "Marindrano"
+
+msgid "Horizontal Margin (px)"
+msgstr "Margin amin'ny laoniny (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Margin mitsangana (px)"
+
+msgid "Button Message"
+msgstr "Hafatra bokotra"
+
+msgid "Description"
+msgstr "Famaritana"
+
+msgid "Button Type"
+msgstr "Karazana bokotra"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "Kaody SVG"
+
+msgid "PNG Image URL"
+msgstr "URL sary PNG"
+
+msgid "Button Emoji"
+msgstr "Emoji bokotra"
+
+msgid "Custom CSS"
+msgstr "CSS manokana"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript manokana"
+
+msgid "Which payment service should you choose?"
+msgstr "Inona ny serivisy fandoavam-bola tokony ho safidinao?"
+
+msgid ""
+"We offer multiple services to accept credit card payments to your crypto "
+"wallet. Here's how they compare:"
+msgstr ""
+"Manolotra serivisy marobe amin'ny fandraisana fandoavam-bola amin'ny karatra"
+" crédit ho an'ny vatsim-bola crypto-nao izahay. Ity misy fampitahana:"
+
+msgid "Service"
+msgstr "Serivisy"
+
+msgid "Fee"
+msgstr "Sarany"
+
+msgid "Where does crypto go?"
+msgstr "Aiza no alefa crypto?"
+
+msgid "WordPress Plugin"
+msgstr "Plug‑in WordPress"
+
+msgid "Best for"
+msgstr "Ho an'ny"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Orinasa US?"
+
+msgid "Direct Crypto"
+msgstr "Crypto mivantana"
+
+msgid "No fee"
+msgstr "Tsy misy sarany"
+
+msgid "Your wallet directly"
+msgstr "Volanao mivantana"
+
+msgid "Built-in"
+msgstr "Ao anatiny"
+
+msgid "Crypto-savvy users"
+msgstr "Mpampiasa mahay crypto"
+
+msgid "Anywhere"
+msgstr "Aiza na aiza"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API vonona"
+
+msgid "Beginners, low fees"
+msgstr "Zavatra voalohany, sarany ambany"
+
+msgid "Global (incl. Turkey)"
+msgstr "Manerantany (anisan'izany i Turkey)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Plug‑in ofisialy"
+
+msgid "Good support"
+msgstr "Fanohanana tsara"
+
+msgid "Global"
+msgstr "Manerantany"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Orinasa lehibe, orinasa US"
+
+msgid "US-friendly"
+msgstr "Manam-pikasana US"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Vokanao voalohany"
+
+msgid "Widget ready"
+msgstr "Widget vonona"
+
+msgid "Users with own wallets"
+msgstr "Mpampiasa manana kaonty manokana"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Orinasa US fotsiny"
+
+msgid "❌ US ONLY"
+msgstr "❌ US fotsiny"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Miovaova"
+
+msgid "Asia markets"
+msgstr "tsena Azia"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Sarany mahazatra"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Balance PayPal"
+
+msgid "PayPal users"
+msgstr "Mpampiasa PayPal"
+
+msgid "Tip:"
+msgstr "Torohevitra:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Raha any ivelan'i US ianao, dia manoro NOWPayments (sarany ambany indrindra,"
+" mivantana amin'ny vatasainao). Raha any US ianao, Stripe Crypto koa dia "
+"safidy. Azonao atao ny mamela serivisy maro ary manampy mpitsidika misafidy!"
+
+msgid "Enabled Payment Methods"
+msgstr "Fomba fandoavam-bola nalaina"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Safidio ireo safidy fandoavana hiseho ao amin'ny widget-nao. Azonao "
+"ampiarahana amin'ny fomba tiany ny mpitsidika."
+
+msgid "Show these methods"
+msgstr "Asehoy ireto fomba fandoavana"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Crypto mivantana (Adiresy vola)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Kady fandoavam-bola → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Kady fandoavam-bola → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Kady fandoavam-bola → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Mividy crypto aloha ny mpampiasa)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Kady fandoavam-bola)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Asehoy ny adiresy vola anao mba handefa crypto mivantana. Tsy misy sarany, "
+"saingy mitaky ny mpampiasa manana crypto efa izy."
+
+msgid "Wallet Address"
+msgstr "Adiresy Vola"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Ny Quai, Ethereum, Bitcoin, na adiresy vola hafa anao."
+
+msgid "Network"
+msgstr "Tambajotra"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Tambajotra Quai (Soso-kevitra - maimaim-poana)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Tsara indrindra ho an'ny vao manomboka & sarany ambany indrindra"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"Ny NOWPayments dia ahafahanao mandray fandoavana amin'ny carte de crédit "
+"mivantana amin'ny vosa-mbola crypto anao. Mandefa mivantana amin'ny vosa-"
+"mbola anao ny vola – tsy misy mpampita."
+
+msgid "Fee:"
+msgstr "Sarany:"
+
+msgid "per transaction"
+msgstr "isaky ny fandraisana"
+
+msgid "Payout:"
+msgstr "Fandefasana:"
+
+msgid "Direct to your wallet"
+msgstr "Mivantana amin'ny vosa-mbola anao"
+
+msgid "Setup:"
+msgstr "Fametrahana:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Mamorona kaonty maimaim-poana → Fanalahidy API → Kopia API Key"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments Fanalahidy API"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Ampidiro ny fanalahidy API avy amin'ny dashboard NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Fanohanana tsara, sarany ambony kely"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate dia mpanampy fandoavana crypto efa malaza amin'ny plugin ofisialy "
+"WordPress."
+
+msgid "1% per transaction"
+msgstr "1% isaky ny fandraisana"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Mamorona kaonty → Fanalahidy API"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate Fanalahidy API"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Ambony kalitao amin'ny orinasa, mifanaraka amin'ny US"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay dia iankinan'ny orinasa lehibe. Miasa tsara amin'ny orinasa ao US."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Kaonty orinasa → Fanalahidy API"
+
+msgid "BitPay API Key"
+msgstr "BitPay Fanalahidy API"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Mpanjifa mividy crypto aloha, dia mandefa aminao"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay dia ahafahan'ny mpampiasa mividy crypto amin'ny carte de crédit "
+"mivantana amin'ny vosa-mbola EFA, avy eo mandefa aminao izy ireo. Sarany "
+"ambony kokoa saingy mora ho an'ny mpampiasa."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% isaky ny fandraisana"
+
+msgid "User's wallet first"
+msgstr "Vosa-mbola mpampiasa aloha"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay Fanalahidy API"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Zava-dehibe:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Ny fandoavana crypto amin'ny Stripe (USDC) dia azo fotsiny ho an'ny orinasa "
+"any Etazonia. Raha any ivelany ianao, Stripe dia handray fotsiny fandoavana "
+"karatra ho an'ny sandan'ny Stripe-nao (tsy mivantana amin'ny crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Raha ao Etazonia ianao, dia afaka mampiasa Stripe handray crypto mivantana. "
+"Raha any ivelany, eritrereto NOWPayments na CoinGate ho an'ny fandoavana "
+"crypto mivantana."
+
+msgid "Stripe Publishable Key"
+msgstr "Fanalahidy azo entina Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "Fanalahidy miafina Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Fandoavana PayPal nentim-paharazana. Mampiasa saldo PayPal na karatra "
+"fandoavam-bola ny mpampiasa. Ny vola dia mankany amin'ny kaonty PayPal anao."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Mampihatra sara amin'ny fandoavana PayPal mahazatra."
+
+msgid "PayPal Client ID"
+msgstr "ID mpanjifa PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Mahazoa ny mari-pamantarana API PayPal avy amin'ny <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+
+msgid "PayPal Secret"
+msgstr "Fanalahidy miafina PayPal"
+
+msgid "Donation Tiers"
+msgstr "Tahiry fanomezana"
+
+msgid "Add Tier"
+msgstr "Ampio Tahiry"
+
+msgid "Remove"
+msgstr "Esory"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Vola efa voafaritra (USD). Avelao ho foana raha maniry vola manokana "
+"fotsiny."
+
+msgid "Membership"
+msgstr "Fikambanana"
+
+msgid "Enable Membership"
+msgstr "Alefaso Fikambanana"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr ""
+"Ahafahana mividy fandoavana miverimberina (mila Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Fanohanana"
+
+msgid "Donate"
+msgstr "Manampy"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Ktaratra fandoavam-bola"
+
+msgid "Choose amount"
+msgstr "Safidio ny vola"
+
+msgid "Custom amount"
+msgstr "Vola manokana"
+
+msgid "Enter amount (USD)"
+msgstr "Ampidiro ny vola (USD)"
+
+msgid "Donate Now"
+msgstr "Manampy ankehitriny"
+
+msgid "Crypto Address"
+msgstr "Adiresy Crypto"
+
+msgid "Copy Address"
+msgstr "Kopy aadiresy"
+
+msgid "Copied!"
+msgstr "Nohadihadiana!"
+
+msgid "Pay with Credit Card"
+msgstr "Mandoa amin'ny Ktaratra fandoavam-bola"
+
+msgid "Pay with PayPal"
+msgstr "Mandoa amin'ny PayPal"
+
+msgid "Membership Plans"
+msgstr "Drafitra fidirana"
+
+msgid "Monthly"
+msgstr "Isam-bolana"
+
+msgid "Yearly"
+msgstr "Isan-taona"
+
+msgid "Subscribe"
+msgstr "Misoratra"
+
+msgid "Credit Card → Crypto"
+msgstr "Kaonty karatra → Crypto"
+
+msgid "Buy Crypto"
+msgstr "Mividy Cripta"
+
+msgid "Processing..."
+msgstr "Manao fanodinana..."
+
+msgid "Payment successful!"
+msgstr "Nohamafisina fandoavana!"
+
+msgid "Payment failed"
+msgstr "Tsy nahomby ny fandoavana"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments dia mamela anao handray fandoavana amin'ny kaonty karatra "
+"mivantana amin'ny wallet cripta anao."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate dia mpanampy fandoavana cripta efa fantatra tsara."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay dia ahafahan'ny mpampiasa mividy cripta amin'ny kaonty karatra "
+"mivantana amin'ny wallet-ny, avy eo mandefa izany ho anao."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+"Aorian'ny fividianana cripta, alefaso azafady amin'ny adiresy wallet eto "
+"ambany."
+
+msgid "Your crypto wallet address"
+msgstr "Adiresy wallet cripta anao"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Avelao ny namako vehivavy hankafy kafe antsika"
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Misy mpizaha-safidy mifehy script avy amin'ny antoko fahatelo noho ny "
+"fiarovana. Ity proxy ity dia mamaky script amin'ny alalan'ny server anao "
+"hiato amin'ireo fepetra."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Afaka manavao ny URL script eto ambany raha miova ny URL voalohany na raha "
+"tianao hampiasa CDN hafa."
+
+msgid "Script"
+msgstr "Script"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Usage:"
+msgstr "Fampiasana:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js ho an'ny fandoavana amin'ny kaonty karatra"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK ho an'ny fandoavana PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas ho an'ny fanamboarana sary"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF ho an'ny fanamboarana PDF"
+
+msgid "External Script Proxy"
+msgstr "External Script Proxy"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Tsindrio \"Test\" mba hijerena raha azo idirana ny URL script. Hikirakira "
+"(cache) ny script eo an-toerana ny proxy ho amin'ny fanatsarana ny "
+"performance."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal Email (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Statistika haingana"
+
+msgid "Widget Status:"
+msgstr "Toetry ny widget:"
+
+msgid "Active"
+msgstr "Miasa"
+
+msgid "Inactive"
+msgstr "Tsy miasa"
+
+msgid "Enabled Payment Methods:"
+msgstr "Fomba fandoavana azo ampiasaina:"
+
+msgid "None"
+msgstr "Tsy misy"
+
+msgid "Crypto Wallet:"
+msgstr "Vola crypto:"
+
+msgid "Not set"
+msgstr "Tsy napetraka"
+
+msgid "pay_with_card"
+msgstr "Mandoa amin'ny carte"
+
+msgid "crypto_address_label"
+msgstr "Alefaso mivantana ny crypto amin'ity adiresy ity:"
+
+msgid "crypto_note"
+msgstr ""
+"Ny fidiram-bola dia mandeha mivantana any amin'ny wallet-nao. Tsy misy "
+"fandoavam-bola."
+
+msgid "your_crypto_address"
+msgstr "Adiresy wallet-nao:"
+
+msgid "nowpayments_desc"
+msgstr ""
+"Mandoa amin'ny carte de crédit – crypto mandeha mivantana any amin'ny "
+"wallet-nao."
+
+msgid "coingate_desc"
+msgstr "Mandoa amin'ny carte de crédit – crypto any amin'ny wallet-nao."
+
+msgid "bitpay_desc"
+msgstr ""
+"Fandoavana crypto amin'ny ambaratonga orinasa. Tsara indrindra ho an'ny "
+"orinasa any US."
+
+msgid "moonpay_desc"
+msgstr ""
+"Mividy crypto amin'ny carte de crédit – avy eo alefaso any amin'ny adiresy "
+"eto ambany."
+
+msgid "moonpay_note"
+msgstr ""
+"Rehefa mividy crypto ianao, alefaso any amin'ny adiresy wallet eo ambony."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr ""
+"Ny fidiram-bola dia mandeha mivantana any amin'ny wallet-nao. Tsy misy "
+"fandoavam-bola."
+
+msgid "Pay with Card"
+msgstr "Mandoa amin'ny carte"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"Mandoa amin'ny carte de crédit – crypto mandeha mivantana any amin'ny "
+"wallet-nao."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Alefaso mivantana ny crypto amin'ity adiresy ity:"

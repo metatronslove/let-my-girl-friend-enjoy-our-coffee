@@ -1,0 +1,711 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Irish <ga_IE>\n"
+"Language: ga-IE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Painéal Breiseán Caffé"
+
+msgid "Coffee Widget"
+msgstr "Breiseán Caffé"
+
+msgid "Settings"
+msgstr "Socruithe"
+
+msgid "Dashboard"
+msgstr "Painéal"
+
+msgid "Payment Methods"
+msgstr "Modhanna Íocta"
+
+msgid "Help & Support"
+msgstr "Cabhair & Tacaíocht"
+
+msgid "General"
+msgstr "Ginearálta"
+
+msgid "Button"
+msgstr "Cnaipe"
+
+msgid "Advanced"
+msgstr "Uachtair"
+
+msgid "Proxy Scripts"
+msgstr "Scripteanna Pròxai"
+
+msgid "Widget Settings"
+msgstr "Socruithe Breiseán"
+
+msgid "Widget Status"
+msgstr "Stádas Breiseán"
+
+msgid "Widget active"
+msgstr "Breiseán gníomhach"
+
+msgid "Button Color"
+msgstr "Dath an Chnaipe"
+
+msgid "Button Position"
+msgstr "Ionad an Chnaipe"
+
+msgid "Left"
+msgstr "Ar chlé"
+
+msgid "Right"
+msgstr "Ar dheis"
+
+msgid "Horizontal Margin (px)"
+msgstr "Margadh Uirthearach (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Margadh Ingearach (px)"
+
+msgid "Button Message"
+msgstr "Teachtaireacht an Chnaipe"
+
+msgid "Description"
+msgstr "Tuairisc"
+
+msgid "Button Type"
+msgstr "Cineál an Chnaipe"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "Cód SVG"
+
+msgid "PNG Image URL"
+msgstr "URL Íomhá PNG"
+
+msgid "Button Emoji"
+msgstr "Emoji an Chnaipe"
+
+msgid "Custom CSS"
+msgstr "CSS Saincheaptha"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Saincheaptha"
+
+msgid "Which payment service should you choose?"
+msgstr "Cén seirbhís íocta ba cheart duit a roghnú?"
+
+msgid "Service"
+msgstr "Seirbhís"
+
+msgid "Fee"
+msgstr "Cáipéis"
+
+msgid "Where does crypto go?"
+msgstr "Cá bhfuil an críptocoin ag dul?"
+
+msgid "WordPress Plugin"
+msgstr "Breiseán WordPress"
+
+msgid "Best for"
+msgstr "Is fearr ann don"
+
+msgid "🇺🇸 US Business?"
+msgstr "Buisnéis Mheiriceánach?"
+
+msgid "Direct Crypto"
+msgstr "Críptocoin Threocht"
+
+msgid "No fee"
+msgstr "Gan cán"
+
+msgid "Your wallet directly"
+msgstr "Do chaideán go díreach"
+
+msgid "Built-in"
+msgstr "Spreagtha"
+
+msgid "Crypto-savvy users"
+msgstr "Baineoirí ar críptocoin"
+
+msgid "Anywhere"
+msgstr "Each áit"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "Reátha le API"
+
+msgid "Beginners, low fees"
+msgstr "Túsaithe, cánlínní íseal"
+
+msgid "Global (incl. Turkey)"
+msgstr "Domhanda (le Turc)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Breiseán oifigiúil"
+
+msgid "Good support"
+msgstr "Tacaíocht maith"
+
+msgid "Global"
+msgstr "Domhanda"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Prionsaíocht, cuideachtaí Mheiriceánacha"
+
+msgid "US-friendly"
+msgstr "Mheiriceánach-friendly"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Céad caideán an úsáideora"
+
+msgid "Widget ready"
+msgstr "Reátha le ghráid"
+
+msgid "Users with own wallets"
+msgstr "Baineoirí le caighdeanna féin"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Gnóthaithe na Stáit Aontaithe amháin"
+
+msgid "❌ US ONLY"
+msgstr "❌ na Stáit Aontaithe ACH"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Athraitheach"
+
+msgid "Asia markets"
+msgstr "Margadh na hÁise"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Cáinéid caighdeánacha"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Buaite PayPal"
+
+msgid "PayPal users"
+msgstr "Úsáideoirí PayPal"
+
+msgid "Tip:"
+msgstr "Leid:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Má tá tú taobh amuigh den Stáit Aontaithe, molaimid NOWPayments (caighdeán "
+"is íochtair, díreach chuig do stór). Má tá tú sna Stáit Aontaithe, tá Stripe"
+" Crypto freisin mar rogha. Is féidir leat seirbhísí iomlán a ghníomhachtú "
+"agus d'úinéirí a ligean do rogha a dhéanamh!"
+
+msgid "Enabled Payment Methods"
+msgstr "Modhanna íocaíochta cumasaithe"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Roghnaigh na roghanna íocaíochta a thaispeánfar i do thionscadal. Is féidir "
+"le d'úinéirí a rogha a dhéanamh."
+
+msgid "Show these methods"
+msgstr "Taispeáin na modhanna seo"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Crypto Díreach (Seoladh Lámhsheasmhachta)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Cárta Cheadair → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Cárta Cheadair → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Cárta Cheadair → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Cuir Crypto ar cheann ar dtús)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Cárta Cheadair)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Taispeáin do sheoladh lámhsheasmhachta ionas gcaidheadh úsáideoirí crypto "
+"díreach. Níor liost sé, ach caithfidh úsáideoirí crioch crypto a bheith acu "
+"cheana féin."
+
+msgid "Wallet Address"
+msgstr "Seoladh Lámhsheasmhachta"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr ""
+"Do sheoladh Quai, Ethereum, Bitcoin, nó sheoladh lámhsheasmhachta eile."
+
+msgid "Network"
+msgstr "Líonra"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Líonra Quai (Molta - saor in aisce)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Is fearr do thosaíonn & na cáncanna is íseal"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"Na NOWPayments a ligeann duit glacadh le híocaíochtaí cárta creideolaí go "
+"díreach chuig do stóras crypto. Téann an bhais go díreach chuig do stóras – "
+"níl aon earraí lárnósta."
+
+msgid "Fee:"
+msgstr "Cáin:"
+
+msgid "per transaction"
+msgstr "paí ar gach trácht"
+
+msgid "Payout:"
+msgstr "Páid amach:"
+
+msgid "Direct to your wallet"
+msgstr "Go díreach chuig do stóras"
+
+msgid "Setup:"
+msgstr "Socrú:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Cruthaigh cuntas saor → Eochracha API → Cóipeáil Eochair API"
+
+msgid "NOWPayments API Key"
+msgstr "Eochair API NOWPayments"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Cuir isteach do eochair API ón deais brabhsálaí NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Tacaíocht iontach, cáncanna níos airde beagán"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"Is próiseálaí íocaíochta crypto CoinGate atá láidre le plugán WordPress "
+"oifigiúil."
+
+msgid "1% per transaction"
+msgstr "1% ar gach trácht"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Cruthaigh cuntas → Eochracha API"
+
+msgid "CoinGate API Key"
+msgstr "Eochair API CoinGate"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Ghrád gnó, tacaíocht do na Stáit Aontaithe"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"Tá BitPay truaindíodh ag cuideachtaí móra. Oibríonn sé go maith do "
+"ghnóthaithe atá in Stáit Aontaithe."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Cuntas gnó → Eochracha API"
+
+msgid "BitPay API Key"
+msgstr "Eochair API BitPay"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Ceannaíonn úsáideoirí crypto ar dtús, ansin seolann siad duit"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"Leigeann MoonPay do úsáideoirí crypto a cheannóthar le cárta creideolaí go "
+"díreach chuig a stóras, ansin seolann siad é duit. Cáinanna níos airde ach "
+"go héasca d'úsáideoirí."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% ar gach trácht"
+
+msgid "User's wallet first"
+msgstr "Stóras an úsáideora ar dtús"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "Eochair API MoonPay"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Mórphá:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Tá na híocaíochtaí Crypto Stripe (USDC) ar fáil NÓS amháin do ghnóthaí atá "
+"leaganaithe sa Mheiriceá. Má tá tú taobh thiar den Mheiriceá, glac Stripe "
+"ach híocaíochtaí cárta creidmheasa go dtí do bhuaill Stripe (ní bhfaigheann "
+"sé go díreach chuig crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Má tá tú sa Mheiriceá, is féidir leat Stripe a úsáid chun crypto a fháil go "
+"díreach. Má tá tú taobh thiar, smaoinigh ar NOWPayments nó CoinGate le "
+"haghaidh íocaíochtaí crypto díreach."
+
+msgid "Stripe Publishable Key"
+msgstr "Eochair Foilsithe Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "Eochair Rúnda Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Íocaíochtaí PayPal clasaiceacha. Íocaíonn úsáideoirí le do bhuaill PayPal nó"
+" le cárta creidmheasa. Tugann na fuinneamh go do chuntas PayPal."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Cáipéisí tráchtála PayPal caighdeánacha a bheith i bhfeidhm."
+
+msgid "PayPal Client ID"
+msgstr "ID Cliant PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Faigh do theideal API PayPal ó <a href=\"https://developer.paypal.com/\" "
+"target=\"_blank\">Painéal Forbróra PayPal</a>."
+
+msgid "PayPal Secret"
+msgstr "Rún PayPal"
+
+msgid "Donation Tiers"
+msgstr "Cinnsealaí Donais"
+
+msgid "Add Tier"
+msgstr "Cuir Cinnseal"
+
+msgid "Remove"
+msgstr "Bain"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Iompardonas dhonais réamhshainaite (USD). Fág folamh do mheascán "
+"saincheaptha amháin."
+
+msgid "Membership"
+msgstr "Cláireacht"
+
+msgid "Enable Membership"
+msgstr "Cumasaigh Cláireacht"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Ceadaigh subscríobhs arís (tá sé ag teastáil Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Tacaíocht"
+
+msgid "Donate"
+msgstr "Don"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Cárta Creidmheasa"
+
+msgid "Choose amount"
+msgstr "Roghnaigh Meascán"
+
+msgid "Custom amount"
+msgstr "Meascán Saincheaptha"
+
+msgid "Enter amount (USD)"
+msgstr "Cuir isteach Meascán (USD)"
+
+msgid "Donate Now"
+msgstr "Don Anois"
+
+msgid "Crypto Address"
+msgstr "Seoladh Crypto"
+
+msgid "Copy Address"
+msgstr "Cóipeáil Seoladh"
+
+msgid "Copied!"
+msgstr "Cóipeáilte!"
+
+msgid "Pay with Credit Card"
+msgstr "Íoc le Cárta Creidmheasa"
+
+msgid "Pay with PayPal"
+msgstr "Íoc le PayPal"
+
+msgid "Membership Plans"
+msgstr "Pleananna Bailliú"
+
+msgid "Monthly"
+msgstr "Míosúil"
+
+msgid "Yearly"
+msgstr "Bliantúil"
+
+msgid "Subscribe"
+msgstr "Liostáil"
+
+msgid "Credit Card → Crypto"
+msgstr "Cárta Cride → Cripto"
+
+msgid "Buy Crypto"
+msgstr "Ceannaigh Cripto"
+
+msgid "Processing..."
+msgstr "Ag phróiseáil..."
+
+msgid "Payment successful!"
+msgstr "Tá an trácht rathúil!"
+
+msgid "Payment failed"
+msgstr "Theip ar an trácht"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"Ligeann NOWPayments duit tráchtanna cárta chride a ghlacadh díreach chuig do"
+" chaise cripto."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "Is próiseálaí tráchtanna cripto láidir an CoinGate."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"Ligeann MoonPay d'úsáideoirí cripto a cheannach le cárta chride díreach "
+"chuig a chaise cripto, agus ansin iad a sheolann sé chuig tú."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Tar éis cripto a cheannach, seol sé chuig seoladh an chaise thíos."
+
+msgid "Your crypto wallet address"
+msgstr "Seoladh do chaise cripto"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Lig mo chara bhlas ag baint as ár cháf"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Taisce neartach, saor, do dhoileadh agus trácht a ligeann do luangóirí do "
+"chuideachta a chur leatsa tríd cárta chride nó cripto (Quai). Gan díolaíocht"
+" mhíosúil, gan liostálacha tríú páirtí – níl ach do chaise agus seirbhísí "
+"saor."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Bharraíonn cuid de bhrabhsálaithe skripteanna tríú páirtí chun "
+"príobháideacht a chosaint. Lódálann an próxí seo skripteanna tríd do "
+"fhreastalaí féin chun na bacadh seo a shíniú."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Is féidir leat na URLanna skripte seo a nuashonrú más rud é nach n-athraíonn"
+" na URLanna bunaidh nó más mian leat CDN difriúil a úsáid."
+
+msgid "Script"
+msgstr "Skript"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Gníomh"
+
+msgid "Test"
+msgstr "Tástáil"
+
+msgid "Refresh"
+msgstr "Athnuaigh"
+
+msgid "Usage:"
+msgstr "Úsáid:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js do tráchtanna cárta chride"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK do tráchtanna PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas do ghiniúint ghluais"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF do ghiniúint PDF"
+
+msgid "External Script Proxy"
+msgstr "Próxí Skripteanna Eile"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Cliceáil \"Test\" chun séiceáil an URL an script atá inar fáil. Cuirfidh an "
+"seachfhreastaithe scíreanna i mbailiúchán áitiúil le haghaidh feidhmíocht "
+"níos fearr."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "Seoladh r-phoist PayPal (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Staitisticí Luath"
+
+msgid "Widget Status:"
+msgstr "Stádas an Widget:"
+
+msgid "Active"
+msgstr "Gníomhach"
+
+msgid "Inactive"
+msgstr "Neamhghníomhach"
+
+msgid "Enabled Payment Methods:"
+msgstr "Modhanna íocaíochta cumasaithe:"
+
+msgid "None"
+msgstr "níl ann"
+
+msgid "Crypto Wallet:"
+msgstr "Críptó Wálit:"
+
+msgid "Not set"
+msgstr "Ní shocraithe"
+
+msgid "pay_with_card"
+msgstr "Íoc le Cárta"
+
+msgid "crypto_address_label"
+msgstr "Seol críptóireacht go díreach chuig an seoladh seo:"
+
+msgid "crypto_note"
+msgstr "Cuirtear na bhfunnacha go díreach do bhairteach. Gan cánc."
+
+msgid "your_crypto_address"
+msgstr "Do sheoladh bhairteach:"
+
+msgid "nowpayments_desc"
+msgstr "Íoc le cárta creidmheasa – críptó téann go díreach do bhairteach."
+
+msgid "coingate_desc"
+msgstr "Íoc le cárta creidmheasa – críptó chuig do bhairteach."
+
+msgid "bitpay_desc"
+msgstr "Íocaíochtaí críptó le réitheadh gnó. Is fearr do ghnólachtaí S.A.M."
+
+msgid "moonpay_desc"
+msgstr ""
+"Cuir críptó le cárta creidmheasa – ansin seol sé chuig an seoladh thíos."
+
+msgid "moonpay_note"
+msgstr "Tar éis críptó a cheannach, seol é chuig an seoladh bhairteach thuas."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Cuirtear na bhfunnacha go díreach do bhairteach. Gan cánc."
+
+msgid "Pay with Card"
+msgstr "Íoc le Cárta"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Íoc le cárta creidmheasa – críptó téann go díreach do bhairteach."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Seol críptóireacht go díreach chuig an seoladh seo:"

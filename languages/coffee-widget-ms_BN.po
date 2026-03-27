@@ -1,0 +1,713 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Malay (Brunei) <ms_BN>\n"
+"Language: ms-BN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Papan Pemuka Widget Kopi"
+
+msgid "Coffee Widget"
+msgstr "Widget Kopi"
+
+msgid "Settings"
+msgstr "Tetapan"
+
+msgid "Dashboard"
+msgstr "Papan Pemuka Kopi"
+
+msgid "Payment Methods"
+msgstr "Kaedah Pembayaran"
+
+msgid "Help & Support"
+msgstr "Bantuan & Sokongan"
+
+msgid "General"
+msgstr "Umum"
+
+msgid "Button"
+msgstr "Butang"
+
+msgid "Advanced"
+msgstr "Lanjutan"
+
+msgid "Proxy Scripts"
+msgstr "Skrip Proksi"
+
+msgid "Widget Settings"
+msgstr "Tetapan Widget"
+
+msgid "Widget Status"
+msgstr "Status Widget"
+
+msgid "Widget active"
+msgstr "Widget aktif"
+
+msgid "Button Color"
+msgstr "Warna Butang"
+
+msgid "Button Position"
+msgstr "Posisi Butang"
+
+msgid "Left"
+msgstr "Kiri"
+
+msgid "Right"
+msgstr "Kanan"
+
+msgid "Horizontal Margin (px)"
+msgstr "Margin Mendatar (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Margin Menegak (px)"
+
+msgid "Button Message"
+msgstr "Mesej Butang"
+
+msgid "Description"
+msgstr "Keterangan"
+
+msgid "Button Type"
+msgstr "Jenis Butang"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "Kod SVG"
+
+msgid "PNG Image URL"
+msgstr "URL Imej PNG"
+
+msgid "Button Emoji"
+msgstr "Emoji Butang"
+
+msgid "Custom CSS"
+msgstr "CSS Tersuai"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Tersuai"
+
+msgid "Which payment service should you choose?"
+msgstr "Perkhidmatan pembayaran apa yang anda pilih?"
+
+msgid ""
+"We offer multiple services to accept credit card payments to your crypto "
+"wallet. Here's how they compare:"
+msgstr ""
+"Kami menawarkan pelbagai perkhidmatan untuk menerima pembayaran kad kredit "
+"ke dalam dompet kripto anda. Berikut ialah perbandingannya:"
+
+msgid "Service"
+msgstr "Perkhidmatan"
+
+msgid "Fee"
+msgstr "Yuran"
+
+msgid "Where does crypto go?"
+msgstr "Di mana kripto pergi?"
+
+msgid "WordPress Plugin"
+msgstr "Plugin WordPress"
+
+msgid "Best for"
+msgstr "Terbaik untuk"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Perniagaan AS?"
+
+msgid "Direct Crypto"
+msgstr "Kripto langsung"
+
+msgid "No fee"
+msgstr "Tiada yuran"
+
+msgid "Your wallet directly"
+msgstr "Dompet anda secara langsung"
+
+msgid "Built-in"
+msgstr "Bertanam"
+
+msgid "Crypto-savvy users"
+msgstr "Pengguna bijak kripto"
+
+msgid "Anywhere"
+msgstr "Di mana-mana"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API siap"
+
+msgid "Beginners, low fees"
+msgstr "Pemula, yuran rendah"
+
+msgid "Global (incl. Turkey)"
+msgstr "Global (termasuk Turki)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Plugin rasmi"
+
+msgid "Good support"
+msgstr "Sokongan baik"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Enterprise, syarikat AS"
+
+msgid "US-friendly"
+msgstr "Mesra AS"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Dompet pengguna terlebih dahulu"
+
+msgid "Widget ready"
+msgstr "Widget siap"
+
+msgid "Users with own wallets"
+msgstr "Pengguna dengan dompet sendiri"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Hanya perniagaan AS"
+
+msgid "❌ US ONLY"
+msgstr "❌ AS SAH"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Berubah"
+
+msgid "Asia markets"
+msgstr "Pasaran Asia"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Yuran standard"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Baki PayPal"
+
+msgid "PayPal users"
+msgstr "Pengguna PayPal"
+
+msgid "Tip:"
+msgstr "Tip:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Jika anda berada di luar AS, kami mengesyorkan NOWPayments (yuran paling "
+"rendah, terus ke dompet anda). Jika anda berada di AS, Stripe Crypto juga "
+"merupakan pilihan. Anda boleh mengaktifkan pelbagai perkhidmatan dan "
+"membenarkan pengunjung anda memilih!"
+
+msgid "Enabled Payment Methods"
+msgstr "Kaedah Bayaran yang Dibenarkan"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Pilih mana kaedah pembayaran yang akan dipaparkan dalam widget anda. "
+"Pengunjung anda boleh memilih kaedah kegemaran mereka."
+
+msgid "Show these methods"
+msgstr "Papar kaedah ini"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Crypto Terus (Alamat Dompet)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Kad Kredit → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Kad Kredit → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Kad Kredit → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Pengguna beli crypto dahulu)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Kad Kredit)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Papar alamat dompet anda supaya pengguna boleh menghantar crypto secara "
+"terus. Tiada yuran, tetapi memerlukan pengguna sudah memiliki crypto."
+
+msgid "Wallet Address"
+msgstr "Alamat Dompet"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Alamat dompet Quai, Ethereum, Bitcoin, atau dompet lain anda."
+
+msgid "Network"
+msgstr "Rangkaian"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Rangkaian Quai (Disyorkan - percuma)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Paling sesuai untuk pemula & yuran paling rendah"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments membolehkan anda menerima pembayaran kad kredit terus ke dompet "
+"kripto anda. Dana akan terus masuk ke dompet anda – tiada perantara."
+
+msgid "Fee:"
+msgstr "Yuran:"
+
+msgid "per transaction"
+msgstr "per transaksi"
+
+msgid "Payout:"
+msgstr "Pembayaran balik:"
+
+msgid "Direct to your wallet"
+msgstr "Secara terus ke dompet anda"
+
+msgid "Setup:"
+msgstr "Pengaturan:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Cipta akaun percuma → Kunci API → Salin Kunci API"
+
+msgid "NOWPayments API Key"
+msgstr "Kunci API NOWPayments"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Tampal kunci API anda dari papan pemuka NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Sokongan hebat, yuran sedikit lebih tinggi"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate adalah pemproses pembayaran kripto yang terkenal dengan plugin "
+"rasmi WordPress."
+
+msgid "1% per transaction"
+msgstr "1% per transaksi"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Cipta akaun → Kunci API"
+
+msgid "CoinGate API Key"
+msgstr "Kunci API CoinGate"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Tingkat Enterprise, mesra AS"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay dipercayai oleh syarikat besar. Sesuai untuk perniagaan berpusat di "
+"AS."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Akaun perniagaan → Kunci API"
+
+msgid "BitPay API Key"
+msgstr "Kunci API BitPay"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Pengguna membeli kripto dahulu, kemudian menghantarnya kepada anda"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay membolehkan pengguna membeli kripto dengan kad kredit terus ke "
+"DOMPET mereka, kemudian mereka menghantarnya kepada anda. Yuran lebih tinggi"
+" tetapi sangat mudah bagi pengguna."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% per transaksi"
+
+msgid "User's wallet first"
+msgstr "Dompet pengguna dahulu"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "Kunci API MoonPay"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Penting:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Pembayaran Crypto Stripe (USDC) hanya tersedia untuk perniagaan di AS. Jika "
+"anda berada di luar AS, Stripe hanya akan menerima pembayaran kad kredit ke "
+"baki Stripe anda (bukan secara langsung kepada crypto)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Jika anda berada di AS, anda boleh menggunakan Stripe untuk menerima crypto "
+"secara langsung. Jika di luar, pertimbangkan NOWPayments atau CoinGate untuk"
+" pembayaran crypto secara langsung."
+
+msgid "Stripe Publishable Key"
+msgstr "Kunci Boleh Terbit Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "Kunci Rahsia Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Pembayaran PayPal klasik. Pengguna membayar dengan baki PayPal atau kad "
+"kredit. Dana akan masuk ke akaun PayPal anda."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Yuran transaksi PayPal standard dikenakan."
+
+msgid "PayPal Client ID"
+msgstr "ID Klien PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Dapatkan kredensial API PayPal anda dari <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">Papan Pemuka "
+"Pengembang PayPal</a>."
+
+msgid "PayPal Secret"
+msgstr "Rahsia PayPal"
+
+msgid "Donation Tiers"
+msgstr "Tahap Derma"
+
+msgid "Add Tier"
+msgstr "Tambah Tahap"
+
+msgid "Remove"
+msgstr "Buang"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Amaun derma yang telah ditakrifkan (USD). Biarkan kosong untuk amaun tersuai"
+" sahaja."
+
+msgid "Membership"
+msgstr "Keahlian"
+
+msgid "Enable Membership"
+msgstr "Benarkan Keahlian"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Benarkan langganan berulang (memerlukan Langganan Stripe)."
+
+msgid "Support"
+msgstr "Sokongan"
+
+msgid "Donate"
+msgstr "Derma"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "Kad Kredit"
+
+msgid "Choose amount"
+msgstr "Pilih amaun"
+
+msgid "Custom amount"
+msgstr "Amaun tersuai"
+
+msgid "Enter amount (USD)"
+msgstr "Masukkan amaun (USD)"
+
+msgid "Donate Now"
+msgstr "Derma Sekarang"
+
+msgid "Crypto Address"
+msgstr "Alamat Crypto"
+
+msgid "Copy Address"
+msgstr "Salin Alamat"
+
+msgid "Copied!"
+msgstr "Disalin!"
+
+msgid "Pay with Credit Card"
+msgstr "Bayar dengan Kad Kredit"
+
+msgid "Pay with PayPal"
+msgstr "Bayar dengan PayPal"
+
+msgid "Membership Plans"
+msgstr "Pelan Keahlian"
+
+msgid "Monthly"
+msgstr "Bulanan"
+
+msgid "Yearly"
+msgstr "Tahunan"
+
+msgid "Subscribe"
+msgstr "Langgan"
+
+msgid "Credit Card → Crypto"
+msgstr "Kad Kredit → Kripto"
+
+msgid "Buy Crypto"
+msgstr "Beli Kripto"
+
+msgid "Processing..."
+msgstr "Memproses..."
+
+msgid "Payment successful!"
+msgstr "Pembayaran berjaya!"
+
+msgid "Payment failed"
+msgstr "Pembayaran gagal"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments membenarkan anda menerima pembayaran kad kredit terus ke dompet "
+"kripto anda."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate adalah pemproses pembayaran kripto yang mapan."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay membenarkan pengguna membeli kripto dengan kad kredit terus ke "
+"dompet MEREKA, kemudian mereka menghantarnya kepada anda."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Selepas membeli kripto, sila hantar ke alamat dompet di bawah."
+
+msgid "Your crypto wallet address"
+msgstr "Alamat dompet kripto anda"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Biarkan Teman Perempuan Saya Menikmati Kopi Kami"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Widget sumbangan dan pembayaran yang kuat dan percuma yang membolehkan "
+"pengunjung anda menyokong anda melalui kad kredit atau kriptowang (Quai). "
+"Tiada yuran bulanan, tiada langganan pihak ketiga – hanya dompet anda dan "
+"perkhidmatan percuma."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Sesetengah pelayar menyekat skrip pihak ketiga untuk privasi. Proxy ini "
+"memuatkan skrip melalui pelayan anda sendiri untuk mengatasi blok ini."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Anda boleh mengemas kini URL skrip di bawah jika URL asal berubah atau jika "
+"anda mahu menggunakan CDN yang berbeza."
+
+msgid "Script"
+msgstr "Skrip"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "TTL Cache"
+
+msgid "Action"
+msgstr "Tindakan"
+
+msgid "Test"
+msgstr "Uji"
+
+msgid "Refresh"
+msgstr "Segarkan"
+
+msgid "Usage:"
+msgstr "Penggunaan:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js untuk pembayaran kad kredit"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK untuk pembayaran PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas untuk penjanaan skrin"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF untuk penjanaan PDF"
+
+msgid "External Script Proxy"
+msgstr "Proxy Skrip Luaran"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Klik \"Test\" untuk memeriksa sama ada URL skrip dapat diakses. Proxy akan "
+"menyimpan skrip secara tempatan untuk prestasi yang lebih baik."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "E-mel PayPal (Cadangan)"
+
+msgid "Quick Stats"
+msgstr "Statistik Ringkas"
+
+msgid "Widget Status:"
+msgstr "Status Widget:"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Inactive"
+msgstr "Tidak Aktif"
+
+msgid "Enabled Payment Methods:"
+msgstr "Kaedah Pembayaran Dibolehkan:"
+
+msgid "None"
+msgstr "Tiada"
+
+msgid "Crypto Wallet:"
+msgstr "Dompet Crypto:"
+
+msgid "Not set"
+msgstr "Tidak ditetapkan"
+
+msgid "pay_with_card"
+msgstr "Bayar dengan Kad"
+
+msgid "crypto_address_label"
+msgstr "Hantar kripto terus ke alamat ini:"
+
+msgid "crypto_note"
+msgstr "Dana pergi terus ke dompet anda. Tiada yuran."
+
+msgid "your_crypto_address"
+msgstr "Alamat dompet anda:"
+
+msgid "nowpayments_desc"
+msgstr "Bayar dengan kad kredit – kripto pergi terus ke dompet anda."
+
+msgid "coingate_desc"
+msgstr "Bayar dengan kad kredit – kripto ke dompet anda."
+
+msgid "bitpay_desc"
+msgstr "Pembayaran kripto tahap perusahaan. Lebih baik untuk perniagaan AS."
+
+msgid "moonpay_desc"
+msgstr ""
+"Beli kripto dengan kad kredit – kemudian hantar ia ke alamat di bawah."
+
+msgid "moonpay_note"
+msgstr "Selepas membeli kripto, sila hantar ia ke alamat dompet di atas."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Dana pergi terus ke dompet anda. Tiada yuran."
+
+msgid "Pay with Card"
+msgstr "Bayar dengan Kad"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "Bayar dengan kad kredit – kripto pergi terus ke dompet anda."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Hantar kripto terus ke alamat ini:"

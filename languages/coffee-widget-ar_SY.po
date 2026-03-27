@@ -1,0 +1,609 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Arabic (Syria) <ar_SY>\n"
+"Language: ar-SY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Service"
+msgstr "الخدمة"
+
+msgid "Fee"
+msgstr "الرسوم"
+
+msgid "Where does crypto go?"
+msgstr "إلى أين يذهب الكريبتو؟"
+
+msgid "WordPress Plugin"
+msgstr "إضافة ووردبريس"
+
+msgid "Best for"
+msgstr "الأفضل لـ"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 عمل تجاري أمريكي؟"
+
+msgid "Direct Crypto"
+msgstr "كريبتو مباشر"
+
+msgid "No fee"
+msgstr "بدون رسوم"
+
+msgid "Your wallet directly"
+msgstr "محفظتك مباشرةً"
+
+msgid "Built-in"
+msgstr "مدمجة"
+
+msgid "Crypto-savvy users"
+msgstr "المستخدمون المتقنون للبيتكوين"
+
+msgid "Anywhere"
+msgstr "أينما كان"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5٪ - 1٪"
+
+msgid "API ready"
+msgstr "جاهز للـ API"
+
+msgid "Beginners, low fees"
+msgstr "المبتدئين، رسوم منخفضة"
+
+msgid "Global (incl. Turkey)"
+msgstr "عالمي (بما في ذلك تركيا)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1٪"
+
+msgid "Official plugin"
+msgstr "الإضافة الرسمية"
+
+msgid "Good support"
+msgstr "دعم جيد"
+
+msgid "Global"
+msgstr "عالمي"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "المؤسسات، شركات أمريكية"
+
+msgid "US-friendly"
+msgstr "صديق للولايات المتحدة"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5٪"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ محفظة المستخدم أولاً"
+
+msgid "Widget ready"
+msgstr "الودجت جاهز"
+
+msgid "Users with own wallets"
+msgstr "المستخدمون لديهم محافظ خاصة"
+
+msgid "Stripe Crypto"
+msgstr "سترايب كريبتو"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "الأعمال الأمريكية فقط"
+
+msgid "❌ US ONLY"
+msgstr "❌ الولايات المتحدة فقط"
+
+msgid "Alchemy Pay"
+msgstr "ألكيمي باي"
+
+msgid "Variable"
+msgstr "متغير"
+
+msgid "Asia markets"
+msgstr "أسواق آسيا"
+
+msgid "PayPal"
+msgstr "باي بال"
+
+msgid "Standard fees"
+msgstr "الرسوم القياسية"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ رصيد باي بال"
+
+msgid "PayPal users"
+msgstr "مستخدمو باي بال"
+
+msgid "Tip:"
+msgstr "نصيحة:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"إذا كنت خارج الولايات المتحدة، نوصي بـ NOWPayments (أقل رسوم، مباشر إلى "
+"محفظتك). إذا كنت في الولايات المتحدة، فإن Stripe Crypto هو خيار أيضًا. يمكنك"
+" تفعيل خدمات متعددة وتسمح لزوارك بالاختيار!"
+
+msgid "Enabled Payment Methods"
+msgstr "طرق الدفع المفعلة"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"اختر الخيارات التي ستظهر في عنصرك. يمكن لزوارك اختيار الطريقة المفضلة."
+
+msgid "Show these methods"
+msgstr "أظهر هذه الطرق"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 كريبتو مباشر (عنوان المحفظة)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (بطاقة ائتمان → كريبتو)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (بطاقة ائتمان → كريبتو)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (بطاقة ائتمان → كريبتو)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (المستخدم يشتري كريبتو أولًا)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (بطاقة ائتمان)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"أظهر عنوان محفظتك حتى يمكن للمستخدمين إرسال كريبتو مباشرةً. لا توجد رسوم، "
+"لكن يتطلب أن يمتلك المستخدمون بالفعل كريبتو."
+
+msgid "Wallet Address"
+msgstr "عنوان المحفظة"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "عنوان محفظتك في Quai أو Ethereum أو Bitcoin أو غيرها."
+
+msgid "Network"
+msgstr "شبكة"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "شبكة Quai (موصى بها - مجانية)"
+
+msgid "Ethereum"
+msgstr "إيثيريوم"
+
+msgid "Bitcoin"
+msgstr "بيتكوين"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "الأفضل للمبتدئين & أقل الرسوم"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"يسمح NOWPayments بقبول مدفوعات بطاقة الائتمان مباشرة إلى محفظتك المشفرة. "
+"الأموال تذهب مباشرة إلى محفظتك – لا وسيط."
+
+msgid "Fee:"
+msgstr "الرسوم:"
+
+msgid "per transaction"
+msgstr "لكل معاملة"
+
+msgid "Payout:"
+msgstr "الدفع:"
+
+msgid "Direct to your wallet"
+msgstr "مباشرة إلى محفظتك"
+
+msgid "Setup:"
+msgstr "الإعداد:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "إنشاء حساب مجاني → مفاتيح API → نسخ مفتاح API"
+
+msgid "NOWPayments API Key"
+msgstr "مفتاح NOWPayments API"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "الصق مفتاح API الخاص بك من لوحة معلومات NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "دعم ممتاز، رسوم أعلى قليلاً"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr "CoinGate هو معالج دفع مشفرة موثوق به ومعتمد مع إضافة WordPress رسمية."
+
+msgid "1% per transaction"
+msgstr "1٪ لكل معاملة"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "إنشاء حساب → مفاتيح API"
+
+msgid "CoinGate API Key"
+msgstr "مفتاح CoinGate API"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "مستوى مؤسسي، ملائم للولايات المتحدة"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"يُعتمد على BitPay من قبل الشركات الكبرى. يعمل جيداً للأعمال الأمريكية."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "حساب أعمال → مفاتيح API"
+
+msgid "BitPay API Key"
+msgstr "مفتاح BitPay API"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "يشتري المستخدمون المشفرة أولاً، ثم يرسلونها إليك"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"تسمح MoonPay للمستخدمين بشراء المشفرة باستخدام بطاقة الائتمان مباشرةً إلى "
+"محفظتهم، ثم يرسلونها إليك. رسوم أعلى لكنها بسيطة للغاية للمستخدمين."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5٪ لكل معاملة"
+
+msgid "User's wallet first"
+msgstr "محفظة المستخدم أولاً"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "مفتاح MoonPay API"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "مهم:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"دفع Stripe للرموز الرقمية (USDC) متاح فقط للأعمال الأمريكية. إذا كنت خارج "
+"الولايات المتحدة، سيقبل Stripe فقط المدفوعات ببطاقات الائتمان إلى رصيد "
+"Stripe الخاص بك (وليس مباشرة إلى الرمز الرقمي)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"إذا كنت في الولايات المتحدة، يمكنك استخدام Stripe لاستقبال العملات الرقمية "
+"مباشرة. إذا كنت خارجها، فكر في NOWPayments أو CoinGate للمدفوعات المباشرة "
+"بالعملات الرقمية."
+
+msgid "Stripe Publishable Key"
+msgstr "مفتاح Stripe القابل للنشر"
+
+msgid "Stripe Secret Key"
+msgstr "مفتاح Stripe السري"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"مدفوعات PayPal الكلاسيكية. يدفع المستخدمون برصيد PayPal أو بطاقة ائتمان. "
+"تنتقل الأموال إلى حسابك في PayPal."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "تطبق رسوم المعاملات القياسية لـ PayPal."
+
+msgid "PayPal Client ID"
+msgstr "معرف عميل PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"احصل على بيانات اعتماد API الخاصة بـ PayPal من <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">لوحة تحكم مطوري "
+"PayPal</a>."
+
+msgid "PayPal Secret"
+msgstr "سر PayPal"
+
+msgid "Donation Tiers"
+msgstr "مستويات التبرع"
+
+msgid "Add Tier"
+msgstr "أضف مستوى"
+
+msgid "Remove"
+msgstr "إزالة"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"مبالغ التبرعات المحددة مسبقاً (USD). اتركها فارغة للحصول على مبلغ مخصص فقط."
+
+msgid "Membership"
+msgstr "عضوية"
+
+msgid "Enable Membership"
+msgstr "تمكين العضوية"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "السماح بالاشتراكات المتكررة (يتطلب اشتراكات Stripe)."
+
+msgid "Support"
+msgstr "دعم"
+
+msgid "Donate"
+msgstr "تبرع"
+
+msgid "Crypto"
+msgstr "الرموز الرقمية"
+
+msgid "Credit Card"
+msgstr "بطاقة ائتمان"
+
+msgid "Choose amount"
+msgstr "اختر المبلغ"
+
+msgid "Custom amount"
+msgstr "مبلغ مخصص"
+
+msgid "Enter amount (USD)"
+msgstr "أدخل المبلغ (USD)"
+
+msgid "Donate Now"
+msgstr "تبرع الآن"
+
+msgid "Crypto Address"
+msgstr "عنوان الرمز الرقمي"
+
+msgid "Copy Address"
+msgstr "نسخ العنوان"
+
+msgid "Copied!"
+msgstr "تم النسخ!"
+
+msgid "Pay with Credit Card"
+msgstr "ادفع ببطاقة ائتمان"
+
+msgid "Pay with PayPal"
+msgstr "ادفع بـ PayPal"
+
+msgid "Membership Plans"
+msgstr "خطط العضوية"
+
+msgid "Monthly"
+msgstr "شهري"
+
+msgid "Yearly"
+msgstr "سنوي"
+
+msgid "Subscribe"
+msgstr "اشتراك"
+
+msgid "Credit Card → Crypto"
+msgstr "بطاقة ائتمان → عملة مشفرة"
+
+msgid "Buy Crypto"
+msgstr "شراء عملة مشفرة"
+
+msgid "Processing..."
+msgstr "جارٍ المعالجة..."
+
+msgid "Payment successful!"
+msgstr "تم الدفع بنجاح!"
+
+msgid "Payment failed"
+msgstr "فشل الدفع"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"تسمح لك NOWPayments بقبول مدفوعات بطاقة الائتمان مباشرة إلى محفظتك المشفرة."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate هو معالج دفع مشفرة مُثبت وموثوق."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"تسمح MoonPay للمستخدمين بشراء عملة مشفرة باستخدام بطاقة ائتمان مباشرة إلى "
+"محفظتهم، ثم يرسلونها إليك."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "بعد شراء العملة المشفرة، يرجى إرسالها إلى عنوان المحفظة أدناه."
+
+msgid "Your crypto wallet address"
+msgstr "عنوان محفظتك المشفرة"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "دع صديقتي تستمتع بقهوة لنا"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"ودجت التبرعات والدفع قوي ومجاني يتيح لزوارك دعمك عبر بطاقة ائتمان أو عملة "
+"مشفرة (Quai). لا توجد رسوم شهرية، ولا اشتراكات طرف ثالث – فقط محفظتك "
+"والخدمات المجانية."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"بعض المتصفحات تمنع تشغيل السكربتات التابعة لطرف ثالث لأسباب الخصوصية. يحمّل "
+"هذا الوكيل السكربتات عبر خادمك الخاص لتجاوز هذه الحظر."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"يمكنك تحديث عناوين URL للسكريبتات أدناه إذا تغيرت العناوين الأصلية أو إذا "
+"رغبت في استخدام CDN مختلف."
+
+msgid "Script"
+msgstr "سكريبت"
+
+msgid "URL"
+msgstr "عنوان URL"
+
+msgid "Cache TTL"
+msgstr "TTL للتخزين المؤقت"
+
+msgid "Action"
+msgstr "الإجراء"
+
+msgid "Test"
+msgstr "اختبار"
+
+msgid "Refresh"
+msgstr "تحديث"
+
+msgid "Usage:"
+msgstr "الاستخدام:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js لمدفوعات بطاقة الائتمان"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "SDK PayPal لمدفوعات PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas لتوليد لقطات الشاشة"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF لتوليد PDF"
+
+msgid "External Script Proxy"
+msgstr "وكيل السكربت الخارجي"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"انقر \"اختبار\" للتحقق مما إذا كان عنوان URL للبرنامج النصي متاحًا. سيخزن "
+"الوكيل البرامج النصية محليًا لأداء أفضل."
+
+msgid "Dogecoin"
+msgstr "دوغكوين"
+
+msgid "Litecoin"
+msgstr "لايتكوين"
+
+msgid "PayPal Email (Fallback)"
+msgstr "بريد PayPal (البديل)"
+
+msgid "Quick Stats"
+msgstr "إحصائيات سريعة"
+
+msgid "Widget Status:"
+msgstr "حالة الودجت:"
+
+msgid "Active"
+msgstr "نشط"
+
+msgid "Inactive"
+msgstr "غير نشط"
+
+msgid "Enabled Payment Methods:"
+msgstr "طرق الدفع المفعلة:"
+
+msgid "None"
+msgstr "لا شيء"
+
+msgid "Crypto Wallet:"
+msgstr "محفظة الكريبتو:"
+
+msgid "Not set"
+msgstr "غير محدد"
+
+msgid "pay_with_card"
+msgstr "ادفع بالبطاقة"
+
+msgid "crypto_address_label"
+msgstr "ارسل الكريبتو مباشرةً إلى هذا العنوان:"
+
+msgid "crypto_note"
+msgstr "المال ينتقل مباشرةً إلى محفظتك. لا توجد رسوم."
+
+msgid "your_crypto_address"
+msgstr "عنوان محفظتك:"
+
+msgid "nowpayments_desc"
+msgstr "ادفع ببطاقة ائتمان – يذهب الكريبتو مباشرةً إلى محفظتك."
+
+msgid "coingate_desc"
+msgstr "ادفع ببطاقة ائتمان – الكريبتو إلى محفظتك."
+
+msgid "bitpay_desc"
+msgstr "دفع كريبتو من مستوى المؤسسات. الأفضل للشركات الأمريكية."
+
+msgid "moonpay_desc"
+msgstr "اشترِ كريبتو ببطاقة ائتمان – ثم أرسله إلى العنوان أدناه."
+
+msgid "moonpay_note"
+msgstr "بعد شراء الكريبتو، يرجى إرساله إلى عنوان المحفظة أعلاه."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "المال ينتقل مباشرةً إلى محفظتك. لا توجد رسوم."
+
+msgid "Pay with Card"
+msgstr "ادفع بالبطاقة"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr "ادفع ببطاقة ائتمان – يذهب الكريبتو مباشرةً إلى محفظتك."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "ارسل الكريبتو مباشرةً إلى هذا العنوان:"

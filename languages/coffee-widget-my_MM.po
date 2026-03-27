@@ -1,0 +1,706 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Burmese <my_MM>\n"
+"Language: my-MM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "ကော်ဖီ ဝက်ဂျက် ဒတ်ရှဘုတ်"
+
+msgid "Coffee Widget"
+msgstr "ကော်ဖီ ဝက်ဂျက်"
+
+msgid "Settings"
+msgstr "သတ်မှတ်ချက်"
+
+msgid "Dashboard"
+msgstr "ဒတ်ရှဘုတ်"
+
+msgid "Payment Methods"
+msgstr "ငွေပေးချေမှု နည်းလမ်းများ"
+
+msgid "Help & Support"
+msgstr "အကူအညီ & ပံ့ပိုးမှု"
+
+msgid "General"
+msgstr "အထွေထွေ"
+
+msgid "Button"
+msgstr "ကလစ်ခလုတ်"
+
+msgid "Advanced"
+msgstr "အဆင့်မြင့်"
+
+msgid "Proxy Scripts"
+msgstr "ပရိုကည် စာတမ်းများ"
+
+msgid "Widget Settings"
+msgstr "ဝက်ဂျက် သတ်မှတ်ချက်များ"
+
+msgid "Widget Status"
+msgstr "ဝက်ဂျက် အခြေအနေ"
+
+msgid "Widget active"
+msgstr "ဝက်ဂျက် လှုပ်ရှားနေသည်"
+
+msgid "Button Color"
+msgstr "ကလစ်ခလုတ် အရောင်"
+
+msgid "Button Position"
+msgstr "ကလစ်ခလုတ် တည်နေရာ"
+
+msgid "Left"
+msgstr "ဘယ်ဘက်"
+
+msgid "Right"
+msgstr "ညာဘက်"
+
+msgid "Horizontal Margin (px)"
+msgstr "အလျားလိုက် အကန့် (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "လံလိုက် အကန့် (px)"
+
+msgid "Button Message"
+msgstr "ကလစ်ခလုတ် စာတန်း"
+
+msgid "Description"
+msgstr "ဖော်ပြချက်"
+
+msgid "Button Type"
+msgstr "ကလစ်ခလုတ် အမျိုးအစား"
+
+msgid "Emoji"
+msgstr "အမိုဂီ"
+
+msgid "SVG Code"
+msgstr "SVG ကုတ်"
+
+msgid "PNG Image URL"
+msgstr "PNG ပုံ URL"
+
+msgid "Button Emoji"
+msgstr "ကလစ်ခလုတ် အမိုဂီ"
+
+msgid "Custom CSS"
+msgstr "သီးသန့် CSS"
+
+msgid "Custom JavaScript"
+msgstr "သီးသန့် JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "သင်ဘယ်ငွေပေးချေမှုဝန်ဆောင်မှုကိုရွေးချယ်သင့်သလဲ?"
+
+msgid "Service"
+msgstr "ဝန်ဆောင်မှု"
+
+msgid "Fee"
+msgstr "အခကြေးငွေ"
+
+msgid "Where does crypto go?"
+msgstr "ကြိုတင်ငွေသည် ဘယ်သို့သွားသွားမလဲ?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress ပလက်ဂျင်"
+
+msgid "Best for"
+msgstr "အကောင်းဆုံး သုံးစွဲရန်"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 US စီးပွားရေးလုပ်ငန်းတစ်ခုလား?"
+
+msgid "Direct Crypto"
+msgstr "တိုက်ရိုက် ကြိုတင်ငွေ"
+
+msgid "No fee"
+msgstr "အခမဲ့"
+
+msgid "Your wallet directly"
+msgstr "သင့်လက်ထောက်ကလက်တွဲ တိုက်ရိုက်"
+
+msgid "Built-in"
+msgstr "ထည့်သွင်းထားသည်"
+
+msgid "Crypto-savvy users"
+msgstr "ကြိုတင်ငွေ အနက်သိမြင်သော သုံးစွဲသူများ"
+
+msgid "Anywhere"
+msgstr "ဘယ်နေရာသုံးမဆို"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API အသင့်ဖြစ်"
+
+msgid "Beginners, low fees"
+msgstr "စတင်သုံးစွဲသူများ၊ အခငွေသေးငယ်"
+
+msgid "Global (incl. Turkey)"
+msgstr "ကမ္ဘာလုံးဆိုင်ရာ (ထပ်မံထည့်သွင်းထားသော တူရကီ)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "အာမခံပလက်ဂျင်"
+
+msgid "Good support"
+msgstr "ကောင်းမွန်သော ပံ့ပိုးမှု"
+
+msgid "Global"
+msgstr "ကမ္ဘာလုံးဆိုင်ရာ"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "အရင်းအမြတ်ကုမ္ပဏီများ, US ကုမ္ပဏီများ"
+
+msgid "US-friendly"
+msgstr "US ကို အဆင်ပြေ"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ သုံးစွဲသူ၏လက်ထောက်ကလက်တွဲ ပထမဆုံး"
+
+msgid "Widget ready"
+msgstr "ဝဂ်တ် အသင့်ဖြစ်"
+
+msgid "Users with own wallets"
+msgstr "မိမိလက်ထောက်ကလက်တွဲတစ်ခုရှိသုံးစွဲသူများ"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "အမေရိကန် စီးပွားရေးလုပ်ငန်းများသာ"
+
+msgid "❌ US ONLY"
+msgstr "❌ အမေရိကန် သာ"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "အလဲအလတ်"
+
+msgid "Asia markets"
+msgstr "အာရှ စျေးကွက်များ"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "ပုံမှန်ကြေး"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal ကျန်ငွေ"
+
+msgid "PayPal users"
+msgstr "PayPal အသုံးပြုသူများ"
+
+msgid "Tip:"
+msgstr "အကြံပြုချက်:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"သင်သည် အမေရိကန်နိုင်ငံပြင်ကနေရှိပါက၊ NOWPayments (အနည်းဆုံးကြေး၊ တိုက်ရိုက် "
+"သင့်အိတ်အိမ်ထဲသို့) ကို အကြံပြုပါသည်။ သင်သည် အမေရိကန်နိုင်ငံအတွင်းရှိပါက "
+"Stripe Crypto သုံးနိုင်သည့် ရွေးချယ်စရာတစ်ခုလည်း ဖြစ်ပါသည်။ မိမိသည် "
+"များစွာသောဝန်ဆောင်မှုများ ဖွင့်နိုင်ပြီး သင့်ရောက်သွားသည့် မိတ်ဆွေများအား "
+"ရွေးချယ်ရန်ခွင့်ပြုနိုင်သည်။"
+
+msgid "Enabled Payment Methods"
+msgstr "အသုံးပြုနိုင်သောငွေပေးချေမှုနည်းလမ်းများ"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"ဝင်ကတ်ထဲတွင် မည်သည့်ငွေပေးချေမှုရွေးချယ်မှုများ များကွင်းထဲတွင် ပြသမည်ကို "
+"ရွေးချယ်ပါ။ သင့်ရောက်သွားသည့် မိတ်ဆွေများသည် မိမိနှစ်သက်သောနည်းလမ်းကို "
+"ရွေးချယ်နိုင်ပါသည်။"
+
+msgid "Show these methods"
+msgstr "ဤနည်းလမ်းများ ပြသပါ"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 တိုက်ရိုက် Crypto (အိတ်အိမ်လိပ်စာ)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (ခရက်ဒစ်ကတ် → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (ခရက်ဒစ်ကတ် → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (ခရက်ဒစ်ကတ် → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (အသုံးပြုသူသည် Crypto ကို ပထမဆုံး ဝယ်ယူသည်)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (ခရက်ဒစ်ကတ်)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"သင့်အိတ်အိမ်လိပ်စာကို ပြသပြီး အသုံးပြုသူများသည် Crypto ကို တိုက်ရိုက် "
+"ပို့နိုင်အောင်လုပ်ပါ။ ကြေးမရှိသော်လည်း အသုံးပြုသူများသည် ယခင်ကတည်းက Crypto "
+"ရှိထားရမည်။"
+
+msgid "Wallet Address"
+msgstr "အိတ်အိမ်လိပ်စာ"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "သင့် Quai, Ethereum, Bitcoin သို့မဟုတ် အခြားအိတ်အိမ်လိပ်စာ။"
+
+msgid "Network"
+msgstr "ကွန်ယက်"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network (အကြံပြုထားသည် - အခမဲ့)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "သုံးစွဲသူသစ်များအတွက်အကောင်းဆုံးနှင့်အနည်းဆုံးကြေး"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments သည် သင့် crypto wallet သို့တိုက်ရိုက်ကြေးကတ်ငွေကြေးတောင်းခံရန် "
+"ခွင့်ပြုသည်။ ငွေသည် သင့် wallet သို့တိုက်ရိုက်သွားပြီး အလယ်တန်းအဖွဲ့မရှိပါ။"
+
+msgid "Fee:"
+msgstr "ကြေး:"
+
+msgid "per transaction"
+msgstr "လဲလှယ်မှု တစ်ခုချင်းစီ"
+
+msgid "Payout:"
+msgstr "ထုတ်ငွေ:"
+
+msgid "Direct to your wallet"
+msgstr "တိုက်ရိုက် သင့် wallet သို့"
+
+msgid "Setup:"
+msgstr "တပ်ဆင်:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "အခမဲ့အကောင့်ဖန်တီးပါ → API Key များ → API Key ကိုကူးယူပါ"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Key"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "NOWPayments ဒါသင်္ကေတဘုတ်မှ သင့် API Key ကိုကူးထည့်ပါ။"
+
+msgid "Great support, slightly higher fee"
+msgstr "အထူးထောက်ပံ့မှု၊ ကြေးကနည်းငယ်မြင့်"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate သည် တော်တော်သိကြသော crypto ဈေးကွက်ထုတ်လွှင့်ရေးသူတစ်ဦးဖြစ်ပြီး "
+"အထिकारिक WordPress plugin တစ်ခုလည်း ပါရှိသည်။"
+
+msgid "1% per transaction"
+msgstr "လဲလှယ်မှု ၁%"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "အကောင့် ဖန်တီး → API Key များ"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Key"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "လုပ်ငန်းအဆင့်အရည်အသွေးမြင့်၊ အမေရိကန်သစ်အတွက် သင့်တော်"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay သည် အထွတ်အထိပ်ကုမ္ပဏီများက ယုံကြည်သုံးသပ်သည်။ "
+"အမေရိကန်သစ်အခြေခံလုပ်ငန်းများအတွက် အကောင်းဆုံး လည်ပတ်သည်။"
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "လုပ်ငန်းအကောင့် → API Key များ"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Key"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "သုံးစွဲသူများ ပထမဦးစွာ crypto ဝယ်ယူပြီးနောက် သင့်အထံ ပို့သည်။"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay သည် သုံးစွဲသူများကို credit card ဖြင့် သင့် wallet သို့တိုက်ရိုက် "
+"crypto ဝယ်ယူရန်ခွင့်ပြုသော်လည်း ပြီးနောက် သင့်အထံ ပို့သည်။ ကြေးက မတော်တဆ "
+"မြင့်သော်လည်း သုံးစွဲသူများအတွက် လွယ်ကူသည်။"
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% လဲလှယ်မှု တစ်ခုချင်းစီ"
+
+msgid "User's wallet first"
+msgstr "သုံးစွဲသူ wallet ပထမ"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Key"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "အရေးပါသည်:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto ငွေပေးချေမှုများ (USDC) သည် "
+"တရားဝင်မူတည်သည်အမေရိကန်ကုမ္ပဏီများအတွက်သာ ရရှိနိုင်သည်။ သင်သည် "
+"အမေရိကန်ပြင်ပတွင်ရှိပါက Stripe သည် သင်၏ Stripe balance (တိုက်ရိုက် crypto "
+"သို့မဟုတ် မဟုတ်) သို့ ခရက်ဒစ်ကတ်ငွေပေးချေမှုများကိုသာ လက်ခံမည်။"
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"သင်သည် အမေရိကန်နိုင်ငံတွင်းရှိပါက Stripe ကို သုံးကာ crypto ကို တိုက်ရိုက် "
+"လက်ခံနိုင်သည်။ ပြင်ပတွင်ရှိပါက NOWPayments သို့မဟုတ် CoinGate ကို သုံး၍ "
+"တိုက်ရိုက် crypto ငွေပေးချေမှုများ လုပ်ဆောင်ပါ။"
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe ထုတ်ဝေသည့် Key"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe လုံခြုံသော Key"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"အရိုးရှင်းသော PayPal ငွေပေးချေမှုများ။ အသုံးပြုသူများသည် PayPal balance "
+"သို့မဟုတ် ခရက်ဒစ်ကတ်ဖြင့် ငွေပေးချေသည်။ ငွေကြေးသည် သင့် PayPal အကောင့်သို့ "
+"သွားရောက်သည်။"
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "အထွေထွေ PayPal လဲလှယ်အခကြေးငွေများ သက်သက်ရှိသည်။"
+
+msgid "PayPal Client ID"
+msgstr "PayPal Client ID"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"သင်၏ PayPal API အချက်အလက်များကို <a href=\"https://developer.paypal.com/\" "
+"target=\"_blank\">PayPal Developer Dashboard</a> မှ ရယူပါ။"
+
+msgid "PayPal Secret"
+msgstr "PayPal Secret"
+
+msgid "Donation Tiers"
+msgstr "လှူဒါန်းအဆင့်များ"
+
+msgid "Add Tier"
+msgstr "အဆင့်ထည့်ရန်"
+
+msgid "Remove"
+msgstr "ဖယ်ရှား"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr "သတ်မှတ်ထားသောလှူဒါန်း ပမာဏများ (USD)။ သီးသန့် ပမာဏအတွက်သာ ဗလာထားပါ။"
+
+msgid "Membership"
+msgstr "ဝင်ထိုင်း"
+
+msgid "Enable Membership"
+msgstr "ဝင်ထိုင်းသို့ ခွင့်ပြုပါ"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr ""
+"ပြန်လည်အတူတကွ စာရင်းသွင်းမှုများ ခွင့်ပြုပါ (Stripe Subscriptions လိုအပ်သည်)"
+
+msgid "Support"
+msgstr "အထောက်အပံ့"
+
+msgid "Donate"
+msgstr "လှူဒါန်း"
+
+msgid "Crypto"
+msgstr "Crypto"
+
+msgid "Credit Card"
+msgstr "ခရက်ဒစ်ကတ်"
+
+msgid "Choose amount"
+msgstr "ပမာဏရွေးချယ်ပါ"
+
+msgid "Custom amount"
+msgstr "သီးသန့်ပမာဏ"
+
+msgid "Enter amount (USD)"
+msgstr "ပမာဏထည့်ပါ (USD)"
+
+msgid "Donate Now"
+msgstr "ယခုလှူဒါန်းပါ"
+
+msgid "Crypto Address"
+msgstr "Crypto လိပ်စာ"
+
+msgid "Copy Address"
+msgstr "လိပ်စာကူးယူပါ"
+
+msgid "Copied!"
+msgstr "ကူးယူပြီး!"
+
+msgid "Pay with Credit Card"
+msgstr "ခရက်ဒစ်ကတ်ဖြင့် ငွေပေးချေပါ"
+
+msgid "Pay with PayPal"
+msgstr "PayPal ဖြင့် ငွေပေးချေပါ"
+
+msgid "Membership Plans"
+msgstr "အဖွဲ့ဝင်အစီအစဉ်များ"
+
+msgid "Monthly"
+msgstr "လစဉ်"
+
+msgid "Yearly"
+msgstr "နှစ်စဉ်"
+
+msgid "Subscribe"
+msgstr "စာရင်းသွင်း"
+
+msgid "Credit Card → Crypto"
+msgstr "အကြွေးကတ် → Crypto"
+
+msgid "Buy Crypto"
+msgstr "Crypto ဝယ်ယူ"
+
+msgid "Processing..."
+msgstr "လုပ်ဆောင်နေသည်..."
+
+msgid "Payment successful!"
+msgstr "ငွေပေးချေမှုအောင်မြင်ပါသည်!"
+
+msgid "Payment failed"
+msgstr "ငွေပေးချေမှု မအောင်မြင်ပါ။"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments သည် သင့် crypto wallet "
+"သို့တိုက်ရိုက်အကြွေးကတ်ငွေပေးချေမှုများကို လက်ခံခွင့်ပြုသည်။"
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate သည် လူသုံးအများဆုံး crypto ငွေပေးချေမှုလုပ်ငန်းတစ်ခုဖြစ်သည်။"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay သည် အသုံးပြုသူများကို အကြွေးကတ်ဖြင့် Crypto ဝယ်ယူ၍ တိုက်ရိုက် သင့် "
+"wallet သို့ ပို့နိုင်စေပြီး ပြီးနောက် သင့်ထံပို့သည်။"
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Crypto ဝယ်ယူပြီးနောက် အောက်ပါ wallet လိပ်စာသို့ ပို့ပေးပါ။"
+
+msgid "Your crypto wallet address"
+msgstr "သင်၏ crypto wallet လိပ်စာ"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "ကျွန်တော့်မိန်းမသမီးအတွက် ကျွန်တော်တို့၏ကော်ဖီကို ခံစားစေပါ။"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"အကြွေးကတ် သို့မဟုတ် cryptocurrency (Quai) ဖြင့် သင့်အကောင်းတော်မူရေးသည့် "
+"မိုက်ကူတစ်ခုဖြစ်သည့် လှုပ်ရှားသော၊ အခမဲ့ donation နှင့် ငွေပေးချေမှု widget "
+"ဖြစ်သည်။ လစဉ်ဈေးနှုန်းမရှိ၊ တတိယပါတီစာရင်းသွင်းမှုမရှိ – သင့် wallet သာလျှင်"
+" အခမဲ့ဝန်ဆောင်မှုများကိုသာ ရရှိနိုင်သည်။"
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"တချို့က browser များသည် ပုဂ္ဂိုလ်ရေးကာကွယ်ရေးအတွက် တတိယပါတီ script များကို "
+"ပိတ်ထားသည်။ ဤ proxy သည် သင့် server မှတစ်ဆင့် script များကို load လုပ်ကာ "
+"block များကို ကျော်သွားသည်။"
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"အမူအရာ URL များ ပြောင်းလဲသလို၊ သင့်လိုအပ်ချက်အတိုင်း CDN "
+"တစ်ခုထပ်မံသုံးချင်လျှင် အောက်ပါ script URL များကို ပြင်ဆင်နိုင်သည်။"
+
+msgid "Script"
+msgstr "စာသား"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "လုပ်ဆောင်ချက်"
+
+msgid "Test"
+msgstr "စမ်းသပ်"
+
+msgid "Refresh"
+msgstr "ပြန်တင်"
+
+msgid "Usage:"
+msgstr "အသုံးပြုမှု:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js သည် အကြွေးကတ်ငွေပေးချေမှုအတွက် အသုံးပြုသည်။"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK သည် PayPal ငွေပေးချေမှုအတွက် အသုံးပြုသည်။"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas သည် မက်မက်ကတ်ထုတ်ရန် အသုံးပြုသည်။"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF သည် PDF ဖန်တီးရန် အသုံးပြုသည်။"
+
+msgid "External Script Proxy"
+msgstr "အပြင် Script Proxy"
+
+msgid "Dogecoin"
+msgstr "ဒေါဂိုကွိုင်"
+
+msgid "Litecoin"
+msgstr "လိုက်ကွိုင်"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal အီးမေးလ် (အကူအညီ)"
+
+msgid "Quick Stats"
+msgstr "အမြန်အချက်အလက်"
+
+msgid "Widget Status:"
+msgstr "Widget အခြေအနေ:"
+
+msgid "Active"
+msgstr "အသက်ဝင်"
+
+msgid "Inactive"
+msgstr "မအသက်ဝင်"
+
+msgid "Enabled Payment Methods:"
+msgstr "အသုံးပြုနိုင်သော ငွေပေးချေမှုနည်းလမ်းများ:"
+
+msgid "None"
+msgstr "မရှိ"
+
+msgid "Crypto Wallet:"
+msgstr "Crypto wallet:"
+
+msgid "Not set"
+msgstr "သတ်မှတ်မထားသေး"
+
+msgid "pay_with_card"
+msgstr "ကတ်နှင့် ငွေပေးချေပါ"
+
+msgid "crypto_address_label"
+msgstr "အောက်ပါလိပ်စာသို့ တိုက်ရိုက် cryptocurrency ပို့ပါ:"
+
+msgid "crypto_note"
+msgstr "ငွေကြေးသည် တိုက်ရိုက် သင်၏ wallet သို့သွားမည်။ စာရင်းကြေးမရှိပါ။"
+
+msgid "your_crypto_address"
+msgstr "သင်၏ wallet လိပ်စာ:"
+
+msgid "nowpayments_desc"
+msgstr ""
+"ကြက္ခတ်ကဒ်ဖြင့် ငွေပေးချေပါ – crypto သည် တိုက်ရိုက် သင်၏ wallet သို့သွားမည်။"
+
+msgid "coingate_desc"
+msgstr "ကြက္ခတ်ကဒ်ဖြင့် ငွေပေးချေပါ – crypto သည် သင်၏ wallet သို့သွားမည်။"
+
+msgid "bitpay_desc"
+msgstr ""
+"အမေရိကန်လုပ်ငန်းများအတွက် အကောင်းဆုံးဖြစ်သော စီးပွားရေးအဆင့် crypto "
+"ငွေပေးချေမှုများ။"
+
+msgid "moonpay_desc"
+msgstr "ကြက္ခတ်ကဒ်ဖြင့် crypto ဝယ်ယူပြီး အောက်ပါလိပ်စာသို့ ပို့ပါ။"
+
+msgid "moonpay_note"
+msgstr "crypto ဝယ်ယူပြီးနောက်၊ အထက်ပါ wallet လိပ်စာသို့ ပို့ပါ။"
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "ငွေကြေးသည် တိုက်ရိုက် သင်၏ wallet သို့သွားမည်။ စာရင်းကြေးမရှိပါ။"
+
+msgid "Pay with Card"
+msgstr "ကတ်နှင့် ငွေပေးချေပါ"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"ကြက္ခတ်ကဒ်ဖြင့် ငွေပေးချေပါ – crypto သည် တိုက်ရိုက် သင်၏ wallet သို့သွားမည်။"
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "အောက်ပါလိပ်စာသို့ တိုက်ရိုက် cryptocurrency ပို့ပါ:"

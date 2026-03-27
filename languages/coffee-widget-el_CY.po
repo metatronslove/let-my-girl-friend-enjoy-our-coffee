@@ -1,0 +1,725 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Greek (Cyprus) <el_CY>\n"
+"Language: el-CY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Πίνακας Ελέγχου Coffee Widget"
+
+msgid "Coffee Widget"
+msgstr "Coffee Widget"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Dashboard"
+msgstr "Πίνακας Ελέγχου"
+
+msgid "Payment Methods"
+msgstr "Μέθοδοι Πληρωμής"
+
+msgid "Help & Support"
+msgstr "Βοήθεια & Υποστήριξη"
+
+msgid "General"
+msgstr "Γενικά"
+
+msgid "Button"
+msgstr "Κουμπί"
+
+msgid "Advanced"
+msgstr "Προχωρημένα"
+
+msgid "Proxy Scripts"
+msgstr "Σενάρια Proxy"
+
+msgid "Widget Settings"
+msgstr "Ρυθμίσεις Widget"
+
+msgid "Widget Status"
+msgstr "Κατάσταση Widget"
+
+msgid "Widget active"
+msgstr "Widget ενεργό"
+
+msgid "Button Color"
+msgstr "Χρώμα Κουμπιού"
+
+msgid "Button Position"
+msgstr "Θέση Κουμπιού"
+
+msgid "Left"
+msgstr "Αριστερά"
+
+msgid "Right"
+msgstr "Δεξιά"
+
+msgid "Horizontal Margin (px)"
+msgstr "Οριζόντια Περιθώριο (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Κάθετο Περιθώριο (px)"
+
+msgid "Button Message"
+msgstr "Μήνυμα Κουμπιού"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Button Type"
+msgstr "Τύπος Κουμπιού"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "Κώδικας SVG"
+
+msgid "PNG Image URL"
+msgstr "Διεύθυνση URL PNG Εικόνας"
+
+msgid "Button Emoji"
+msgstr "Emoji Κουμπιού"
+
+msgid "Custom CSS"
+msgstr "Προσαρμοσμένο CSS"
+
+msgid "Custom JavaScript"
+msgstr "Προσαρμοσμένο JavaScript"
+
+msgid "Which payment service should you choose?"
+msgstr "Ποια υπηρεσία πληρωμής θα πρέπει να επιλέξετε;"
+
+msgid "Service"
+msgstr "Υπηρεσία"
+
+msgid "Fee"
+msgstr "Χρέωση"
+
+msgid "Where does crypto go?"
+msgstr "Πού πηγαίνει το κρυπτονόμισμα;"
+
+msgid "WordPress Plugin"
+msgstr "Πρόσθετο WordPress"
+
+msgid "Best for"
+msgstr "Καλύτερο για"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 Επιχείρηση στις ΗΠΑ;"
+
+msgid "Direct Crypto"
+msgstr "Άμεση Κρυπτο"
+
+msgid "No fee"
+msgstr "Χωρίς χρέωση"
+
+msgid "Your wallet directly"
+msgstr "Το πορτοφόλι σου απευθείας"
+
+msgid "Built-in"
+msgstr "Ενσωματωμένο"
+
+msgid "Crypto-savvy users"
+msgstr "Χρήστες με γνώσεις κρυπτο"
+
+msgid "Anywhere"
+msgstr "Οπουδήποτε"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API έτοιμο"
+
+msgid "Beginners, low fees"
+msgstr "Αρχάριοι, χαμηλές χρεώσεις"
+
+msgid "Global (incl. Turkey)"
+msgstr "Παγκόσμια (συμπεριλαμβανομένης της Τουρκίας)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Επίσημο πρόσθετο"
+
+msgid "Good support"
+msgstr "Καλή υποστήριξη"
+
+msgid "Global"
+msgstr "Παγκόσμια"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Επιχειρηματικά, εταιρείες στις ΗΠΑ"
+
+msgid "US-friendly"
+msgstr "Φιλικό προς τις ΗΠΑ"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Πρώτα το πορτοφόλι του χρήστη"
+
+msgid "Widget ready"
+msgstr "Widget έτοιμο"
+
+msgid "Users with own wallets"
+msgstr "Χρήστες με δικά τους πορτοφόλια"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "Μόνο επιχειρήσεις ΗΠΑ"
+
+msgid "❌ US ONLY"
+msgstr "❌ ΜΟΝΟ ΗΠΑ"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Μεταβλητό"
+
+msgid "Asia markets"
+msgstr "Αγορές της Ασίας"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Κανονικά τέλη"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ Υπόλοιπο PayPal"
+
+msgid "PayPal users"
+msgstr "Χρήστες PayPal"
+
+msgid "Tip:"
+msgstr "Συμβουλή:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"Εάν βρίσκεστε εκτός ΗΠΑ, προτείνουμε NOWPayments (τα χαμηλότερα τέλη, άμεση "
+"μεταφορά στο πορτοφόλι σας). Εάν βρίσκεστε στην ΗΠΑ, το Stripe Crypto είναι "
+"επίσης επιλογή. Μπορείτε να ενεργοποιήσετε πολλαπλές υπηρεσίες και να "
+"επιτρέψετε στους επισκέπτες σας να επιλέξουν!"
+
+msgid "Enabled Payment Methods"
+msgstr "Ενεργοποιημένες μεθόδους πληρωμής"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Επιλέξτε ποιες επιλογές πληρωμής θα εμφανίζονται στο widget σας. Οι "
+"επισκέπτες σας μπορούν να επιλέξουν την προτιμώμενη μέθοδο."
+
+msgid "Show these methods"
+msgstr "Εμφάνιση αυτών των μεθόδων"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "🔗 Άμεση κρυπτο (διεύθυνση πορτοφολιού)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Πιστωτική κάρτα → Κρυπτο)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Πιστωτική κάρτα → Κρυπτο)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Πιστωτική κάρτα → Κρυπτο)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Ο χρήστης αγοράζει κρυπτο πρώτα)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Πιστωτική κάρτα)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Προβάλετε τη διεύθυνση του πορτοφολιού σας ώστε οι χρήστες να στέλνουν "
+"κρυπτο άμεσα. Μηδενικά τέλη, αλλά απαιτείται να έχουν ήδη κρυπτο."
+
+msgid "Wallet Address"
+msgstr "Διεύθυνση πορτοφολιού"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Η διεύθυνση του πορτοφολιού σας Quai, Ethereum, Bitcoin ή άλλου."
+
+msgid "Network"
+msgstr "Δίκτυο"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Δίκτυο Quai (Συνιστάται - δωρεάν)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Καλύτερο για αρχάριους & χαμηλές προμήθειες"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"Το NOWPayments επιτρέπει να δέχεστε πληρωμές με πιστωτική κάρτα απευθείας "
+"στο κρυπτοπορτοφόλι σας. Τα κεφάλαια πηγαίνουν απευθείας στο πορτοφόλι σας –"
+" χωρίς μεσολαβητή."
+
+msgid "Fee:"
+msgstr "Τέλη:"
+
+msgid "per transaction"
+msgstr "ανά συναλλαγή"
+
+msgid "Payout:"
+msgstr "Αποπληρωμή:"
+
+msgid "Direct to your wallet"
+msgstr "Απευθείας στο πορτοφόλι σας"
+
+msgid "Setup:"
+msgstr "Διαμόρφωση:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Δημιουργήστε δωρεάν λογαριασμό → API Keys → Αντιγραφή API Key"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Key"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Επικολλήστε το API Key από το ταμπλό του NOWPayments."
+
+msgid "Great support, slightly higher fee"
+msgstr "Μεγάλη υποστήριξη, ελαφρώς υψηλότερα τέλη"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"Η CoinGate είναι ένας καθιερωμένος επεξεργαστής κρυπτο-χρεώσεων με επίσημο "
+"πρόσθετο WordPress."
+
+msgid "1% per transaction"
+msgstr "1% ανά συναλλαγή"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Δημιουργία λογαριασμού → API Keys"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Key"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Επιχειρησιακό επίπεδο, φιλικό προς τις ΗΠΑ"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"Η BitPay εμπιστεύεται από μεγάλες εταιρείες. Λειτουργεί καλά για "
+"επιχειρήσεις με βάση τις ΗΠΑ."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Επιχειρηματικός λογαριασμός → API Keys"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Key"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Οι χρήστες αγοράζουν κρυπτο πρώτα, έπειτα σας το στέλνουν"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"Το MoonPay επιτρέπει στους χρήστες να αγοράζουν κρυπτο με πιστωτική κάρτα "
+"απευθείας στο ΤΟΙΟ πορτοφόλι, και μετά το στέλνουν σε εσάς. Υψηλότερα τέλη "
+"αλλά πολύ απλό για τους χρήστες."
+
+msgid "~3.5% per transaction"
+msgstr "~3,5% ανά συναλλαγή"
+
+msgid "User's wallet first"
+msgstr "Πρώτα το πορτοφόλι του χρήστη"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Key"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Σημαντικό:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Οι πληρωμές με κρυπτονόμισμα του Stripe (USDC) είναι ΔΙΑΘΕΣΙΜΕΣ ΜΟΝΟ για "
+"επιχειρήσεις με έδρα τις ΗΠΑ. Αν βρίσκεστε εκτός των ΗΠΑ, το Stripe θα "
+"δεχτεί μόνο πληρωμές με πιστωτική κάρτα στο υπόλοιπό σας στο Stripe (όχι "
+"άμεσα σε κρυπτονόμισμα)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"Αν βρίσκεστε στις ΗΠΑ, μπορείτε να χρησιμοποιήσετε το Stripe για να "
+"λαμβάνετε κρυπτονομίσματα απευθείας. Αν βρίσκεστε εκτός, εξετάστε "
+"NOWPayments ή CoinGate για άμεσες αποζημιώσεις σε κρυπτονομίσματα."
+
+msgid "Stripe Publishable Key"
+msgstr "Δημόσιος κλειδί Stripe"
+
+msgid "Stripe Secret Key"
+msgstr "Μυστικό κλειδί Stripe"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"Κλασικές πληρωμές PayPal. Οι χρήστες πληρώνουν με υπόλοιπο PayPal ή "
+"πιστωτική κάρτα. Τα κεφάλαια πηγαίνουν στον λογαριασμό σας PayPal."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "Εφαρμόζονται τυπικά τέλη συναλλαγών PayPal."
+
+msgid "PayPal Client ID"
+msgstr "Ταυτότητα πελάτη PayPal"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Λάβετε τα διαπιστευτήρια API του PayPal από το <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">Πίνακα ελέγχου "
+"προγραμματιστών PayPal</a>."
+
+msgid "PayPal Secret"
+msgstr "Μυστικό PayPal"
+
+msgid "Donation Tiers"
+msgstr "Επίπεδα δωρεών"
+
+msgid "Add Tier"
+msgstr "Προσθήκη επιπέδου"
+
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Προκαθορισμένες ποσότητες δωρεάς (USD). Αφήστε κενό για μόνο προσαρμοσμένο "
+"ποσό."
+
+msgid "Membership"
+msgstr "Συμμετοχή"
+
+msgid "Enable Membership"
+msgstr "Ενεργοποίηση Συμμετοχής"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr ""
+"Επιτρέψτε επαναλαμβανόμενες συνδρομές (απαιτείται Stripe Subscriptions)."
+
+msgid "Support"
+msgstr "Υποστήριξη"
+
+msgid "Donate"
+msgstr "Δώστε"
+
+msgid "Crypto"
+msgstr "Κρυπτο"
+
+msgid "Credit Card"
+msgstr "Πιστωτική κάρτα"
+
+msgid "Choose amount"
+msgstr "Επιλέξτε ποσό"
+
+msgid "Custom amount"
+msgstr "Προσαρμοσμένο ποσό"
+
+msgid "Enter amount (USD)"
+msgstr "Εισάγετε ποσό (USD)"
+
+msgid "Donate Now"
+msgstr "Δώστε Τώρα"
+
+msgid "Crypto Address"
+msgstr "Διεύθυνση κρυπτο"
+
+msgid "Copy Address"
+msgstr "Αντιγραφή Διεύθυνσης"
+
+msgid "Copied!"
+msgstr "Αντιγράφηκε!"
+
+msgid "Pay with Credit Card"
+msgstr "Πληρώστε με πιστωτική κάρτα"
+
+msgid "Pay with PayPal"
+msgstr "Πληρώστε με PayPal"
+
+msgid "Membership Plans"
+msgstr "Σχέδια Μέλους"
+
+msgid "Monthly"
+msgstr "Μηνιαίος"
+
+msgid "Yearly"
+msgstr "Ετήσιος"
+
+msgid "Subscribe"
+msgstr "Εγγραφείτε"
+
+msgid "Credit Card → Crypto"
+msgstr "Πιστωτική κάρτα → Κρυπτονομίσματα"
+
+msgid "Buy Crypto"
+msgstr "Αγοράστε Κρυπτο"
+
+msgid "Processing..."
+msgstr "Επεξεργασία..."
+
+msgid "Payment successful!"
+msgstr "Η πληρωμή ολοκληρώθηκε!"
+
+msgid "Payment failed"
+msgstr "Η πληρωμή απέτυχε"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"Το NOWPayments επιτρέπει να δεχτείτε πληρωμές με πιστωτική κάρτα απευθείας "
+"στον κρυπτοποταμείο σας."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr ""
+"Το CoinGate είναι ένας καλά καθιερωμένος επεξεργαστής πληρωμών "
+"κρυπτονομισμάτων."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"Το MoonPay επιτρέπει στους χρήστες να αγοράσουν κρυπτονομίσματα με πιστωτική"
+" κάρτα απευθείας στο πορτοφόλι τους, και στη συνέχεια να το στείλουν σε "
+"εσάς."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr ""
+"Μετά την αγορά κρυπτο, παρακαλώ στείλτε το στη διεύθυνση πορτοφολιού "
+"παρακάτω."
+
+msgid "Your crypto wallet address"
+msgstr "Η διεύθυνση του κρυπτοποταμιού σας"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Αφήστε την φίλη μου να απολαύσει τον καφέ μας"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Ένα ισχυρό, δωρεάν widget δωρεάς και πληρωμής που επιτρέπει στους επισκέπτες"
+" σας να υποστηρίξουν μέσω πιστωτικής κάρτας ή κρυπτονομίσματος (Quai). Χωρίς"
+" μηνιαίες χρεώσεις, χωρίς συνδρομές τρίτων – μόνο το πορτοφόλι σας και "
+"δωρεάν υπηρεσίες."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Ορισμένοι προγράμματα περιήγησης αποκλείουν σενάρια τρίτων για ιδιωτικότητα."
+" Αυτός ο διακομιστής ενδιάμεσας μεταφορτώνει σενάρια μέσω του δικού σας "
+"διακομιστή για να παρακάμψετε αυτά τα μπλοκαρίσματα."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Μπορείτε να ενημερώσετε τα URLs των script παρακάτω εάν οι αρχικές URLs "
+"αλλάξουν ή αν θέλετε να χρησιμοποιήσετε διαφορετικό CDN."
+
+msgid "Script"
+msgstr "Σενάριο"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Ενέργεια"
+
+msgid "Test"
+msgstr "Δοκιμή"
+
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+msgid "Usage:"
+msgstr "Χρήση:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js για πληρωμές με πιστωτική κάρτα"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK για πληρωμές PayPal"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas για δημιουργία στιγμιότυπων"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF για δημιουργία PDF"
+
+msgid "External Script Proxy"
+msgstr "Εξωτερική Proxy Script"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Κάντε κλικ στο \"Δοκιμή\" για να ελέγξετε αν η διεύθυνση URL του script "
+"είναι προσβάσιμη. Το proxy θα αποθηκεύσει προσωρινά τα scripts τοπικά για "
+"καλύτερη απόδοση."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal Email (Fallback)"
+
+msgid "Quick Stats"
+msgstr "Γρήγορα Στατιστικά"
+
+msgid "Widget Status:"
+msgstr "Κατάσταση Widget:"
+
+msgid "Active"
+msgstr "Ενεργό"
+
+msgid "Inactive"
+msgstr "Ανενεργό"
+
+msgid "Enabled Payment Methods:"
+msgstr "Ενεργοποιημένες μεθόδοι πληρωμής:"
+
+msgid "None"
+msgstr "Κανένα"
+
+msgid "Crypto Wallet:"
+msgstr "Κρυπτο-Πορτοφόλι:"
+
+msgid "Not set"
+msgstr "Δεν έχει οριστεί"
+
+msgid "pay_with_card"
+msgstr "Πληρωμή με κάρτα"
+
+msgid "crypto_address_label"
+msgstr "Στείλτε κρυπτονομίσματα απευθείας σε αυτήν τη διεύθυνση:"
+
+msgid "crypto_note"
+msgstr "Τα κεφάλαια πηγαίνουν απευθείας στο πορτοφόλι σας. Χωρίς τέλη."
+
+msgid "your_crypto_address"
+msgstr "Η διεύθυνση του πορτοφολιού σας:"
+
+msgid "nowpayments_desc"
+msgstr ""
+"Πληρώστε με πιστωτική κάρτα – το κρυπτονομίσμα πηγαίνει απευθείας στο "
+"πορτοφόλι σας."
+
+msgid "coingate_desc"
+msgstr "Πληρώστε με πιστωτική κάρτα – κρυπτονομίσμα στο πορτοφόλι σας."
+
+msgid "bitpay_desc"
+msgstr ""
+"Πληρωμές κρυπτονομισμάτων επαγγελματικού επιπέδου. Οι καλύτερες για "
+"επιχειρήσεις στις ΗΠΑ."
+
+msgid "moonpay_desc"
+msgstr ""
+"Αγοράστε κρυπτονομίσματα με πιστωτική κάρτα – έπειτα στείλτε τα στη "
+"διεύθυνση παρακάτω."
+
+msgid "moonpay_note"
+msgstr ""
+"Μετά την αγορά κρυπτονομισμάτων, παρακαλούμε στείλτε τα στην παραπάνω "
+"διεύθυνση πορτοφολιού."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Τα κεφάλαια πηγαίνουν απευθείας στο πορτοφόλι σας. Χωρίς τέλη."
+
+msgid "Pay with Card"
+msgstr "Πληρώστε με κάρτα"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"Πληρώστε με πιστωτική κάρτα – το κρυπτονομίσμα πηγαίνει απευθείας στο "
+"πορτοφόλι σας."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Στείλτε κρυπτονομίσματα απευθείας σε αυτήν τη διεύθυνση:"

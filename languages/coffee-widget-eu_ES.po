@@ -1,0 +1,708 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Let My Girl Friend Enjoy Our Coffee 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Basque <eu_ES>\n"
+"Language: eu-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Coffee Widget Dashboard"
+msgstr "Kafe Widget Kontrolpanela"
+
+msgid "Coffee Widget"
+msgstr "Kafe Widget"
+
+msgid "Settings"
+msgstr "Ezarpenak"
+
+msgid "Dashboard"
+msgstr "Kafe Kontrolpanela"
+
+msgid "Payment Methods"
+msgstr "Ordainketa Moduak"
+
+msgid "Help & Support"
+msgstr "Laguntza eta Euskarria"
+
+msgid "General"
+msgstr "Orokorra"
+
+msgid "Button"
+msgstr "Botoia"
+
+msgid "Advanced"
+msgstr "Aurreratua"
+
+msgid "Proxy Scripts"
+msgstr "Proxy Scriptak"
+
+msgid "Widget Settings"
+msgstr "Widget Ezarpenak"
+
+msgid "Widget Status"
+msgstr "Widget Egoera"
+
+msgid "Widget active"
+msgstr "Widget Aktibo"
+
+msgid "Button Color"
+msgstr "Botoi Kolorea"
+
+msgid "Button Position"
+msgstr "Botoi Kokapena"
+
+msgid "Left"
+msgstr "Ezkerrera"
+
+msgid "Right"
+msgstr "Eskuinera"
+
+msgid "Horizontal Margin (px)"
+msgstr "Marjin Horizontala (px)"
+
+msgid "Vertical Margin (px)"
+msgstr "Marjin Bertsikala (px)"
+
+msgid "Button Message"
+msgstr "Botoi Mezu"
+
+msgid "Description"
+msgstr "Deskribapena"
+
+msgid "Button Type"
+msgstr "Botoi Motorea"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "SVG Code"
+msgstr "SVG Kodea"
+
+msgid "PNG Image URL"
+msgstr "PNG Irudi URLa"
+
+msgid "Button Emoji"
+msgstr "Botoi Emoji"
+
+msgid "Custom CSS"
+msgstr "CSS Pertsonalizatua"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Pertsonalizatua"
+
+msgid "Which payment service should you choose?"
+msgstr "Zein ordainketa zerbitzu hautatu behar duzu?"
+
+msgid "Service"
+msgstr "Zerbitzu"
+
+msgid "Fee"
+msgstr "Karga"
+
+msgid "Where does crypto go?"
+msgstr "Non doa kryptoa?"
+
+msgid "WordPress Plugin"
+msgstr "WordPress Plugin"
+
+msgid "Best for"
+msgstr "Onena"
+
+msgid "🇺🇸 US Business?"
+msgstr "🇺🇸 EE. US negozio?"
+
+msgid "Direct Crypto"
+msgstr "Krypto zuzena"
+
+msgid "No fee"
+msgstr "Karga ez"
+
+msgid "Your wallet directly"
+msgstr "Zure dirulagailua zuzenean"
+
+msgid "Built-in"
+msgstr "Bauzkoa"
+
+msgid "Crypto-savvy users"
+msgstr "Krypto ezagutza duten erabiltzaileak"
+
+msgid "Anywhere"
+msgstr "Nahi den tokian"
+
+msgid "NOWPayments"
+msgstr "NOWPayments"
+
+msgid "0.5% - 1%"
+msgstr "0.5% - 1%"
+
+msgid "API ready"
+msgstr "API prest"
+
+msgid "Beginners, low fees"
+msgstr "Hasiberriak, kargak baxuak"
+
+msgid "Global (incl. Turkey)"
+msgstr "Globala (Turkiarentzako barne)"
+
+msgid "CoinGate"
+msgstr "CoinGate"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "Official plugin"
+msgstr "Ofiziala Plugin"
+
+msgid "Good support"
+msgstr "Onen laguntza"
+
+msgid "Global"
+msgstr "Globala"
+
+msgid "BitPay"
+msgstr "BitPay"
+
+msgid "Enterprise, US companies"
+msgstr "Enpresa, EE. US enpresak"
+
+msgid "US-friendly"
+msgstr "EE. US-en lagunarrena"
+
+msgid "MoonPay"
+msgstr "MoonPay"
+
+msgid "~3.5%"
+msgstr "~3.5%"
+
+msgid "⚠️ User's wallet first"
+msgstr "⚠️ Erabiltzailearen dirulagailua lehenengo"
+
+msgid "Widget ready"
+msgstr "Widget prest"
+
+msgid "Users with own wallets"
+msgstr "Jadanik dirulagailua dituzten erabiltzaileak"
+
+msgid "Stripe Crypto"
+msgstr "Stripe Crypto"
+
+msgid "2.9% + $0.30"
+msgstr "2.9% + $0.30"
+
+msgid "US businesses only"
+msgstr "EE. U. negozioak soilik"
+
+msgid "❌ US ONLY"
+msgstr "❌ EE. U. soilik"
+
+msgid "Alchemy Pay"
+msgstr "Alchemy Pay"
+
+msgid "Variable"
+msgstr "Aldakorra"
+
+msgid "Asia markets"
+msgstr "Asia merkatuak"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "Standard fees"
+msgstr "Kostu arruntak"
+
+msgid "⚠️ PayPal balance"
+msgstr "⚠️ PayPal saldoa"
+
+msgid "PayPal users"
+msgstr "PayPal erabiltzaileak"
+
+msgid "Tip:"
+msgstr "Aholkua:"
+
+msgid ""
+"If you are outside the US, we recommend NOWPayments (lowest fees, direct to "
+"your wallet). If you are in the US, Stripe Crypto is also an option. You can"
+" enable multiple services and let your visitors choose!"
+msgstr ""
+"EE. U. kanpoko bazara, NOWPayments (kosto gutxienak, zuzenean zure "
+"dirurgazkira) gomendatzen dizugu. EE. U. baduzu, Stripe Crypto ere aukera "
+"bat da. Zure bisitariek aukeratu dezakete hainbat zerbitzu gaitu ditzazun!"
+
+msgid "Enabled Payment Methods"
+msgstr "Gaitu diren ordainketa moduak"
+
+msgid ""
+"Select which payment options will appear in your widget. Your visitors can "
+"choose their preferred method."
+msgstr ""
+"Aukeratu zure widgetean agertuko diren ordainketa aukerak. Bisitariek euren "
+"gustuko metodoa aukeratu dezakete."
+
+msgid "Show these methods"
+msgstr "Erakutsi metodo hauek"
+
+msgid "🔗 Direct Crypto (Wallet address)"
+msgstr "Direkto Crypto (Dirurgazki helbidea)"
+
+msgid "⚡ NOWPayments (Credit Card → Crypto)"
+msgstr "⚡ NOWPayments (Kredituko txartela → Crypto)"
+
+msgid "🪙 CoinGate (Credit Card → Crypto)"
+msgstr "🪙 CoinGate (Kredituko txartela → Crypto)"
+
+msgid "🏦 BitPay (Credit Card → Crypto)"
+msgstr "🏦 BitPay (Kredituko txartela → Crypto)"
+
+msgid "🌙 MoonPay (User buys crypto first)"
+msgstr "🌙 MoonPay (Erabiltzaileak lehenengo crypto erosi)"
+
+msgid "💳 Stripe (Credit Card)"
+msgstr "💳 Stripe (Kredituko txartela)"
+
+msgid "🟡 PayPal"
+msgstr "🟡 PayPal"
+
+msgid ""
+"Display your wallet address so users can send crypto directly. Zero fees, "
+"but requires users to already have crypto."
+msgstr ""
+"Erakutsi zure dirurgazki helbidea, erabiltzaileek zuzenean crypto bidali "
+"dezaten. Zerzeun kosturik, baina erabiltzaileek jada crypto badituzte behar "
+"du."
+
+msgid "Wallet Address"
+msgstr "Dirurgazki helbidea"
+
+msgid "Your Quai, Ethereum, Bitcoin, or other wallet address."
+msgstr "Zure Quai, Ethereum, Bitcoin edo beste dirurgazki helbidea."
+
+msgid "Network"
+msgstr "Sarea"
+
+msgid "Quai Network (Recommended - free)"
+msgstr "Quai Network (Iradokitua - doakoa)"
+
+msgid "Ethereum"
+msgstr "Ethereum"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "Solana"
+msgstr "Solana"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Best for beginners & lowest fees"
+msgstr "Hasibiderentzat onena eta gutxieneko komisioak"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet. Funds go straight to your wallet – no middleman."
+msgstr ""
+"NOWPayments-ek karts kreditu bidezko ordainketak zuzenean zure kripto "
+"txartzerara onartzen dizu. Dirua zuzenean zure txartzerara joaten da – "
+"erditzaik gabe."
+
+msgid "Fee:"
+msgstr "Kostua:"
+
+msgid "per transaction"
+msgstr "transakzio bakoitzeko"
+
+msgid "Payout:"
+msgstr "Irteera:"
+
+msgid "Direct to your wallet"
+msgstr "Zure txartzerara zuzenean"
+
+msgid "Setup:"
+msgstr "Ezarpena:"
+
+msgid "Create free account → API Keys → Copy API Key"
+msgstr "Sortu kontu doakoa → API Gakoak → Kopiatu API Gakoa"
+
+msgid "NOWPayments API Key"
+msgstr "NOWPayments API Gakoa"
+
+msgid "Paste your API key from NOWPayments dashboard."
+msgstr "Itsatsi NOWPayments paneletik zure API gakoa."
+
+msgid "Great support, slightly higher fee"
+msgstr "Onartze onbatua, komisio pixka bat altuagoa"
+
+msgid ""
+"CoinGate is a well-established crypto payment processor with an official "
+"WordPress plugin."
+msgstr ""
+"CoinGate-k kripto ordainketa prozesatzaile erabateko, WordPressen ofiziala "
+"plugin bat du."
+
+msgid "1% per transaction"
+msgstr "1% transakzio bakoitzeko"
+
+msgid "coingate.com"
+msgstr "coingate.com"
+
+msgid "Create account → API Keys"
+msgstr "Sortu kontua → API Gakoak"
+
+msgid "CoinGate API Key"
+msgstr "CoinGate API Gakoa"
+
+msgid "Enterprise-grade, US-friendly"
+msgstr "Enpresa mailakoa, US-erako lagungarria"
+
+msgid ""
+"BitPay is trusted by major companies. Works well for US-based businesses."
+msgstr ""
+"BitPay handiko enpresak fidatzen dute. EE. Y. -n oinarritutako "
+"enpresarentzako ondo funtzionatzen du."
+
+msgid "bitpay.com"
+msgstr "bitpay.com"
+
+msgid "Business account → API Keys"
+msgstr "Enpresa kontua → API Gakoak"
+
+msgid "BitPay API Key"
+msgstr "BitPay API Gakoa"
+
+msgid "Users buy crypto first, then send to you"
+msgstr "Erabiltzaileek lehenik kriptoa erosi, gero bidaltzen dizkizu zuri"
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you. Higher fees but very simple for users."
+msgstr ""
+"MoonPay-ek erabiltzaileei kreditu txartzarekin zuzenean beren txartzerara "
+"kriptoa erosi ahalbidetzen dio, gero zuri bidaltzen dizkie. Komisio "
+"altuagoak, baina erabiltzaileentzako oso erraza."
+
+msgid "~3.5% per transaction"
+msgstr "~3.5% transakzio bakoitzeko"
+
+msgid "User's wallet first"
+msgstr "Erabiltzailearen txartza lehenik"
+
+msgid "moonpay.com"
+msgstr "moonpay.com"
+
+msgid "MoonPay API Key"
+msgstr "MoonPay API Gakoa"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Important:"
+msgstr "Garrantzitsua:"
+
+msgid ""
+"Stripe Crypto payments (USDC) are ONLY available for US-based businesses. If"
+" you are outside the US, Stripe will only accept credit card payments to "
+"your Stripe balance (not directly to crypto)."
+msgstr ""
+"Stripe Crypto ordainketak (USDC) bakarrik EE. Mbaratuetan daude erabilgarri."
+" EE. kanpoko bazikutan, Stripe-ek kreditu txarteleko ordainketak bakarrik "
+"onartuko ditu zure Stripe saldobira (ez zuzenean kriptoa)."
+
+msgid ""
+"If you are in the US, you can use Stripe to receive crypto directly. If "
+"outside, consider NOWPayments or CoinGate for direct crypto payouts."
+msgstr ""
+"EE. Mbaratuetan bazara, Stripe erabil dezakezu kriptoa zuzenean jasotzeko. "
+"Kanpoan bazara, hartu NOWPayments edo CoinGate kontuan zuzenean kriptoa "
+"ateratzeko."
+
+msgid "Stripe Publishable Key"
+msgstr "Stripe Argitaragarri Gakoa"
+
+msgid "Stripe Secret Key"
+msgstr "Stripe Gizaltasun Gakoa"
+
+msgid ""
+"Classic PayPal payments. Users pay with PayPal balance or credit card. Funds"
+" go to your PayPal account."
+msgstr ""
+"PayPal arrunta ordainketak. Erabiltzaileek PayPal saldosarekin edo kreditu "
+"txartelarekin ordain dezakete. Dirua zure PayPal kontura doa."
+
+msgid "Standard PayPal transaction fees apply."
+msgstr "PayPal transakzioen komisio estandarra aplikatzen dira."
+
+msgid "PayPal Client ID"
+msgstr "PayPal Bezero ID-a"
+
+msgid ""
+"Get your PayPal API credentials from <a "
+"href=\"https://developer.paypal.com/\" target=\"_blank\">PayPal Developer "
+"Dashboard</a>."
+msgstr ""
+"Lortu PayPal API kredentzialak <a href=\"https://developer.paypal.com/\" "
+"target=\"_blank\">PayPal Garatzaile Kontsola</a>."
+
+msgid "PayPal Secret"
+msgstr "PayPal Gizalea"
+
+msgid "Donation Tiers"
+msgstr "Dohaintza Mailak"
+
+msgid "Add Tier"
+msgstr "Gehitu Maila"
+
+msgid "Remove"
+msgstr "Kendu"
+
+msgid "Predefined donation amounts (USD). Leave empty for custom amount only."
+msgstr ""
+"Dohaintza kopuru aurrez definituak (USD). Utzi hutsik kopuru "
+"pertsonalizatuak bakarrik izateko."
+
+msgid "Membership"
+msgstr "Aderpena"
+
+msgid "Enable Membership"
+msgstr "Gaitu Aderpena"
+
+msgid "Allow recurring subscriptions (requires Stripe Subscriptions)."
+msgstr "Baimendu jarraizko harpidetzak (Stripe Harpidetzeak behar ditu)."
+
+msgid "Support"
+msgstr "Laguntza"
+
+msgid "Donate"
+msgstr "Dohaintza"
+
+msgid "Crypto"
+msgstr "Kriptoa"
+
+msgid "Credit Card"
+msgstr "Kreditu Txartela"
+
+msgid "Choose amount"
+msgstr "Aukeratu kopurua"
+
+msgid "Custom amount"
+msgstr "Pertsonalizatutako kopurua"
+
+msgid "Enter amount (USD)"
+msgstr "Sartu kopurua (USD)"
+
+msgid "Donate Now"
+msgstr "Dohaintza Orain"
+
+msgid "Crypto Address"
+msgstr "Kripto Helbidea"
+
+msgid "Copy Address"
+msgstr "Kopiatu Helbidea"
+
+msgid "Copied!"
+msgstr "Kopiatuta!"
+
+msgid "Pay with Credit Card"
+msgstr "Ordain kreditu txartelarekin"
+
+msgid "Pay with PayPal"
+msgstr "Ordain PayPal-ekin"
+
+msgid "Membership Plans"
+msgstr "Karpuz planak"
+
+msgid "Monthly"
+msgstr "Hilean"
+
+msgid "Yearly"
+msgstr "Urteko"
+
+msgid "Subscribe"
+msgstr "Harpidetu"
+
+msgid "Credit Card → Crypto"
+msgstr "Kredit Txartel → Kripto"
+
+msgid "Buy Crypto"
+msgstr "Erosi kriptoa"
+
+msgid "Processing..."
+msgstr "Prozesatzen..."
+
+msgid "Payment successful!"
+msgstr "Ordainketa arrakastatsua!"
+
+msgid "Payment failed"
+msgstr "Ordainketa huts egin du"
+
+msgid ""
+"NOWPayments allows you to accept credit card payments directly to your "
+"crypto wallet."
+msgstr ""
+"NOWPayments-ek kredit txartelko ordainketak zuzenean zure kripto-lakarrean "
+"onartzeko aukera ematen dizu."
+
+msgid "CoinGate is a well-established crypto payment processor."
+msgstr "CoinGate ezaguna da kripto-ordainketa prozesadore erraztua."
+
+msgid ""
+"MoonPay lets users buy crypto with credit card directly to THEIR wallet, "
+"then they send it to you."
+msgstr ""
+"MoonPay erabiltzaileei kredit txartela erabili eta zuzenean BERE lagarrezko "
+"kontura erosi dezaketen aukera ematen die, ondoren hura bidaltzen dizute zu."
+
+msgid "After purchasing crypto, please send it to the wallet address below."
+msgstr "Kriptoa erosi ondoren, mesedez bidali larka helbide honetara behean."
+
+msgid "Your crypto wallet address"
+msgstr "Zure kripto-lakarrako helbidea"
+
+msgid "Let My Girl Friend Enjoy Our Coffee"
+msgstr "Gure kafea nire emakume lagunak disfrutatu dezake"
+
+msgid ""
+"A powerful, free donation and payment widget that allows your visitors to "
+"support you via credit card or cryptocurrency (Quai). No monthly fees, no "
+"third-party subscriptions – just your wallet and free services."
+msgstr ""
+"Berriketa eraginkorra, doakoa, dohaintza eta ordainketa widget bat, zure "
+"bisitariek kredit txartel edo kriptomonedan (Quai) bidez onartzeko aukera "
+"ematen dizu. Ez dauriko kuota, hirugarren-ordainketarik ez – bakarrik zure "
+"larka eta zerbitzu doakoak."
+
+msgid ""
+"Some browsers block third-party scripts for privacy. This proxy loads "
+"scripts through your own server to bypass these blocks."
+msgstr ""
+"Zenbait arakatzaileak hirugarren scriptak blokeatzen dituzte pribatutasun "
+"arren. Proxy honek scriptak zure zerbitzari propio bidez kargatzen ditu "
+"blokeak gainditzeko."
+
+msgid ""
+"You can update the script URLs below if the original URLs change or if you "
+"want to use a different CDN."
+msgstr ""
+"Scripten URLak atzerantz eguneratu ditzakezu, jatorrizko URLak aldatzen "
+"badira edo CDN desberdin bat erabili nahi baduzu."
+
+msgid "Script"
+msgstr "Script"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+msgid "Action"
+msgstr "Ekintza"
+
+msgid "Test"
+msgstr "Probatu"
+
+msgid "Refresh"
+msgstr "Berritu"
+
+msgid "Usage:"
+msgstr "Erabilera:"
+
+msgid "Stripe.js for credit card payments"
+msgstr "Stripe.js kredit txartel ordainketarentzako"
+
+msgid "PayPal SDK for PayPal payments"
+msgstr "PayPal SDK PayPal ordainketarentzako"
+
+msgid "html2canvas for screenshot generation"
+msgstr "html2canvas irudi-bildumetarentzako"
+
+msgid "jsPDF for PDF generation"
+msgstr "jsPDF PDF sortzarentzako"
+
+msgid "External Script Proxy"
+msgstr "Kanpoko Script Proxy"
+
+msgid ""
+"Click \"Test\" to check if the script URL is accessible. The proxy will "
+"cache scripts locally for better performance."
+msgstr ""
+"Egin klik \"Test\" scriptaren URL-a eskuragarri dagoen egiaztatzeko. Proxyak"
+" script-ak lokalizatu egingo ditu errendimendua hobetzeko."
+
+msgid "Dogecoin"
+msgstr "Dogecoin"
+
+msgid "Litecoin"
+msgstr "Litecoin"
+
+msgid "PayPal Email (Fallback)"
+msgstr "PayPal Posta (Erreparazio)"
+
+msgid "Quick Stats"
+msgstr "Estatistika Azkarra"
+
+msgid "Widget Status:"
+msgstr "Widget egoera:"
+
+msgid "Active"
+msgstr "Aktiboa"
+
+msgid "Inactive"
+msgstr "Inaktiboa"
+
+msgid "Enabled Payment Methods:"
+msgstr "Gaitutako Ordainketa Metodoak:"
+
+msgid "None"
+msgstr "Bat ere ez"
+
+msgid "Crypto Wallet:"
+msgstr "Kripto Txartela:"
+
+msgid "Not set"
+msgstr "Ez ezarri"
+
+msgid "pay_with_card"
+msgstr "Txartela bidez ordaindu"
+
+msgid "crypto_address_label"
+msgstr "Bidali kriptoak zuzenean helbide honi:"
+
+msgid "crypto_note"
+msgstr "Diruak zuzenean zure txartelei joaten dira. Ez dira diru-ezarpenik."
+
+msgid "your_crypto_address"
+msgstr "Zure txartel helbidea:"
+
+msgid "nowpayments_desc"
+msgstr ""
+"Kreditu txartelarekin ordaindu – kriptoa zuzenean zure txartelera joaten da."
+
+msgid "coingate_desc"
+msgstr "Kreditu txartelarekin ordaindu – kriptoa zure txartela."
+
+msgid "bitpay_desc"
+msgstr "Enpresa mailako kripto ordainketak. EE. US enpresentzat onena."
+
+msgid "moonpay_desc"
+msgstr "Erositu kriptoa kreditu txartelarekin – ondoren bidali helbide honi."
+
+msgid "moonpay_note"
+msgstr "Kriptoa erosi ondoren, mesedez bidali txartel helbide honi."
+
+msgid "Funds go directly to your wallet. No fees."
+msgstr "Diruak zuzenean zure txartelei joaten dira. Ez dira diru-ezarpenik."
+
+msgid "Pay with Card"
+msgstr "Txartela bidez ordaindu"
+
+msgid "Pay with credit card – crypto goes directly to your wallet."
+msgstr ""
+"Kreditu txartelarekin ordaindu – kriptoa zuzenean zure txartelera joaten da."
+
+msgid "Send cryptocurrency directly to this address:"
+msgstr "Bidali kriptoak zuzenean helbide honi:"
